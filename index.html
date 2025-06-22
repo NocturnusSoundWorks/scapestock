@@ -14,16 +14,20 @@
     h1 {
       text-align: center;
     }
-    .gallery {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-      gap: 16px;
-      margin-top: 30px;
-    }
-    .gallery img {
-      width: 100%;
-      border-radius: 8px;
-    }
+  .gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 16px;
+    margin-top: 30px;
+  }
+
+  .gallery img {
+    width: 100%;
+    height: 200px; /* 高さを固定して正方形に */
+    object-fit: cover; /* 中央をトリミング表示 */
+    border-radius: 8px;
+    display: block;
+  }  
   </style>
 </head>
 <body>
