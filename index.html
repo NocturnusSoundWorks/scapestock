@@ -91,26 +91,48 @@
   <a href="terms.html" style="color: #333; text-decoration: underline;">利用規約はこちら</a>
 </p>
   
-  <div id="modal" class="modal" onclick="closeModal()">
-  <img id="modalImg" class="modal-content" src="" alt="拡大画像">
+<div id="modal" class="modal" onclick="closeModal(event)">
+  <div style="text-align: center;">
+    <img id="modalImg" class="modal-content" src="" alt="拡大画像">
+    <p style="color: white; margin-top: 1em;">この画像をダウンロードしますか？</p>
+    <a id="downloadBtn" href="#" download style="
+      display: inline-block;
+      padding: 10px 20px;
+      background: #ffffff;
+      color: #333;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: bold;
+    ">
+      ダウンロード
+    </a>
+  </div>
 </div>
 
   <script>
   // ギャラリー画像をクリックでモーダルに表示
-  document.querySelectorAll('.gallery img').forEach(img => {
-    img.addEventListener('click', function () {
-      const modal = document.getElementById('modal');
-      const modalImg = document.getElementById('modalImg');
-      modal.style.display = "flex";
-      modalImg.src = this.src;
-      modalImg.alt = this.alt;
-    });
-  });
+document.querySelectorAll('.gallery img').forEach(img => {
+  img.addEventListener('click', function () {
+    const modal = document.getElementById('modal');
+    const modalImg = document.getElementById('modalImg');
+    const downloadBtn = document.getElementById('downloadBtn');
 
-  // モーダルをクリックしたら閉じる
-  function closeModal() {
-    document.getElementById('modal').style.display = "none";
-  }
+    modal.style.display = "flex";
+    modalImg.src = this.src;
+    modalImg.alt = this.alt;
+
+    const thumbSrc = this.src;
+    const fullSrc = thumbSrc.replace("thu/", "full/").replace("_thu", "");
+    downloadBtn.href = fullSrc;
+    downloadBtn.download = fullSrc.split('/').pop();
+  });
+});
+
+ function closeModal(e) {
+  // 画像やダウンロードボタンをクリックしたときは閉じない
+  if (e.target.id === 'modalImg' || e.target.id === 'downloadBtn') return;
+  document.getElementById('modal').style.display = "none";
+}
 </script>
   
 </body>
