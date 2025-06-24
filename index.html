@@ -72,11 +72,14 @@
 </head>
 <body>
   <h1>ScapeStock</h1>
-  <p style="text-align:center;">風景と都市スナップのフリー写真素材</p>
+  <p style="text-align:center;">風景と都市スナップのフリー写真素材</p><br>
+  <div style="margin: 20px 0; text-align: center;">
+   <input type="text" id="searchInput" placeholder="画像を検索..." style="padding: 8px; width: 60%; max-width: 400px; font-size: 16px;" oninput="filterImages()">
+  </div>
 
  <div class="gallery">
-  <img src="images/thu/25K062101_thu.jpg" alt="Urban View 1">
-  <img src="images/thu/25K062102_thu.jpg" alt="Urban View 2">
+  <img src="images/thu/25K062101_thu.jpg" alt="空　雲　太陽　青　白　景色">
+  <img src="images/thu/25K062102_thu.jpg" alt="空　雲　青　白　景色">
   <img src="images/thu/25K062103_thu.jpg" alt="Urban View 3">
   <img src="images/thu/25K062104_thu.jpg" alt="Urban View 4">
   <img src="images/thu/25K062105_thu.jpg" alt="Urban View 5">
@@ -111,6 +114,19 @@
 </div>
 
   <script>
+function filterImages() {
+  const input = document.getElementById('searchInput').value.toLowerCase();
+  const images = document.querySelectorAll('.gallery img');
+
+  images.forEach(img => {
+    const alt = img.alt.toLowerCase();
+    if (alt.includes(input)) {
+      img.style.display = '';
+    } else {
+      img.style.display = 'none';
+    }
+  });
+}
   // ギャラリー画像をクリックでモーダルに表示
 document.querySelectorAll('.gallery img').forEach(img => {
   img.addEventListener('click', function () {
