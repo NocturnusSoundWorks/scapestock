@@ -91,6 +91,12 @@
   </form>
 </div>
 
+<form onsubmit="filterImages(); return false;">
+  <input type="text" id="searchInput" placeholder="画像を検索..." style="padding: 8px; width: 60%; max-width: 300px; font-size: 16px;" />
+  <button type="submit" style="padding: 8px 16px; font-size: 16px; margin-left: 8px;">検索</button>
+</form>
+
+  
  <div class="gallery">
   <img src="images/thu/25K062101_thu.jpg" alt="空　雲　太陽　青　白　景色　夏　昼">
   <img src="images/thu/25K062102_thu.jpg" alt="空　雲　青　白　景色　夏　昼">
@@ -107,7 +113,7 @@
   <img src="images/thu/25K062113_thu.jpg" alt="花　葉　景色　赤 オレンジ　黄">
   <img src="images/thu/25K062114_thu.jpg" alt="花　紫陽花　あじさい　葉　景色　紫　青">
   <img src="images/thu/25K062115_thu.jpg" alt="花　紫陽花　あじさい　葉　景色　紫　青">
-  <img src="images/thu/25K062115_thu.jpg" alt="花　葉　景色　紫　白　青">
+  <img src="images/thu/25K062116_thu.jpg" alt="花　葉　景色　紫　白　青">
 </div>
   <p style="text-align: center; margin-top: 40px;">
   <a href="terms.html" style="color: #333; text-decoration: underline;">利用規約はこちら</a>
@@ -131,44 +137,70 @@
   </div>
 </div>
 
-  <script>
-function filterImages() {
-  const input = document.getElementById('searchInput').value.toLowerCase();
-  const images = document.querySelectorAll('.gallery img');
+<script>
+  // ✅ 初期表示：16枚だけ表示
+  document.addEventListener("DOMContentLoaded", () => {
+    const images = document.querySelectorAll('.gallery img');
+    images.forEach((img, index) => {
+      img.style.display = index < 16 ? '' : 'none';
+    });
 
-  images.forEach(img => {
-    const alt = img.alt.toLowerCase();
-    if (alt.includes(input)) {
-      img.style.display = '';
-    } else {
-      img.style.display = 'none';
+    // モーダル処理のイベント設定（初期表示と検索後に必要）
+    setModalEvents();
+  });
+
+  // ✅ 検索機能（ボタン押下時に呼び出される）
+  function filterImages() {
+    const input = document.getElementById('searchInput').value.toLowerCase();
+    const images = document.querySelectorAll('.gallery img');
+    let anyMatch = false;
+
+    images.forEach((img, index) => {
+      const alt = img.alt.toLowerCase();
+      if (alt.includes(input)) {
+        img.style.display = '';
+        anyMatch = true;
+      } else {
+        img.style.display = 'none';
+      }
+    });
+
+    // 入力が空ならまた16枚に戻す
+    if (input.trim() === "") {
+      images.forEach((img, index) => {
+        img.style.display = index < 16 ? '' : 'none';
+      });
     }
-  });
-}
-  // ギャラリー画像をクリックでモーダルに表示
-document.querySelectorAll('.gallery img').forEach(img => {
-  img.addEventListener('click', function () {
-    const modal = document.getElementById('modal');
-    const modalImg = document.getElementById('modalImg');
-    const downloadBtn = document.getElementById('downloadBtn');
 
-    modal.style.display = "flex";
-    modalImg.src = this.src;
-    modalImg.alt = this.alt;
+    // 再検索後もモーダルを使えるようにイベント再登録
+    setModalEvents();
+  }
 
-    const thumbSrc = this.src;
-    const fullSrc = thumbSrc.replace("thu/", "full/").replace("_thu", "");
-    downloadBtn.href = fullSrc;
-    downloadBtn.download = fullSrc.split('/').pop();
-  });
-});
+  // ✅ モーダル表示とDLボタン処理
+  function setModalEvents() {
+    document.querySelectorAll('.gallery img').forEach(img => {
+      img.onclick = function () {
+        const modal = document.getElementById('modal');
+        const modalImg = document.getElementById('modalImg');
+        const downloadBtn = document.getElementById('downloadBtn');
 
- function closeModal(e) {
-  // 画像やダウンロードボタンをクリックしたときは閉じない
-  if (e.target.id === 'modalImg' || e.target.id === 'downloadBtn') return;
-  document.getElementById('modal').style.display = "none";
-}
+        modal.style.display = "flex";
+        modalImg.src = this.src;
+        modalImg.alt = this.alt;
+
+        const thumbSrc = this.src;
+        const fullSrc = thumbSrc.replace("thu/", "full/").replace("_thu", "");
+        downloadBtn.href = fullSrc;
+        downloadBtn.download = fullSrc.split('/').pop();
+      };
+    });
+  }
+
+  // ✅ モーダルを閉じる処理
+  function closeModal(e) {
+    if (e.target.id === 'modalImg' || e.target.id === 'downloadBtn') return;
+    document.getElementById('modal').style.display = "none";
+  }
 </script>
-  
 </body>
 </html>
