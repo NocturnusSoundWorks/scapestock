@@ -114,6 +114,9 @@
   <img src="images/thu/25K062118_thu.jpg" alt="空　雲　青　白　景色　夏　昼 晴">
   <img src="images/thu/25K062113_thu.jpg" alt="花　葉　景色　赤 オレンジ　黄">
 </div>
+  <!-- ページボタン表示エリア -->
+<div id="pagination" style="text-align: center; margin-top: 20px;"></div>
+  
   <p style="text-align: center; margin-top: 40px;">
   <a href="terms.html" style="color: #333; text-decoration: underline;">利用規約はこちら</a>
 </p>
@@ -137,45 +140,51 @@
 </div>
 
 <script>
-  // ✅ 初期表示：16枚だけ表示
-  document.addEventListener("DOMContentLoaded", () => {
-    const images = document.querySelectorAll('.gallery img');
-    images.forEach((img, index) => {
-      img.style.display = index < 16 ? '' : 'none';
-    });
+  const IMAGES_PER_PAGE = 16;
+  let currentPage = 1;
 
-    // モーダル処理のイベント設定（初期表示と検索後に必要）
+  document.addEventListener("DOMContentLoaded", () => {
+    showPage(1);
     setModalEvents();
   });
 
-  // ✅ 検索機能（ボタン押下時に呼び出される）
-  function filterImages() {
-    const input = document.getElementById('searchInput').value.toLowerCase();
+  function showPage(page) {
     const images = document.querySelectorAll('.gallery img');
-    let anyMatch = false;
+    const totalImages = images.length;
+    const totalPages = Math.ceil(totalImages / IMAGES_PER_PAGE);
+    currentPage = page;
 
     images.forEach((img, index) => {
-      const alt = img.alt.toLowerCase();
-      if (alt.includes(input)) {
-        img.style.display = '';
-        anyMatch = true;
-      } else {
-        img.style.display = 'none';
-      }
+      const start = (page - 1) * IMAGES_PER_PAGE;
+      const end = start + IMAGES_PER_PAGE;
+      img.style.display = (index >= start && index < end) ? '' : 'none';
     });
 
-    // 入力が空ならまた16枚に戻す
-    if (input.trim() === "") {
-      images.forEach((img, index) => {
-        img.style.display = index < 16 ? '' : 'none';
-      });
-    }
-
-    // 再検索後もモーダルを使えるようにイベント再登録
-    setModalEvents();
+    renderPagination(totalPages);
   }
 
-  // ✅ モーダル表示とDLボタン処理
+  function renderPagination(totalPages) {
+    const pagination = document.getElementById('pagination');
+    pagination.innerHTML = '';
+
+    for (let i = 1; i <= totalPages; i++) {
+      const btn = document.createElement('button');
+      btn.textContent = i;
+      btn.style.margin = '4px';
+      btn.style.padding = '8px 12px';
+      btn.style.background = i === currentPage ? '#333' : '#ccc';
+      btn.style.color = i === currentPage ? '#fff' : '#000';
+      btn.style.border = 'none';
+      btn.style.borderRadius = '4px';
+      btn.style.cursor = 'pointer';
+      btn.onclick = () => {
+        showPage(i);
+        setModalEvents(); // 再設定
+      };
+      pagination.appendChild(btn);
+    }
+  }
+
   function setModalEvents() {
     document.querySelectorAll('.gallery img').forEach(img => {
       img.onclick = function () {
@@ -195,7 +204,6 @@
     });
   }
 
-  // ✅ モーダルを閉じる処理
   function closeModal(e) {
     if (e.target.id === 'modalImg' || e.target.id === 'downloadBtn') return;
     document.getElementById('modal').style.display = "none";
