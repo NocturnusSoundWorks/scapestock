@@ -226,6 +226,38 @@
     if (e.target.id === 'modalImg' || e.target.id === 'downloadBtn') return;
     document.getElementById('modal').style.display = "none";
   }
+
+  function filterImages() {
+  const input = document.getElementById('searchInput').value.toLowerCase();
+  const images = document.querySelectorAll('.gallery img');
+  let results = [];
+
+  images.forEach(img => {
+    const alt = img.alt.toLowerCase();
+    if (alt.includes(input)) {
+      results.push(img);
+    }
+  });
+
+  const pagination = document.getElementById('pagination');
+  pagination.innerHTML = '';
+
+  images.forEach(img => {
+    img.style.display = 'none';
+  });
+
+  results.forEach(img => {
+    img.style.display = '';
+  });
+
+  setModalEvents();
+
+  // 入力が空ならページ1に戻す
+  if (input.trim() === '') {
+    showPage(1);
+  }
+}
+  
 </script>
 </body>
 </html>
