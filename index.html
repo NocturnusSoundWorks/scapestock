@@ -168,25 +168,39 @@
   const IMAGES_PER_PAGE = 20;
   let currentPage = 1;
 
-  document.addEventListener("DOMContentLoaded", () => {
-    showPage(1);
-    setModalEvents();
-  });
+document.addEventListener("DOMContentLoaded", () => {
+  shuffleImages();     // ランダム並びにする
+  showPage(1);         // ページ1を表示
+  setModalEvents();    // モーダル設定
+});
+
+  let shuffledImages = []; // グローバルで保持
+
+  function shuffleImages() {
+    const images = Array.from(document.querySelectorAll('.gallery img'));
+    shuffledImages = images.sort(() => Math.random() - 0.5);
+  }
 
   function showPage(page) {
-    const images = document.querySelectorAll('.gallery img');
-    const totalImages = images.length;
-    const totalPages = Math.ceil(totalImages / IMAGES_PER_PAGE);
-    currentPage = page;
+  const totalImages = shuffledImages.length;
+  const totalPages = Math.ceil(totalImages / IMAGES_PER_PAGE);
+  currentPage = page;
 
-    images.forEach((img, index) => {
-      const start = (page - 1) * IMAGES_PER_PAGE;
-      const end = start + IMAGES_PER_PAGE;
-      img.style.display = (index >= start && index < end) ? '' : 'none';
-    });
+  // すべて非表示に
+  document.querySelectorAll('.gallery img').forEach(img => {
+    img.style.display = 'none';
+  });
 
-    renderPagination(totalPages);
-  }
+  const start = (page - 1) * IMAGES_PER_PAGE;
+  const end = start + IMAGES_PER_PAGE;
+
+  // ランダム順にしたリストから表示
+  shuffledImages.slice(start, end).forEach(img => {
+    img.style.display = '';
+  });
+
+  renderPagination(totalPages);
+}
 
   function renderPagination(totalPages) {
     const pagination = document.getElementById('pagination');
