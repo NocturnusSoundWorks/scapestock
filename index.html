@@ -91,10 +91,8 @@
   </form>
 </div>
 
-  <div style="display: flex; max-width: 1200px; width: 100%;">
-  <div style="flex: 3;">
-    
 
+  
  <div class="gallery">
   <img src="images/thu/25K062101_thu.jpg" alt="空　雲　太陽　青　白　景色　夏　昼　晴">
   <img src="images/thu/25K062102_thu.jpg" alt="空　雲　青　白　景色　夏　昼 晴">
@@ -168,16 +166,6 @@
 </div>　
   <!-- ページボタン表示エリア -->
 <div id="pagination" style="text-align: center; margin-top: 20px;"></div>
-    
-  </div>
-  <div style="flex: 1; margin-left: 20px;">
-    <div id="tip-box" style="background: #fffbe6; border-left: 5px solid #ffcc00; padding: 16px; font-size: 16px; border-radius: 6px;">
-      <strong>🌱 今日の豆知識</strong><br><br>
-      <span id="tip-title" style="font-weight: bold;"></span><br>
-      <span id="tip-body"></span>
-    </div>
-  </div>
-</div>
   
   <p style="text-align: center; margin-top: 40px;">
   <a href="terms.html" style="color: #333; text-decoration: underline;">利用規約はこちら</a>
@@ -315,17 +303,7 @@ document.addEventListener("DOMContentLoaded", () => {
     showPage(1);
   }
 }
-
-  fetch('tips.json')
-    .then(response => response.json())
-    .then(data => {
-      const randomTip = data[Math.floor(Math.random() * data.length)];
-      document.getElementById('tip-title').textContent = randomTip.title;
-      document.getElementById('tip-body').textContent = randomTip.body;
-    })
-    .catch(error => {
-      console.error('豆知識の読み込みに失敗しました:', error);
-    });
+  
 </script>
 </body>
 </html>
