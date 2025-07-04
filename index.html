@@ -246,26 +246,65 @@ document.addEventListener("DOMContentLoaded", () => {
 }
 
   function renderPagination(totalPages) {
-    const pagination = document.getElementById('pagination');
-    pagination.innerHTML = '';
+  const pagination = document.getElementById('pagination');
+  pagination.innerHTML = '';
 
-    for (let i = 1; i <= totalPages; i++) {
-      const btn = document.createElement('button');
-      btn.textContent = i;
-      btn.style.margin = '4px';
-      btn.style.padding = '8px 12px';
-      btn.style.background = i === currentPage ? '#333' : '#ccc';
-      btn.style.color = i === currentPage ? '#fff' : '#000';
-      btn.style.border = 'none';
-      btn.style.borderRadius = '4px';
-      btn.style.cursor = 'pointer';
-      btn.onclick = () => {
-        showPage(i);
-        setModalEvents(); // 再設定
-      };
-      pagination.appendChild(btn);
-    }
+  // ← ボタン（前へ）
+  if (currentPage > 1) {
+    const prevBtn = document.createElement('button');
+    prevBtn.textContent = '←';
+    prevBtn.onclick = () => {
+      showPage(currentPage - 1);
+      setModalEvents();
+    };
+    styleButton(prevBtn, false);
+    pagination.appendChild(prevBtn);
   }
+
+  // 表示するページ範囲の決定
+  const maxButtons = 5;
+  let startPage = Math.max(1, currentPage - Math.floor(maxButtons / 2));
+  let endPage = startPage + maxButtons - 1;
+
+  if (endPage > totalPages) {
+    endPage = totalPages;
+    startPage = Math.max(1, endPage - maxButtons + 1);
+  }
+
+  for (let i = startPage; i <= endPage; i++) {
+    const btn = document.createElement('button');
+    btn.textContent = i;
+    btn.onclick = () => {
+      showPage(i);
+      setModalEvents();
+    };
+    styleButton(btn, i === currentPage);
+    pagination.appendChild(btn);
+  }
+
+  // → ボタン（次へ）
+  if (currentPage < totalPages) {
+    const nextBtn = document.createElement('button');
+    nextBtn.textContent = '→';
+    nextBtn.onclick = () => {
+      showPage(currentPage + 1);
+      setModalEvents();
+    };
+    styleButton(nextBtn, false);
+    pagination.appendChild(nextBtn);
+  }
+}
+
+// ボタンのスタイル共通化
+function styleButton(btn, isActive) {
+  btn.style.margin = '4px';
+  btn.style.padding = '8px 12px';
+  btn.style.background = isActive ? '#333' : '#ccc';
+  btn.style.color = isActive ? '#fff' : '#000';
+  btn.style.border = 'none';
+  btn.style.borderRadius = '4px';
+  btn.style.cursor = 'pointer';
+}
 
   function setModalEvents() {
     document.querySelectorAll('.gallery img').forEach(img => {
