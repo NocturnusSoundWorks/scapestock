@@ -37,15 +37,24 @@
 
 <script>
 
+
 async function loadGallery() {
 
  const res = await fetch("../gallery.html");
  const html = await res.text();
 
- document.getElementById("gallery").innerHTML = html;
+ const gallery = document.getElementById("gallery");
+ gallery.innerHTML = html;
+
+ // ★ 画像パス修正
+ const images = gallery.querySelectorAll("img");
+ images.forEach(img => {
+   img.src = "../" + img.getAttribute("src");
+ });
 
  filterTokyo();
 }
+  
 
 function filterTokyo(){
 
