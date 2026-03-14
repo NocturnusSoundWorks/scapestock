@@ -5,10 +5,8 @@
 
 <title>Tokyo Free Stock Photos | ScapeStock</title>
 
-<meta name="description"
-content="Free Tokyo street and city stock photos.">
-  
-<a href="../index.html">← ScapeStock Top</a>
+<meta name="description" content="Free Tokyo street and city stock photos.">
+
 <style>
 .gallery {
   display: grid;
@@ -28,6 +26,8 @@ content="Free Tokyo street and city stock photos.">
 </head>
 
 <body>
+
+<a href="../index.html">← ScapeStock Top</a>
 
 <h1>Tokyo Free Stock Photos</h1>
 
@@ -53,7 +53,7 @@ function filterTokyo(){
 
  images.forEach(img => {
 
-   if(!img.alt.includes("tokyo")){
+   if(!img.alt.includes("tokyo") && !img.alt.includes("東京")){
       img.style.display="none";
    }
 
@@ -61,7 +61,7 @@ function filterTokyo(){
 
 }
 
-loadGallery();
+window.onload = loadGallery;
 
 </script>
 
