@@ -46,15 +46,21 @@ async function loadGallery() {
  const gallery = document.getElementById("gallery");
  gallery.innerHTML = html;
 
- // ★ 画像パス修正
+ // 画像パス修正
  const images = gallery.querySelectorAll("img");
+
  images.forEach(img => {
-   img.src = "../" + img.getAttribute("src");
+
+   const src = img.getAttribute("src");
+
+   if(!src.startsWith("../")){
+     img.src = "../" + src;
+   }
+
  });
 
  filterTokyo();
 }
-  
 
 function filterTokyo(){
 
