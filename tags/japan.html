@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+
+<title>Japan Free Stock Photos | ScapeStock</title>
+<meta name="description" content="Free Japan landscape and travel stock photos.">
+
+<style>
+.gallery {
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  gap:16px;
+  max-width:1000px;
+  margin:auto;
+}
+
+.gallery img{
+  width:100%;
+  height:200px;
+  object-fit:cover;
+}
+</style>
+
+</head>
+
+<body>
+
+<a href="../index.html">Back to Home</a>
+
+<h1>Japan Free Stock Photos</h1>
+
+<p>Free Japan travel, city and nature photos.</p>
+
+<div class="gallery" id="gallery"></div>
+
+<script>
+
+async function loadGallery(){
+
+ const res = await fetch("../gallery.html");
+ const html = await res.text();
+
+ const gallery = document.getElementById("gallery");
+ gallery.innerHTML = html;
+
+ fixImagePath();
+ filterJapan();
+}
+
+function fixImagePath(){
+
+ const images = document.querySelectorAll("#gallery img");
+
+ images.forEach(img => {
+
+   const src = img.getAttribute("src");
+
+   if(!src.startsWith("../")){
+     img.src = "../" + src;
+   }
+
+ });
+
+}
+
+function filterJapan(){
+
+ const images = document.querySelectorAll("#gallery img");
+
+ images.forEach(img => {
+
+   if(!img.alt.includes("japan") && !img.alt.includes("日本")){
+     img.style.display="none";
+   }
+
+ });
+
+}
+
+window.onload = loadGallery;
+
+</script>
+
+</body>
+</html>
