@@ -8,6 +8,22 @@
 <meta name="description"
 content="Free Tokyo street and city stock photos.">
 
+<style>
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.gallery img{
+  width:100%;
+  height:200px;
+  object-fit:cover;
+}
+</style>
+
 </head>
 
 <body>
@@ -15,6 +31,38 @@ content="Free Tokyo street and city stock photos.">
 <h1>Tokyo Free Stock Photos</h1>
 
 <p>Free Tokyo street and city landscape photos.</p>
+
+<div class="gallery" id="gallery"></div>
+
+<script>
+
+async function loadGallery() {
+
+ const res = await fetch("../gallery.html");
+ const html = await res.text();
+
+ document.getElementById("gallery").innerHTML = html;
+
+ filterTokyo();
+}
+
+function filterTokyo(){
+
+ const images = document.querySelectorAll("#gallery img");
+
+ images.forEach(img => {
+
+   if(!img.alt.includes("tokyo")){
+      img.style.display="none";
+   }
+
+ });
+
+}
+
+loadGallery();
+
+</script>
 
 </body>
 </html>
