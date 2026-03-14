@@ -1,271 +1,365 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="en">
+
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>ScapeStock</title>
-  <style>
-     body {
-    font-family: sans-serif;
-    margin: 0;
-    background: #f7f7f7;
-    padding: 20px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-    h1 {
-      text-align: center;
-    }
-    
-    .gallery {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr); /* 4枚並び */
-    gap: 16px;
-    max-width: 1000px;
-    margin-top: 30px;
-    justify-items: center;
-  }
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  .gallery img {
-    width: 100%;
-    height: 200px;
-    object-fit: cover;
-    border-radius: 8px;
-    max-width: 220px; /* 正方形を維持しつつ幅制限 */
-  }
+<title>ScapeStock | Free Landscape and City Stock Photos</title>
 
-  @media screen and (max-width: 960px) {
-    .gallery {
-      grid-template-columns: repeat(2, 1fr); /* 小さい画面では2列 */
-    }
-  }
+<meta name="description" content="Free landscape and urban stock photos. Download high quality Japan travel, city and nature images for free.">
 
-    /* モーダル全体の背景 */
-.modal {
-  display: none;
-  position: fixed;
-  z-index: 10;
-  padding-top: 60px;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  overflow: auto;
-  background-color: rgba(0,0,0,0.8);
-  justify-content: center;
-  align-items: center;
+<meta property="og:title" content="ScapeStock - Free Stock Photos">
+<meta property="og:description" content="Free landscape and urban stock photos.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://yourdomain.com">
+<meta property="og:image" content="https://yourdomain.com/ogp.jpg">
+
+<style>
+
+body{
+font-family:sans-serif;
+margin:0;
+background:#f7f7f7;
+padding:20px;
+display:flex;
+flex-direction:column;
+align-items:center;
 }
 
-/* 拡大画像 */
-.modal-content {
-  margin: auto;
-  display: block;
-  max-width: 70%;
-  max-height: 70%;
-  box-shadow: 0 0 20px #000;
-  border-radius: 8px;
-  transition: 0.3s;
-  background: #fff;
+h1{
+text-align:center;
+margin-bottom:10px;
 }
-  </style>
+
+p{
+text-align:center;
+}
+
+.gallery{
+display:grid;
+grid-template-columns:repeat(4,1fr);
+gap:16px;
+max-width:1000px;
+margin-top:30px;
+justify-items:center;
+}
+
+.gallery img{
+width:100%;
+height:200px;
+object-fit:cover;
+border-radius:8px;
+max-width:220px;
+}
+
+@media screen and (max-width:960px){
+
+.gallery{
+grid-template-columns:repeat(2,1fr);
+}
+
+}
+
+/* 検索フォーム */
+
+.search-box{
+margin:20px 0;
+display:flex;
+justify-content:center;
+width:100%;
+}
+
+.search-box form{
+display:flex;
+width:100%;
+max-width:600px;
+}
+
+.search-box input{
+flex:1;
+padding:10px;
+font-size:16px;
+border:1px solid #ccc;
+border-radius:6px 0 0 6px;
+}
+
+.search-box button{
+padding:10px 20px;
+font-size:16px;
+background:#333;
+color:white;
+border:none;
+border-radius:0 6px 6px 0;
+cursor:pointer;
+}
+
+/* モーダル */
+
+.modal{
+display:none;
+position:fixed;
+z-index:10;
+padding-top:60px;
+left:0;
+top:0;
+width:100%;
+height:100%;
+overflow:auto;
+background-color:rgba(0,0,0,0.8);
+justify-content:center;
+align-items:center;
+}
+
+.modal-content{
+margin:auto;
+display:block;
+max-width:70%;
+max-height:70%;
+box-shadow:0 0 20px #000;
+border-radius:8px;
+background:#fff;
+}
+
+</style>
 </head>
-<body>
-  <h1>ScapeStock</h1>
-  <p style="text-align:center;">Free stock photos of landscapes and urban snapshots</p><br>
-  
-  <div style="margin: 20px 0; text-align: center;">
-  <form onsubmit="filterImages(); return false;">
-    <input
-      type="text"
-      id="searchInput"
-      placeholder="search images..."
-      style="padding: 8px; width: 60%; max-width: 500px; font-size: 16px;"
-    />
-    <button
-      type="submit"
-      style="padding: 8px 16px; font-size: 16px; margin-left: 8px; background: #333; color: white; border: none; border-radius: 4px; cursor: pointer;"
-    >
-      search
-    </button>
-  </form>
-</div>
-  
-<h2>Categories</h2>
-<a href="cities/tokyo.html">Tokyo Photos</a>
-<a href="tags/japan.html">Japan Photos</a>  
 
-  
-  <div class="gallery" id="gallery"></div>
-  <!-- ページボタン表示エリア -->
-<div id="pagination" style="text-align: center; margin-top: 20px;"></div>
-  <p style="text-align: center; margin-top: 40px;">
-  <a href="terms.html" style="color: #333; text-decoration: underline;">Terms of Use Here</a>
+<body>
+
+<h1>ScapeStock</h1>
+
+<p>Free stock photos of landscapes and urban snapshots</p>
+
+<!-- 検索 -->
+
+<div class="search-box">
+
+<form onsubmit="filterImages(); return false;">
+
+<input
+type="text"
+id="searchInput"
+placeholder="Search images..."
+>
+
+<button type="submit">
+Search
+</button>
+
+</form>
+
+</div>
+
+<!-- カテゴリー -->
+
+<h2>Categories</h2>
+
+<a href="cities/tokyo.html">Tokyo Photos</a>
+
+<!-- タグ -->
+
+<h2>Tags</h2>
+
+<a href="tags/japan.html">Japan Photos</a>
+
+<!-- ギャラリー -->
+
+<div class="gallery" id="gallery"></div>
+
+<div id="pagination" style="text-align:center;margin-top:20px;"></div>
+
+<p style="margin-top:40px;">
+
+<a href="terms.html" style="color:#333;text-decoration:underline;">
+Terms of Use
+</a>
+
 </p>
-  
+
+<!-- モーダル -->
+
 <div id="modal" class="modal" onclick="closeModal(event)">
-  <div style="text-align: center;">
-    <img id="modalImg" class="modal-content" src="" alt="拡大画像">
-    <p style="color: white; margin-top: 1em;">Do you want to download this image?</p>
-    <a id="downloadBtn" href="#" download style="
-      display: inline-block;
-      padding: 10px 20px;
-      background: #ffffff;
-      color: #333;
-      border-radius: 6px;
-      text-decoration: none;
-      font-weight: bold;
-    ">
-      download
-    </a>
-  </div>
+
+<div style="text-align:center;">
+
+<img id="modalImg" class="modal-content" src="" alt="">
+
+<p style="color:white;margin-top:1em;">
+Do you want to download this image?
+</p>
+
+<a
+id="downloadBtn"
+href="#"
+download
+style="display:inline-block;padding:10px 20px;background:#fff;color:#333;border-radius:6px;text-decoration:none;font-weight:bold;"
+>
+
+Download
+
+</a>
+
+</div>
+
 </div>
 
 <script>
-  const IMAGES_PER_PAGE = 20;
-  let currentPage = 1;
-  let shuffledImages = []; // グローバルで保持
 
-  document.addEventListener("DOMContentLoaded", async () => {
-    await loadGallery();   // 1) まず外部HTMLを読み込む
-    shuffleImages();       // 2) 読み込んだ画像をランダム化
-    showPage(1);           // 3) ページ1を表示
-    setModalEvents();      // 4) モーダル設定
-  });
+const IMAGES_PER_PAGE=20
+let currentPage=1
+let shuffledImages=[]
 
-  // ★ 追加：gallery.html を読み込んで挿入
-  async function loadGallery() {
-    try {
-      const res = await fetch("gallery.html"); // 必要なら cache busting: "gallery.html?ver=1"
-      if (!res.ok) throw new Error(res.status + " " + res.statusText);
-      const html = await res.text();
-      document.getElementById("gallery").innerHTML = html;
-    } catch (e) {
-      console.error("ギャラリー読み込み失敗:", e);
-      document.getElementById("gallery").innerHTML = "<p>ギャラリーを読み込めませんでした。</p>";
-    }
-  }
+document.addEventListener("DOMContentLoaded",async()=>{
 
-  function shuffleImages() {
-    const images = Array.from(document.querySelectorAll('#gallery img'));
-    shuffledImages = images.sort(() => Math.random() - 0.5);
-  }
+await loadGallery()
 
-  function showPage(page) {
-    const totalImages = shuffledImages.length;
-    const totalPages = Math.ceil(totalImages / IMAGES_PER_PAGE);
-    currentPage = page;
+shuffleImages()
 
-    // すべて非表示に
-    document.querySelectorAll('#gallery img').forEach(img => {
-      img.style.display = 'none';
-    });
+showPage(1)
 
-    const start = (page - 1) * IMAGES_PER_PAGE;
-    const end = start + IMAGES_PER_PAGE;
+setModalEvents()
 
-    // ランダム順にしたリストから表示
-    shuffledImages.slice(start, end).forEach(img => {
-      img.style.display = '';
-    });
+})
 
-    renderPagination(totalPages);
-  }
+async function loadGallery(){
 
-  function renderPagination(totalPages) {
-    const pagination = document.getElementById('pagination');
-    pagination.innerHTML = '';
+const res=await fetch("gallery.html")
 
-    if (currentPage > 1) {
-      const prevBtn = document.createElement('button');
-      prevBtn.textContent = '←';
-      prevBtn.onclick = () => { showPage(currentPage - 1); setModalEvents(); };
-      styleButton(prevBtn, false);
-      pagination.appendChild(prevBtn);
-    }
+const html=await res.text()
 
-    const maxButtons = 5;
-    let startPage = Math.max(1, currentPage - Math.floor(maxButtons / 2));
-    let endPage = startPage + maxButtons - 1;
+document.getElementById("gallery").innerHTML=html
 
-    if (endPage > totalPages) {
-      endPage = totalPages;
-      startPage = Math.max(1, endPage - maxButtons + 1);
-    }
+}
 
-    for (let i = startPage; i <= endPage; i++) {
-      const btn = document.createElement('button');
-      btn.textContent = i;
-      btn.onclick = () => { showPage(i); setModalEvents(); };
-      styleButton(btn, i === currentPage);
-      pagination.appendChild(btn);
-    }
+function shuffleImages(){
 
-    if (currentPage < totalPages) {
-      const nextBtn = document.createElement('button');
-      nextBtn.textContent = '→';
-      nextBtn.onclick = () => { showPage(currentPage + 1); setModalEvents(); };
-      styleButton(nextBtn, false);
-      pagination.appendChild(nextBtn);
-    }
-  }
+const images=Array.from(document.querySelectorAll('#gallery img'))
 
-  function styleButton(btn, isActive) {
-    btn.style.margin = '4px';
-    btn.style.padding = '8px 12px';
-    btn.style.background = isActive ? '#333' : '#ccc';
-    btn.style.color = isActive ? '#fff' : '#000';
-    btn.style.border = 'none';
-    btn.style.borderRadius = '4px';
-    btn.style.cursor = 'pointer';
-  }
+shuffledImages=images.sort(()=>Math.random()-0.5)
 
-  function setModalEvents() {
-    document.querySelectorAll('#gallery img').forEach(img => {
-      img.onclick = function () {
-        const modal = document.getElementById('modal');
-        const modalImg = document.getElementById('modalImg');
-        const downloadBtn = document.getElementById('downloadBtn');
+}
 
-        modal.style.display = "flex";
-        modalImg.src = this.src;
-        modalImg.alt = this.alt;
+function showPage(page){
 
-        const thumbSrc = this.src;
-        const fullSrc = thumbSrc.replace("thu/", "full/").replace("_thu", "");
-        downloadBtn.href = fullSrc;
-        downloadBtn.download = fullSrc.split('/').pop();
-      };
-    });
-  }
+const totalImages=shuffledImages.length
 
-  function closeModal(e) {
-    if (e.target.id === 'modalImg' || e.target.id === 'downloadBtn') return;
-    document.getElementById('modal').style.display = "none";
-  }
+const totalPages=Math.ceil(totalImages/IMAGES_PER_PAGE)
 
-  function filterImages() {
-    const input = document.getElementById('searchInput').value.toLowerCase();
-    const images = document.querySelectorAll('#gallery img');
-    let results = [];
+currentPage=page
 
-    images.forEach(img => {
-      const alt = img.alt.toLowerCase();
-      if (alt.includes(input)) results.push(img);
-    });
+document.querySelectorAll('#gallery img').forEach(img=>{
+img.style.display='none'
+})
 
-    const pagination = document.getElementById('pagination');
-    pagination.innerHTML = '';
+const start=(page-1)*IMAGES_PER_PAGE
+const end=start+IMAGES_PER_PAGE
 
-    images.forEach(img => { img.style.display = 'none'; });
-    results.forEach(img => { img.style.display = ''; });
+shuffledImages.slice(start,end).forEach(img=>{
+img.style.display=''
+})
 
-    setModalEvents();
+renderPagination(totalPages)
 
-    if (input.trim() === '') {
-      showPage(1);
-    }
-  }
+}
+
+function renderPagination(totalPages){
+
+const pagination=document.getElementById('pagination')
+
+pagination.innerHTML=''
+
+for(let i=1;i<=totalPages;i++){
+
+const btn=document.createElement('button')
+
+btn.textContent=i
+
+btn.onclick=()=>{showPage(i);setModalEvents();}
+
+btn.style.margin='4px'
+btn.style.padding='8px 12px'
+btn.style.background=i===currentPage?'#333':'#ccc'
+btn.style.color=i===currentPage?'#fff':'#000'
+btn.style.border='none'
+btn.style.borderRadius='4px'
+btn.style.cursor='pointer'
+
+pagination.appendChild(btn)
+
+}
+
+}
+
+function setModalEvents(){
+
+document.querySelectorAll('#gallery img').forEach(img=>{
+
+img.onclick=function(){
+
+const modal=document.getElementById('modal')
+const modalImg=document.getElementById('modalImg')
+const downloadBtn=document.getElementById('downloadBtn')
+
+modal.style.display="flex"
+
+modalImg.src=this.src
+modalImg.alt=this.alt
+
+const thumbSrc=this.src
+const fullSrc=thumbSrc.replace("thu/","full/").replace("_thu","")
+
+downloadBtn.href=fullSrc
+downloadBtn.download=fullSrc.split('/').pop()
+
+}
+
+})
+
+}
+
+function closeModal(e){
+
+if(e.target.id==='modalImg'||e.target.id==='downloadBtn') return
+
+document.getElementById('modal').style.display="none"
+
+}
+
+function filterImages(){
+
+const input=document.getElementById('searchInput').value.toLowerCase()
+
+const images=document.querySelectorAll('#gallery img')
+
+let results=[]
+
+images.forEach(img=>{
+
+const alt=img.alt.toLowerCase()
+
+if(alt.includes(input)) results.push(img)
+
+})
+
+const pagination=document.getElementById('pagination')
+
+pagination.innerHTML=''
+
+images.forEach(img=>{img.style.display='none'})
+
+results.forEach(img=>{img.style.display=''})
+
+setModalEvents()
+
+if(input.trim()===''){
+
+showPage(1)
+
+}
+
+}
+
 </script>
+
 </body>
 </html>
