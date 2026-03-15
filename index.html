@@ -9,26 +9,60 @@
 
 <meta name="description" content="Free landscape and urban stock photos. Download high quality Japan travel, city and nature images for free.">
 
-<meta property="og:title" content="ScapeStock - Free Stock Photos">
-<meta property="og:description" content="Free landscape and urban stock photos.">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://yourdomain.com">
-<meta property="og:image" content="https://yourdomain.com/ogp.jpg">
-
 <style>
 
 body{
 font-family:sans-serif;
 margin:0;
 background:#f7f7f7;
+}
+
+/* 全体レイアウト */
+
+.container{
+display:grid;
+grid-template-columns:220px 1fr 200px;
+gap:30px;
+max-width:1400px;
+margin:auto;
 padding:20px;
+}
+
+/* 左サイドバー */
+
+.sidebar{
+background:white;
+padding:20px;
+border-radius:8px;
+height:fit-content;
+}
+
+.sidebar h2{
+margin-top:0;
+}
+
+.sidebar a{
+display:block;
+padding:6px 0;
+text-decoration:none;
+color:#333;
+}
+
+.sidebar a:hover{
+text-decoration:underline;
+}
+
+/* メイン */
+
+.main{
 display:flex;
 flex-direction:column;
 align-items:center;
 }
 
+/* タイトル */
+
 h1{
-text-align:center;
 margin-bottom:10px;
 }
 
@@ -36,32 +70,7 @@ p{
 text-align:center;
 }
 
-.gallery{
-display:grid;
-grid-template-columns:repeat(4,1fr);
-gap:16px;
-max-width:1000px;
-margin-top:30px;
-justify-items:center;
-}
-
-.gallery img{
-width:100%;
-height:200px;
-object-fit:cover;
-border-radius:8px;
-max-width:220px;
-}
-
-@media screen and (max-width:960px){
-
-.gallery{
-grid-template-columns:repeat(2,1fr);
-}
-
-}
-
-/* 検索フォーム */
+/* 検索 */
 
 .search-box{
 margin:20px 0;
@@ -94,6 +103,25 @@ border-radius:0 6px 6px 0;
 cursor:pointer;
 }
 
+/* ギャラリー */
+
+.gallery{
+display:grid;
+grid-template-columns:repeat(4,1fr);
+gap:16px;
+max-width:1000px;
+margin-top:30px;
+justify-items:center;
+}
+
+.gallery img{
+width:100%;
+height:200px;
+object-fit:cover;
+border-radius:8px;
+max-width:220px;
+}
+
 /* モーダル */
 
 .modal{
@@ -121,16 +149,51 @@ border-radius:8px;
 background:#fff;
 }
 
+/* スマホ */
+
+@media screen and (max-width:1000px){
+
+.container{
+grid-template-columns:1fr;
+}
+
+.sidebar{
+order:2;
+}
+
+}
+
 </style>
 </head>
 
 <body>
 
+<div class="container">
+
+<!-- 左サイドバー -->
+
+<div class="sidebar">
+
+<h2>Categories</h2>
+
+<a href="cities/tokyo.html">Tokyo</a>
+
+<h2>Tags</h2>
+
+<a href="tags/japan.html">Japan</a>
+<a href="tags/traditional.html">Traditional</a>
+<a href="tags/rain.html">Rain</a>
+<a href="tags/flower.html">Flower</a>
+
+</div>
+
+<!-- 中央 -->
+
+<div class="main">
+
 <h1>ScapeStock</h1>
 
 <p>Free stock photos of landscapes and urban snapshots</p>
-
-<!-- 検索 -->
 
 <div class="search-box">
 
@@ -150,20 +213,6 @@ Search
 
 </div>
 
-<!-- カテゴリー -->
-
-<h2>Categories</h2>
-<a href="cities/tokyo.html">Tokyo Photos</a>
-  
-<h2>tags</h2>
-<a href="tags/japan.html">Japan Photos</a>
-<a href="tags/traditional.html">traditional Photos</a>
-<a href="tags/rain.html">rain Photos</a>
-<a href="tags/flower.html">rain Photos</a>
-
-  
-<!-- ギャラリー -->
-
 <div class="gallery" id="gallery"></div>
 
 <div id="pagination" style="text-align:center;margin-top:20px;"></div>
@@ -175,6 +224,15 @@ Terms of Use
 </a>
 
 </p>
+
+</div>
+
+<!-- 右エリア（将来用） -->
+
+<div></div>
+
+</div>
+
 
 <!-- モーダル -->
 
@@ -205,6 +263,8 @@ Download
 
 <script>
 
+/* ここから下はあなたの既存JSそのまま */
+
 const IMAGES_PER_PAGE=20
 let currentPage=1
 let shuffledImages=[]
@@ -212,11 +272,8 @@ let shuffledImages=[]
 document.addEventListener("DOMContentLoaded",async()=>{
 
 await loadGallery()
-
 shuffleImages()
-
 showPage(1)
-
 setModalEvents()
 
 })
@@ -224,9 +281,7 @@ setModalEvents()
 async function loadGallery(){
 
 const res=await fetch("gallery.html")
-
 const html=await res.text()
-
 document.getElementById("gallery").innerHTML=html
 
 }
@@ -234,7 +289,6 @@ document.getElementById("gallery").innerHTML=html
 function shuffleImages(){
 
 const images=Array.from(document.querySelectorAll('#gallery img'))
-
 shuffledImages=images.sort(()=>Math.random()-0.5)
 
 }
@@ -242,7 +296,6 @@ shuffledImages=images.sort(()=>Math.random()-0.5)
 function showPage(page){
 
 const totalImages=shuffledImages.length
-
 const totalPages=Math.ceil(totalImages/IMAGES_PER_PAGE)
 
 currentPage=page
@@ -265,7 +318,6 @@ renderPagination(totalPages)
 function renderPagination(totalPages){
 
 const pagination=document.getElementById('pagination')
-
 pagination.innerHTML=''
 
 for(let i=1;i<=totalPages;i++){
@@ -273,7 +325,6 @@ for(let i=1;i<=totalPages;i++){
 const btn=document.createElement('button')
 
 btn.textContent=i
-
 btn.onclick=()=>{showPage(i);setModalEvents();}
 
 btn.style.margin='4px'
@@ -342,19 +393,15 @@ if(alt.includes(input)) results.push(img)
 })
 
 const pagination=document.getElementById('pagination')
-
 pagination.innerHTML=''
 
 images.forEach(img=>{img.style.display='none'})
-
 results.forEach(img=>{img.style.display=''})
 
 setModalEvents()
 
 if(input.trim()===''){
-
 showPage(1)
-
 }
 
 }
