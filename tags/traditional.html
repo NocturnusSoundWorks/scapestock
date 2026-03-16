@@ -6,11 +6,13 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Traditional Japan Free Stock Photos | ScapeStock</title>
+<title>Traditional Free Stock Photos | ScapeStock</title>
 
-<meta name="description" content="Free traditional Japan stock photos including shrines, temples and cultural scenes.">
+<meta name="description" content="Traditional Free landscape and travel stock photos.">
 
 <style>
+
+/* ページ全体 */
 
 body{
 font-family:sans-serif;
@@ -23,6 +25,8 @@ align-items:center;
 text-align:center;
 }
 
+/* タイトル */
+
 h1{
 margin-top:10px;
 margin-bottom:10px;
@@ -32,9 +36,36 @@ p{
 color:#555;
 }
 
+/* 戻るリンク */
+
 .backlink{
 margin-bottom:20px;
 }
+
+/* タグ */
+
+.tags{
+margin-top:20px;
+margin-bottom:30px;
+}
+
+.tags a{
+display:inline-block;
+margin:4px;
+padding:6px 12px;
+background:#eee;
+border-radius:20px;
+text-decoration:none;
+color:#333;
+font-size:14px;
+}
+
+.tags a:hover{
+background:#333;
+color:white;
+}
+
+/* ギャラリー */
 
 .gallery{
 display:grid;
@@ -51,6 +82,8 @@ object-fit:cover;
 border-radius:6px;
 }
 
+/* スマホ対応 */
+
 @media screen and (max-width:900px){
 
 .gallery{
@@ -58,7 +91,33 @@ grid-template-columns:repeat(2,1fr);
 }
 
 }
+/* モーダル */
 
+.modal{
+display:none;
+position:fixed;
+z-index:10;
+padding-top:60px;
+left:0;
+top:0;
+width:100%;
+height:100%;
+overflow:auto;
+background-color:rgba(0,0,0,0.8);
+justify-content:center;
+align-items:center;
+}
+
+.modal-content{
+margin:auto;
+display:block;
+max-width:70%;
+max-height:70%;
+box-shadow:0 0 20px #000;
+border-radius:8px;
+background:#fff;
+}
+ 
 </style>
 
 </head>
@@ -69,9 +128,11 @@ grid-template-columns:repeat(2,1fr);
 <a href="../index.html">← Back to Home</a>
 </div>
 
-<h1>Traditional Japan Photos</h1>
+<h1>Traditional Free Stock Photos</h1>
 
-<p>Free traditional Japan photos including shrines, temples and cultural scenes.</p>
+<p>Free Japan travel, city and nature photos.</p>
+
+<br>
 
 <div class="gallery" id="gallery"></div>
 
@@ -86,7 +147,8 @@ async function loadGallery(){
  gallery.innerHTML = html;
 
  fixImagePath();
- filterTraditional();
+ filterJapan();
+ setModalEvents();
 }
 
 function fixImagePath(){
@@ -105,7 +167,7 @@ function fixImagePath(){
 
 }
 
-function filterTraditional(){
+function filterJapan(){
 
  const images = document.querySelectorAll("#gallery img");
 
@@ -121,7 +183,67 @@ function filterTraditional(){
 
 window.onload = loadGallery;
 
-</script>
+function setModalEvents(){
 
+document.querySelectorAll('#gallery img').forEach(img=>{
+
+img.onclick=function(){
+
+const modal=document.getElementById('modal')
+const modalImg=document.getElementById('modalImg')
+const downloadBtn=document.getElementById('downloadBtn')
+
+modal.style.display="flex"
+
+modalImg.src=this.src
+modalImg.alt=this.alt
+
+const thumbSrc=this.src
+const fullSrc=thumbSrc.replace("thu/","full/").replace("_thu","")
+
+downloadBtn.href=fullSrc
+downloadBtn.download=fullSrc.split('/').pop()
+
+}
+
+})
+
+}
+
+function closeModal(e){
+
+if(e.target.id==='modalImg'||e.target.id==='downloadBtn') return
+
+document.getElementById('modal').style.display="none"
+
+}
+ 
+</script>
+<!-- モーダル -->
+
+<div id="modal" class="modal" onclick="closeModal(event)">
+
+<div style="text-align:center;">
+
+<img id="modalImg" class="modal-content" src="" alt="">
+
+<p style="color:white;margin-top:1em;">
+Do you want to download this image?
+</p>
+
+<a
+id="downloadBtn"
+href="#"
+download
+style="display:inline-block;padding:10px 20px;background:#fff;color:#333;border-radius:6px;text-decoration:none;font-weight:bold;"
+>
+
+Download
+
+</a>
+
+</div>
+
+</div>
 </body>
 </html>
