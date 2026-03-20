@@ -111,10 +111,18 @@ width:100%;
 
 .gallery img{
 width:100%;
-aspect-ratio:1/1;
+height:200px;
 object-fit:cover;
 border-radius:8px;
+max-width:220px;
 display:block;
+transition:transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.gallery img:hover{
+transform:scale(1.05);
+box-shadow:0 10px 20px rgba(0,0,0,0.2);
+cursor:pointer;
 }
   
 
