@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<title id="photoTitle">Photo</title>
+
+<style>
+
+body{
+font-family:sans-serif;
+text-align:center;
+margin:40px;
+}
+
+img{
+max-width:90%;
+border-radius:8px;
+}
+
+.download{
+display:inline-block;
+margin-top:20px;
+padding:12px 24px;
+background:#333;
+color:white;
+text-decoration:none;
+border-radius:6px;
+}
+
+</style>
+</head>
+
+<body>
+
+<h1 id="title"></h1>
+
+<img id="photo">
+
+<br>
+
+<a id="download" class="download">Download</a>
+
+<script>
+
+const photos={
+
+"sakura-temple":{
+title:"Sakura Temple in Japan",
+file:"sakura-temple.jpg"
+},
+
+"tokyo-night":{
+title:"Tokyo Night City",
+file:"tokyo-night.jpg"
+},
+
+"torii-shrine":{
+title:"Torii Shrine Gate",
+file:"torii-shrine.jpg"
+}
+
+}
+
+const params=new URLSearchParams(window.location.search)
+
+const id=params.get("id")
+
+if(photos[id]){
+
+document.getElementById("title").textContent=photos[id].title
+
+document.getElementById("photo").src="images/full/"+photos[id].file
+
+document.getElementById("download").href="images/full/"+photos[id].file
+
+}
+
+</script>
+
+</body>
+
+</html>
