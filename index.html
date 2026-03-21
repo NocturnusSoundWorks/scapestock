@@ -301,7 +301,7 @@ document.getElementById("gallery").innerHTML=html
 
 function shuffleImages(){
 
-const images=Array.from(document.querySelectorAll('#gallery img'))
+const images=Array.from(document.querySelectorAll('#gallery a'))
 shuffledImages=images.sort(()=>Math.random()-0.5)
 
 }
@@ -313,15 +313,15 @@ const totalPages=Math.ceil(totalImages/IMAGES_PER_PAGE)
 
 currentPage=page
 
-document.querySelectorAll('#gallery img').forEach(img=>{
-img.style.display='none'
+document.querySelectorAll('#gallery a').forEach(a=>{
+a.style.display='none'
 })
 
 const start=(page-1)*IMAGES_PER_PAGE
 const end=start+IMAGES_PER_PAGE
 
-shuffledImages.slice(start,end).forEach(img=>{
-img.style.display=''
+shuffledImages.slice(start,end).forEach(a=>{
+a.style.display=''
 })
 
 renderPagination(totalPages)
@@ -360,13 +360,13 @@ function filterImages(){
 
 const input=document.getElementById('searchInput').value.toLowerCase()
 
-const images=document.querySelectorAll('#gallery img')
+const images=document.querySelectorAll('#gallery a')
 
 let results=[]
 
 images.forEach(img=>{
 
-const alt=img.alt.toLowerCase()
+const alt=img.querySelector("img").alt.toLowerCase()
 
 if(alt.includes(input)) results.push(img)
 
