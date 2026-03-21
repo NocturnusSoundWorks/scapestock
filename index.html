@@ -110,6 +110,10 @@ width:100%;
 align-items:start;
 }
 
+.gallery a{
+display:block;
+}
+
 .gallery img{
 width:100%;
 aspect-ratio:1/1;
@@ -284,7 +288,6 @@ document.addEventListener("DOMContentLoaded",async()=>{
 await loadGallery()
 shuffleImages()
 showPage(1)
-setModalEvents()
 
 })
 
@@ -335,7 +338,7 @@ for(let i=1;i<=totalPages;i++){
 const btn=document.createElement('button')
 
 btn.textContent=i
-btn.onclick=()=>{showPage(i);setModalEvents();}
+btn.onclick=()=>{showPage(i);}
 
 btn.style.margin='4px'
 btn.style.padding='8px 12px'
