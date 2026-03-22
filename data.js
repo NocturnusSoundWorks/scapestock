@@ -801,7 +801,7 @@ tags:["cityscape","road","street","city","alley","backstreet","park","japan"]
 
 {
 id:"26K031423",
-tags:["hot-spring-town","alley","road","kyushu","steam","beppu","japan"]
+tags:["hot-spring-town","alley","road","kyushu","steam","beppu","japan","onsen"]
 },
 
 {
