@@ -233,12 +233,12 @@ tags:[]
 
 {
 id:"25K062147",
-tags:["leaf","scenery","black","white","rain","after-rain","shrine","japanese","roof","traditional-japanese"]
+tags:["leaf","scenery","black","white","rain","after-rain","shrine","japanese","roof","traditional-japanese","traditional"]
 },
 
 {
 id:"25K062148",
-tags:["leaf","scenery","black","white","rain","after-rain","shrine","japanese","lantern","traditional-japanese"]
+tags:["leaf","scenery","black","white","rain","after-rain","shrine","japanese","lantern","traditional-japanese","traditional"]
 },
 
 {
@@ -388,17 +388,17 @@ tags:[]
 
 {
 id:"25K070108",
-tags:["cloud","blue","white","scenery","countryside","daytime","sunny","rice-field","green","koinobori","nature","traditional-japanese","japan"]
+tags:["cloud","blue","white","scenery","countryside","daytime","sunny","rice-field","green","koinobori","nature","traditional-japanese","japan","traditional"]
 },
 
 {
 id:"25K070109",
-tags:["cloud","blue","white","scenery","countryside","daytime","sunny","rice-field","green","koinobori","nature","traditional-japanese","japan"]
+tags:["cloud","blue","white","scenery","countryside","daytime","sunny","rice-field","green","koinobori","nature","traditional-japanese","japan","traditional"]
 },
 
 {
 id:"25K070110",
-tags:["cloud","blue","white","scenery","countryside","daytime","sunny","rice-field","green","koinobori","nature","traditional-japanese","japan"]
+tags:["cloud","blue","white","scenery","countryside","daytime","sunny","rice-field","green","koinobori","nature","traditional-japanese","japan","traditional"]
 },
 
 {
@@ -498,7 +498,7 @@ tags:[]
 
 {
 id:"25K070130",
-tags:["leaf","scenery","black","white","rain","after-rain","shrine","japanese","roof","traditional-japanese"]
+tags:["leaf","scenery","black","white","rain","after-rain","shrine","japanese","roof","traditional-japanese","traditional"]
 },
 
 {
@@ -508,12 +508,12 @@ tags:[]
 
 {
 id:"25K070132",
-tags:["leaf","scenery","black","white","rain","after-rain","shrine","japanese","roof","traditional-japanese","japan","shrine"]
+tags:["leaf","scenery","black","white","rain","after-rain","shrine","japanese","roof","traditional-japanese","japan","shrine","traditional"
 },
 
 {
 id:"25K070133",
-tags:["leaf","scenery","black","white","rain","after-rain","shrine","japanese","roof","traditional-japanese","japan","shrine"]
+tags:["leaf","scenery","black","white","rain","after-rain","shrine","japanese","roof","traditional-japanese","japan","shrine","traditional"]
 },
 
 {
@@ -558,7 +558,7 @@ tags:[]
 
 {
 id:"25K070142",
-tags:["cloud","blue","white","scenery","countryside","daytime","sunny","rice-field","green","koinobori","nature","traditional-japanese","japan"]
+tags:["cloud","blue","white","scenery","countryside","daytime","sunny","rice-field","green","koinobori","nature","traditional-japanese","japan","traditional"]
 },
 
 {
