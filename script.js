@@ -15,11 +15,23 @@ if(!gallery) return
 gallery.innerHTML=""
 
 const params=new URLSearchParams(window.location.search)
+
 const tag=params.get("tag")
+const search=params.get("search")
 
 PHOTOS.forEach(photo=>{
 
 if(tag && !photo.tags.includes(tag)) return
+
+if(search){
+
+const words=search.toLowerCase().split(" ")
+
+const match=words.every(word=>photo.tags.includes(word))
+
+if(!match) return
+
+}
 
 const link=document.createElement("a")
 
@@ -96,7 +108,24 @@ const word=document
 .value
 .toLowerCase()
 
-window.location.href="index.html?tag="+word
+const form=document.getElementById("search-form")
+
+if(form){
+
+form.addEventListener("submit",function(e){
+
+e.preventDefault()
+
+const word=document
+.getElementById("search-input")
+.value
+.toLowerCase()
+
+window.location.href="index.html?search="+word
+
+})
+
+}
 
 })
 
