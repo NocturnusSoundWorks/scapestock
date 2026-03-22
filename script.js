@@ -82,3 +82,22 @@ loadGallery()
 loadPhotoPage()
 
 })
+
+const form=document.getElementById("search-form")
+
+if(form){
+
+form.addEventListener("submit",function(e){
+
+e.preventDefault()
+
+const word=document
+.getElementById("search-input")
+.value
+.toLowerCase()
+
+window.location.href="index.html?tag="+word
+
+})
+
+}
