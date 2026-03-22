@@ -233,6 +233,7 @@ const html=await res.text()
 document.getElementById("gallery").innerHTML=html
 
 fixImagePath()
+fixLinks()
 
 }
 
@@ -244,6 +245,20 @@ const src=img.getAttribute("src")
 
 if(!src.startsWith("../")){
 img.src="../"+src
+}
+
+})
+
+}
+
+function fixLinks(){
+
+document.querySelectorAll("#gallery a").forEach(a=>{
+
+const href=a.getAttribute("href")
+
+if(!href.startsWith("../")){
+a.href="../"+href
 }
 
 })
