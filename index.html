@@ -2,14 +2,15 @@
 <html lang="en">
 
 <head>
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>ScapeStock | Free Japan Stock Photos</title>
+
+<meta name="description" content="Free high quality Japan stock photos. Download landscapes, nature, cities and traditional scenery from Japan.">
+
 <link rel="stylesheet" href="style.css">
-
-<title>ScapeStock | Free Landscape and City Stock Photos</title>
-
-<meta name="description" content="Free landscape and urban stock photos. Download high quality Japan travel, city and nature images for free.">
-
 
 </head>
 
@@ -23,198 +24,52 @@
 
 <h1>ScapeStock</h1>
 
-<p>Free stock photos of Japan landscapes and cities</p>
-
-<div class="search-box">
-
-<form onsubmit="filterImages(); return false;">
-
-<input
-type="text"
-id="searchInput"
-placeholder="Search photos (sakura, city, sky...)"
->
-
-<button type="submit">
-Search
-</button>
-
-</form>
+<p>Free Japan Stock Photos</p>
 
 </div>
 
 </div>
 
-</div>
-
-<!-- MAIN -->
+<!-- MAIN LAYOUT -->
 
 <div class="container">
 
-<!-- 左 -->
+<!-- SIDEBAR -->
 
 <div class="sidebar">
 
 <h2>Categories</h2>
 
-<a href="cities/tokyo.html">Tokyo</a><br>
-<br>
-<br>
+<a href="#">Tokyo</a>
+<a href="#">Nature</a>
+<a href="#">City</a>
 
-<h2>Tags</h2>
+<h2>Popular Tags</h2>
 
-<a href="tags/japan.html">Japan</a>
-<a href="tags/traditional.html">traditional</a>
-<a href="tags/sakura.html">sakura</a>  
-<a href="tags/nature.html">nature</a>
-<a href="tags/night.html">night</a>
-<a href="tags/rain.html">rain</a>
-<a href="tags/flower.html">flower</a>
-<a href="tags/sky.html">sky</a>
-<a href="tags/city.html">city</a>
-<a href="tags/texture.html">texture</a>
-<a href="tags/scenery.html">scenery</a>
+<a href="#">sakura</a>
+<a href="#">nature</a>
+<a href="#">sky</a>
+<a href="#">flower</a>
+<a href="#">night</a>
 
 </div>
 
-<!-- 中央 -->
+<!-- GALLERY -->
 
 <div>
 
 <div class="gallery" id="gallery"></div>
 
-<div id="pagination" style="text-align:center;margin-top:20px;"></div>
-
-<p style="margin-top:40px;text-align:center;">
-
-<a href="terms-en.html" style="color:#333;text-decoration:underline;">
-Terms of Use
-</a>
-
-</p>
-
 </div>
 
-<!-- 右（将来用） -->
+<!-- RIGHT SPACE -->
 
 <div></div>
 
 </div>
 
-
-
-<script>
-
-/* 既存JSそのまま */
-
-const IMAGES_PER_PAGE=36
-let currentPage=1
-let shuffledImages=[]
-
-document.addEventListener("DOMContentLoaded",async()=>{
-
-await loadGallery()
-shuffleImages()
-showPage(1)
-
-})
-
-async function loadGallery(){
-
-const res=await fetch("gallery.html")
-const html=await res.text()
-document.getElementById("gallery").innerHTML=html
-
-}
-
-function shuffleImages(){
-
-const images=Array.from(document.querySelectorAll('#gallery a'))
-shuffledImages=images.sort(()=>Math.random()-0.5)
-
-}
-
-function showPage(page){
-
-const totalImages=shuffledImages.length
-const totalPages=Math.ceil(totalImages/IMAGES_PER_PAGE)
-
-currentPage=page
-
-document.querySelectorAll('#gallery a').forEach(a=>{
-a.style.display='none'
-})
-
-const start=(page-1)*IMAGES_PER_PAGE
-const end=start+IMAGES_PER_PAGE
-
-shuffledImages.slice(start,end).forEach(a=>{
-a.style.display=''
-})
-
-renderPagination(totalPages)
-
-}
-
-function renderPagination(totalPages){
-
-const pagination=document.getElementById('pagination')
-pagination.innerHTML=''
-
-for(let i=1;i<=totalPages;i++){
-
-const btn=document.createElement('button')
-
-btn.textContent=i
-btn.onclick=()=>{showPage(i);}
-
-btn.style.margin='4px'
-btn.style.padding='8px 12px'
-btn.style.background=i===currentPage?'#333':'#ccc'
-btn.style.color=i===currentPage?'#fff':'#000'
-btn.style.border='none'
-btn.style.borderRadius='4px'
-btn.style.cursor='pointer'
-
-pagination.appendChild(btn)
-
-}
-
-}
-
-
-
-function filterImages(){
-
-const input=document.getElementById('searchInput').value.toLowerCase()
-
-const images=document.querySelectorAll('#gallery a')
-
-let results=[]
-
-images.forEach(img=>{
-
-const alt=img.querySelector("img").alt.toLowerCase()
-
-if(alt.includes(input)) results.push(img)
-
-})
-
-const pagination=document.getElementById('pagination')
-pagination.innerHTML=''
-
-images.forEach(img=>{img.style.display='none'})
-results.forEach(img=>{img.style.display=''})
-
-
-
-if(input.trim()===''){
-showPage(1)
-}
-
-}
-
-</script>
+<script src="data.js"></script>
+<script src="script.js"></script>
 
 </body>
 </html>
