@@ -12,7 +12,12 @@ const gallery=document.getElementById("gallery")
 
 if(!gallery) return
 
+const params=new URLSearchParams(window.location.search)
+const tag=params.get("tag")
+
 PHOTOS.forEach(photo=>{
+
+if(tag && !photo.tags.includes(tag)) return
 
 const link=document.createElement("a")
 
