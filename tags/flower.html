@@ -164,24 +164,9 @@ grid-template-columns:repeat(2,1fr);
 
 <div class="sidebar">
 
-<h2>Categories</h2>
+<h2>home</h2>
 
-<a href="../cities/tokyo.html">Tokyo</a>
-
-<h2>Tags</h2>
-
-<a href="japan.html">Japan</a> 
-<a href="traditional.html">traditional</a> 
-<a href="sakura.html">sakura</a> 
-<a href="nature.html">nature</a>
-<a href="night.html">night</a> 
-<a href="rain.html">rain</a> 
-<a href="flower.html">flower</a> 
-<a href="sky.html">sky</a> 
-<a href="city.html">city</a> 
-<a href="texture.html">texture</a>
-<a href="scenery.html">scenery</a>
-
+<a href="../index.html">Back to Home</a>
 </div>
 
 <!-- MAIN GALLERY -->
@@ -233,6 +218,7 @@ const html=await res.text()
 document.getElementById("gallery").innerHTML=html
 
 fixImagePath()
+fixLinks()
 
 }
 
@@ -244,6 +230,20 @@ const src=img.getAttribute("src")
 
 if(!src.startsWith("../")){
 img.src="../"+src
+}
+
+})
+
+}
+
+function fixLinks(){
+
+document.querySelectorAll("#gallery a").forEach(a=>{
+
+const href=a.getAttribute("href")
+
+if(!href.startsWith("../")){
+a.href="../"+href
 }
 
 })
