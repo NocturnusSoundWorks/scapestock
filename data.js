@@ -27,7 +27,7 @@ tags:["sunset","night","scenery","orange"]
 
 {
 id:"25K062106",
-tags:["tokyo","city","urban","daytime"]
+tags:["tokyo","city","urban","daytime"],
 city:"tokyo"  
 },
 
@@ -628,7 +628,7 @@ tags:[]
 
 {
 id:"25K070158",
-tags:["city","urban"]
+tags:["city","urban"],
 city:"tokyo"
 },
 
@@ -639,7 +639,7 @@ tags:[]
 
 {
 id:"25K083002",
-tags:["city","urban"]
+tags:["city","urban"],
 city:"tokyo"  
 },
 
@@ -775,7 +775,7 @@ tags:["forest","grass","leaf","scenery","green","sunlight","sun","light","nature
 
 {
 id:"26K031418",
-tags:["cityscape","building","road","street","city","skyscrapers","japan"]
+tags:["cityscape","building","road","street","city","skyscrapers","japan"],
 city:"tokyo"  
 },
 
@@ -811,7 +811,7 @@ tags:["glow","night","green","grass"]
 
 {
 id:"26K031425",
-tags:["tokyo","city","urban","daytime"]
+tags:["tokyo","city","urban","daytime"],
 city:"tokyo"  
 },
 
