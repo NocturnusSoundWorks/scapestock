@@ -508,7 +508,7 @@ tags:[]
 
 {
 id:"25K070132",
-tags:["leaf","scenery","black","white","rain","after-rain","shrine","japanese","roof","traditional-japanese","japan","shrine","traditional"
+tags:["leaf","scenery","black","white","rain","after-rain","shrine","japanese","roof","traditional-japanese","japan","shrine","traditional"]
 },
 
 {
