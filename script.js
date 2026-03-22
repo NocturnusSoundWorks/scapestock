@@ -12,6 +12,8 @@ const gallery=document.getElementById("gallery")
 
 if(!gallery) return
 
+gallery.innerHTML=""
+
 const params=new URLSearchParams(window.location.search)
 const tag=params.get("tag")
 
