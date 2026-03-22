@@ -811,7 +811,7 @@ tags:["glow","night","green","grass"]
 
 {
 id:"26K031425",
-tags:["tokyo","city","urban","daytime"],
+tags:["tokyo","city","urban","daytime","river"],
 city:"tokyo"  
 },
 
