@@ -253,7 +253,7 @@ tags:["flower","red","nature","spring"]
 
 {
 id:"25K062151",
-tags:[]
+tags:["shutter","texture","material","old","rusty","wall","iron"]
 },
 
 {
