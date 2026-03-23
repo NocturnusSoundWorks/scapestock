@@ -48,8 +48,13 @@ const search = params.get("search")
 
 /* ランダム表示 */
 let photos = shuffleArray(PHOTOS)
-
-photos.forEach(photo=>{
+const PER_PAGE = 40
+const params = new URLSearchParams(window.location.search)
+const page = parseInt(params.get("page")) || 1
+const start = (page - 1) * PER_PAGE
+const end = start + PER_PAGE
+   
+photos.slice(start,end).forEach(photo=>{
 
 /* タグ検索 */
 
@@ -184,5 +189,31 @@ loadGallery()
 loadPhotoPage()
 
 setupSearch()
+
+})
+
+
+
+let loading=false
+
+window.addEventListener("scroll",()=>{
+
+if(loading) return
+
+if(window.innerHeight + window.scrollY >= document.body.offsetHeight - 500){
+
+loading=true
+
+const params = new URLSearchParams(window.location.search)
+
+let page = parseInt(params.get("page")) || 1
+
+page++
+
+params.set("page",page)
+
+window.location.search=params.toString()
+
+}
 
 })
