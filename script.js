@@ -1,10 +1,7 @@
 function getPhotoId(){
-
 const params = new URLSearchParams(window.location.search)
 return params.get("id")
-
 }
-
 
 /* --------------------------
    ランダムシャッフル
@@ -12,15 +9,15 @@ return params.get("id")
 
 function shuffleArray(array){
 
-const copied = [...array]
+const copied=[...array]
 
-for(let i = copied.length - 1; i > 0; i--){
+for(let i=copied.length-1;i>0;i--){
 
-const j = Math.floor(Math.random() * (i + 1))
+const j=Math.floor(Math.random()*(i+1))
 
-const temp = copied[i]
-copied[i] = copied[j]
-copied[j] = temp
+const temp=copied[i]
+copied[i]=copied[j]
+copied[j]=temp
 
 }
 
@@ -28,82 +25,104 @@ return copied
 
 }
 
-
 /* --------------------------
-   ギャラリー表示
+   グローバル変数
 -------------------------- */
 
-function loadGallery(){
+const PER_PAGE=40
+let currentPage=1
+let shuffledPhotos=[]
+let loading=false
 
-const gallery = document.getElementById("gallery")
+/* --------------------------
+   ギャラリー初期化
+-------------------------- */
 
+function initGallery(){
+
+const gallery=document.getElementById("gallery")
 if(!gallery) return
 
-gallery.innerHTML = ""
+const params=new URLSearchParams(window.location.search)
 
-const params = new URLSearchParams(window.location.search)
+const tag=params.get("tag")
+const search=params.get("search")
 
-const tag = params.get("tag")
-const search = params.get("search")
+/* 写真シャッフル */
+shuffledPhotos=shuffleArray(PHOTOS)
 
-/* ランダム表示 */
-let photos = shuffleArray(PHOTOS)
-const PER_PAGE = 40
-const page = parseInt(params.get("page")) || 1
-const start = (page - 1) * PER_PAGE
-const end = start + PER_PAGE
-   
-photos.slice(start,end).forEach(photo=>{
-
-/* タグ検索 */
-
-if(tag && !photo.tags.includes(tag)) return
-
-
-/* 複数ワード検索 */
+/* フィルター */
+if(tag){
+shuffledPhotos=shuffledPhotos.filter(p=>p.tags.includes(tag))
+}
 
 if(search){
 
-const words = search
-.toLowerCase()
-.split(" ")
-.filter(Boolean)
+const words=search.toLowerCase().split(" ").filter(Boolean)
 
-const match = words.every(word =>
-photo.tags.map(t => t.toLowerCase()).includes(word)
+shuffledPhotos=shuffledPhotos.filter(photo=>
+words.every(word=>
+photo.tags.map(t=>t.toLowerCase()).includes(word)
 )
-
-if(!match) return
+)
 
 }
 
+/* 最初の40枚表示 */
+loadMorePhotos()
 
-/* 画像リンク */
+}
 
-const link = document.createElement("a")
+/* --------------------------
+   写真追加表示
+-------------------------- */
 
-link.href = "photo.html?id=" + photo.id
+function loadMorePhotos(){
 
+const gallery=document.getElementById("gallery")
+if(!gallery) return
 
-/* サムネイル */
+const start=(currentPage-1)*PER_PAGE
+const end=start+PER_PAGE
 
-const img = document.createElement("img")
+const photos=shuffledPhotos.slice(start,end)
 
-img.src = "images/thu/" + photo.id + "_thu.jpg"
+photos.forEach(photo=>{
 
-img.alt = photo.tags.join(" ")
+const link=document.createElement("a")
+link.href="photo.html?id="+photo.id
 
-img.loading = "lazy"
-
+const img=document.createElement("img")
+img.src="images/thu/"+photo.id+"_thu.jpg"
+img.alt=photo.tags.join(" ")
+img.loading="lazy"
 
 link.appendChild(img)
-
 gallery.appendChild(link)
 
 })
 
+loading=false
+currentPage++
+
 }
 
+/* --------------------------
+   無限スクロール
+-------------------------- */
+
+window.addEventListener("scroll",()=>{
+
+if(loading) return
+
+if(window.innerHeight+window.scrollY>=document.body.offsetHeight-600){
+
+loading=true
+loadMorePhotos()
+
+}
+
+})
 
 /* --------------------------
    写真ページ
@@ -111,45 +130,36 @@ gallery.appendChild(link)
 
 function loadPhotoPage(){
 
-const photoContainer = document.getElementById("photo-page")
+const photoContainer=document.getElementById("photo-page")
 
 if(!photoContainer) return
 
-const id = getPhotoId()
+const id=getPhotoId()
 
-const photo = PHOTOS.find(p => p.id === id)
+const photo=PHOTOS.find(p=>p.id===id)
 
 if(!photo) return
 
+const img=document.createElement("img")
 
-/* フル画像 */
+img.src="images/full/"+photo.id+".jpg"
 
-const img = document.createElement("img")
+img.alt=photo.tags.join(" ")
 
-img.src = "images/full/" + photo.id + ".jpg"
+const download=document.createElement("a")
 
-img.alt = photo.tags.join(" ")
+download.href="images/full/"+photo.id+".jpg"
 
+download.className="download-btn"
 
-/* ダウンロード */
+download.download=photo.id+".jpg"
 
-const download = document.createElement("a")
-
-download.href = "images/full/" + photo.id + ".jpg"
-
-download.className = "download-btn"
-
-download.download = photo.id + ".jpg"
-
-download.innerText = "Download"
-
+download.innerText="Download"
 
 photoContainer.appendChild(img)
-
 photoContainer.appendChild(download)
 
 }
-
 
 /* --------------------------
    検索フォーム
@@ -157,7 +167,7 @@ photoContainer.appendChild(download)
 
 function setupSearch(){
 
-const form = document.getElementById("search-form")
+const form=document.getElementById("search-form")
 
 if(!form) return
 
@@ -165,17 +175,16 @@ form.addEventListener("submit",function(e){
 
 e.preventDefault()
 
-const word = document
+const word=document
 .getElementById("search-input")
 .value
 .toLowerCase()
 
-window.location.href = "index.html?search=" + word
+window.location.href="index.html?search="+word
 
 })
 
 }
-
 
 /* --------------------------
    初期読み込み
@@ -183,36 +192,8 @@ window.location.href = "index.html?search=" + word
 
 document.addEventListener("DOMContentLoaded",()=>{
 
-loadGallery()
-
+initGallery()
 loadPhotoPage()
-
 setupSearch()
-
-})
-
-
-
-let loading=false
-
-window.addEventListener("scroll",()=>{
-
-if(loading) return
-
-if(window.innerHeight + window.scrollY >= document.body.offsetHeight - 500){
-
-loading=true
-
-const params = new URLSearchParams(window.location.search)
-
-let page = parseInt(params.get("page")) || 1
-
-page++
-
-params.set("page",page)
-
-window.location.search=params.toString()
-
-}
 
 })
