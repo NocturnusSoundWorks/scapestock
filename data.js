@@ -298,7 +298,7 @@ tags:["flower","leaf","scenery","red","orange","yellow","pink","nature"]
 
 {
 id:"25K062160",
-tags:[]
+tags:["sky","cloud","sunny","blue","daytime","scenery","summer"]
 },
 
 {
