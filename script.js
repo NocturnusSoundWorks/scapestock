@@ -70,7 +70,7 @@ const words = search
 .filter(Boolean)
 
 const match = words.every(word =>
-photo.tags.includes(word)
+photo.tags.map(t => t.toLowerCase()).includes(word)
 )
 
 if(!match) return
