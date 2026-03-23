@@ -1,49 +1,96 @@
 function getPhotoId(){
 
-const params=new URLSearchParams(window.location.search)
-
+const params = new URLSearchParams(window.location.search)
 return params.get("id")
 
 }
 
+
+/* --------------------------
+   ランダムシャッフル
+-------------------------- */
+
+function shuffleArray(array){
+
+const copied = [...array]
+
+for(let i = copied.length - 1; i > 0; i--){
+
+const j = Math.floor(Math.random() * (i + 1))
+
+const temp = copied[i]
+copied[i] = copied[j]
+copied[j] = temp
+
+}
+
+return copied
+
+}
+
+
+/* --------------------------
+   ギャラリー表示
+-------------------------- */
+
 function loadGallery(){
 
-const gallery=document.getElementById("gallery")
+const gallery = document.getElementById("gallery")
 
 if(!gallery) return
 
-gallery.innerHTML=""
+gallery.innerHTML = ""
 
-const params=new URLSearchParams(window.location.search)
+const params = new URLSearchParams(window.location.search)
 
-const tag=params.get("tag")
-const search=params.get("search")
+const tag = params.get("tag")
+const search = params.get("search")
 
-PHOTOS.forEach(photo=>{
+/* ランダム表示 */
+let photos = shuffleArray(PHOTOS)
+
+photos.forEach(photo=>{
+
+/* タグ検索 */
 
 if(tag && !photo.tags.includes(tag)) return
 
+
+/* 複数ワード検索 */
+
 if(search){
 
-const words=search.toLowerCase().split(" ")
+const words = search
+.toLowerCase()
+.split(" ")
+.filter(Boolean)
 
-const match=words.every(word=>photo.tags.includes(word))
+const match = words.every(word =>
+photo.tags.includes(word)
+)
 
 if(!match) return
 
 }
 
-const link=document.createElement("a")
 
-link.href="photo.html?id="+photo.id
+/* 画像リンク */
 
-const img=document.createElement("img")
+const link = document.createElement("a")
 
-img.src="images/thu/"+photo.id+"_thu.jpg"
+link.href = "photo.html?id=" + photo.id
 
-img.alt=photo.tags.join(" ")
 
-img.loading="lazy"
+/* サムネイル */
+
+const img = document.createElement("img")
+
+img.src = "images/thu/" + photo.id + "_thu.jpg"
+
+img.alt = photo.tags.join(" ")
+
+img.loading = "lazy"
+
 
 link.appendChild(img)
 
@@ -53,33 +100,45 @@ gallery.appendChild(link)
 
 }
 
+
+/* --------------------------
+   写真ページ
+-------------------------- */
+
 function loadPhotoPage(){
 
-const photoContainer=document.getElementById("photo-page")
+const photoContainer = document.getElementById("photo-page")
 
 if(!photoContainer) return
 
-const id=getPhotoId()
+const id = getPhotoId()
 
-const photo=PHOTOS.find(p=>p.id===id)
+const photo = PHOTOS.find(p => p.id === id)
 
 if(!photo) return
 
-const img=document.createElement("img")
 
-img.src="images/full/"+photo.id+".jpg"
+/* フル画像 */
 
-img.alt=photo.tags.join(" ")
+const img = document.createElement("img")
 
-const download=document.createElement("a")
+img.src = "images/full/" + photo.id + ".jpg"
 
-download.href="images/full/"+photo.id+".jpg"
+img.alt = photo.tags.join(" ")
 
-download.className="download-btn"
 
-download.download=photo.id+".jpg"
+/* ダウンロード */
 
-download.innerText="Download"
+const download = document.createElement("a")
+
+download.href = "images/full/" + photo.id + ".jpg"
+
+download.className = "download-btn"
+
+download.download = photo.id + ".jpg"
+
+download.innerText = "Download"
+
 
 photoContainer.appendChild(img)
 
@@ -87,46 +146,43 @@ photoContainer.appendChild(download)
 
 }
 
+
+/* --------------------------
+   検索フォーム
+-------------------------- */
+
+function setupSearch(){
+
+const form = document.getElementById("search-form")
+
+if(!form) return
+
+form.addEventListener("submit",function(e){
+
+e.preventDefault()
+
+const word = document
+.getElementById("search-input")
+.value
+.toLowerCase()
+
+window.location.href = "index.html?search=" + word
+
+})
+
+}
+
+
+/* --------------------------
+   初期読み込み
+-------------------------- */
+
 document.addEventListener("DOMContentLoaded",()=>{
 
 loadGallery()
 
 loadPhotoPage()
 
-})
-
-const form=document.getElementById("search-form")
-
-if(form){
-
-form.addEventListener("submit",function(e){
-
-e.preventDefault()
-
-const word=document
-.getElementById("search-input")
-.value
-.toLowerCase()
-
-const form=document.getElementById("search-form")
-
-if(form){
-
-form.addEventListener("submit",function(e){
-
-e.preventDefault()
-
-const word=document
-.getElementById("search-input")
-.value
-.toLowerCase()
-
-window.location.href="index.html?search="+word
+setupSearch()
 
 })
-
-}
-
-})
-
-}
