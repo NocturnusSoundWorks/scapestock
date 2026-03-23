@@ -49,7 +49,6 @@ const search = params.get("search")
 /* ランダム表示 */
 let photos = shuffleArray(PHOTOS)
 const PER_PAGE = 40
-const params = new URLSearchParams(window.location.search)
 const page = parseInt(params.get("page")) || 1
 const start = (page - 1) * PER_PAGE
 const end = start + PER_PAGE
