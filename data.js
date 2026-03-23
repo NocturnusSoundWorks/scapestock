@@ -278,7 +278,7 @@ tags:["sky","cloud","sunny","blue","daytime","scenery","summer"]
 
 {
 id:"25K062156",
-tags:[]
+tags:["material","wall","brick","stone","texture"]
 },
 
 {
