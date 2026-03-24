@@ -101,7 +101,8 @@ link.appendChild(img)
 gallery.appendChild(link)
 
 })
-
+resizeGridItems()
+   
 loading=false
 currentPage++
 
