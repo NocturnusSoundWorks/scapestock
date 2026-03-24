@@ -197,3 +197,26 @@ loadPhotoPage()
 setupSearch()
 
 })
+
+function resizeGridItems(){
+
+const grid=document.querySelector(".gallery");
+const rowHeight=parseInt(window.getComputedStyle(grid).getPropertyValue('grid-auto-rows'));
+const rowGap=parseInt(window.getComputedStyle(grid).getPropertyValue('gap'));
+
+grid.querySelectorAll("a").forEach(item=>{
+
+const img=item.querySelector("img");
+
+const height=img.getBoundingClientRect().height;
+
+const span=Math.ceil((height+rowGap)/(rowHeight+rowGap));
+
+item.style.gridRowEnd="span "+span;
+
+});
+
+}
+
+window.addEventListener("load",resizeGridItems);
+window.addEventListener("resize",resizeGridItems);
