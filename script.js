@@ -102,7 +102,8 @@ gallery.appendChild(link)
 
 })
 resizeGridItems()
-   
+window.dispatchEvent(new Event("resize"))   
+
 loading=false
 currentPage++
 
