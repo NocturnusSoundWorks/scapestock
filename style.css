@@ -82,7 +82,7 @@ display:block;
 
 .gallery img{
 width:100%;
-aspect-ratio:1/1;
+height:auto;
 object-fit:cover;
 border-radius:8px;
 
@@ -195,31 +195,21 @@ text-decoration:none;
 color:black;
 text-decoration:none;
 }
-.photo-card{
-break-inside:avoid;
-margin-bottom:10px;
-}
 
-.photo-card img{
-width:100%;
-height:auto;
-display:block;
-border-radius:4px;
-}
 @media (max-width:1200px){
-#gallery{
+.gallery{
 column-count:3;
 }
 }
 
 @media (max-width:800px){
-#gallery{
+.gallery{
 column-count:2;
 }
 }
 
 @media (max-width:500px){
-#gallery{
+.gallery{
 column-count:1;
 }
 }
