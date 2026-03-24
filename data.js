@@ -839,5 +839,9 @@ tags:["cityscape","building","road","street","city","skyscrapers","chiba","japan
 id:"26K031431",
 tags:["cityscape","building","road","street","city","skyscrapers","chiba","japan"]
 },   
+{
+id:"26K031432",
+tags:["asphalt","road","material","texture","stone"]
+},     
 
 ];
