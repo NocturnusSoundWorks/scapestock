@@ -786,7 +786,7 @@ tags:["cityscape","building","road","street","city","alley","backstreet","skyscr
 
 {
 id:"26K031420",
-tags:["cityscape","building","road","street","city","skyscrapers","japan"]
+tags:["cityscape","building","road","street","city","skyscrapers","tokyo","japan"]
 },
 
 {
