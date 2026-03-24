@@ -791,12 +791,12 @@ tags:["cityscape","building","road","street","city","skyscrapers","tokyo","japan
 
 {
 id:"26K031421",
-tags:["cityscape","building","road","street","city","alley","backstreet","skyscrapers","japan"]
+tags:["cityscape","building","road","street","city","alley","backstreet","tokyo","skyscrapers","japan"]
 },
 
 {
 id:"26K031422",
-tags:["cityscape","road","street","city","alley","backstreet","park","japan"]
+tags:["cityscape","road","street","city","alley","backstreet","park","tokyo","japan"]
 },
 
 {
