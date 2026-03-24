@@ -1,0 +1,105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2487.7">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+  </style>
+</head>
+<body>
+<p class="p1">&lt;!DOCTYPE html&gt;</p>
+<p class="p1">&lt;html lang="en"&gt;</p>
+<p class="p1">&lt;head&gt;</p>
+<p class="p1">&lt;meta charset="UTF-8"&gt;</p>
+<p class="p1">&lt;title&gt;Sitemap Generator&lt;/title&gt;</p>
+<p class="p1">&lt;/head&gt;</p>
+<p class="p2"><br></p>
+<p class="p1">&lt;body&gt;</p>
+<p class="p2"><br></p>
+<p class="p1">&lt;h1&gt;Sitemap Generator&lt;/h1&gt;</p>
+<p class="p2"><br></p>
+<p class="p1">&lt;button onclick="generateSitemap()"&gt;Generate Sitemap&lt;/button&gt;</p>
+<p class="p2"><br></p>
+<p class="p1">&lt;script src="data.js"&gt;&lt;/script&gt;</p>
+<p class="p2"><br></p>
+<p class="p1">&lt;script&gt;</p>
+<p class="p2"><br></p>
+<p class="p1">function generateSitemap(){</p>
+<p class="p2"><br></p>
+<p class="p1">let base="https://nocturnussoundworks.github.io/scapestock/"</p>
+<p class="p2"><br></p>
+<p class="p1">let xml=`&lt;?xml version="1.0" encoding="UTF-8"?&gt;</p>
+<p class="p1">&lt;urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"&gt;</p>
+<p class="p1">`</p>
+<p class="p2"><br></p>
+<p class="p1">/* トップページ */</p>
+<p class="p2"><br></p>
+<p class="p1">xml+=`</p>
+<p class="p1">&lt;url&gt;</p>
+<p class="p1">&lt;loc&gt;${base}&lt;/loc&gt;</p>
+<p class="p1">&lt;/url&gt;</p>
+<p class="p1">`</p>
+<p class="p2"><br></p>
+<p class="p1">/* タグページ */</p>
+<p class="p2"><br></p>
+<p class="p1">const tags=[</p>
+<p class="p1">"japan",</p>
+<p class="p1">"traditional",</p>
+<p class="p1">"sakura",</p>
+<p class="p1">"nature",</p>
+<p class="p1">"sky",</p>
+<p class="p1">"flower",</p>
+<p class="p1">"night",</p>
+<p class="p1">"rain",</p>
+<p class="p1">"city",</p>
+<p class="p1">"texture",</p>
+<p class="p1">"scenery"</p>
+<p class="p1">]</p>
+<p class="p2"><br></p>
+<p class="p1">tags.forEach(tag=&gt;{</p>
+<p class="p2"><br></p>
+<p class="p1">xml+=`</p>
+<p class="p1">&lt;url&gt;</p>
+<p class="p1">&lt;loc&gt;${base}index.html?tag=${tag}&lt;/loc&gt;</p>
+<p class="p1">&lt;/url&gt;</p>
+<p class="p1">`</p>
+<p class="p2"><br></p>
+<p class="p1">})</p>
+<p class="p2"><br></p>
+<p class="p1">/* 写真ページ */</p>
+<p class="p2"><br></p>
+<p class="p1">PHOTOS.forEach(photo=&gt;{</p>
+<p class="p2"><br></p>
+<p class="p1">xml+=`</p>
+<p class="p1">&lt;url&gt;</p>
+<p class="p1">&lt;loc&gt;${base}photo.html?id=${photo.id}&lt;/loc&gt;</p>
+<p class="p1">&lt;/url&gt;</p>
+<p class="p1">`</p>
+<p class="p2"><br></p>
+<p class="p1">})</p>
+<p class="p2"><br></p>
+<p class="p1">xml+=`&lt;/urlset&gt;`</p>
+<p class="p2"><br></p>
+<p class="p1">/* ファイルダウンロード */</p>
+<p class="p2"><br></p>
+<p class="p1">const blob=new Blob([xml],{type:"text/xml"})</p>
+<p class="p1">const url=URL.createObjectURL(blob)</p>
+<p class="p2"><br></p>
+<p class="p1">const a=document.createElement("a")</p>
+<p class="p1">a.href=url</p>
+<p class="p1">a.download="sitemap.xml"</p>
+<p class="p1">a.click()</p>
+<p class="p2"><br></p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">&lt;/script&gt;</p>
+<p class="p2"><br></p>
+<p class="p1">&lt;/body&gt;</p>
+<p class="p1">&lt;/html&gt;</p>
+</body>
+</html>
