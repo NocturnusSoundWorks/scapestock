@@ -874,9 +874,10 @@ tags:["road","cobblestone","stone","japanese","japan"]
 {
 id:"26K031440",
 tags:["sky","blue","white","scenery","summer","daytime","sunny","nature"]
-},  
+},
+{
 id:"26K031441",
-tags:["sakura","cherry-blossom","gate","temple","shrine","cobblestone","chiba","japanese","japan"]       
+tags:["sakura","cherry-blossom","gate","temple","shrine","cobblestone","chiba","japanese","japan"]
 },
 {
 id:"26K031442",
