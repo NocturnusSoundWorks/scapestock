@@ -91,6 +91,7 @@ photos.forEach(photo=>{
 
 const link=document.createElement("a")
 link.href="photo.html?id="+photo.id
+link.className="photo-card"  
 
 const img=document.createElement("img")
 img.src="images/thu/"+photo.id+"_thu.jpg"
