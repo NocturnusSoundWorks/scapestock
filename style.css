@@ -227,7 +227,7 @@ position:relative;
 }
 
 .photo-card::after{
-content:"Download";
+content:"Free Download";
 position:absolute;
 bottom:10px;
 right:10px;
