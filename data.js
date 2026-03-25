@@ -882,5 +882,9 @@ tags:["sakura","cherry-blossom","gate","temple","shrine","cobblestone","chiba","
 id:"26K031442",
 tags:["cityscape","building","road","street","city","skyscrapers","chiba","japan","monorail"]
 },    
+{
+id:"26K031443",
+tags:["cityscape","building","road","street","city","skyscrapers","chiba","japan","monorail"]
+},  
   
 ];
