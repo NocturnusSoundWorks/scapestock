@@ -890,5 +890,9 @@ tags:["cityscape","building","road","street","city","skyscrapers","chiba","japan
 {
 id:"26K031444",
 tags:["swamp","daytime","water","nature","chiba"]
+},
+{
+id:"26K031445",
+tags:["swamp","daytime","water","nature","chiba","road","lakeside"]
 },      
 ];
