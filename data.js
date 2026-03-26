@@ -886,6 +886,9 @@ tags:["cityscape","building","road","street","city","skyscrapers","chiba","japan
 {
 id:"26K031443",
 tags:["cityscape","building","road","street","city","skyscrapers","chiba","japan","monorail"]
-},  
-  
+},     
+{
+id:"26K031444",
+tags:["swamp","daytime","water","nature"]
+},      
 ];
