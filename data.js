@@ -899,5 +899,12 @@ tags:["swamp","daytime","water","nature","chiba","road","lakeside"]
 id:"26K031446",
 tags:["cityscape","building","road","street","city","skyscrapers","nihonbashi","tokyo","japan"]
 },
-  
+{
+id:"26K031446",
+tags:["cityscape","building","road","street","city","skyscrapers","nihonbashi","tokyo","japanese","japan","traditional","bridge"]
+},
+{
+id:"26K031446",
+tags:["cityscape","building","road","street","city","skyscrapers","nihonbashi","tokyo","japan"]
+},  
 ];
