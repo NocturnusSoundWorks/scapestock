@@ -161,6 +161,7 @@ download.innerText="Download"
 
 photoContainer.appendChild(img)
 photoContainer.appendChild(download)
+loadRelatedPhotos(photo)   
 
 }
 
