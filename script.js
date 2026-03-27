@@ -231,23 +231,33 @@ window.addEventListener("resize",resizeGridItems);
 
 function loadRelatedPhotos(currentPhoto){
 
-const container=document.getElementById("related-gallery")
+const container=document.getElementById("related-photos")
 if(!container) return
 
-// 同じタグを持つ写真を抽出
-let related=PHOTOS.filter(p=>{
+// 関連度スコア計算
+const scoredPhotos = PHOTOS.map(photo=>{
 
-if(p.id===currentPhoto.id) return false
+if(photo.id===currentPhoto.id) return null
 
-return p.tags.some(tag=>currentPhoto.tags.includes(tag))
+// タグ一致数をカウント
+const matchCount = photo.tags.filter(tag =>
+currentPhoto.tags.includes(tag)
+).length
+
+return {
+photo:photo,
+score:matchCount
+}
 
 })
+.filter(item => item && item.score >= 2) // ★ここが重要（2以上）
+.sort((a,b)=> b.score - a.score) // 多い順に並び替え
+.slice(0,12) // 上位12枚
 
-// ランダムに並び替え
-related=shuffleArray(related)
+// 表示
+scoredPhotos.forEach(item=>{
 
-// 最大8枚表示
-related.slice(0,8).forEach(photo=>{
+const photo=item.photo
 
 const link=document.createElement("a")
 link.href="photo.html?id="+photo.id
@@ -255,6 +265,7 @@ link.href="photo.html?id="+photo.id
 const img=document.createElement("img")
 img.src="images/thu/"+photo.id+"_thu.jpg"
 img.alt=photo.tags.join(" ")
+img.loading="lazy"
 
 link.appendChild(img)
 container.appendChild(link)
