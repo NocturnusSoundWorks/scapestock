@@ -922,6 +922,10 @@ tags:["cityscape","building","road","street","city","skyscrapers","nihonbashi","
 {
 id:"26K032601",
 tags:["cityscape","building","road","street","city","skyscrapers","tokyo","japan","nihonbashi"]
+},
+{
+id:"26K031602",
+tags:["cityscape","building","road","street","city","skyscrapers","nihonbashi","tokyo","japanese","japan","traditional","bridge"]
 },    
     
 ];
