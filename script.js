@@ -223,3 +223,41 @@ item.style.gridRowEnd="span "+span;
 
 window.addEventListener("load",resizeGridItems);
 window.addEventListener("resize",resizeGridItems);
+
+/* --------------------------
+   関連写真
+-------------------------- */
+
+function loadRelatedPhotos(currentPhoto){
+
+const container=document.getElementById("related-gallery")
+if(!container) return
+
+// 同じタグを持つ写真を抽出
+let related=PHOTOS.filter(p=>{
+
+if(p.id===currentPhoto.id) return false
+
+return p.tags.some(tag=>currentPhoto.tags.includes(tag))
+
+})
+
+// ランダムに並び替え
+related=shuffleArray(related)
+
+// 最大8枚表示
+related.slice(0,8).forEach(photo=>{
+
+const link=document.createElement("a")
+link.href="photo.html?id="+photo.id
+
+const img=document.createElement("img")
+img.src="images/thu/"+photo.id+"_thu.jpg"
+img.alt=photo.tags.join(" ")
+
+link.appendChild(img)
+container.appendChild(link)
+
+})
+
+}
