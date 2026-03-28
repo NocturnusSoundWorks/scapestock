@@ -101,10 +101,6 @@ id:"25K062120",
 tags:["leaf","scenery","red","orange","yellow","pink","spring","park"]
 },
 
-{
-id:"25K062121",
-tags:["rice-field","grass","scenery","umbrella","rain","after-rain","woman","back-view"]
-},
 
 {
 id:"25K062122",
