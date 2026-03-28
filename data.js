@@ -253,7 +253,7 @@ tags:["shutter","texture","material","old","rusty","wall","iron"]
 
 {
 id:"25K062152",
-tags:[]
+tags:["person","hand","handshake"]
 },
 
 {
@@ -328,27 +328,27 @@ tags:["tree","green","leaf","chestnut","nature"]
 
 {
 id:"25K062167",
-tags:[]
+tags:["sky","star","night","starry-sky"]
 },
 
 {
 id:"25K062168",
-tags:[]
+tags:["tree","green","leaf","chestnut","nature","water-droplet","after-rain"]
 },
 
 {
 id:"25K062169",
-tags:[]
+tags:["flower","pink","red","nature","leaf"]
 },
 
 {
 id:"25K062170",
-tags:[]
+tags:["sky","sunny","cloud","blue-sky","daytime"]
 },
 
 {
 id:"25K070101",
-tags:[]
+tags:["flower"]
 },
 
 {
