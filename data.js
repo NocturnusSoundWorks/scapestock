@@ -187,11 +187,6 @@ tags:["leaf","scenery","red","orange","yellow","nature"]
 },
 
 {
-id:"25K062138",
-tags:["summer","daytime","sunny","back-view","child","park"]
-},
-
-{
 id:"25K062139",
 tags:["countryside","summer","daytime","sunny","green","road","path","mountain","nature"]
 },
