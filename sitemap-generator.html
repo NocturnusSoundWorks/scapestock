@@ -15,37 +15,50 @@
 
 <script>
 
+function getToday(){
+  const d = new Date()
+  const year = d.getFullYear()
+  const month = String(d.getMonth() + 1).padStart(2, '0')
+  const day = String(d.getDate()).padStart(2, '0')
+  return `${year}-${month}-${day}`
+}
+
 function generate(){
 
-const base="https://nocturnussoundworks.github.io/scapestock/"
+const base = "https://nocturnussoundworks.github.io/scapestock/"
+const today = getToday()
 
-let xml=`<?xml version="1.0" encoding="UTF-8"?> 
+let xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">`
 
-xml+=`
+// トップページ
+xml += `
 <url>
-<loc>${base}</loc>
+  <loc>${base}</loc>
+  <lastmod>${today}</lastmod>
 </url>
 `
 
-PHOTOS.forEach(photo=>{
+// 写真ページ
+PHOTOS.forEach(photo => {
 
-xml+=`
+xml += `
 <url>
-<loc>${base}photo.html?id=${photo.id}</loc>
+  <loc>${base}photo.html?id=${photo.id}</loc>
+  <lastmod>${today}</lastmod>
 </url>
 `
 
 })
 
-xml+=`</urlset>`
+xml += `</urlset>`
 
-const blob=new Blob([xml],{type:"text/xml"})
-const url=URL.createObjectURL(blob)
+const blob = new Blob([xml], {type:"text/xml"})
+const url = URL.createObjectURL(blob)
 
-const a=document.createElement("a")
-a.href=url
-a.download="sitemap.xml"
+const a = document.createElement("a")
+a.href = url
+a.download = "sitemap.xml"
 a.click()
 
 }
