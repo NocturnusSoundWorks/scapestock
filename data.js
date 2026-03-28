@@ -646,7 +646,7 @@ tags:["hydrangea","ajisai","leaf","scenery","purple","blue","rainy-season","june
 
 {
 id:"25K083006",
-tags:[]
+tags:["flower","leaf","scenery","red","green","white","pink","nature"]
 },
 
 {
