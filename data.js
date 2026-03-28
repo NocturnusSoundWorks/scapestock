@@ -989,5 +989,9 @@ tags:["cityscape","building","road","street","city","skyscrapers","tokyo","japan
 id:"26K032621",
 tags:["stone","tile","texture","material","wall","blue","brick"]
 }, 
+{
+id:"26K032622",
+tags:["cityscape","building","road","street","city","skyscrapers","tokyo","japan","ginza","night","nightscape","illuminated"]  
+},  
   
 ];
