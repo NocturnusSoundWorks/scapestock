@@ -947,6 +947,9 @@ tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring
 id:"26K032607",
 tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring","nature","japan"]
 },    
-    
+{
+id:"26K032608",
+tags:["cityscape","building","road","street","city","skyscrapers","tokyo","japan","ginza"]
+},    
         
 ];
