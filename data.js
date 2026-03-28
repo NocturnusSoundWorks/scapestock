@@ -968,7 +968,15 @@ tags:["cityscape","building","road","street","city","skyscrapers","tokyo","japan
 {
 id:"26K032616",
 tags:["shutter","texture","material","old","rusty","wall","iron"]
-},    
-    
+},
+{
+id:"26K032617",
+tags:["cityscape","building","road","street","city","skyscrapers","tokyo","japan","ginza","night","nightscape","illuminated"]  
+},   
+{
+id:"26K032617",
+tags:["flower","street","white","nature","leaf"]    
+},     
+  
     
 ];
