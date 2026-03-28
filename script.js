@@ -273,3 +273,4 @@ container.appendChild(link)
 })
 
 }
+document.getElementById("photo-count").textContent = PHOTOS.length;
