@@ -1068,6 +1068,10 @@ tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring
 id:"26K032642",
 tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring","nature","japan","water-droplet"]
 },  
+{
+id:"26K03242",
+tags:["city","downtown","green","tree","pine","scenery"]
+}, 
   
   
 ];
