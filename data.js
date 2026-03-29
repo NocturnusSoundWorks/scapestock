@@ -1072,6 +1072,13 @@ tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring
 id:"26K03243",
 tags:["city","downtown","green","tree","pine","scenery"]
 }, 
-  
+{
+id:"26K03244",
+tags:["city","downtown","railway","scenery"] 
+}, 
+{
+id:"26K03245",
+tags:["city","downtown","railway","scenery"] 
+},   
   
 ];
