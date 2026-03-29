@@ -1017,4 +1017,11 @@ tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring
 id:"26K032628",
 tags:["cityscape","building","road","street","city","skyscrapers","tokyo","japan","nihonbashi"]
 },     
+{
+id:"26K032629",
+tags:["cityscape","building","road","street","city","skyscrapers","tokyo","japan","ginza","night","nightscape","illuminated"]  
+},
+
+
+  
 ];
