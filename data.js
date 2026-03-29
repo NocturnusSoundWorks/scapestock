@@ -1033,6 +1033,11 @@ tags:["cityscape","building","road","street","city","skyscrapers","tokyo","japan
 id:"26K032632",
 tags:["cityscape","building","road","street","city","skyscrapers","tokyo","japan","ginza"]
 },    
+{
+id:"26K032633",
+tags:["shutter","texture","material","old","rusty","wall","iron"]
+},
+
   
   
 ];
