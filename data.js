@@ -1025,6 +1025,14 @@ tags:["cityscape","building","road","street","city","skyscrapers","tokyo","japan
 id:"26K032630",
 tags:["cityscape","building","road","street","city","skyscrapers","tokyo","japan","ginza","night","nightscape","illuminated"]  
 },
-
+{
+id:"26K032631",
+tags:["cityscape","building","road","street","city","skyscrapers","tokyo","japan","ginza","night","nightscape","illuminated"]  
+},
+{  
+id:"26K032632",
+tags:["cityscape","building","road","street","city","skyscrapers","tokyo","japan","ginza"]
+},    
+  
   
 ];
