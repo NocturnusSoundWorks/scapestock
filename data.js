@@ -323,11 +323,6 @@ tags:["tree","green","leaf","chestnut","nature"]
 },
 
 {
-id:"25K062167",
-tags:["sky","star","night","starry-sky"]
-},
-
-{
 id:"25K062168",
 tags:["tree","green","leaf","chestnut","nature","water-droplet","after-rain"]
 },
