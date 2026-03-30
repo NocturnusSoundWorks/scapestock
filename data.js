@@ -1084,6 +1084,18 @@ tags:["city","downtown","railway","scenery"]
 id:"26K032646",
 tags:["sky","green","tree","blue","daytime","nature","pine"]
 },
+{
+id:"26K032647",
+tags:["stairs","stone-steps","temple","shrine","chiba","japan","japanese-style","traditional","road","street"]
+},
+{
+id:"26K032648",
+tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring","nature","japan"]
+},   
+{
+id:"26K032649",
+tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring","nature","japan"]
+},
   
   
 ];
