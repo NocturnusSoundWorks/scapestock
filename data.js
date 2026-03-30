@@ -1124,6 +1124,11 @@ tags:["temple","gate","red","shrine","buddhist-temple","traditional","chiba","ic
 id:"26K032656",
 tags:["cityscape","building","road","street","city","skyscrapers","tokyo","japan","ginza","night","nightscape","illuminated"]  
 },  
+{
+id:"26K032657",
+tags:["temple","stairs","sky","scenery","sunny","shrine","traditional","cityscape","chiba","ichikawa","japan"]  
+},  
+
 
 
 
