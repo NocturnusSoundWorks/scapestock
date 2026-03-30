@@ -1116,6 +1116,9 @@ tags:["city","downtown","green","tree","pine","scenery","nature"]
 id:"26K032654",
 tags:["sky","swamp","lakeside","cloud","blue","scenery","nature"]
 }, 
-
+{
+id:"26K032654",
+tags:["temple","gate","red","shrine","buddhist-temple","traditional","chiba","ichikawa","japan","japanese-style"]
+}, 
   
 ];
