@@ -15,6 +15,9 @@
 
 <script>
 
+// ★ここが最重要（独自ドメインに変更）
+const BASE_URL = "https://scapestock.net/"
+
 function getToday(){
   const d = new Date()
   const year = d.getFullYear()
@@ -25,41 +28,49 @@ function getToday(){
 
 function generate(){
 
-const base = "https://nocturnussoundworks.github.io/scapestock/"
 const today = getToday()
 
-let xml = `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">`
+let xml = `<?xml version="1.0" encoding="UTF-8"?>\n`
+xml += `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`
 
 // トップページ
 xml += `
-<url>
-  <loc>${base}</loc>
-  <lastmod>${today}</lastmod>
-</url>
+  <url>
+    <loc>${BASE_URL}</loc>
+    <lastmod>${today}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
 `
 
 // 写真ページ
 PHOTOS.forEach(photo => {
 
-xml += `
-<url>
-  <loc>${base}photo.html?id=${photo.id}</loc>
-  <lastmod>${today}</lastmod>
-</url>
-`
+  // ★idがあるものだけ出力（安全対策）
+  if(!photo.id) return
 
+  xml += `
+  <url>
+    <loc>${BASE_URL}photo.html?id=${photo.id}</loc>
+    <lastmod>${today}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  `
 })
 
 xml += `</urlset>`
 
-const blob = new Blob([xml], {type:"text/xml"})
+// ダウンロード
+const blob = new Blob([xml], {type:"application/xml"})
 const url = URL.createObjectURL(blob)
 
 const a = document.createElement("a")
 a.href = url
 a.download = "sitemap.xml"
 a.click()
+
+URL.revokeObjectURL(url)
 
 }
 
