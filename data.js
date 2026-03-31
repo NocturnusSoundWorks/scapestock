@@ -1137,6 +1137,9 @@ tags:["city","downtown","cityscape","shrine","temple","scenery","chiba","ichikaw
 id:"26K032659",
 tags:["temple","gate","red","shrine","buddhist-temple","traditional","chiba","ichikawa","japan","japanese-style"]
 }, 
-
+{
+id:"26K032660",
+tags:["temple","gate","red","shrine","buddhist-temple","traditional","chiba","ichikawa","japan","japanese-style"]
+}, 
   
 ];
