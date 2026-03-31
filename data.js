@@ -1153,4 +1153,12 @@ tags:["temple","gate","red","shrine","buddhist-temple","traditional","chiba","ic
 id:"26K032663",
 tags:["temple","roof","pine","main-hall","shrine","buddhist-temple","traditional","chiba","ichikawa","japan","japanese-style"]
 },   
+{
+id:"26K032664",
+tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring","nature","japan"]
+},
+
+
+
+  
 ];
