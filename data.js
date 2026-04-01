@@ -343,17 +343,17 @@ tags:["flower"]
 
 {
 id:"25K070102",
-tags:[]
+tags:["nature","animal","bird","duck","pond"]
 },
 
 {
 id:"25K070103",
-tags:[]
+tags:["nature","animal","bird","duck","pond"]
 },
 
 {
 id:"25K070104",
-tags:[]
+tags:["nature","animal","bird","duck","pond"]
 },
 
 {
