@@ -1157,6 +1157,27 @@ tags:["temple","roof","pine","main-hall","shrine","buddhist-temple","traditional
 id:"26K032664",
 tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring","nature","japan"]
 },
+{
+id:"26K032665",
+tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring","nature","japan"]
+},
+{
+id:"26K032666",
+tags:["road","street","alley","bridge","red","downtown","japan","traditional"]
+},
+{
+id:"26K032667",
+tags:["city","downtown","railway","scenery"] 
+}, 
+{
+id:"26K032668",
+tags:["city","downtown","railway","scenery"] 
+}, 
+{
+id:"26K032669",
+tags:["road","street","cobblestone","texture","material"] 
+}, 
+
 
 
 
