@@ -1176,10 +1176,13 @@ id:"26K032669",
 tags:["road","street","cobblestone","texture","material","japan"] 
 }, 
 {
-id:"25K062106",
+id:"26K032670",
 tags:["chiba","city","river","urban","daytime"],
 },
-
+{
+id:"26K032671",
+tags:["stone","white","wall","texture","material"] 
+}, 
 
 
   
