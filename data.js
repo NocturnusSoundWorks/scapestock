@@ -968,7 +968,7 @@ tags:["cityscape","building","road","street","city","skyscrapers","tokyo","japan
 },   
 {
 id:"26K032618",
-tags:["flower","street","white","nature","leaf"]    
+tags:["flower","white","nature","leaf"]    
 },     
 {
 id:"26K032619",
