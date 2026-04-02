@@ -1191,6 +1191,12 @@ tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring
 id:"26K032673",
 tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring","nature","japan"]
 },
-
-  
+{
+id:"26K032674",
+tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring","nature","shrine","traditional","japan","approach-path"]
+},
+{
+id:"26K032675",
+tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring","nature","shrine","traditional","japan","approach-path"]
+},  
 ];
