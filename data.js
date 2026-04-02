@@ -1235,4 +1235,9 @@ tags:["road","street","sign","stop","alley","downtown"]
 id:"26K040108",
 tags:["flower","scenery","white","spring","nature"]
 },  
+{
+id:"26K040109",
+tags:["swamp","daytime","water","nature","chiba","road","lakeside"]
+}, 
+  
 ];
