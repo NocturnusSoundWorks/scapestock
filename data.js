@@ -1219,7 +1219,10 @@ tags:["road","street","sign","stop","alley","downtown"]
 id:"26K040104",
 tags:["camp","fire","campfire","marshmallow","flame","charcoal"] 
 }, 
-
+{
+id:"26K040105",
+tags:["camp","fire","campfire","marshmallow","flame","charcoal"] 
+}, 
 
   
 ];
