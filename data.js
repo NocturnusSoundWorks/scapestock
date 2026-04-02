@@ -1215,6 +1215,10 @@ tags:["road","street","cobblestone","texture","material","japan"]
 id:"26K040103",
 tags:["road","street","sign","stop","alley","downtown"] 
 }, 
+{
+id:"26K040104",
+tags:["camp","fire","campfire","marshmallow","flame","charcoal"] 
+}, 
 
 
   
