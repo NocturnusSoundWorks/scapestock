@@ -1227,5 +1227,9 @@ tags:["camp","fire","campfire","marshmallow","flame","charcoal"]
 id:"26K040106",
 tags:["camp","fire","campfire","flame","charcoal"] 
 }, 
+{
+id:"26K040107",
+tags:["road","street","sign","stop","alley","downtown"] 
+}, 
   
 ];
