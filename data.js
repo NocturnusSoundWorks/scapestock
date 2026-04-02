@@ -1207,7 +1207,10 @@ tags:["hot-spring-town","alley","road","kyushu","steam","beppu","japan","onsen"]
 id:"26K040101",
 tags:["temple","stairs","sky","scenery","sunny","shrine","traditional","cityscape","chiba","ichikawa","japan"]  
 },  
-
+{
+id:"26K040102",
+tags:["road","street","cobblestone","texture","material","japan"] 
+}, 
 
 
   
