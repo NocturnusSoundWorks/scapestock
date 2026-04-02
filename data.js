@@ -1239,5 +1239,9 @@ tags:["flower","scenery","white","spring","nature"]
 id:"26K040109",
 tags:["swamp","daytime","water","nature","chiba","road","lakeside"]
 }, 
+{
+id:"26K040110",
+tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring","nature","shrine","traditional","japan","approach-path"]
+},    
   
 ];
