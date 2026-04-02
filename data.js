@@ -1203,5 +1203,12 @@ tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring
 id:"26K032676",
 tags:["hot-spring-town","alley","road","kyushu","steam","beppu","japan","onsen"]
 },
+{
+id:"26K040101",
+tags:["temple","stairs","sky","scenery","sunny","shrine","traditional","cityscape","chiba","ichikawa","japan"]  
+},  
 
+
+
+  
 ];
