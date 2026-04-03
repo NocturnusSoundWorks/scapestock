@@ -182,6 +182,9 @@ img.alt=photo.tags.join(" ")
 
 const desc = generateDescription(photo);
 document.getElementById("description").textContent = desc;
+document
+  .querySelector('meta[name="description"]')
+  .setAttribute("content", desc);  
   
 const download=document.createElement("a")
 
