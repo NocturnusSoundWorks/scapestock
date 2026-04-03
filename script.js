@@ -202,10 +202,11 @@ const img=document.createElement("img")
 
 img.src="images/full/"+photo.id+".jpg"
 
-
-
 const desc = generateDescription(photo);
-img.alt = desc;  
+const title = generateTitle(photo);
+document.title = title;
+  
+  img.alt = desc;  
 document.getElementById("description").textContent = desc;
 document
   .querySelector('meta[name="description"]')
