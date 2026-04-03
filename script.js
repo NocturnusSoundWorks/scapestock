@@ -29,10 +29,34 @@ function generateDescription(photo) {
   return `${sentence1} ${sentence2} ${sentence3}`;
 }
 
+function generateTitle(photo){
+
+  const tags = photo.tags || [];
+
+  const locationTags = ["tokyo","chiba","kyoto","osaka","japan","ginza","nihonbashi","ichikawa"];
+  const subjectTags = ["city","cityscape","building","road","street","flower","tree","sky","cloud","temple","shrine"];
+  const timeTags = ["night","sunset","daytime","sunny"];
+
+  const location = photo.city || tags.find(t => locationTags.includes(t));
+  const subject = tags.find(t => subjectTags.includes(t));
+  const time = tags.find(t => timeTags.includes(t));
+
+  const cap = s => s ? s.charAt(0).toUpperCase() + s.replace(/-/g," ").slice(1) : "";
+
+  const subjectText = subject ? cap(subject) : "Photo";
+  const locationText = location ? cap(location) + ", Japan" : "Japan";
+  const timeText = time ? " at " + cap(time) : "";
+
+  return `${subjectText}${timeText}, ${locationText} | Free Stock Photo`;
+}
+
 function getPhotoId(){
 const params = new URLSearchParams(window.location.search)
 return params.get("id")
 }
+
+
+
 
 /* --------------------------
    ランダムシャッフル
