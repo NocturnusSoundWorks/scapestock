@@ -1,3 +1,34 @@
+function generateDescription(photo) {
+  const tags = photo.tags || [];
+
+  const locationTags = ["tokyo","chiba","kyoto","osaka","japan","ginza","nihonbashi","ichikawa"];
+  const timeTags = ["daytime","night","sunset","sunny"];
+  const seasonTags = ["spring","summer","june","rainy-season"];
+  const subjectTags = ["city","cityscape","building","road","street","flower","tree","sky","cloud","temple","shrine"];
+
+  const location = photo.city || tags.find(t => locationTags.includes(t));
+  const time = tags.find(t => timeTags.includes(t));
+  const season = tags.find(t => seasonTags.includes(t));
+  const subject = tags.find(t => subjectTags.includes(t));
+
+  const cap = s => s ? s.charAt(0).toUpperCase() + s.replace(/-/g," ").slice(1) : "";
+
+  const locationText = location ? `${cap(location)}, Japan` : "Japan";
+  const subjectText = subject ? cap(subject) : "scene";
+
+  const sentence1 = `A photo of ${subjectText} in ${locationText}.`;
+
+  const sentence2 = time
+    ? `Captured during the ${time}.`
+    : season
+    ? `Captured in ${season}.`
+    : `This image captures a moment in Japan.`;
+
+  const sentence3 = `Perfect for travel and Japan-related projects.`;
+
+  return `${sentence1} ${sentence2} ${sentence3}`;
+}
+
 function getPhotoId(){
 const params = new URLSearchParams(window.location.search)
 return params.get("id")
