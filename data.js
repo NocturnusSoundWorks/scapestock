@@ -1259,6 +1259,9 @@ tags:["flower","sakura","cherry-blossom","temple","main hall","shrine","approach
 id:"26K040114",
 tags:["flower","sakura","cherry-blossom","temple","stone lantern","shrine","approach-path","traditional","chiba","japan"]
 },
-
+{
+id:"26K040115",
+tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring","nature","shrine","traditional","japan","approach-path"]
+},   
   
 ];
