@@ -1276,10 +1276,13 @@ id:"26K040118",
 tags:["leaf","scenery","pink","white","spring","nature","temple","shrine","traditional","chiba","japan","japanese-style","japanese-garden"]
 },
 {
-id:"26K040118",
+id:"26K040119",
 tags:["sky","sunny","temple","shrine","main-hall","roof","traditional","chiba","japan"]
 },
-
+{
+id:"26K040120",
+tags:["sky","cloud","cloudy","black","nature"]
+},
 
   
 ];
