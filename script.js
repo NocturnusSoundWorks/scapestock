@@ -178,9 +178,10 @@ const img=document.createElement("img")
 
 img.src="images/full/"+photo.id+".jpg"
 
-img.alt=photo.tags.join(" ")
+
 
 const desc = generateDescription(photo);
+img.alt = desc;  
 document.getElementById("description").textContent = desc;
 document
   .querySelector('meta[name="description"]')
