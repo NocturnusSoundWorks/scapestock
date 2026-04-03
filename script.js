@@ -180,6 +180,9 @@ img.src="images/full/"+photo.id+".jpg"
 
 img.alt=photo.tags.join(" ")
 
+const desc = generateDescription(photo);
+document.getElementById("description").textContent = desc;
+  
 const download=document.createElement("a")
 
 download.href="images/full/"+photo.id+".jpg"
