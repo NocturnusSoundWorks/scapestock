@@ -1250,5 +1250,15 @@ tags:["temple","shrine","approach-path","red","bridge","pagoda","traditional","c
 {
 id:"26K040112",
 tags:["temple","shrine","approach-path","pagoda","traditional","chiba","japan"]
-},     
+},
+{
+id:"26K040113",
+tags:["flower","sakura","cherry-blossom","temple","main hall","shrine","approach-path","traditional","chiba","japan"]
+},
+{
+id:"26K040114",
+tags:["flower","sakura","cherry-blossom","temple","stone lantern","shrine","approach-path","traditional","chiba","japan"]
+},
+
+  
 ];
