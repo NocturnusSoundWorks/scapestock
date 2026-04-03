@@ -1247,5 +1247,8 @@ tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring
 id:"26K040111",
 tags:["temple","shrine","approach-path","red","bridge","pagoda","traditional","chiba","japan"]
 },   
-  
+{
+id:"26K040112",
+tags:["temple","shrine","approach-path","pagoda","traditional","chiba","japan"]
+},     
 ];
