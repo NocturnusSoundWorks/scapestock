@@ -1274,5 +1274,12 @@ tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring
 {
 id:"26K040118",
 tags:["leaf","scenery","pink","white","spring","nature","temple","shrine","traditional","chiba","japan","japanese-style","japanese-garden"]
-},  
+},
+{
+id:"26K040118",
+tags:["sky","sunny","temple","shrine","main-hall","roof","traditional","chiba","japan"]
+},
+
+
+  
 ];
