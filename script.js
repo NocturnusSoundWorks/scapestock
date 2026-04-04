@@ -204,13 +204,22 @@ img.src="images/full/"+photo.id+".jpg"
 
 const desc = generateDescription(photo);
 const title = generateTitle(photo);
+
 document.title = title;
-  
-  img.alt = desc;  
-document.getElementById("description").textContent = desc;
-document
-  .querySelector('meta[name="description"]')
-  .setAttribute("content", desc);  
+
+img.alt = desc;
+
+// description表示（安全版）
+const descEl = document.getElementById("description");
+if(descEl){
+  descEl.textContent = desc;
+}
+
+// meta description（安全版）
+const meta = document.querySelector('meta[name="description"]');
+if(meta){
+  meta.setAttribute("content", desc);
+}
   
 const download=document.createElement("a")
 
