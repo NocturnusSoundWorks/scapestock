@@ -1323,5 +1323,8 @@ tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring
 id:"26K040130",
 tags:["temple","shrine","approach-path","torii","gate","traditional","roof","japanese-style","ichikawa","chiba","japan"]
 },  
-  
+{
+id:"26K040131",
+tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring","nature","japan"]
+},    
 ];
