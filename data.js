@@ -1283,6 +1283,17 @@ tags:["sky","sunny","temple","shrine","main-hall","roof","traditional","chiba","
 id:"26K040120",
 tags:["sky","cloud","cloudy","black","nature"]
 },
-
+{
+id:"26K040121",
+tags:["temple","shrine","approach-path","torii","gate","traditional","japanese-style","ichikawa","chiba","japan"]
+},
+{
+id:"26K040122",
+tags:["temple","shrine","approach-path","torii","gate","traditional","japanese-style","ichikawa","chiba","japan"]
+},
+{
+id:"26K040123",
+tags:["temple","shrine","approach-path","torii","gate","traditional","japanese-style","ichikawa","chiba","japan"]
+},  
   
 ];
