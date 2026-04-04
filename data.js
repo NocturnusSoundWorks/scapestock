@@ -1311,5 +1311,9 @@ tags:["temple","shrine","main-hall","traditional","sunny","japanese-style","ichi
 id:"26K040127",
 tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring","nature","temple","traditional","japan"]
 },  
+{
+id:"26K040128",
+tags:["sky","roof","sunny","traditional","chiba","japan"]
+},
   
 ];
