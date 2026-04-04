@@ -27,7 +27,7 @@ tags:["sunset","night","scenery","orange"]
 
 {
 id:"25K062106",
-tags:["tokyo","city","river","urban","daytime"],
+tags:["tokyo","city","river","urban","daytime"]
 },
 
 {
@@ -791,7 +791,7 @@ tags:["glow","night","green","grass"]
 
 {
 id:"26K031425",
-tags:["tokyo","city","urban","daytime","river"],
+tags:["tokyo","city","urban","daytime","river"]
 },
 
 {
@@ -1177,7 +1177,7 @@ tags:["road","street","cobblestone","texture","material","japan"]
 }, 
 {
 id:"26K032670",
-tags:["chiba","city","river","urban","daytime"],
+tags:["chiba","city","river","urban","daytime"]
 },
 {
 id:"26K032671",
