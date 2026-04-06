@@ -34,7 +34,7 @@ tags:["sakura","cherry-blossom","flower","spring","japan","pink","nature","bloss
 
 {
 id:"25K062108",
-tags:["flower","hydrangea","leaf","scenery","purple","blue","nature","japan"]
+tags:["hydrangea","ajisai","flower","rainy-season","june","japan","purple","blue","nature","blossom","petal","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
 },
 
 {
