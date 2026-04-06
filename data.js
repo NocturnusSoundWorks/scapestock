@@ -118,9 +118,8 @@ tags:["nature","landscape","countryside","rice-field","paddy-field","green","gra
 },
 {
 id:"25K062126",
-tags:["leaf","scenery","red","orange","yellow","pink","nature"]
+tags:["flower","nature","plant","botanical","blossom","petal","red","orange","yellow","spring","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
 },
-
 {
 id:"25K062127",
 tags:["leaf","scenery","yellow","sunflower","himawari","summer","nature"]
