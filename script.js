@@ -5,14 +5,6 @@ function formatWord(word){
   return word.charAt(0).toUpperCase() + word.slice(1)
 }
 
-// タイトル生成
-function generateTitle(tags){
-  if(!tags || tags.length === 0) return "Japan Stock Photo"
-  return tags.slice(0,3).map(formatWord).join(" ")
-}
-
-
-
 function generateDescription(photo) {
   const tags = photo.tags || [];
 
@@ -243,18 +235,6 @@ if(meta){
 
 // alt（SEO重要）
 img.alt = title;
-
-// description表示（安全版）
-const descEl = document.getElementById("description");
-if(descEl){
-  descEl.textContent = desc;
-}
-
-// meta description（安全版）
-const meta = document.querySelector('meta[name="description"]');
-if(meta){
-  meta.setAttribute("content", desc);
-}
   
 const download=document.createElement("a")
 
