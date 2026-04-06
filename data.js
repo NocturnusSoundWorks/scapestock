@@ -2,22 +2,19 @@ const PHOTOS = [
 
 {
 id:"25K062101",
-tags:["sky","cloud","sun","blue","white","scenery","summer","daytime","sunny","nature"]
+tags:["sky","cloud","sun","blue-sky","summer","daytime","sunny","nature","background","copy-space","wallpaper","outdoors","no-people"]
 },
-
 {
 id:"25K062102",
-tags:["sky","cloud","blue","white","scenery","summer","daytime","sunny","nature"]
+tags:["sky","cloud","sun","blue-sky","summer","daytime","sunny","nature","background","copy-space","wallpaper","outdoors","no-people"]
 },
-
-{
-id:"25K062103",
-tags:["sky","cloud","blue","white","scenery","summer","daytime","sunny","nature"]
-},
-
 {
 id:"25K062104",
-tags:["sky","cloud","blue","white","scenery","summer","daytime","sunny","nature"]
+tags:["sky","cloud","sun","blue-sky","summer","daytime","sunny","nature","background","copy-space","wallpaper","outdoors","no-people"]
+},
+{
+id:"25K062105",
+tags:["sky","cloud","sun","blue-sky","summer","daytime","sunny","nature","background","copy-space","wallpaper","outdoors","no-people"]
 },
 
 {
