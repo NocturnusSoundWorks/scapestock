@@ -173,12 +173,12 @@ tags:["flower","nature","plant","botanical","blossom","petal","red","orange","ye
 },
 {
 id:"25K062139",
-tags:["countryside","summer","daytime","sunny","green","road","path","mountain","nature"]
+tags:["nature","landscape","countryside","rural","road","path","trail","mountain","forest","green","grass","field","outdoors","summer","daytime","sunny","scenic","travel","journey","destination","japan","background","wallpaper","copy-space","no-people"]
 },
 
 {
 id:"25K062140",
-tags:["forest","grass","leaf","scenery","green","sunlight","sun","light","nature"]
+tags:["nature","forest","woods","tree","green","grass","leaf","sky","cloud","blue-sky","outdoors","daytime","sunny","summer","fresh","natural","scenic","environment","japan","background","wallpaper","copy-space","no-people"]
 },
 
 {
