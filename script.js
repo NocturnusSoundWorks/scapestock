@@ -231,9 +231,29 @@ img.src="images/full/"+photo.id+".jpg"
 const desc = generateDescription(photo);
 const title = generateTitle(photo);
 
+// タイトル（タブ）
 document.title = title;
 
-img.alt = desc;
+// h1も変更（今は固定なので重要）
+const h1 = document.querySelector("h1");
+if(h1){
+  h1.textContent = title;
+}
+
+// description表示
+const descEl = document.getElementById("description");
+if(descEl){
+  descEl.textContent = desc;
+}
+
+// meta description
+const meta = document.querySelector('meta[name="description"]');
+if(meta){
+  meta.setAttribute("content", desc);
+}
+
+// alt（SEO重要）
+img.alt = title;
 
 // description表示（安全版）
 const descEl = document.getElementById("description");
