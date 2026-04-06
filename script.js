@@ -11,18 +11,7 @@ function generateTitle(tags){
   return tags.slice(0,3).map(formatWord).join(" ")
 }
 
-// 説明文生成
-function generateDescription(tags){
-  if(!tags || tags.length === 0){
-    return "Free stock photo from Japan."
-  }
 
-  let location = tags.includes("tokyo") ? "Tokyo" :
-                 tags.includes("osaka") ? "Osaka" :
-                 "Japan"
-
-  return `A ${tags.join(" ")} scene in ${location}. Free stock photo from Japan.`
-}
 
 function generateDescription(photo) {
   const tags = photo.tags || [];
