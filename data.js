@@ -138,13 +138,10 @@ tags:["nature","landscape","countryside","mountain","forest","tree","green","gra
 id:"25K062130",
 tags:["hydrangea","ajisai","flower","rainy-season","june","japan","purple","blue","nature","blossom","petal","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
 },
-
-
 {
 id:"25K062131",
-tags:["slide","swing","playground","daytime","scenery"]
+tags:["playground","park","slide","swing","equipment","outdoor","outdoors","daytime","sunny","leisure","recreation","childhood","empty","no-people","safety","public-space","japan","background","copy-space"]
 },
-
 {
 id:"25K062132",
 tags:["forest","grass","leaf","scenery","green","sunlight","sun","light","nature"]
