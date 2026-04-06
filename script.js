@@ -54,7 +54,7 @@ function generateTitle(photo){
   const locationText = location ? cap(location) + ", Japan" : "Japan";
   const timeText = time ? " at " + cap(time) : "";
 
-  return `${subjectText}${timeText}, ${locationText} | Free Stock Photo`;
+  return `${subjectText}${timeText}, ${locationText} | ${photo.id} | Free Stock Photo`;
 }
 
 function getPhotoId(){
@@ -157,7 +157,7 @@ link.className="photo-card"
 
 const img=document.createElement("img")
 img.src="images/thu/"+photo.id+"_thu.jpg"
-img.alt=photo.tags.join(" ")
+img.alt = generateTitle(photo);
 img.loading="lazy"
 
 link.appendChild(img)
@@ -216,7 +216,7 @@ const title = generateTitle(photo);
 document.title = title;
 
 // h1も変更（今は固定なので重要）
-const h1 = document.querySelector("h1");
+const h1 = document.getElementById("page-title");
 if(h1){
   h1.textContent = title;
 }
@@ -351,7 +351,7 @@ link.href="photo.html?id="+photo.id
 
 const img=document.createElement("img")
 img.src="images/thu/"+photo.id+"_thu.jpg"
-img.alt=photo.tags.join(" ")
+img.alt = generateTitle(photo);
 img.loading="lazy"
 
 link.appendChild(img)
