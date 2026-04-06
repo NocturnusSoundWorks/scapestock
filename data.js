@@ -19,7 +19,7 @@ tags:["sky","cloud","sun","blue-sky","summer","daytime","sunny","nature","backgr
 
 {
 id:"25K062105",
-tags:["sunset","night","scenery","orange"]
+tags:["sunset","evening","sky","orange-sky","twilight","nature","background","copy-space","wallpaper","outdoors","no-people"]
 },
 
 {
