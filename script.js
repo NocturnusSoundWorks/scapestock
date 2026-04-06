@@ -1,3 +1,29 @@
+// ===== SEO自動生成 =====
+
+// 単語整形
+function formatWord(word){
+  return word.charAt(0).toUpperCase() + word.slice(1)
+}
+
+// タイトル生成
+function generateTitle(tags){
+  if(!tags || tags.length === 0) return "Japan Stock Photo"
+  return tags.slice(0,3).map(formatWord).join(" ")
+}
+
+// 説明文生成
+function generateDescription(tags){
+  if(!tags || tags.length === 0){
+    return "Free stock photo from Japan."
+  }
+
+  let location = tags.includes("tokyo") ? "Tokyo" :
+                 tags.includes("osaka") ? "Osaka" :
+                 "Japan"
+
+  return `A ${tags.join(" ")} scene in ${location}. Free stock photo from Japan.`
+}
+
 function generateDescription(photo) {
   const tags = photo.tags || [];
 
