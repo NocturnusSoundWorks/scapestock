@@ -24,9 +24,9 @@ tags:["sunset","evening","sky","orange-sky","twilight","nature","background","co
 
 {
 id:"25K062106",
-tags:["tokyo","city","river","urban","daytime"]
+tags:["tokyo","japan","cityscape","urban","river","water","architecture","building","daytime","outdoors","travel","landmark","background","copy-space","no-people"]
 },
-
+  
 {
 id:"25K062107",
 tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring","nature","japan"]
