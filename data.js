@@ -266,12 +266,12 @@ tags:["flower","sky","blue-sky","plant","botanical","blossom","petal","pink","na
 
 {
 id:"25K062158",
-tags:["flower","leaf","scenery","red","pink","nature"]
+tags:["flower","plant","botanical","blossom","petal","yellow","nature","spring","fresh","natural","outdoors","floral","bright","vibrant","beauty","scenery","background","copy-space","no-people"]
 },
 
 {
 id:"25K062159",
-tags:["flower","leaf","scenery","red","orange","yellow","pink","nature"]
+tags:["flower","plant","botanical","blossom","petal","yellow","nature","spring","fresh","natural","outdoors","floral","bright","vibrant","beauty","scenery","background","copy-space","no-people"]
 },
 
 {
