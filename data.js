@@ -240,18 +240,19 @@ tags:["handshake","hands","business","agreement","deal","partnership","teamwork"
 
 {
 id:"25K062153",
-tags:["flower","leaf","scenery","red","orange","yellow","pink","nature"]
+tags:["flower","plant","botanical","blossom","petal","pink","green","nature","spring","fresh","natural","outdoors","garden","floral","soft","delicate","beauty","background","copy-space","no-people"]
 },
 
 {
 id:"25K062154",
-tags:["flower","leaf","scenery","red","orange","yellow","pink","nature"]
+tags:["flower","nature","plant","botanical","blossom","petal","red","orange","yellow","spring","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
 },
 
 {
 id:"25K062155",
-tags:["sky","cloud","sunny","blue","daytime","scenery","summer"]
+tags:["sky","cloud","sun","blue-sky","summer","daytime","sunny","nature","background","copy-space","wallpaper","outdoors","no-people"]
 },
+
 
 {
 id:"25K062156",
