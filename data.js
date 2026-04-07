@@ -256,17 +256,17 @@ tags:["sky","cloud","sun","blue-sky","summer","daytime","sunny","nature","backgr
 
 {
 id:"25K062156",
-tags:["material","wall","brick","stone","texture"]
+tags:["brick","stone","wall","texture","background","material","surface","pattern","detail","rough","grunge","weathered","aged","masonry","construction","architecture","urban","industrial","copy-space","no-people"]
 },
 
 {
 id:"25K062157",
-tags:["flower","leaf","scenery","red","orange","yellow","pink","nature"]
+tags:["flower","sky","blue-sky","plant","botanical","blossom","petal","pink","nature","spring","fresh","natural","outdoors","floral","soft","delicate","beauty","scenery","background","copy-space","no-people"]
 },
 
 {
 id:"25K062158",
-tags:["flower","leaf","scenery","red","orange","yellow","pink","nature"]
+tags:["flower","leaf","scenery","red","pink","nature"]
 },
 
 {
