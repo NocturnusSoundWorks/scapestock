@@ -235,7 +235,7 @@ tags:["metal","shutter","rolling-shutter","texture","background","wall","industr
 
 {
 id:"25K062152",
-tags:["person","hand","handshake"]
+tags:["handshake","hands","business","agreement","deal","partnership","teamwork","connection","trust","support","cooperation","success","professional","corporate","meeting","greeting","human","people","close-up","copy-space"]
 },
 
 {
