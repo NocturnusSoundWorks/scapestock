@@ -175,10 +175,21 @@ img.src="images/thu/"+photo.id+"_thu.jpg"
 img.alt = generateTitle(photo);
 img.loading="lazy"
 
+// ★追加：ライセンス取得
+const license = getLicense(photo.tags)
+
+// ★追加：表示用テキスト
+const licenseLabel = document.createElement("p")
+licenseLabel.className = "license"
+licenseLabel.textContent = license
+
 link.appendChild(img)
+link.appendChild(licenseLabel) // ←これ追加
+
 gallery.appendChild(link)
 
 })
+  
 resizeGridItems()
 window.dispatchEvent(new Event("resize"))   
 
@@ -261,7 +272,15 @@ download.download=photo.id+".jpg"
 
 download.innerText="Download"
 
+// ★追加
+const license = getLicense(photo.tags)
+
+const licenseLabel = document.createElement("p")
+licenseLabel.className = "license"
+licenseLabel.textContent = "License: " + license
+
 photoContainer.appendChild(img)
+photoContainer.appendChild(licenseLabel) // ←追加
 photoContainer.appendChild(download)
 loadRelatedPhotos(photo)   
 
