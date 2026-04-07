@@ -276,7 +276,7 @@ tags:["flower","plant","botanical","blossom","petal","yellow","nature","spring",
 
 {
 id:"25K062160",
-tags:["sky","cloud","sunny","blue","daytime","scenery","summer"]
+tags:["sky","cloud","sun","blue-sky","summer","daytime","sunny","nature","background","copy-space","wallpaper","outdoors","no-people"]
 },
 
 {
