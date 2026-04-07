@@ -228,9 +228,9 @@ id:"25K062150",
 tags:["flower","nature","plant","botanical","blossom","petal","red","pink","spring","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
 },
 
-  {
+{
 id:"25K062151",
-tags:["shutter","texture","material","old","rusty","wall","iron"]
+tags:["metal","shutter","rolling-shutter","texture","background","wall","industrial","urban","rust","rusty","iron","grunge","weathered","aged","old","surface","pattern","detail","close-up","copy-space","no-people"]
 },
 
 {
