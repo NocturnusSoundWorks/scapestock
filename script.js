@@ -1,3 +1,18 @@
+function getLicense(tags) {
+  // 神社・寺は editorial
+  if (tags.includes("shrine") || tags.includes("temple")) {
+    return "editorial";
+  }
+
+  // 将来用（今はなくてもOK）
+  const risky = ["famous-place","landmark"];
+  if (tags.some(tag => risky.includes(tag))) {
+    return "editorial";
+  }
+
+  return "commercial";
+}
+
 // ===== SEO自動生成 =====
 
 // 単語整形
