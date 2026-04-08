@@ -332,17 +332,17 @@ tags:["flower"]
 
 {
 id:"25K070102",
-tags:["nature","animal","bird","duck","pond"]
-},
+tags:["duck","bird","waterfowl","pond","water","nature","animal","wildlife","lake","swimming","floating","outdoors","natural","habitat","calm","reflection","daytime","no-people"]
+}
 
 {
 id:"25K070103",
-tags:["nature","animal","bird","duck","pond"]
+tags:["duck","bird","waterfowl","pond","water","nature","animal","wildlife","lake","swimming","floating","outdoors","natural","habitat","calm","reflection","daytime","no-people"]
 },
 
 {
 id:"25K070104",
-tags:["nature","animal","bird","duck","pond"]
+tags:["duck","bird","waterfowl","pond","water","nature","animal","wildlife","lake","swimming","floating","outdoors","natural","habitat","calm","reflection","daytime","no-people"]
 },
 
 {
