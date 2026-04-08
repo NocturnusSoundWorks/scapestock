@@ -379,11 +379,11 @@ tags:["cloud","blue","white","scenery","countryside","daytime","sunny","rice-fie
 {
 id:"25K070111",
 tags:["pampas-grass","grass","plant","autumn","fall","nature","botanical","brown","beige","white","fluffy","feathery","field","meadow","outdoors","seasonal","landscape","soft","natural","no-people"]
-}
+},
 {
 id:"25K070112",
 tags:["pampas-grass","grass","plant","flower","yellow","leaf","pond","water","autumn","fall","nature","botanical","brown","white","field","meadow","wetland","outdoors","seasonal","landscape","natural","no-people"]
-}
+},
 
 {
 id:"25K070113",
