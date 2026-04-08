@@ -578,9 +578,8 @@ tags:["sky","cloud","sun","blue-sky","summer","daytime","sunny","nature","backgr
 
 {
 id:"25K070152",
-tags:[]
+tags:["brick","stone","wall","texture","background","material","surface","pattern","detail","blue","rough","grunge","weathered","aged","masonry","construction","architecture","urban","industrial","copy-space","no-people"]
 },
-
 {
 id:"25K070153",
 tags:["hydrangea","ajisai","leaf","scenery","purple","blue","rainy-season","june","nature","japan"]
