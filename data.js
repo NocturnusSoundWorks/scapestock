@@ -563,17 +563,17 @@ tags:["sea","ocean","sky","blue-sky","summer","nature","water","coast","horizon"
 
 {
 id:"25K070149",
-tags:["flower","leaf","scenery","red","orange","pink","nature"]
+tags:["flower","nature","plant","botanical","blossom","petal","red","orange","yellow","spring","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
 },
 
 {
 id:"25K070150",
-tags:[]
+tags:["sky","blue-sky","clear-sky","tree","trees","green","nature","forest","foliage","leaves","outdoors","daytime","sunny","summer","fresh","natural","minimal","simple","copy-space","background","wallpaper","tranquil","peaceful","scenery","no-people"]
 },
 
 {
 id:"25K070151",
-tags:[]
+tags:["sky","cloud","sun","blue-sky","summer","daytime","sunny","nature","background","copy-space","wallpaper","outdoors","no-people"]
 },
 
 {
