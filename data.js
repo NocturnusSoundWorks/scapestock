@@ -596,8 +596,7 @@ tags:["flower","plant","botanical","blossom","petal","nature","green","fresh","n
 
 {
 id:"25K070158",
-tags:["city","urban"],
-city:"tokyo"
+tags:["city","urban","downtown","cityscape","street","road","crosswalk","pedestrian-crossing","intersection","town","metropolitan","city-life","urban-area","built-environment","street-scene","asphalt","traffic","transportation","walkway","no-people"],
 },
 
 {
@@ -607,9 +606,9 @@ tags:[]
 
 {
 id:"25K083002",
-tags:["city","urban"],
-city:"tokyo"  
+tags:["city","urban","downtown","cityscape","street","road","crosswalk","pedestrian-crossing","intersection","town","metropolitan","city-life","urban-area","built-environment","street-scene","asphalt","traffic","transportation","walkway","no-people"],
 },
+
 
 {
 id:"25K083003",
