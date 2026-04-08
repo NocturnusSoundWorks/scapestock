@@ -516,7 +516,7 @@ tags:["sky","tree","trees","forest","green","nature","outdoors","daytime","fresh
 
 {
 id:"25K070140",
-tags:["hydrangea","ajisai","leaf","scenery","purple","blue","rainy-season","june","nature","japan"]
+tags:["hydrangea","ajisai","flower","rainy-season","june","japan","purple","blue","nature","blossom","petal","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
 },
 
 {
