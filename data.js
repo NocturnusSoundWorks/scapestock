@@ -470,9 +470,10 @@ tags:["sky","sunset","cloud","colorful-sky","purple","pink","orange","gradient",
 },
 
 {
-id:"25K070130",
-tags:["leaf","scenery","black","white","rain","after-rain","shrine","japanese","roof","traditional-japanese","traditional"]
+id:"25K062147",
+tags:["nature","leaf","plant","black-and-white","monochrome","rain","rainy","after-rain","raindrop","wet","shrine","temple","roof","japanese","traditional","architecture","zen","minimal","aesthetic","japan","outdoors","background","wallpaper","copy-space","no-people"]
 },
+
 
 {
 id:"25K070132",
