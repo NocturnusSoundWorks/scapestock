@@ -496,22 +496,22 @@ tags:["forest","grass","leaf","green","nature","plant","botanical","sunlight","s
 
 {
 id:"25K070136",
-tags:["flower","leaf","scenery","purple","blue","rain","after-rain","eaves"]
+tags:["flower","hydrangea","ajisai","plant","botanical","blossom","petal","purple","blue","nature","rain","after-rain","wet","raindrop","water-droplet","eaves","japanese","traditional","garden","outdoors","seasonal","rainy-season","june","moody","calm","background","copy-space","no-people"]
 },
 
 {
 id:"25K070137",
-tags:["green","lawn","leaf","park","grass","nature"]
+tags:["grass","lawn","green","park","field","meadow","nature","outdoors","fresh","natural","spring","summer","sunlight","sunny","landscape","scenery","open-space","calm","peaceful","background","copy-space","no-people"]
 },
 
 {
 id:"25K070138",
-tags:["hydrangea","ajisai","leaf","scenery","purple","blue","rainy-season","june","nature","japan"]
+tags:["hydrangea","ajisai","flower","rainy-season","june","japan","purple","blue","nature","blossom","petal","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
 },
 
 {
 id:"25K070139",
-tags:["sky","green","tree","blue","daytime","nature"]
+tags:["sky","tree","trees","forest","green","nature","outdoors","daytime","fresh","natural","landscape","scenery","leaf","foliage","peaceful","tranquil","background","copy-space","no-people"]
 },
 
 {
