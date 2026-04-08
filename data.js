@@ -1103,10 +1103,10 @@ tags:["city","downtown","green","tree","pine","scenery","nature"]
 id:"26K032654",
 tags:["sky","swamp","lakeside","cloud","blue","scenery","nature"]
 }, 
-{
+/*{
 id:"26K032655",
 tags:["temple","gate","red","shrine","buddhist-temple","traditional","chiba","ichikawa","japan","japanese-style"]
-}, 
+}, */
 {
 id:"26K032656",
 tags:["cityscape","building","road","street","city","skyscrapers","tokyo","japan","ginza","night","nightscape","illuminated"]  
@@ -1120,10 +1120,10 @@ tags:["temple","stairs","sky","scenery","sunny","shrine","traditional","cityscap
 id:"26K032658",
 tags:["city","downtown","cityscape","shrine","temple","scenery","chiba","ichikawa","traditional","japan"]  
 }, 
-{
+/*{
 id:"26K032659",
 tags:["temple","gate","red","shrine","buddhist-temple","traditional","chiba","ichikawa","japan","japanese-style"]
-}, 
+},
 {
 id:"26K032660",
 tags:["temple","gate","red","shrine","buddhist-temple","traditional","chiba","ichikawa","japan","japanese-style"]
@@ -1139,7 +1139,9 @@ tags:["temple","gate","red","shrine","buddhist-temple","traditional","chiba","ic
 {
 id:"26K032663",
 tags:["temple","roof","pine","main-hall","shrine","buddhist-temple","traditional","chiba","ichikawa","japan","japanese-style"]
-},   
+}, */
+
+  
 {
 id:"26K032664",
 tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring","nature","japan"]
@@ -1231,11 +1233,12 @@ tags:["swamp","daytime","water","nature","chiba","road","lakeside"]
 {
 id:"26K040110",
 tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring","nature","shrine","traditional","japan","approach-path"]
-},    
-{
+},
+  
+/*{
 id:"26K040111",
 tags:["temple","shrine","approach-path","red","bridge","pagoda","traditional","chiba","japan"]
-},   
+},
 {
 id:"26K040112",
 tags:["temple","shrine","approach-path","pagoda","traditional","chiba","japan"]
@@ -1243,7 +1246,9 @@ tags:["temple","shrine","approach-path","pagoda","traditional","chiba","japan"]
 {
 id:"26K040113",
 tags:["flower","sakura","cherry-blossom","temple","main hall","shrine","approach-path","traditional","chiba","japan"]
-},
+}, */
+
+  
 {
 id:"26K040114",
 tags:["flower","sakura","cherry-blossom","temple","stone lantern","temple","shrine","approach-path","traditional","chiba","japan"]
@@ -1252,34 +1257,35 @@ tags:["flower","sakura","cherry-blossom","temple","stone lantern","temple","shri
 id:"26K040115",
 tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring","nature","temple","shrine","traditional","japan","approach-path"]
 },   
-{
+/*{
 id:"26K040116",
 tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring","nature","temple","shrine","traditional","chiba","japan","japanese-style","japanese-garden"]
 },  
 {
 id:"26K040117",
 tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring","nature","temple","shrine","traditional","chiba","japan","japanese-style","japanese-garden"]
-},
+},*/
 {
 id:"26K040118",
 tags:["leaf","scenery","pink","white","spring","nature","temple","shrine","traditional","chiba","japan","japanese-style","japanese-garden"]
 },
-{
+/*{
 id:"26K040119",
 tags:["sky","sunny","temple","shrine","main-hall","roof","traditional","chiba","japan"]
-},
+},*/
 {
 id:"26K040120",
 tags:["sky","cloud","cloudy","black","nature"]
 },
 {
-id:"26K040121",
+/*id:"26K040121",
 tags:["temple","shrine","approach-path","torii","gate","traditional","japanese-style","ichikawa","chiba","japan"]
 },
 {
 id:"26K040122",
 tags:["temple","shrine","approach-path","torii","gate","traditional","japanese-style","ichikawa","chiba","japan"]
-},
+},*/
+  
 {
 id:"26K040123",
 tags:["temple","shrine","approach-path","torii","gate","traditional","japanese-style","ichikawa","chiba","japan"]
@@ -1288,14 +1294,15 @@ tags:["temple","shrine","approach-path","torii","gate","traditional","japanese-s
 id:"26K040124",
 tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring","nature","temple","shrine","traditional","japan","approach-path"]
 },     
-{
+/*{
 id:"26K040125",
 tags:["leaf","scenery","white","spring","nature","temple","shrine","traditional","chiba","japan","japanese-style","japanese-garden"]
 },
 {
 id:"26K040126",
 tags:["temple","shrine","main-hall","traditional","sunny","japanese-style","ichikawa","chiba","japan"]
-},
+},*/
+  
 {
 id:"26K040127",
 tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring","nature","temple","traditional","japan"]
