@@ -582,7 +582,7 @@ tags:["brick","stone","wall","texture","background","material","surface","patter
 },
 {
 id:"25K070153",
-tags:["hydrangea","ajisai","leaf","scenery","purple","blue","rainy-season","june","nature","japan"]
+tags:["hydrangea","ajisai","flower","plant","botanical","blossom","petal","white","purple","blue","nature","japan","rainy-season","june","seasonal","rain","after-rain","wet","raindrop","water-droplet","garden","outdoors","fresh","natural","background","copy-space","no-people"]
 },
 
 {
