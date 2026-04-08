@@ -329,12 +329,12 @@ tags:["sky","blue-sky","clear-sky","tree","trees","green","nature","forest","fol
 id:"25K070101",
 tags:["flower"]
 },
-
 {
 id:"25K070102",
 tags:["duck","bird","waterfowl","pond","water","nature","animal","wildlife","lake","swimming","floating","outdoors","natural","habitat","calm","reflection","daytime","no-people"]
-}
+},
 
+  
 {
 id:"25K070103",
 tags:["duck","bird","waterfowl","pond","water","nature","animal","wildlife","lake","swimming","floating","outdoors","natural","habitat","calm","reflection","daytime","no-people"]
@@ -347,7 +347,7 @@ tags:["duck","bird","waterfowl","pond","water","nature","animal","wildlife","lak
 
 {
 id:"25K070105",
-tags:["leaf","green","tree","sunlight","sun","nature"]
+tags:["forest","grass","leaf","green","nature","plant","botanical","sunlight","sun","light","fresh","bright","outdoors","background","copy-space","wallpaper","no-people"]
 },
 
 {
