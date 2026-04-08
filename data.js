@@ -600,6 +600,11 @@ tags:["city","urban","downtown","cityscape","street","road","crosswalk","pedestr
 },
 
 {
+id:"25K070158",
+tags:["mountain","mountains","sky","cloud","clouds","road","path","trail","mountain-road","mountain-path","countryside","nature","landscape","scenery","outdoors","hiking","travel","scenic","no-people"],
+},  
+
+{
 id:"25K083001",
 tags:[]
 },
