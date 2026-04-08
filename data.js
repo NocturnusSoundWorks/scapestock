@@ -531,28 +531,30 @@ tags:["cloud","blue","white","scenery","countryside","daytime","sunny","rice-fie
 
 {
 id:"25K070143",
-tags:["sky","summer","sea","beach","nature"]
+tags:["sea","ocean","beach","coast","shore","summer","nature","water","blue","sky","sand","seaside","wave","horizon","outdoors","travel","vacation","scenery","landscape","sunny","daytime","no-people"]
 },
 
 {
 id:"25K070144",
-tags:["summer","sea","beach","nature"]
+tags:["sea","ocean","beach","coast","shore","summer","nature","water","blue","sky","sand","seaside","wave","horizon","outdoors","travel","vacation","scenery","landscape","sunny","daytime","no-people"]
 },
 
 {
 id:"25K070145",
-tags:["sky","summer","sea","nature"]
+tags:["sea","ocean","sky","blue-sky","summer","nature","water","coast","horizon","seascape","outdoors","sunny","daytime","travel","vacation","scenery","landscape","calm","peaceful","background","copy-space","no-people"]
 },
 
 {
 id:"25K070146",
-tags:["summer","sea","beach","nature"]
+tags:["sea","ocean","beach","coast","shore","summer","nature","water","blue","sky","sand","seaside","wave","horizon","outdoors","travel","vacation","scenery","landscape","sunny","daytime","no-people"]
 },
+
 
 {
 id:"25K070147",
-tags:["summer","sea","beach","nature"]
+tags:["sea","ocean","beach","coast","shore","summer","nature","water","blue","sky","sand","seaside","wave","horizon","outdoors","travel","vacation","scenery","landscape","sunny","daytime","no-people"]
 },
+
 
 {
 id:"25K070148",
