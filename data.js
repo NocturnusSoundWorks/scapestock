@@ -329,6 +329,7 @@ tags:["sky","blue-sky","clear-sky","tree","trees","green","nature","forest","fol
 id:"25K070101",
 tags:["flower"]
 },
+
 {
 id:"25K070102",
 tags:["duck","bird","waterfowl","pond","water","nature","animal","wildlife","lake","swimming","floating","outdoors","natural","habitat","calm","reflection","daytime","no-people"]
@@ -352,14 +353,14 @@ tags:["forest","grass","leaf","green","nature","plant","botanical","sunlight","s
 
 {
 id:"25K070106",
-tags:["nature","animal","bird","duck","pond"]
+tags:["duck","bird","waterfowl","pond","water","nature","animal","wildlife","lake","swimming","floating","outdoors","natural","habitat","calm","reflection","daytime","no-people"]
 },
-
+  
 {
 id:"25K070107",
-tags:["nature","animal","bird","duck","pond"]
+tags:["duck","bird","waterfowl","pond","water","nature","animal","wildlife","lake","swimming","floating","outdoors","natural","habitat","calm","reflection","daytime","no-people"]
 },
-
+  
 {
 id:"25K070108",
 tags:["cloud","blue","white","scenery","countryside","daytime","sunny","rice-field","green","koinobori","nature","traditional-japanese","japan","traditional"]
