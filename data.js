@@ -606,7 +606,7 @@ tags:["mountain","mountains","sky","cloud","clouds","road","path","trail","mount
 
 {
 id:"25K083001",
-tags:[]
+tags:["hydrangea","ajisai","flower","rainy-season","june","japan","purple","blue","nature","blossom","petal","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
 },
 
 {
@@ -614,15 +614,14 @@ id:"25K083002",
 tags:["city","urban","downtown","cityscape","street","road","crosswalk","pedestrian-crossing","intersection","town","metropolitan","city-life","urban-area","built-environment","street-scene","asphalt","traffic","transportation","walkway","no-people"],
 },
 
-
 {
 id:"25K083003",
-tags:[]
+tags:["brick","stone","wall","texture","background","material","surface","pattern","detail","rough","grunge","weathered","aged","masonry","construction","architecture","urban","industrial","copy-space","no-people"]
 },
 
 {
 id:"25K083004",
-tags:[]
+tags:["sky","blue-sky","clear-sky","tree","trees","green","nature","forest","foliage","leaves","outdoors","daytime","sunny","summer","fresh","natural","minimal","simple","copy-space","background","wallpaper","tranquil","peaceful","scenery","no-people"]
 },
 
 {
