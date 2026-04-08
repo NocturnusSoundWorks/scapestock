@@ -428,42 +428,40 @@ tags:["flower","nature","plant","botanical","blossom","petal","red","purple","sp
 
 {
 id:"25K070121",
-tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring","nature","japan"]
+tags:["flower","nature","plant","botanical","blossom","petal","red","purple","spring","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
 },
-
 {
 id:"25K070122",
-tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring","nature","japan"]
+tags:["flower","nature","plant","botanical","blossom","petal","red","purple","spring","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
 },
 
 {
 id:"25K070123",
-tags:["summer","sea","beach"]
+tags:["sea","ocean","beach","coast","shore","summer","nature","water","blue","sky","sand","seaside","wave","horizon","outdoors","travel","vacation","scenery","landscape","sunny","daytime","no-people"]
 },
 
 {
 id:"25K070124",
-tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring","nature","japan"]
+tags:["flower","nature","plant","botanical","blossom","petal","red","purple","spring","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
 },
-
 {
 id:"25K070125",
-tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring","nature","japan"]
+tags:["flower","nature","plant","botanical","blossom","petal","red","purple","spring","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
 },
 
 {
 id:"25K070126",
-tags:["park","swing"]
+tags:["swing","playground","park","outdoor","play","childhood","kids","empty","seat","leisure","recreation","equipment","daytime","nature","green","calm","nostalgic","copy-space","no-people"]
 },
 
 {
 id:"25K070127",
-tags:["wall","plank","white","material","texture"]
+tags:["wood","plank","wooden","wall","white","texture","background","material","surface","pattern","panel","board","painted","clean","minimal","simple","detail","close-up","copy-space","no-people"]
 },
 
 {
 id:"25K070128",
-tags:["sky","cloud","sunset","sunny","purple","pink","nature"]
+tags:["sky","sunset","cloud","colorful-sky","purple","pink","orange","gradient","dusk","evening","twilight","nature","scenery","landscape","outdoors","dramatic","beautiful","background","copy-space","no-people"]
 },
 
 {
