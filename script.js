@@ -1,15 +1,24 @@
-function getLicense(tags) {
-  // 神社・寺は editorial
-  if (tags.includes("shrine") || tags.includes("temple")) {
+function getLicense(photo) {
+
+  // ① 手動指定（最優先）
+  if (photo.license === "editorial") {
     return "editorial";
   }
 
-  // 将来用（今はなくてもOK）
-  const risky = ["famous-place","landmark"];
-  if (tags.some(tag => risky.includes(tag))) {
+  if (photo.license === "commercial") {
+    return "commercial";
+  }
+
+  // ② 自動判定
+  const tags = photo.tags || [];
+
+  const autoEditorialTags = ["shrine","temple"];
+
+  if (tags.some(tag => autoEditorialTags.includes(tag))) {
     return "editorial";
   }
 
+  // ③ デフォルト
   return "commercial";
 }
 
@@ -273,7 +282,7 @@ download.download=photo.id+".jpg"
 download.innerText="Download"
 
 // ★追加
-const license = getLicense(photo.tags)
+const license = getLicense(photo)
 
 const licenseLabel = document.createElement("p")
 licenseLabel.className = "license"
