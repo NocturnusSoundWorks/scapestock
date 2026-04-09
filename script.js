@@ -1,12 +1,8 @@
 function getLicense(photo) {
 
   // ① 手動指定（最優先）
-  if (photo.license === "editorial") {
-    return "editorial";
-  }
-
-  if (photo.license === "commercial") {
-    return "commercial";
+  if (photo.license) {
+    return photo.license;
   }
 
   // ② 自動判定
