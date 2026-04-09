@@ -847,12 +847,12 @@ tags:["cityscape","city","urban","downtown","building","architecture","skyscrape
 },
 {
 id:"26K031444",
-tags:["swamp","daytime","water","nature","chiba"]
+tags:["lake","lakeside","water","swamp","wetland","tega-numa","chiba","japan","nature","scenery","landscape","road","path","daytime","outdoors","calm","peaceful","reflection","green","travel","background","copy-space","no-people"]
 },
 {
 id:"26K031445",
-tags:["swamp","daytime","water","nature","chiba","road","lakeside"]
-}, 
+tags:["lake","lakeside","water","swamp","wetland","tega-numa","chiba","japan","nature","scenery","landscape","road","path","daytime","outdoors","calm","peaceful","reflection","green","travel","background","copy-space","no-people"]
+},
 {
 id:"26K031446",
 tags:["cityscape","building","road","street","city","skyscrapers","nihonbashi","tokyo","japan"]
