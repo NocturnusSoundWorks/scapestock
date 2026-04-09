@@ -686,22 +686,24 @@ tags:["sky","cloud","sun","blue-sky","summer","daytime","sunny","nature","backgr
 
 {
 id:"26K031407",
-tags:["blue","daytime","sunny","building","city","structure","japan","chiba"]
+tags:["building","architecture","city","urban","cityscape","structure","modern","office-building","facade","glass","blue","sky","daytime","sunny","japan","chiba","outdoors","street","downtown","real-estate","no-people"],
+license:"editorial"
 },
 
 {
 id:"26K031408",
-tags:["blue","daytime","sunny","building","city","structure","japan","chiba"]
+tags:["building","architecture","city","urban","cityscape","structure","modern","office-building","facade","glass","blue","sky","daytime","sunny","japan","chiba","outdoors","street","downtown","real-estate","no-people"],
+license:"editorial"
 },
-
+  
 {
 id:"26K031409",
-tags:["blue","daytime","sunny","palm-tree","summer","nature"]
+tags:["palm-tree","palm","tropical","summer","nature","tree","green","leaf","blue-sky","sky","sunny","daytime","outdoors","beach","resort","vacation","travel","warm","sunlight","fresh","background","copy-space","no-people"]
 },
 
 {
 id:"26K031410",
-tags:["lantern","ice","japanese","japan"]
+tags:["lantern","japanese-lantern","haved-ice","kakigori","dessert","sweet","ice","frozen","cold","japan","japanese","summer","festival","traditional","light","glow","seasonal","cultural","event","atmosphere","background","copy-space","no-people"]
 },
 
 {
