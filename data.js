@@ -772,9 +772,8 @@ tags:["grass","green","nature","night","glow","light","luminous","illumination",
 },
 {
 id:"26K031425",
-tags:["tokyo","city","urban","daytime","river"]
+tags:["tokyo","japan","cityscape","urban","river","water","architecture","building","daytime","outdoors","travel","landmark","background","copy-space","no-people"]
 },
-
 {
 id:"26K031426",
 tags:["cityscape","building","road","street","city","alley","bridge","skyscrapers","japan"]
