@@ -708,22 +708,22 @@ tags:["lantern","japanese-lantern","haved-ice","kakigori","dessert","sweet","ice
 
 {
 id:"26K031411",
-tags:["woodgrain","texture","material","wall","background"]
+tags:["wood","woodgrain","wood-texture","texture","background","material","surface","pattern","detail","natural","brown","grain","timber","plank","board","wall","rustic","organic","close-up","copy-space","no-people"]
 },
 
 {
 id:"26K031412",
-tags:["blue","daytime","sunny","building","city","structure","japan","chiba"]
+tags:["building","architecture","city","urban","cityscape","structure","modern","office-building","facade","glass","blue","sky","daytime","sunny","japan","chiba","outdoors","street","downtown","real-estate","no-people"],
+license:"editorial"
 },
-
 {
 id:"26K031413",
-tags:["bridge","old","japanese","japan","architecture","countryside"]
+tags:["bridge","wooden-bridge","old","traditional","japanese","japan","architecture","structure","historic","heritage","countryside","rural","nature","river","water","scenery","landscape","outdoors","travel","cultural","background","copy-space","no-people"]
 },
 
 {
 id:"26K031414",
-tags:["cloud","sun","light","sunny","white","nature"]
+tags:["sky","cloud","sun","blue-sky","summer","daytime","sunny","nature","background","copy-space","wallpaper","outdoors","no-people"]
 },
 
 {
