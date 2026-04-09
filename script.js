@@ -185,7 +185,7 @@ img.alt = generateTitle(photo);
 img.loading="lazy"
 
 // ★追加：ライセンス取得
-const license = getLicense(photo.tags)
+const license = getLicense(photo)
 
 // ★追加：表示用テキスト
 const licenseLabel = document.createElement("p")
