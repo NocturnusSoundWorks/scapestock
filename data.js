@@ -951,7 +951,7 @@ tags:["cityscape","city","urban","downtown","ginza","tokyo","japan","night","nig
 },
 {
 id:"26K032618",
-tags:["flower","white","nature","leaf"]    
+"tags":["flower","magnolia","white-flower","blossom","petal","spring","nature","plant","botanical","branch","tree","blue-sky","sky","outdoors","daytime","sunny","fresh","natural","bloom","seasonal","scenery","landscape","delicate","beauty","background","copy-space","no-people"]    
 },     
 {
 id:"26K032619",
