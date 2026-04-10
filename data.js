@@ -943,12 +943,12 @@ tags:["cityscape","city","urban","downtown","ginza","tokyo","japan","night","nig
 },
 {
 id:"26K032616",
-tags:["shutter","texture","material","old","rusty","wall","iron"]
+tags:["shutter","metal","iron","rusty","rust","old","weathered","texture","material","wall","surface","pattern","grunge","industrial","urban","detail","close-up","background","copy-space","no-people"]
 },
 {
 id:"26K032617",
-tags:["cityscape","building","road","street","city","skyscrapers","tokyo","japan","ginza","night","nightscape","illuminated"]  
-},   
+tags:["cityscape","city","urban","downtown","ginza","tokyo","japan","night","nightscape","illuminated","lighting","neon","building","architecture","skyscraper","high-rise","office-building","street","road","traffic","car","vehicle","transportation","business-district","modern","metropolitan","outdoors","travel"]
+},
 {
 id:"26K032618",
 tags:["flower","white","nature","leaf"]    
