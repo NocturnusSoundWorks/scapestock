@@ -1142,8 +1142,8 @@ tags:["sakura","cherry-blossom","flower","spring","japan","pink","nature","bloss
 }, 
 {
 id:"26K032665",
-tags:["flower","sakura","cherry-blossom","leaf","scenery","pink","white","spring","nature","japan"]
-},
+tags:["sakura","cherry-blossom","flower","spring","japan","pink","nature","blossom","petal","tree","seasonal","outdoors","background","copy-space","wallpaper","water-droplet","after-rain","rain","no-people"]
+}, 
 {
 id:"26K032666",
 tags:["road","street","alley","bridge","red","downtown","japan","traditional"]
