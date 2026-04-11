@@ -1067,7 +1067,7 @@ tags:["sky","blue-sky","tree","trees","pine","green","nature","outdoors","daytim
 },
 {
 id:"26K032647",
-{"tags":["stairs","stone-steps","stairway","steps","path","approach","temple","shrine","japanese","japan","traditional","architecture","entrance","gate","torii","handrail","red-rail","outdoors","daytime","sunny","sky","blue-sky","tree","forest","nature","scenery","landscape","travel","cultural","no-people"]}
+{"tags":["stairs","stone-steps","stairway","steps","path","approach","temple","shrine","japanese","japan","traditional","architecture","entrance","gate","torii","handrail","red-rail","outdoors","daytime","sunny","sky","blue-sky","tree","forest","nature","scenery","landscape","travel","cultural","no-people"]
 },
 {
 id:"26K032648",
