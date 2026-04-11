@@ -1095,8 +1095,7 @@ tags:["city","urban","downtown","cityscape","street","road","building","architec
 }, 
 {
 id:"26K032654",
-tags:["nature","landscape","lakeside","swamp","wetland","water","sky","cloud","blue-sky","outdoors","daytime","sunny","scenery","calm","peaceful","tranquil","reflection","green","natural","environment","background","copy-space","no-people"
-]
+tags:["nature","landscape","lakeside","swamp","wetland","water","sky","cloud","blue-sky","outdoors","daytime","sunny","scenery","calm","peaceful","tranquil","reflection","green","natural","environment","background","copy-space","no-people"]
 },
 /*{
 id:"26K032655",
