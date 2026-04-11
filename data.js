@@ -596,12 +596,12 @@ tags:["flower","plant","botanical","blossom","petal","nature","green","fresh","n
 
 {
 id:"25K070158",
-tags:["city","urban","downtown","cityscape","street","road","crosswalk","pedestrian-crossing","intersection","town","metropolitan","city-life","urban-area","built-environment","street-scene","asphalt","traffic","transportation","walkway","no-people"],
+tags:["city","urban","downtown","cityscape","street","road","crosswalk","pedestrian-crossing","intersection","town","metropolitan","city-life","urban-area","built-environment","street-scene","asphalt","traffic","transportation","walkway","no-people"]
 },
 
 {
 id:"25K070159",
-tags:["mountain","mountains","sky","cloud","clouds","road","path","trail","mountain-road","mountain-path","countryside","nature","landscape","scenery","outdoors","hiking","travel","scenic","no-people"],
+tags:["mountain","mountains","sky","cloud","clouds","road","path","trail","mountain-road","mountain-path","countryside","nature","landscape","scenery","outdoors","hiking","travel","scenic","no-people"]
 },  
 
 {
@@ -611,7 +611,7 @@ tags:["hydrangea","ajisai","flower","rainy-season","june","japan","purple","blue
 
 {
 id:"25K083002",
-tags:["city","urban","downtown","cityscape","street","road","crosswalk","pedestrian-crossing","intersection","town","metropolitan","city-life","urban-area","built-environment","street-scene","asphalt","traffic","transportation","walkway","no-people"],
+tags:["city","urban","downtown","cityscape","street","road","crosswalk","pedestrian-crossing","intersection","town","metropolitan","city-life","urban-area","built-environment","street-scene","asphalt","traffic","transportation","walkway","no-people"]
 },
 
 {
@@ -641,7 +641,7 @@ tags:["hydrangea","ajisai","flower","rainy-season","june","japan","purple","blue
 
 {
 id:"25K083008",
-tags:["mountain","mountains","sky","cloud","clouds","road","path","trail","mountain-path","countryside","nature","landscape","scenery","outdoors","hiking","travel","scenic","no-people"],
+tags:["mountain","mountains","sky","cloud","clouds","road","path","trail","mountain-path","countryside","nature","landscape","scenery","outdoors","hiking","travel","scenic","no-people"]
 },  
 {
 id:"25K083009",
@@ -703,7 +703,7 @@ tags:["palm-tree","palm","tropical","summer","nature","tree","green","leaf","blu
 
 {
 id:"26K031410",
-tags:["lantern","japanese-lantern","haved-ice","kakigori","dessert","sweet","ice","frozen","cold","japan","japanese","summer","festival","traditional","light","glow","seasonal","cultural","event","atmosphere","background","copy-space","no-people"]
+tags:["lantern","japanese-lantern","shaved-ice","kakigori","dessert","sweet","ice","frozen","cold","japan","japanese","summer","festival","traditional","light","glow","seasonal","cultural","event","atmosphere","background","copy-space","no-people"]
 },
 
 {
@@ -740,7 +740,7 @@ tags:["forest","grass","leaf","green","nature","plant","botanical","sunlight","s
 },
 {
 id:"26K031418",
-tags:["cityscape","city","urban","downtown","building","architecture","skyscraper","high-rise","office-building","street","road","traffic","transportation","modern","business-district","skyline","tokyo","japan","daytime","outdoors","travel","metropolitan","no-people"],city:"tokyo"
+tags:["cityscape","city","urban","downtown","building","architecture","skyscraper","high-rise","office-building","street","road","traffic","transportation","modern","business-district","skyline","tokyo","japan","daytime","outdoors","travel","metropolitan","no-people"]
 },
 
 {
@@ -749,7 +749,7 @@ tags:["cityscape","city","urban","downtown","building","architecture","skyscrape
 },
 {
 id:"26K031420",
-tags:["cityscape","city","urban","downtown","building","architecture","skyscraper","high-rise","office-building","street","road","traffic","transportation","modern","business-district","skyline","tokyo","japan","daytime","outdoors","travel","metropolitan","no-people"],city:"tokyo"
+tags:["cityscape","city","urban","downtown","building","architecture","skyscraper","high-rise","office-building","street","road","traffic","transportation","modern","business-district","skyline","tokyo","japan","daytime","outdoors","travel","metropolitan","no-people"]
 },
 
 {
@@ -775,7 +775,7 @@ tags:["tokyo","japan","cityscape","urban","river","water","architecture","buildi
 },
 {
 id:"26K031426",
-tags:["cityscape","city","urban","downtown","building","architecture","skyscraper","high-rise","office-building","street","road","traffic","transportation","modern","business-district","skyline","tokyo","japan","daytime","outdoors","travel","metropolitan","no-people"],city:"tokyo"
+tags:["cityscape","city","urban","downtown","building","architecture","skyscraper","high-rise","office-building","street","road","traffic","transportation","modern","business-district","skyline","tokyo","japan","daytime","outdoors","travel","metropolitan","no-people"]
 },
 {
 id:"26K031427",
@@ -918,7 +918,7 @@ id:"26K032609",
 tags:["park","urban-park","night","nightscape","illuminated","lighting","lamp","streetlight","dark","calm","quiet","tree","nature","green","outdoors","ginza","tokyo","japan","city","urban","scenery","atmosphere","moody","background","copy-space","no-people"]
 },
 {
-id:"26K032610 ",
+id:"26K032610",
 tags:["park","urban-park","night","nightscape","illuminated","lighting","lamp","streetlight","dark","calm","quiet","tree","nature","green","outdoors","ginza","tokyo","japan","city","urban","scenery","atmosphere","moody","background","copy-space","no-people"]
 },
 {
