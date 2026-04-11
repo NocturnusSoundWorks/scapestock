@@ -1091,7 +1091,7 @@ tags:["sakura","cherry-blossom","flower","spring","japan","pink","nature","bloss
 }, 
 {
 id:"26K032653",
-tags:["city","downtown","green","tree","pine","scenery","nature"]
+tags:["city","urban","downtown","cityscape","street","road","building","architecture","tree","pine","pine-tree","nature","greenery","blue-sky","sky","sunny","daytime","outdoors","japan","japanese-city","chiba","ichikawa","residential","area","neighborhood","street-scene","infrastructure","traffic-sign","sign","crosswalk","pedestrian-crossing","urban-nature","contrast","landscape","copy-space","no-people"]
 }, 
 {
 id:"26K032654",
