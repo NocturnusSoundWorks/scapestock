@@ -1372,6 +1372,9 @@ tags:["flower","plant","botanical","blossom","petal","yellow","nature","spring",
 id:"26K041203",
 tags:["hydrangea","ajisai","flower","rainy-season","june","japan","purple","blue","nature","blossom","petal","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
 },
-  
+{
+id:"26K041204",
+tags:["playground","park","slide","swing","equipment","outdoor","outdoors","daytime","sunny","leisure","recreation","childhood","empty","no-people","safety","public-space","japan","background","copy-space"]
+},  
 ];
 
