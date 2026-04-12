@@ -1384,7 +1384,10 @@ tags:["flower","sky","blue-sky","plant","botanical","blossom","petal","pink","na
 id:"26K041206",
 tags:["cityscape","city","urban","downtown","building","architecture","skyscraper","high-rise","office-building","street","road","traffic","transportation","modern","business-district","skyline","tokyo","japan","daytime","outdoors","travel","metropolitan","no-people"]
 },  
-
+{
+id:"26K041207",
+tags:["cityscape","city","urban","downtown","ginza","tokyo","japan","night","nightscape","illuminated","lighting","neon","building","architecture","skyscraper","high-rise","office-building","street","road","traffic","car","vehicle","transportation","business-district","modern","metropolitan","outdoors","travel"]
+},
   
 ];
 
