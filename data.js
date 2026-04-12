@@ -1380,6 +1380,11 @@ tags:["playground","park","slide","swing","equipment","outdoor","outdoors","dayt
 id:"26K041205",
 tags:["flower","sky","blue-sky","plant","botanical","blossom","petal","pink","nature","spring","fresh","natural","outdoors","floral","soft","delicate","beauty","scenery","background","copy-space","no-people"]
 },
+{
+id:"26K041206",
+tags:["cityscape","city","urban","downtown","building","architecture","skyscraper","high-rise","office-building","street","road","traffic","transportation","modern","business-district","skyline","tokyo","japan","daytime","outdoors","travel","metropolitan","no-people"]
+},  
+
   
 ];
 
