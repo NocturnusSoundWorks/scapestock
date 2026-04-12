@@ -1388,6 +1388,10 @@ tags:["cityscape","city","urban","downtown","building","architecture","skyscrape
 id:"26K041207",
 tags:["cityscape","city","urban","downtown","ginza","tokyo","japan","night","nightscape","illuminated","lighting","neon","building","architecture","skyscraper","high-rise","office-building","street","road","traffic","car","vehicle","transportation","business-district","modern","metropolitan","outdoors","travel"]
 },
+{
+id:"26K041208",
+tags:["iron","metal","metal-plate","plate","round-hole","hole","perforated","industrial","material","texture","surface","pattern","grunge","rust","rusty","weathered","old","detail","close-up","abstract","background","backdrop","copy-space","no-people"]
+},
   
 ];
 
