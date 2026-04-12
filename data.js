@@ -1375,6 +1375,11 @@ tags:["hydrangea","ajisai","flower","rainy-season","june","japan","purple","blue
 {
 id:"26K041204",
 tags:["playground","park","slide","swing","equipment","outdoor","outdoors","daytime","sunny","leisure","recreation","childhood","empty","no-people","safety","public-space","japan","background","copy-space"]
-},  
+},
+{
+id:"26K041205",
+tags:["flower","sky","blue-sky","plant","botanical","blossom","petal","pink","nature","spring","fresh","natural","outdoors","floral","soft","delicate","beauty","scenery","background","copy-space","no-people"]
+},
+  
 ];
 
