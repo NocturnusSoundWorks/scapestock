@@ -1367,6 +1367,11 @@ tags:["forest","grass","leaf","green","nature","plant","botanical","sunlight","s
 id:"26K041202",
 tags:["flower","plant","botanical","blossom","petal","yellow","nature","spring","fresh","natural","outdoors","floral","bright","vibrant","beauty","scenery","background","copy-space","no-people"]
 },  
+
+{
+id:"26K041203",
+tags:["hydrangea","ajisai","flower","rainy-season","june","japan","purple","blue","nature","blossom","petal","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
+},
   
 ];
 
