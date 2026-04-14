@@ -181,6 +181,11 @@ img.src="images/thu/"+photo.id+"_thu.jpg"
 img.alt = generateTitle(photo);
 img.loading="lazy"
 
+// 👇画像が読み込まれてから高さ計算
+img.addEventListener("load", () => {
+  resizeGridItems()
+})  
+
 // ★追加：ライセンス取得
 const license = getLicense(photo)
 
@@ -196,8 +201,7 @@ gallery.appendChild(link)
 
 })
   
-resizeGridItems()
-window.dispatchEvent(new Event("resize"))   
+
 
 loading=false
 currentPage++
@@ -334,29 +338,7 @@ loadRelatedPhotos(photo)
 
 }
 
-function createLoadMoreButton(){
 
-const btn = document.createElement("div")
-btn.id = "load-more-btn"
-btn.textContent = "Load More Photos"
-
-btn.style.textAlign = "center"
-btn.style.margin = "40px 0"
-btn.style.cursor = "pointer"
-btn.style.display = "none" // 最初は隠す
-
-btn.addEventListener("click",()=>{
-
-if(loading) return
-
-loading = true
-loadMorePhotos()
-
-})
-
-document.getElementById("gallery").after(btn)
-
-}
 
 /* --------------------------
    検索フォーム
