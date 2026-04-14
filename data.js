@@ -1448,7 +1448,10 @@ tags:["sky","cloud","rain","rainy","after","rain","nature","landscape","rural","
 id:"26K041222",
 tags:["japan","tokyo","city","urban","street","road","railway","railroad","crossing","level-crossing","train-crossing","signal","traffic-light","red-light","building","architecture","residential","daytime","sunny","outdoors","infrastructure","transportation","downtown","neighborhood","background","copy-space","no-people"]
 },
-
+{
+id:"26K041223",
+tags:["brick","stone","wall","texture","background","material","surface","pattern","detail","rough","grunge","weathered","aged","masonry","construction","architecture","urban","industrial","copy-space","no-people"]
+},
   
 ];
 
