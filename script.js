@@ -112,6 +112,7 @@ return copied
 -------------------------- */
 
 const PER_PAGE=40
+const AUTO_LOAD_LIMIT = 200
 let currentPage=1
 let shuffledPhotos=[]
 let loading=false
@@ -152,7 +153,7 @@ photo.tags.map(t=>t.toLowerCase()).includes(word)
 
 /* 最初の40枚表示 */
 loadMorePhotos()
-
+createLoadMoreButton()
 }
 
 /* --------------------------
@@ -200,9 +201,46 @@ window.dispatchEvent(new Event("resize"))
 
 loading=false
 currentPage++
+  
+// 👇ここから追加
+const totalLoaded = currentPage * PER_PAGE
+const btn = document.getElementById("load-more-btn")
 
+if(btn){
+
+if(totalLoaded >= 200){
+btn.style.display = "block"
+}else{
+btn.style.display = "none"
 }
 
+}
+// 👆ここまで追加
+}
+
+function createLoadMoreButton(){
+
+const btn = document.createElement("div")
+btn.id = "load-more-btn"
+btn.textContent = "Load More Photos"
+
+btn.style.textAlign = "center"
+btn.style.margin = "40px 0"
+btn.style.cursor = "pointer"
+btn.style.display = "none"
+
+btn.addEventListener("click",()=>{
+
+if(loading) return
+
+loading = true
+loadMorePhotos()
+
+})
+
+document.getElementById("gallery").after(btn)
+
+}
 /* --------------------------
    無限スクロール
 -------------------------- */
@@ -211,9 +249,14 @@ window.addEventListener("scroll",()=>{
 
 if(loading) return
 
-if(window.innerHeight+window.scrollY>=document.body.offsetHeight-600){
+// 👇これを追加（ここが重要）
+if(currentPage * PER_PAGE >= 200){
+return
+}
 
-loading=true
+if(window.innerHeight + window.scrollY >= document.body.offsetHeight - 600){
+
+loading = true
 loadMorePhotos()
 
 }
@@ -288,6 +331,30 @@ photoContainer.appendChild(img)
 photoContainer.appendChild(licenseLabel) // ←追加
 photoContainer.appendChild(download)
 loadRelatedPhotos(photo)   
+
+}
+
+function createLoadMoreButton(){
+
+const btn = document.createElement("div")
+btn.id = "load-more-btn"
+btn.textContent = "Load More Photos"
+
+btn.style.textAlign = "center"
+btn.style.margin = "40px 0"
+btn.style.cursor = "pointer"
+btn.style.display = "none" // 最初は隠す
+
+btn.addEventListener("click",()=>{
+
+if(loading) return
+
+loading = true
+loadMorePhotos()
+
+})
+
+document.getElementById("gallery").after(btn)
 
 }
 
