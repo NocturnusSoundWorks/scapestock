@@ -1468,7 +1468,10 @@ tags:["flower","nature","plant","botanical","blossom","petal","red","purple","sp
 id:"26K041227",
 tags:["roof","traditional","japanese","japanese-style","architecture","structure","building","temple-roof","shrine-roof","tile-roof","culture","heritage","historic","detail","close-up","outdoors","daytime","sunny","travel","destination","chiba","japan","background","copy-space","no-people"]
 },
-
+{
+id:"26K041228",
+tags:["sakura","cherry-blossom","flower","spring","japan","pink","nature","blossom","petal","tree","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
+},
   
 ];
 
