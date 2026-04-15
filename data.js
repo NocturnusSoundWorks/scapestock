@@ -1452,6 +1452,18 @@ tags:["japan","tokyo","city","urban","street","road","railway","railroad","cross
 id:"26K041223",
 tags:["brick","stone","wall","texture","background","material","surface","pattern","detail","rough","grunge","weathered","aged","masonry","construction","architecture","urban","industrial","copy-space","no-people"]
 },
+{
+id:"26K041224",
+tags:["flower","nature","plant","botanical","blossom","petal","red","purple","spring","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
+},  
+{
+id:"26K041225",
+tags:["hydrangea","ajisai","flower","rainy-season","june","japan","purple","blue","nature","blossom","petal","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
+},
+{
+id:"26K041226",
+tags:["flower","nature","plant","botanical","blossom","petal","red","purple","spring","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
+},  
   
 ];
 
