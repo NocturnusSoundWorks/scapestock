@@ -1464,6 +1464,11 @@ tags:["hydrangea","ajisai","flower","rainy-season","june","japan","purple","blue
 id:"26K041226",
 tags:["flower","nature","plant","botanical","blossom","petal","red","purple","spring","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
 },  
+{
+id:"26K041227",
+tags:["roof","traditional","japanese","japanese-style","architecture","structure","building","temple-roof","shrine-roof","tile-roof","culture","heritage","historic","detail","close-up","outdoors","daytime","sunny","travel","destination","chiba","japan","background","copy-space","no-people"]
+},
+
   
 ];
 
