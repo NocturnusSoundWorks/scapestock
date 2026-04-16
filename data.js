@@ -1504,6 +1504,16 @@ tags:["sakura","cherry-blossom","flower","spring","japan","pink","nature","bloss
 id:"26K041236",
 tags:["nature","landscape","countryside","railway","railroad","railroad-crossing","crossing","train","track","train-track","transportation","infrastructure","street","road","traffic","commute","travel","japan","japanese-city","outdoors","daytime","scenery","landscape","background","copy-space","no-people"]
 },
+{
+id:"26K041237",
+tags["japan","wood","wooden","timber","wall","panel","plank","board","siding","texture","material","background","pattern","surface","brown","weathered","aged","old","rustic","traditional","architecture","building","exterior","grain","woodgrain","detail","close-up","copy-space","wallpaper","no-people"]
+},
+
+
+
+
+
+
   
 ];
 
