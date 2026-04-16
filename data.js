@@ -1556,7 +1556,14 @@ tags:["brick","stone","wall","texture","background","material","surface","patter
 id:"26K041249",
 tags:["wood","wooden","timber","wall","panel","screen","sliding-door","lattice","grid","pattern","geometry","interior","architecture","building","detail","texture","surface","brown","white","minimal","zen","rustic","background","wallpaper","japan","traditional","japanese-style","copy-space","no-people"]
 },  
-
+{
+id:"26K041250",
+tags:["japan","onsen","hot-spring","geothermal","steam","smoke","vapor","mist","industrial","facility","plant","equipment","pipe","tank","metal","infrastructure","town","city","urban","residential","sky","cloud","sun","sunlight","blue-sky","daytime","outdoors","travel","destination","tourism","traditional","culture","background","copy-space","beppu","ooita","kyusyu","japan","no-people"]
+},  
+{
+id:"26K041251",
+tags:["japan","onsen","hot-spring","geothermal","steam","smoke","vapor","mist","industrial","facility","plant","equipment","pipe","tank","metal","infrastructure","town","city","urban","residential","sky","cloud","sun","sunlight","blue-sky","daytime","outdoors","travel","destination","tourism","traditional","culture","background","copy-space","beppu","ooita","kyusyu","japan","no-people"]
+},
   
 ];
 
