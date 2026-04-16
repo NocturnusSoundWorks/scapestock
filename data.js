@@ -1544,6 +1544,10 @@ tags:["japan","wood","wooden","timber","wall","panel","plank","board","siding","
 id:"26K041246",
 tags:["japan","wood","wooden","timber","wall","panel","plank","board","siding","texture","material","background","pattern","surface","brown","weathered","aged","old","rustic","traditional","architecture","building","exterior","grain","woodgrain","detail","close-up","copy-space","wallpaper","no-people"]
 },
+{
+id:"26K041247",
+tags:["wood","wooden","timber","wall","panel","screen","sliding-door","lattice","grid","pattern","geometry","interior","architecture","building","detail","texture","surface","brown","white","minimal","zen","rustic","background","wallpaper","japan","traditional","japanese-style","copy-space","no-people"]
+},  
   
 ];
 
