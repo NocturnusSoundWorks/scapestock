@@ -1564,6 +1564,9 @@ tags:["japan","onsen","hot-spring","geothermal","steam","smoke","vapor","mist","
 id:"26K041251",
 tags:["japan","onsen","hot-spring","geothermal","steam","smoke","vapor","mist","industrial","facility","plant","equipment","pipe","tank","metal","infrastructure","town","city","urban","residential","sky","cloud","sun","sunlight","blue-sky","daytime","outdoors","travel","destination","tourism","traditional","culture","background","copy-space","beppu","ooita","kyusyu","japan","no-people"]
 },
-  
+{
+id:"26K041252",
+tags:["cityscape","city","urban","downtown","building","sky","cloud","sun","blue-sky","summer","daytime","sunny","nature","background","copy-space","wallpaper","outdoors","no-people"]
+},  
 ];
 
