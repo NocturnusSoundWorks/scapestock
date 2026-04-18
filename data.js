@@ -1649,8 +1649,10 @@ tags:["forest","grass","leaf","green","nature","plant","botanical","sunlight","s
 id:"26K041272",
 tags:["sky","cloud","sun","blue-sky","summer","daytime","sunny","nature","background","copy-space","wallpaper","outdoors","no-people"]
 },
-
-  
+{
+id:"26K041273",
+tags:["japan","city","urban","residential","neighborhood","stairway","stairs","steps","slope","pathway","handrail","rail","metal","infrastructure","street","road","alley","walkway","house","building","architecture","utility-pole","power-line","daytime","sunny","sunlight","backlight","outdoors","travel","scenery","background","copy-space","no-people"]
+},  
 {
 id:"26K041274",
 tags:["lake","lakeside","water","swamp","wetland","tega-numa","chiba","japan","nature","scenery","landscape","road","path","daytime","outdoors","calm","peaceful","reflection","green","travel","background","copy-space","no-people"]
