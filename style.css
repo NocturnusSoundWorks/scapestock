@@ -257,7 +257,8 @@ opacity:1;
 }
 
 .support-btn{
-display:inline-block;
+display:block;
+width:fit-content;
 margin:12px auto 25px;
 padding:8px 14px;
 font-size:14px;
