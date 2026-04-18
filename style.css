@@ -272,3 +272,10 @@ font-weight:bold;
 .support-btn:hover{
 opacity:0.9;
 }
+
+.support-text{
+text-align:center;
+margin:16px 0 8px;
+font-size:15px;
+color:#555;
+}
