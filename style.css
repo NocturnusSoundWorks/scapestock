@@ -255,3 +255,22 @@ opacity:1;
   line-height: 1.6;
   color: #555;
 }
+
+.support-btn{
+display:block;
+margin:15px auto 30px;
+padding:12px 18px;
+max-width:320px;
+text-align:center;
+background:#ffdd00;
+color:#000;
+text-decoration:none;
+border-radius:8px;
+font-weight:bold;
+transition:0.2s;
+}
+
+.support-btn:hover{
+opacity:0.9;
+transform:translateY(-2px);
+}
