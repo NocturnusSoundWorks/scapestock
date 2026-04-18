@@ -334,7 +334,16 @@ licenseLabel.textContent = "License: " + license
 photoContainer.appendChild(img)
 photoContainer.appendChild(licenseLabel) // ←追加
 photoContainer.appendChild(download)
-loadRelatedPhotos(photo)   
+  
+const support = document.createElement("a")
+support.href = "https://buymeacoffee.com/scapestock"
+support.target = "_blank"
+support.className = "support-btn"
+support.innerText = "Like this photo? Support ScapeStock ☕"
+
+photoContainer.appendChild(support)
+
+loadRelatedPhotos(photo)
 
 }
 
