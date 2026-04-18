@@ -339,7 +339,7 @@ const support = document.createElement("a")
 support.href = "https://buymeacoffee.com/scapestock"
 support.target = "_blank"
 support.className = "support-btn"
-support.innerText = "Like this photo? Support ScapeStock ☕"
+support.innerText = "Support ScapeStock ☕"
 
 photoContainer.appendChild(support)
 
