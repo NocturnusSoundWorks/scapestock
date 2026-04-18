@@ -257,20 +257,17 @@ opacity:1;
 }
 
 .support-btn{
-display:block;
-margin:15px auto 30px;
-padding:12px 18px;
-max-width:320px;
-text-align:center;
+display:inline-block;
+margin:12px auto 25px;
+padding:8px 14px;
+font-size:14px;
 background:#ffdd00;
 color:#000;
 text-decoration:none;
-border-radius:8px;
+border-radius:20px;
 font-weight:bold;
-transition:0.2s;
 }
 
 .support-btn:hover{
 opacity:0.9;
-transform:translateY(-2px);
 }
