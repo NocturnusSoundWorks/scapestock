@@ -1668,5 +1668,13 @@ tags:["shutter","metal","iron","rusty","rust","old","weathered","texture","mater
 {
 id:"26K041277",
 tags:["japan","beppu","oita","cityscape","townscape","street","road","sidewalk","pavement","urban","residential","neighborhood","onsen-town","hot-spring-town","travel","destination","tourism","car","vehicle","parking","utility-pole","power-lines","mountain","sky","cloud","blue-sky","daytime","sunny","outdoors","scenery","background","copy-space","no-people"]
-},  
+}, 
+
+
+  
+{
+id:"26K042201",
+tags:["sky","blue-sky","cloud","white-clouds","tree","trees","green","nature","forest","foliage","leaves","outdoors","daytime","sunny","summer","fresh","natural","scenery","landscape","park","garden","copy-space","background","wallpaper","tranquil","peaceful","no-people"]
+},
+  
 ];
