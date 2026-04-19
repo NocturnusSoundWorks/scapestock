@@ -1651,7 +1651,7 @@ tags:["sky","cloud","sun","blue-sky","summer","daytime","sunny","nature","backgr
 },
 {
 id:"26K041273",
-tags:["japan","city","urban","residential","neighborhood","stairway","stairs","steps","slope","pathway","handrail","rail","metal","infrastructure","street","road","alley","walkway","house","building","architecture","utility-pole","power-line","daytime","sunny","sunlight","backlight","outdoors","travel","scenery","background","copy-space","no-people"]
+tags:["japan","city","urban","residential","neighborhood","stairway","stairs","steps","slope","pathway","handrail","infrastructure","street","road","alley","walkway","house","architecture","utility-pole","power-line","daytime","sunny","sunlight","backlight","outdoors","travel","scenery","background","copy-space","no-people"]
 },  
 {
 id:"26K041274",
