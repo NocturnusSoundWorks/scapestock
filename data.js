@@ -1661,6 +1661,9 @@ tags:["lake","lakeside","water","swamp","wetland","tega-numa","chiba","japan","n
 id:"26K041275",
 tags:["flower","nature","plant","botanical","higanbana","red-spider-lily","lycoris","blossom","petal","red","autumn","fall","seasonal","garden","field","meadow","outdoors","close-up","macro","selective-focus","bokeh","vibrant","natural","background","wallpaper","copy-space","no-people"]
 },
-
+{
+id:"26K041276",
+tags:["shutter","metal","iron","rusty","rust","old","weathered","texture","material","wall","surface","pattern","grunge","industrial","urban","detail","close-up","background","copy-space","no-people"]
+},
   
 ];
