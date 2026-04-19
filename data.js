@@ -1665,5 +1665,8 @@ tags:["flower","nature","plant","botanical","higanbana","red-spider-lily","lycor
 id:"26K041276",
 tags:["shutter","metal","iron","rusty","rust","old","weathered","texture","material","wall","surface","pattern","grunge","industrial","urban","detail","close-up","background","copy-space","no-people"]
 },
-  
+{
+id:"26K041277",
+tags:["japan","beppu","oita","cityscape","townscape","street","road","sidewalk","pavement","urban","residential","neighborhood","onsen-town","hot-spring-town","travel","destination","tourism","car","vehicle","parking","utility-pole","power-lines","mountain","sky","cloud","blue-sky","daytime","sunny","outdoors","scenery","background","copy-space","no-people"]
+},  
 ];
