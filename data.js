@@ -1676,5 +1676,8 @@ tags:["japan","beppu","oita","cityscape","townscape","street","road","sidewalk",
 id:"26K042201",
 tags:["sky","blue-sky","cloud","white-clouds","tree","trees","green","nature","forest","foliage","leaves","outdoors","daytime","sunny","summer","fresh","natural","scenery","landscape","park","garden","copy-space","background","wallpaper","tranquil","peaceful","no-people"]
 },
-  
+{
+id:"26K042201",
+tags:["sakura","cherry-blossom","flower","spring","japan","pink","nature","blossom","petal","tree","branch","trunk","river","canal","water","riverside","park","walkway","seasonal","outdoors","scenery","landscape","background","wallpaper","copy-space","daytime","no-people"]
+},  
 ];
