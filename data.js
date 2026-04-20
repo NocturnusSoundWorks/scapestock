@@ -1704,4 +1704,10 @@ tags:["lantern","japanese-lantern","festival","matsuri","traditional","japan","n
 id:"26K042208",
 tags:["lantern","japanese-lantern","festival","matsuri","traditional","japan","night","evening","twilight","illumination","light","glowing","sky","blue-sky","tree","silhouette","park","outdoors","celebration","culture","heritage","summer","seasonal","scenery","background","wallpaper","copy-space","no-people"]
 },  
+{
+id:"26K042209",
+tags:["lantern","japanese-lantern","festival","matsuri","traditional","japan","night","evening","twilight","illumination","light","glowing","sky","blue-sky","tree","silhouette","park","outdoors","celebration","culture","heritage","summer","seasonal","scenery","background","wallpaper","copy-space","no-people"]
+},  
+
+  
 ];
