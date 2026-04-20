@@ -1684,4 +1684,14 @@ tags:["sakura","cherry-blossom","flower","spring","japan","pink","nature","bloss
 id:"26K042203",
 tags:["flower","nature","nanohana","rape-blossom","canola-flower","yellow","plant","botanical","blossom","petal","spring","seasonal","field","meadow","grass","countryside","rural","path","trail","landscape","scenery","sky","blue-sky","daytime","sunny","outdoors","japan","background","wallpaper","copy-space","no-people"]
 },  
+{
+id:"26K042204",
+tags:["lantern","japanese-lantern","paper-lantern","traditional","japan","temple","shrine","architecture","culture","heritage","interior","wood","wooden","timber","ceiling","beam","hanging","white","round","detail","close-up","rustic","historic","background","copy-space","no-people"]
+},
+{
+id:"26K042205",
+tags:["lantern","japanese-lantern","paper-lantern","traditional","japan","temple","shrine","architecture","culture","heritage","interior","wood","wooden","timber","ceiling","beam","hanging","white","round","detail","close-up","rustic","historic","background","copy-space","no-people"]
+},
+
+  
 ];
