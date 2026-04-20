@@ -1692,6 +1692,9 @@ tags:["lantern","japanese-lantern","paper-lantern","traditional","japan","temple
 id:"26K042205",
 tags:["lantern","japanese-lantern","paper-lantern","traditional","japan","temple","shrine","architecture","culture","heritage","interior","wood","wooden","timber","ceiling","beam","hanging","white","round","detail","close-up","rustic","historic","background","copy-space","no-people"]
 },
-
+{
+id:"26K042206",
+tags:["nature","pine","pine-tree","needle","leaf","plant","botanical","green","tree","branch","garden","japanese-garden","forest","woods","outdoors","daytime","fresh","natural","scenery","landscape","tranquil","peaceful","japan","background","wallpaper","copy-space","no-people"]
+},
   
 ];
