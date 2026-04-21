@@ -1767,7 +1767,11 @@ tags:["sky","blue-sky","clear-sky","evening","sunset","sunny","japan","utility-p
 {
 id:"26K042224",
 tags:["hot-spring","onsen","hot-spring-town","beppu","kyushu","japan","steam","vapor","geothermal","alley","street","road","town","traditional","travel","tourism","landmark","culture","outdoors","scenery","atmosphere","no-people"]
-},  
+},
+{
+id:"26K042225",
+tags:["nature","landscape","mountain","forest","tree","green","leaf","grass","sky","cloud","sunny","daytime","road","asphalt","fences","gazebo","shelter","viewpoint","scenic","countryside","chichibu","saitama","japan","fresh","botanical","outdoors","background","copy-space","wallpaper","no-people"]
+}  
 
   
 ];
