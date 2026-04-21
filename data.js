@@ -1763,5 +1763,11 @@ tags:["sky","blue-sky","clear-sky","evening","sunset","sunny","japan","utility-p
 {
 id:"26K042223",
 tags:["sky","blue-sky","clear-sky","evening","sunset","sunny","japan","utility-pole","electric-wire","power-line","transformer","silhouette","urban","cityscape","nature","background","copy-space","wallpaper","outdoors","no-people"]
+},
+{
+id:"26K042224",
+tags:["hot-spring","onsen","hot-spring-town","beppu","kyushu","japan","steam","vapor","geothermal","alley","street","road","town","traditional","travel","tourism","landmark","culture","outdoors","scenery","atmosphere","no-people"]
 },  
+
+  
 ];
