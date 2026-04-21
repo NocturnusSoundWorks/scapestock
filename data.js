@@ -1723,5 +1723,9 @@ tags:["metal","rust","rusty","iron","steel","texture","background","surface","pa
 {
 id:"26K042213",
 tags:["stone","tile","brick","blue","texture","background","material","surface","pattern","wall","detail","close-up","rough","grunge","construction","architecture","design","abstract","copy-space","no-people"]
+},
+{
+id:"26K042214",
+tags:["brick","stone","wall","texture","background","material","surface","pattern","detail","rough","grunge","weathered","aged","masonry","construction","architecture","urban","industrial","copy-space","no-people"]
 },  
 ];
