@@ -1776,5 +1776,8 @@ tags:["nature","landscape","mountain","forest","tree","green","leaf","grass","sk
 id:"26K042226",
 tags:["nature","landscape","mountain","forest","tree","green","leaf","grass","sky","cloud","sunny","daytime","road","asphalt","fences","gazebo","shelter","viewpoint","scenic","countryside","chichibu","saitama","japan","fresh","botanical","outdoors","background","copy-space","wallpaper","no-people"]
 },
-  
+{
+id:"26K042227",
+tags:["cityscape","urban","city","night","nightscape","building","skyscraper","high-rise","apartment","tower","architecture","downtown","skyline","window-light","illuminated","stadium","sports-facility","park","cloud","night-sky","outdoors","modern","travel","destination","ariake","tokyo","japan","background","wallpaper","copy-space","no-people"]
+},  
 ];
