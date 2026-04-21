@@ -1716,5 +1716,8 @@ tags:["lantern","japanese-lantern","festival","matsuri","traditional","japan","n
 id:"26K042211",
 tags:["hydrangea","ajisai","flower","nature","plant","botanical","blossom","petal","pink","green","white","floral","garden","leaf","close-up","macro","spring","summer","seasonal","fresh","natural","outdoors","background","wallpaper","copy-space","no-people"]
 },
-  
+{
+id:"26K042213",
+tags:["stone","tile","brick","blue","texture","background","material","surface","pattern","wall","detail","close-up","rough","grunge","construction","architecture","design","abstract","copy-space","no-people"]
+},  
 ];
