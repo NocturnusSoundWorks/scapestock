@@ -537,7 +537,7 @@ tags:["sea","ocean","beach","coast","shore","summer","nature","water","blue","sk
 
 {
 id:"25K070144",
-tags:["sea","ocean","beach","coast","shore","summer","nature","water","blue","sky","sand","seaside","wave","horizon","outdoors","travel","vacation","scenery","landscape","sunny","daytime","no-people"]
+tags:["sea","ocean","beach","coast","shore","summer","nature","water","blue","sand","seaside","wave","horizon","outdoors","travel","vacation","scenery","landscape","sunny","daytime","no-people"]
 },
 
 {
