@@ -1747,5 +1747,9 @@ tags:["sky","blue-sky","clear-sky","evening","sunset","sunny","japan","utility-p
 {
 id:"26K042219",
 tags:["sky","blue-sky","clear-sky","evening","sunset","sunny","japan","utility-pole","electric-wire","power-line","transformer","silhouette","urban","cityscape","nature","background","copy-space","wallpaper","outdoors","no-people"]
-},     
+},
+{
+id:"26K042220",
+tags:["wood","wood-grain","texture","pattern","natural-material","brown","beige","light-brown","board","panel","line","simple","minimal","interior","design-material","background","copy-space","wallpaper","indoors","no-people"]
+}  
 ];
