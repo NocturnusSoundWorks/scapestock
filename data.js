@@ -394,12 +394,10 @@ tags:["flower","nature","plant","botanical","blossom","petal","red","pink","spri
 id:"25K062170",
 tags:["sky","blue-sky","clear-sky","tree","trees","green","nature","forest","foliage","leaves","outdoors","daytime","sunny","summer","fresh","natural","minimal","simple","copy-space","background","wallpaper","tranquil","peaceful","scenery","no-people"]
 },
-
 {
 id:"25K070101",
-tags:["flower"]
+tags:["flower","vase","interior","home-decor","still-life","bouquet","artificial-flower","floral","pink","beige","plant","botanical","ornament","vintage","rustic","metal","table","close-up","selective-focus","bokeh","soft","elegant","indoor","background","copy-space","no-people"]
 },
-
 {
 id:"25K070102",
 tags:["duck","bird","waterfowl","pond","water","nature","animal","wildlife","lake","swimming","floating","outdoors","natural","habitat","calm","reflection","daytime","no-people"]
