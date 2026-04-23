@@ -2,6 +2,7 @@ const PHOTOS = [
 
 {
 id:"25K062101",
+title:"Blue Summer Sky Background with White Clouds",  
 tags:["sky","cloud","sun","blue-sky","summer","daytime","sunny","nature","background","copy-space","wallpaper","outdoors","no-people"]
 },
 {
