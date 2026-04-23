@@ -12,7 +12,7 @@ tags:["sky","cloud","sun","blue-sky","summer","daytime","sunny","nature","backgr
 },
 {
 id:"25K062103",
-tags:["sky","cloud","sun","blue-sky","summer","daytime","sunny","nature","background","copy-space","wallpaper","outdoors","no-people"]
+tags:["sky","cloud","sun","blue-sky","summer","daytime","sunny","nature","green","plant","grass","leaf","nature","background","copy-space","wallpaper","outdoors","no-people"]
 },
 {
 id:"25K062104",
