@@ -17,6 +17,7 @@ tags:["sky","cloud","sun","blue-sky","summer","daytime","sunny","nature","green"
 },
 {
 id:"25K062104",
+title:"Blue Summer Sky with Large White Clouds Background",  
 tags:["sky","cloud","sun","blue-sky","summer","daytime","sunny","nature","background","copy-space","wallpaper","outdoors","no-people"]
 },
 
