@@ -1897,6 +1897,9 @@ tags:["cityscape","urban","city","skyline","building","skyscraper","high-rise","
 id:"26K042241",
 tags:["marble","stone","marble-texture","texture","background","material","surface","pattern","luxury","elegant","white","gray","natural-stone","polished","tile","slab","interior","design","construction","architecture","copy-space","no-people"]
 },
-  
+{
+id:"26K042242",
+tags:["wood","woodgrain","tree","trunk","bark","moss","green","texture","background","material","surface","pattern","detail","natural","forest","nature","organic","rough","close-up","outdoors","copy-space","no-people"]
+},  
   
 ];
