@@ -1893,5 +1893,10 @@ tags:["urban","city","street","road","highway","overpass","elevated-road","bridg
 id:"26K042240",
 tags:["cityscape","urban","city","skyline","building","skyscraper","high-rise","tower","architecture","downtown","stadium","sports-facility","fence","empty-lot","open-space","road","street","sky","cloud","blue-sky","daytime","sunny","outdoors","modern","ariake","tokyo","japan","travel","destination","background","wallpaper","copy-space","no-people"]
 },
+{
+id:"26K042241",
+tags:["marble","stone","marble-texture","texture","background","material","surface","pattern","luxury","elegant","white","gray","natural-stone","polished","tile","slab","interior","design","construction","architecture","copy-space","no-people"]
+},
+  
   
 ];
