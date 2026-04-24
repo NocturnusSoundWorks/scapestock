@@ -1905,7 +1905,10 @@ tags:["wood","woodgrain","tree","trunk","bark","moss","green","texture","backgro
 id:"26K042243",
 tags:["tile","marble","stone","texture","background","pattern","surface","blue","gold","ceramic","wall","floor","material","luxury","decorative","interior","abstract","detail","close-up","geometric","grid","glossy","design","copy-space","no-people"]
 },
-
+{
+id:"26K042244",
+tags:["metal","wall","panel","texture","background","surface","pattern","silver","gray","steel","industrial","material","vertical","line","striped","modern","architecture","detail","close-up","minimal","clean","urban","copy-space","no-people"]
+},
 
   
 ];
