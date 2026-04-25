@@ -1305,7 +1305,7 @@ tags:["flower","sakura","cherry-blossom","blossom","petal","spring","seasonal","
 {
 id:"26K040127",
 title:"Rainy Sakura Blossoms with Water Droplets Background",
-tags:["sakura","cherry-blossom","flower","spring","japan","pink","nature","blossom","petal","tree","seasonal","outdoors","background","copy-space","wallpaper","water-droplet","after-rain","rain","no-people"]
+tags:["sakura","cherry-blossom","flower","spring","japan","pink","nature","blossom","petal","tree","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
 },
 
 {
