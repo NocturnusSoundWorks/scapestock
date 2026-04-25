@@ -1776,5 +1776,9 @@ id:"26K042252",
 title:"Tree And Playground In Urban Tokyo City Park",
 tags:["park","tree","playground","urban","city","japan","tokyo","outdoors","daytime","cloudy","public-park","walking-path","paved-path","brick-path","greenery","trees","play-equipment","slide","empty","no-people","residential","neighborhood","skyscraper","high-rise","cityscape","nature","travel","background","copy-space"]
 }, 
-  
+{
+id:"26K042253",
+title:"Outdoor Drinking Water Fountain in Public Green Park",
+tags:["park","public-park","garden","nature","green","tree","grass","lawn","drinking-fountain","water-fountain","water","stone","pavement","outdoor","outdoors","daytime","summer","seasonal","fresh","peaceful","city-park","urban-oasis","background","wallpaper","copy-space","japan","no-people"]
+}  
 ];
