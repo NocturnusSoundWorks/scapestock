@@ -1795,8 +1795,12 @@ tags:["flower","indian-hawthorn","rhaphiolepis-indica","blossom","petal","pink",
 id:"26K042256", 
 title:"Classic Barber Pole on Building Wall Exterior",
 tags:["barber-pole", "barber-shop", "hair-salon", "haircut", "grooming","red-white-blue", "stripes", "cylinder", "spinning", "sign","exterior", "urban", "street", "building", "wall", "stucco", "texture","glass-facade", "reflection", "daytime", "outdoors", "no-people","vertical", "detail", "close-up", "copy-space"]
-}
-
+},
+{
+id:"26K042257",
+title:"Green Pedestrian Traffic Light in City Street",
+tags:["traffic-light","pedestrian-signal","green-light","walk-signal","city","urban","street","road","crosswalk", "tree", "green-leaves", "sky", "blue-sky", "clouds","building","skyscraper","apartment","architecture","daytime","sunny","outdoors","japan","background","no-people"]
+},
 
 
   
