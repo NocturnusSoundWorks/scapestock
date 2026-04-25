@@ -1736,7 +1736,11 @@ id:"26K042244",
 title:"Silver Metal Panel Texture with Vertical Lines",
 tags:["metal","wall","panel","texture","background","surface","pattern","silver","gray","steel","industrial","material","vertical","line","striped","modern","architecture","detail","close-up","minimal","clean","urban","copy-space","no-people"]
 },
-
+{
+id:"26K042245",
+title:"Empty Urban Playground with Red Swings in Japanese Park",
+tags:["playground","park","swing","swings","swing-set","urban","city","japan","tokyo","empty","no-people","outdoors","daytime","cloudy","residential","neighborhood","public-park","recreation","childhood","equipment","red","metal","trees","greenery","fence","apartment-building","cityscape","travel","background","copy-space"]
+}
 
 
 
