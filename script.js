@@ -58,6 +58,11 @@ function generateDescription(photo) {
 
 function generateTitle(photo){
 
+  // 手入力titleを最優先
+  if(photo.title){
+    return `${photo.title} | ${photo.id} | Free Stock Photo`;
+  }
+
   const tags = photo.tags || [];
 
   const locationTags = ["tokyo","chiba","kyoto","osaka","japan","ginza","nihonbashi","ichikawa"];
