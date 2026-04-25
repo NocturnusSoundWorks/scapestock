@@ -1791,7 +1791,11 @@ id:"26K042255",
 title:"Beautiful Pink Indian Hawthorn Flowers in Full Bloom",
 tags:["flower","indian-hawthorn","rhaphiolepis-indica","blossom","petal","pink","spring","seasonal","nature","plant","botanical","leaf","green","shrub","garden","park","outdoors","daytime","bright","fresh","landscape","scenery","background","wallpaper","copy-space","japan","no-people"]
 },
-
+{
+id:"26K042256", 
+title:"Classic Barber Pole on Building Wall Exterior",
+tags:["barber-pole", "barber-shop", "hair-salon", "haircut", "grooming","red-white-blue", "stripes", "cylinder", "spinning", "sign","exterior", "urban", "street", "building", "wall", "stucco", "texture","glass-facade", "reflection", "daytime", "outdoors", "no-people","vertical", "detail", "close-up", "copy-space"]
+}
 
 
 
