@@ -1806,6 +1806,10 @@ id:"26K042258",
 title:"Historical Japanese Bridge Lantern with Kanji and Cityscape",
 tags:["bridge","lantern","kanji","japanese-characters","大和橋","historical","traditional","stone-pillar","street-light","azalea","flower","pink","plant","green-trees","cityscape","buildings","urban","sky","clouds","blue-sky","scenery","daytime","sunny","outdoors","chiba","japan","travel","historical-site","scenic","background","no-people"]
 },
-
+{
+id:"26K042259",
+title:"Traditional Street Lantern and Pink Flowers on Japanese Bridge",
+tags:["bridge","lantern","street-light","stone-pillar","kanji","japanese-characters","大和橋","flower","azalea","pink","bloom","plant","cityscape","urban","building","architecture","sky","clouds","blue-sky","scenery","landscape","japan","travel","outdoors","daytime","sunny","no-people"]
+},
   
 ];
