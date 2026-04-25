@@ -1809,7 +1809,7 @@ tags:["bridge","lantern","kanji","japanese-characters","大和橋","historical",
 {
 id:"26K042259",
 title:"Traditional Street Lantern and Pink Flowers on Japanese Bridge",
-tags:["bridge","lantern","street-light","stone-pillar","kanji","japanese-characters","大和橋","flower","azalea","pink","bloom","plant","cityscape","urban","building","architecture","sky","clouds","blue-sky","scenery","landscape","japan","travel","outdoors","daytime","sunny","no-people"]
+tags:["bridge","lantern","street-light","stone-pillar","kanji","japanese-characters","大和橋","flower","azalea","pink","bloom","plant","cityscape","urban","building","architecture","sky","clouds","blue-sky","scenery","landscape","chiba","japan","travel","outdoors","daytime","sunny"]
 },
   
 ];
