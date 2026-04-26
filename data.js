@@ -1815,5 +1815,13 @@ tags:["bridge","lantern","street-light","stone-pillar","kanji","japanese-charact
 id:"26K042260",
 title:"Traditional Japanese Stone Lantern on Gravel Path",
 tags:["stone-lantern","toro","japanese-garden","traditional","zen","gravel","pebbles","exterior","outdoor","architecture","white-wall","minimal","simple","stone","texture","design","japan","garden-lighting","decoration","tranquil","peaceful","no-people"]
-},  
+},
+{
+id:"26K042261",
+title:"Suspended Monorail Tracks and Street Lamp in Urban Chiba",
+tags:["monorail","suspended-monorail","railway","transportation","track","street-lamp","urban","cityscape","architecture","modern","infrastructure","building","sky","clouds","tree","greenery","canal","river","scenery","daytime","outdoors","chiba","japan","chiba","technology","industrial","no-people"]
+},
+
+
+  
 ];
