@@ -1841,7 +1841,11 @@ id:"26K042265",
 title:"City River Scenery with Bridge and Modern Buildings",
 tags:["river","canal","bridge","water","cityscape","urban","building","architecture","apartment","office-building","sky","clouds","sunlight","reflection","stone-wall","embankment","street","scenery","landscape","japan","chiba","daytime","sunny","outdoors","background","no-people"]
 },
-
+{
+id:"26K042266",
+title:"Vertical View of City Canal and Bridge Under Blue Sky",
+tags:["canal","river","water","bridge","cityscape","urban","building","apartment","architecture","sky","clouds","blue-sky","tree","greenery","stone-wall","embankment","scenery","landscape","japan","chiba","daytime","sunny","outdoors","reflection","vertical-composition","background","no-people"]
+},
 
   
 ];
