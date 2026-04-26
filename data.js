@@ -1866,7 +1866,11 @@ id:"26K042270",
 title:"Abstract Metal Sculpture in Chiba City Square",
 tags:["sculpture","monument","abstract-art","metal","steel","modern-art","urban","city-square","plaza","chiba","japan","cityscape","building","sky","clouds","tree","monorail-track","public-art","outdoor","daytime","sunny","landmark"]
 },
-
+{
+id:"26K042271",
+title:"Modern Skyscrapers and Blue Sky in Chiba Urban District",
+tags:["skyscraper","high-rise","building","architecture","cityscape","urban","city","sky","clouds","blue-sky","low-angle","tree","greenery","street-light","street","japan","chiba","daytime","sunny","outdoors","modern","residential","office-building","no-people"]
+},
 
   
 ];
