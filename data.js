@@ -1901,7 +1901,11 @@ id:"26K042277",
 title:"Modern Monorail Infrastructure and City Apartments under Cloudy Sky",
 tags:["monorail","railway","track","infrastructure","modern","architecture","building","apartment","condominium","cityscape","urban","sky","clouds","sunlight","street-lamp","lighting","steel-structure","scenery","japan","chiba","daytime","outdoors","no-people"]
 },  
-
+{
+id: "26K042278",
+title: "Traditional Tiled Wall and Zen Garden Element on Urban Sidewalk",
+tags: ["traditional-wall","japanese-architecture","tile-roof","white-wall","zen-garden","gravel","pebbles","stone","rock","shrub","sidewalk","street","urbanscape","cityscape","building","contrast","japan","chiba","daytime","sunny","outdoors","scenery","no-people"]
+},
 
 
 
