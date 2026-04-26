@@ -1881,7 +1881,11 @@ id: "26K042273",
 title: "Urban Canal, Monorail, and Office Buildings in Chiba with Crows",
 tags: ["canal","river","urban","cityscape","building","office-building","chiba","japan","suspended-monorail","train","infrastructure","elevated","concrete-embankment","bridge-railing","sky","clouds","blue-sky","daytime","outdoor","no-people","reflection","modern"]
 },
-
+{
+id: "26K042274",
+title: "Urban Intersection with Elevated Monorail Track and Modern Buildings",
+tags: ["intersection","street","road","crosswalk","cityscape","urban","building","architecture","glass-facade","monorail-track","elevated-track","infrastructure","sky","clouds","sunlight","traffic-light","city-view","japan","chiba","daytime","outdoors","scenery","no-people"]
+},
 
   
   
