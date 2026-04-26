@@ -1921,5 +1921,10 @@ id:"26K042281",
 title:"Traditional Japanese Roof Architecture with Kawara Tiles and Onigawara",
 tags:["japanese-architecture","traditional","roof","kawara","tile-roof","onigawara","wood","wood-siding","eaves","temple-style","historical","structure","detail","exterior","sky","blue-sky","clouds","japan","chiba","daytime","sunny","outdoors","culture","no-people"]
 },
+{
+id:"26K042601",
+title:"Statue of Liberty Replica and Rainbow Bridge in Odaiba Tokyo",
+tags:["statue-of-liberty","replica","landmark","rainbow-bridge","odaiba","tokyo","japan","bay","waterfront","cityscape","urban","skyline","bridge","suspension-bridge","sky","clouds","park","trees","greenery","daytime","sunny","outdoors","scenery","travel","tourism"]
+},
   
 ];
