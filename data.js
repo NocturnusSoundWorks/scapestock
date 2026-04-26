@@ -1855,5 +1855,14 @@ tags:["stone-lantern","toro","japanese-architecture","traditional","tile-roof","
 id:"26K042268",
 title:"Japanese Stone Lantern and Traditional Wall in Urban Setting",
 tags:["stone-lantern","toro","japanese-architecture","traditional","white-wall","tile-roof","garden","gravel","shrub","bushes","cityscape","urban","apartment","building","utility-pole","contrast","exterior","outdoor","daytime","sunny","chiba","japan","scenery","culture","no-people"]
-},  
+},
+{
+id:"26K042269",
+title:"City River Scenery with Bridge and Modern Buildings Under Cloudy Sky",
+tags:["river","canal","bridge","water","cityscape","urban","building","architecture","apartment","office-building","sky","clouds","overcast","sunlight","reflection","stone-wall","embankment","promenade","sidewalk","street","scenery","landscape","japan","chiba","daytime","outdoors","no-people"]
+},
+
+
+
+  
 ];
