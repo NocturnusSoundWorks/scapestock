@@ -1826,6 +1826,14 @@ id:"26K042262",
 title:"Urban Cityscape with Suspended Monorail and Street Lamp",
 tags:["monorail","suspended-monorail","railway","track","infrastructure","street-lamp","urban","cityscape","architecture","modern","building","sky","clouds","blue-sky","tree","greenery","canal","river","scenery","daytime","sunny","outdoors","japan","chiba","transportation","industrial","no-people"]
 },
+{
+id:"26K042263",
+title:"Arched Stone Bridge Railing with Urban Cityscape Background",
+tags:["bridge","railing","pattern","stone","pavement","sidewalk","urban","cityscape","building","apartment","architecture","street-light","sky","clouds","blue-sky","chiba","japan","street","outdoor","daytime","sunny","infrastructure","background","no-people"]
+},
+
+
+
 
   
 ];
