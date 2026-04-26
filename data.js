@@ -1831,7 +1831,11 @@ id:"26K042263",
 title:"Arched Stone Bridge Railing with Urban Cityscape Background",
 tags:["bridge","railing","pattern","stone","pavement","sidewalk","urban","cityscape","building","apartment","architecture","street-light","sky","clouds","blue-sky","chiba","japan","street","outdoor","daytime","sunny","infrastructure","background","no-people"]
 },
-
+{
+id:"26K042264",
+title:"Traditional Japanese Bamboo Reed Fence Texture",
+tags:["bamboo","reed","bamboo-blind","sudare","yoshizu","texture","background","pattern","natural-material","wood","brown","industrial","traditional","japan","interior","exterior","wall","surface","detail","close-up","weathered","aged","no-people"]
+},
 
 
 
