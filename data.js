@@ -1926,5 +1926,9 @@ id:"26K042601",
 title:"Statue of Liberty Replica and Rainbow Bridge in Odaiba Tokyo",
 tags:["statue-of-liberty","replica","landmark","rainbow-bridge","odaiba","tokyo","japan","bay","waterfront","cityscape","urban","skyline","bridge","suspension-bridge","sky","clouds","park","trees","greenery","daytime","sunny","outdoors","scenery","travel","tourism"]
 },
-  
+{
+id:"26K042602",
+title:"Urban Road with High-rise Building in Odaiba",
+tags:["odaiba","tokyo","japan","daiba-station","yurikamome","train-station","elevated-railway","monorail","transportation","urban","cityscape","architecture","skyscraper","hotel-nikko-tokyo","grand-nikko-tokyo-daiba","road","street","bus-stop","trees","greenery","sky","clouds","daytime","outdoors","scenery"]
+},  
 ];
