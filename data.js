@@ -1836,7 +1836,11 @@ id:"26K042264",
 title:"Traditional Japanese Bamboo Reed Fence Texture",
 tags:["bamboo","reed","bamboo-blind","sudare","yoshizu","texture","background","pattern","natural-material","wood","brown","industrial","traditional","japan","interior","exterior","wall","surface","detail","close-up","weathered","aged","no-people"]
 },
-
+{
+id:"26K042265",
+title:"City River Scenery with Bridge and Modern Buildings",
+tags:["river","canal","bridge","water","cityscape","urban","building","architecture","apartment","office-building","sky","clouds","sunlight","reflection","stone-wall","embankment","street","scenery","landscape","japan","chiba","daytime","sunny","outdoors","background","no-people"]
+},
 
 
   
