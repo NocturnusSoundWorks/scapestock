@@ -1851,5 +1851,9 @@ id:"26K042267",
 title:"Traditional Japanese Stone Lantern and Tiled Wall Near Modern Building",
 tags:["stone-lantern","toro","japanese-architecture","traditional","tile-roof","white-wall","fence","gate","garden","gravel","shrub","bushes","modern-building","cityscape","urban","contrast","exterior","outdoor","daytime","sunny","chiba","japan","scenery","culture","no-people"]
 },
-  
+{
+id:"26K042268",
+title:"Japanese Stone Lantern and Traditional Wall in Urban Setting",
+tags:["stone-lantern","toro","japanese-architecture","traditional","white-wall","tile-roof","garden","gravel","shrub","bushes","cityscape","urban","apartment","building","utility-pole","contrast","exterior","outdoor","daytime","sunny","chiba","japan","scenery","culture","no-people"]
+},  
 ];
