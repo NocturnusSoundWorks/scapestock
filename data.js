@@ -1902,16 +1902,20 @@ title:"Modern Monorail Infrastructure and City Apartments under Cloudy Sky",
 tags:["monorail","railway","track","infrastructure","modern","architecture","building","apartment","condominium","cityscape","urban","sky","clouds","sunlight","street-lamp","lighting","steel-structure","scenery","japan","chiba","daytime","outdoors","no-people"]
 },  
 {
-id: "26K042278",
-title: "Traditional Tiled Wall and Zen Garden Element on Urban Sidewalk",
-tags: ["traditional-wall","japanese-architecture","tile-roof","white-wall","zen-garden","gravel","pebbles","stone","rock","shrub","sidewalk","street","urbanscape","cityscape","building","contrast","japan","chiba","daytime","sunny","outdoors","scenery","no-people"]
+id:"26K042278",
+title:"Traditional Tiled Wall and Zen Garden Element on Urban Sidewalk",
+tags:["traditional-wall","japanese-architecture","tile-roof","white-wall","zen-garden","gravel","pebbles","stone","rock","shrub","sidewalk","street","urbanscape","cityscape","building","contrast","japan","chiba","daytime","sunny","outdoors","scenery","no-people"]
 },
 {
-id: "26K042279",
-title: "Large White Chochin Lantern on Urban Pedestrian Bridge",
-tags: ["lantern","chochin","japanese-lantern","traditional","decor","wood-frame","pedestrian-bridge","sidewalk","pavement","plaza","potted-plants","flowers","cityscape","urban","building","office-building","monorail-track","elevated-track","infrastructure","canal","river","scenery","japan","chiba","daytime","outdoors","no-people"]
+id:"26K042279",
+title:"Large White Chochin Lantern on Urban Pedestrian Bridge",
+tags:["lantern","chochin","japanese-lantern","traditional","decor","wood-frame","pedestrian-bridge","sidewalk","pavement","plaza","potted-plants","flowers","cityscape","urban","building","office-building","monorail-track","elevated-track","infrastructure","canal","river","scenery","japan","chiba","daytime","outdoors","no-people"]
 },
-
+{
+id:"26K042280",
+title:"Suspended Monorail Infrastructure and Urban Architecture in Chiba",
+tags:["monorail","suspended-monorail","railway","track","infrastructure","elevated","architecture","modern","building","apartment","office-building","cityscape","urban","sky","clouds","sunlight","street-lamp","lighting","japan","chiba","daytime","outdoors","scenery","no-people"]
+},
 
   
 ];
