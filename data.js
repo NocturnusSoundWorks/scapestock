@@ -1861,7 +1861,11 @@ id:"26K042269",
 title:"City River Scenery with Bridge and Modern Buildings Under Cloudy Sky",
 tags:["river","canal","bridge","water","cityscape","urban","building","architecture","apartment","office-building","sky","clouds","overcast","sunlight","reflection","stone-wall","embankment","promenade","sidewalk","street","scenery","landscape","japan","chiba","daytime","outdoors","no-people"]
 },
-
+{
+id:"26K042270",
+title:"Abstract Metal Sculpture in Chiba City Square",
+tags:["sculpture","monument","abstract-art","metal","steel","modern-art","urban","city-square","plaza","chiba","japan","cityscape","building","sky","clouds","tree","monorail-track","public-art","outdoor","daytime","sunny","landmark"]
+},
 
 
   
