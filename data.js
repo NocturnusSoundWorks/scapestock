@@ -1916,6 +1916,10 @@ id:"26K042280",
 title:"Suspended Monorail Infrastructure and Urban Architecture in Chiba",
 tags:["monorail","suspended-monorail","railway","track","infrastructure","elevated","architecture","modern","building","apartment","office-building","cityscape","urban","sky","clouds","sunlight","street-lamp","lighting","japan","chiba","daytime","outdoors","scenery","no-people"]
 },
-
+{
+id:"26K042281",
+title:"Traditional Japanese Roof Architecture with Kawara Tiles and Onigawara",
+tags:["japanese-architecture","traditional","roof","kawara","tile-roof","onigawara","wood","wood-siding","eaves","temple-style","historical","structure","detail","exterior","sky","blue-sky","clouds","japan","chiba","daytime","sunny","outdoors","culture","no-people"]
+},
   
 ];
