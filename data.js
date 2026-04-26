@@ -1891,6 +1891,10 @@ id:"26K042275",
 title:"Weathered Horizontal Wood Siding with Paint Erosion Texture",
 tags:["wood","siding","horizontal","texture","aged","weathered","erosion","paint","background","pattern","planks","surface","exterior","industrial","rust","brown","grey","natural-material","wall","aged-wood","material","cladding","no-people","close-up"]
 },
-  
+{
+id: "26K042276",
+title: "Urban Street View with Buildings and Pink Azaleas",
+tags: ["street","road","cityscape","urban","apartment","building","architecture","sidewalk","azalea","pink-flower","flower-bed","sky","clouds","utility-pole","street-light","fire-hydrant-sign","scenery","landscape","japan","chiba","daytime","sunny","outdoors","no-people"]
+},  
   
 ];
