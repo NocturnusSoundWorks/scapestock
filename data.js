@@ -1811,5 +1811,9 @@ id:"26K042259",
 title:"Traditional Street Lantern and Pink Flowers on Japanese Bridge",
 tags:["bridge","lantern","street-light","stone-pillar","kanji","japanese-characters","大和橋","flower","azalea","pink","bloom","plant","cityscape","urban","building","architecture","sky","clouds","blue-sky","scenery","landscape","chiba","japan","travel","outdoors","daytime","sunny"]
 },
-  
+{
+id:"26K042260",
+title:"Traditional Japanese Stone Lantern on Gravel Path",
+tags:["stone-lantern","toro","japanese-garden","traditional","zen","gravel","pebbles","exterior","outdoor","architecture","white-wall","minimal","simple","stone","texture","design","japan","garden-lighting","decoration","tranquil","peaceful","no-people"]
+},  
 ];
