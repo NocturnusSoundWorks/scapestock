@@ -1819,9 +1819,13 @@ tags:["stone-lantern","toro","japanese-garden","traditional","zen","gravel","peb
 {
 id:"26K042261",
 title:"Suspended Monorail Tracks and Street Lamp in Urban Chiba",
-tags:["monorail","suspended-monorail","railway","transportation","track","street-lamp","urban","cityscape","architecture","modern","infrastructure","building","sky","clouds","tree","greenery","canal","river","scenery","daytime","outdoors","chiba","japan","chiba","technology","industrial","no-people"]
+tags:["monorail","suspended-monorail","railway","transportation","track","street-lamp","urban","cityscape","architecture","modern","infrastructure","building","sky","clouds","tree","greenery","canal","river","scenery","daytime","outdoors","chiba","japan","technology","industrial","no-people"]
 },
-
+{
+id:"26K042262",
+title:"Urban Cityscape with Suspended Monorail and Street Lamp",
+tags:["monorail","suspended-monorail","railway","track","infrastructure","street-lamp","urban","cityscape","architecture","modern","building","sky","clouds","blue-sky","tree","greenery","canal","river","scenery","daytime","sunny","outdoors","japan","chiba","transportation","industrial","no-people"]
+},
 
   
 ];
