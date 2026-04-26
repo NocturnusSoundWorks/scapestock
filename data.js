@@ -1846,6 +1846,10 @@ id:"26K042266",
 title:"Vertical View of City Canal and Bridge Under Blue Sky",
 tags:["canal","river","water","bridge","cityscape","urban","building","apartment","architecture","sky","clouds","blue-sky","tree","greenery","stone-wall","embankment","scenery","landscape","japan","chiba","daytime","sunny","outdoors","reflection","vertical-composition","background","no-people"]
 },
-
+{
+id:"26K042267",
+title:"Traditional Japanese Stone Lantern and Tiled Wall Near Modern Building",
+tags:["stone-lantern","toro","japanese-architecture","traditional","tile-roof","white-wall","fence","gate","garden","gravel","shrub","bushes","modern-building","cityscape","urban","contrast","exterior","outdoor","daytime","sunny","chiba","japan","scenery","culture","no-people"]
+},
   
 ];
