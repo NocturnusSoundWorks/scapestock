@@ -1946,6 +1946,10 @@ id:"26K042605",
 title:"Odaiba Waterfront Park and Tokyo Bay Skyline under Afternoon Sun",
 tags:["odaiba","tokyo","japan","waterfront","park","seaside","tokyo-bay","cityscape","urban","skyline","road","street","pedestrian-path","sidewalk","street-lamp","lighting","sky","clouds","sunlight","backlight","trees","greenery","scenery","outdoors","daytime"]
 },
-
+{
+id:"26K042606",
+title:"Sunlit Coastal Road and Park with Tokyo Bay Skyline in Odaiba",
+tags:["odaiba","tokyo","japan","waterfront","park","seaside","tokyo-bay","cityscape","urban","skyline","road","street","intersection","crosswalk","street-lamp","lighting","sky","clouds","sunlight","backlight","shining","trees","greenery","scenery","outdoors","daytime"]
+},
   
 ];
