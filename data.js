@@ -1956,7 +1956,11 @@ id:"26K042607",
 title:"Elevated View of Odaiba Seaside Park with Tokyo Bay Skyline",
 tags:["odaiba","tokyo","japan","waterfront","park","seaside","tokyo-bay","cityscape","urban","skyline","pedestrian-path","sidewalk","promenade","greenery","trees","bushes","lawn","garden","sky","clouds","sunlight","scenery","outdoors","daytime"]
 },  
-
+{
+id: "26K042608",
+title:"Close-up of Vibrant Red and Green New Leaves of a Roadside Plant",
+tags:["plant","leaves","leaf","red-leaves","pink-leaves","green-leaves","new-growth","young-leaves","seedling","sprout","texture","veins","roadside","sidewalk","street","concrete-wall","block-wall","grass","weeds","asphalt","nature","outdoors","daytime","close-up","botany","no-people"]
+},
 
 
 
