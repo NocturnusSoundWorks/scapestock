@@ -1941,7 +1941,11 @@ id: "26K042604",
 title: "Odaiba Waterfront Road with Modern Hotel and Tokyo Bay Skyline",
 tags: ["odaiba","tokyo","japan","waterfront","road","street","intersection","crosswalk","hotel","architecture","building","cityscape","urban","tokyo-bay","sea","coast","skyline","sky","clouds","trees","greenery","park","daytime","outdoors","scenery"]
 },
-
+{
+id:"26K042605",
+title:"Odaiba Waterfront Park and Tokyo Bay Skyline under Afternoon Sun",
+tags:["odaiba","tokyo","japan","waterfront","park","seaside","tokyo-bay","cityscape","urban","skyline","road","street","pedestrian-path","sidewalk","street-lamp","lighting","sky","clouds","sunlight","backlight","trees","greenery","scenery","outdoors","daytime"]
+},
 
   
 ];
