@@ -1951,5 +1951,16 @@ id:"26K042606",
 title:"Sunlit Coastal Road and Park with Tokyo Bay Skyline in Odaiba",
 tags:["odaiba","tokyo","japan","waterfront","park","seaside","tokyo-bay","cityscape","urban","skyline","road","street","intersection","crosswalk","street-lamp","lighting","sky","clouds","sunlight","backlight","shining","trees","greenery","scenery","outdoors","daytime"]
 },
+{
+id:"26K042607",
+title:"Elevated View of Odaiba Seaside Park with Tokyo Bay Skyline",
+tags:["odaiba","tokyo","japan","waterfront","park","seaside","tokyo-bay","cityscape","urban","skyline","pedestrian-path","sidewalk","promenade","greenery","trees","bushes","lawn","garden","sky","clouds","sunlight","scenery","outdoors","daytime"]
+},  
+
+
+
+
+
+
   
 ];
