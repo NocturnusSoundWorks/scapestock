@@ -2000,7 +2000,12 @@ tags:["odaiba","tokyo","japan","tokyo-bay","bay","waterfront","harbor","port","s
 {
 id: "26K042616",
 title: "Elevated View of Tokyo Bay Port and Odaiba Cityscape",
-tags: ["cityscape","urban","tokyo-bay","port","habour","industrial","container","logistics","building","skyscraper","rainbow-bridge","odaiba","japan","sea","water","road","pavement","trucks","traffic","sky","blue-sky","clouds","daytime","sunny","outdoors","elevated-view"]
+tags: ["cityscape","urban","tokyo-bay","port","habour","industrial","container","logistics","building","skyscraper","rainbow-bridge","odaiba","tokyo","japan","sea","water","road","pavement","trucks","traffic","sky","blue-sky","clouds","daytime","sunny","outdoors","elevated-view"]
+},
+{
+id: "26K042617",
+title: "Majestic View of Rainbow Bridge over Tokyo Bay with Port Area",
+tags: ["rainbow-bridge","suspension-bridge","bridge","landmark","tokyo-bay","sea","waterfront","port","harbor","minato-ku","tokyo","japan","odaiba","cityscape","urban","building","architecture","skyline","boat","ship","dock","sky","blue-sky","clouds","sunny","daytime","outdoors","scenery"]
 },
   
 ];
