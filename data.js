@@ -2010,6 +2010,6 @@ tags:["rainbow-bridge","suspension-bridge","bridge","landmark","tokyo-bay","sea"
 {
 id:"26K042618",
 title:"Panoramic View of Odaiba Skyline and Tokyo Bay",
-tags:["odaiba","tokyo","japan","tokyo-bay","sea","waterfront","skyline","cityscape","urban","fuji-tv-building","landmark","architecture","skyscraper","rainbow-bridge","island","boat","ship","harbor","port","sky","clouds","scenery","outdoors","daytime","panorama"]
+tags:["odaiba","tokyo","japan","tokyo-bay","sea","waterfront","skyline","cityscape","urban","landmark","architecture","skyscraper","rainbow-bridge","island","boat","ship","harbor","port","sky","clouds","scenery","outdoors","daytime","panorama"]
 }, 
 ];
