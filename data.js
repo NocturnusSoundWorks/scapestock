@@ -2060,7 +2060,7 @@ tags:["street-lamp","lamp","light","lighting","pole","urban","city","cityscape",
 {
 id:"26K042628",      
 title:"Urban Beachfront Lagoon with High Rise Towers",
-tags:["beach","sand","shore","coast","waterfront","lagoon","bay","water","sea","cityscape","city","urban","skyline","tower","high-rise","apartment","residential","building","architecture","bridge","highway","infrastructure","park","blue-sky","sky","cloud","daytime","sunny","outdoors","travel","destination","landscape","scenery","background","wallpaper","copy-space","no-people"]
+tags:["beach","sand","shore","coast","waterfront","lagoon","bay","water","sea","cityscape","city","urban","odaiba","tokyo","japan","skyline","tower","high-rise","apartment","residential","building","architecture","bridge","highway","infrastructure","park","blue-sky","sky","cloud","daytime","sunny","outdoors","travel","destination","landscape","scenery","background","wallpaper","copy-space","no-people"]
 },
   
 ];
