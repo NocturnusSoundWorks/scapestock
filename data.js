@@ -2077,6 +2077,10 @@ id:"26K042631",
 title:"Panoramic View of Tokyo Bay Waterfront, Port, and Cityscape from an Elevated Bridge",
 tags:["cityscape","urban","tokyo-bay","waterfront","port","harbor","marina","bridge","elevated-view","pedestrian-bridge","boat","ship","yacht","ferry-terminal","building","skyscraper","high-rise","sky","blue-sky","clouds","sunny","daytime","scenery","landscape","tokyo","japan","minato-ku"]
 },
-
+{
+id:"26K042632",
+title:"Wide View of Rainbow Bridge and Tokyo Skyline from Odaiba Sandy Beach",
+tags:["odaiba","tokyo","japan","beach","sand","seaside","waterfront","tokyo-bay","rainbow-bridge","suspension-bridge","bridge","landmark","cityscape","urban","skyline","skyscraper","architecture","horizon","sea","water","sky","clouds","outdoors","daytime","scenery"]
+},
   
 ];
