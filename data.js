@@ -2097,6 +2097,10 @@ id:"26K042635",
 title:"Panoramic View of Odaiba Beach with High-Rise Residential Buildings and Boardwalk",
 tags:["odaiba","tokyo","japan","beach","sand","seaside","waterfront","odaiba-marine-park","boardwalk","wood-deck","pathway","cityscape","urban","skyline","skyscraper","apartment","residential-building","architecture","trees","greenery","park","sky","blue-sky","clouds","scenery","outdoors","daytime"]
 },
-
+{
+id:"26K042636",
+title:"Vertical View of Rainbow Bridge and Tokyo Bay Skyline from Odaiba Beach",
+tags:["odaiba","tokyo","japan","beach","sand","seaside","waterfront","tokyo-bay","rainbow-bridge","suspension-bridge","bridge","landmark","cityscape","urban","skyline","skyscraper","architecture","sea","water","sky","clouds","outdoors","daytime","scenery","vertical-shot"]
+},
   
 ];
