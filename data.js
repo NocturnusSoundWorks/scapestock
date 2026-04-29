@@ -2116,8 +2116,12 @@ tags:["rainbow-bridge","suspension-bridge","bridge","landmark","tokyo-bay","odai
 id:"26K042639",
 title:"Elevated View of Rainbow Bridge and Tokyo Bay Skyline with Greenery",
 tags:["odaiba","tokyo","japan","rainbow-bridge","suspension-bridge","bridge","landmark","architecture","tokyo-bay","sea","waterfront","cityscape","urban","skyline","skyscraper","trees","greenery","foliage","park","outdoor","daytime","clouds","sky","fuji-tv-building","scenery"]
-}
-
+},
+{
+id:"26K042640",
+title:"Rainbow Bridge and Tokyo Bay Waterfront with Cityscape in the Background",
+tags:["rainbow-bridge","suspension-bridge","bridge","landmark","architecture","structure","tokyo-bay","sea","waterfront","odaiba","tokyo","japan","cityscape","urban","skyline","skyscraper","building","sky","clouds","scenery","outdoors","daytime","vertical-shot"]
+},
 
 
 
