@@ -2172,5 +2172,10 @@ id:"26K042650",
 title:"Rainbow Bridge and Tokyo Tower View from Odaiba Promenade",
 tags:["odaiba","tokyo","japan","rainbow-bridge","tokyo-tower","landmark","suspension-bridge","bridge","cityscape","urban","skyline","skyscraper","architecture","tokyo-bay","waterfront","sea","water","sky","clouds","outdoors","daytime","scenery","promenade"]
 },
+{
+id: "26K042651",
+title: "Wide View of Rainbow Bridge and Tokyo Bay with Floating Structures from Odaiba",
+tags: ["odaiba","tokyo","japan","rainbow-bridge","suspension-bridge","bridge","landmark","tokyo-bay","waterfront","sea","ocean","shoreline","rocky-shore","floating-pier","dock","cityscape","urban","skyline","skyscraper","architecture","outdoor","daytime","clouds","sky","scenery"]
+},
   
 ];
