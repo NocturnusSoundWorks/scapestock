@@ -2030,13 +2030,17 @@ tags:["rainbow-bridge","suspension-bridge","bridge","landmark","odaiba","tokyo",
 {
 id:"26K042622",
 title:"Urban Landscape with Elevated Expressway and Modern Architecture in Tokyo",
-tags:["cityscape","urban","tokyo","japan","expressway","highway","elevated-road","bridge","infrastructure","architecture","building","skyscraper","hotel","apartment","sky","blue-sky","clouds","trees","greenery","river","canal","scenery","outdoors","daytime","sunny"]
+tags:["cityscape","urban","odaiba","tokyo","japan","expressway","highway","elevated-road","bridge","infrastructure","architecture","building","skyscraper","hotel","apartment","sky","blue-sky","clouds","trees","greenery","river","canal","scenery","outdoors","daytime","sunny"]
 },
 {
 id:"26K042623",
 title:"Close-up View of Rainbow Bridge Pylons and Elevated Expressway",
 tags:["rainbow-bridge","suspension-bridge","bridge","landmark","architecture","structure","pylon","steel-tower","elevated-road","highway","expressway","tokyo-bay","sea","waterfront","odaiba","tokyo","japan","cityscape","urban","sky","clouds","scenery","outdoors","daytime"]
 },
-
+{
+id:"26K042624",
+title:"High-Rise Apartment Complex and Park Greenery under a Blue Sky",
+tags:["cityscape","urban","odaiba","tokyo","japan","architecture","building","skyscraper","apartment-complex","residential-building","condominium","modern-design","curved-roof-feature","park","greenery","trees","foliage","scenery","outdoors","daytime","sunny","blue-sky","clouds","pathway","stone-wall","scenic-view","residential-area"]
+},
   
 ];
