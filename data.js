@@ -2027,7 +2027,11 @@ id:"26K042621",
 title:"Rainbow Bridge and Tokyo Bay Skyline Viewed from Wood Deck at Odaiba Beach",
 tags:["rainbow-bridge","suspension-bridge","bridge","landmark","odaiba","tokyo","japan","tokyo-bay","beach","sand","seaside","waterfront","wood-deck","pathway","cityscape","urban","skyline","skyscraper","architecture","sky","clouds","scenery","outdoors","daytime"]
 },
-
+{
+id:"26K042622",
+title:"Urban Landscape with Elevated Expressway and Modern Architecture in Tokyo",
+tags:["cityscape","urban","tokyo","japan","expressway","highway","elevated-road","bridge","infrastructure","architecture","building","skyscraper","hotel","apartment","sky","blue-sky","clouds","trees","greenery","river","canal","scenery","outdoors","daytime","sunny"]
+},
 
 
   
