@@ -2132,6 +2132,10 @@ id:"26K042642",
 title:"Pine Tree Overlooking Odaiba Waterfront and Rainbow Bridge",
 tags:["odaiba","tokyo","japan","pine-tree","tree","nature","odaiba-marine-park","waterfront","seaside","rainbow-bridge","bridge","landmark","cityscape","urban","skyline","architecture","walkway","pavement","tokyo-bay","sky","clouds","outdoors","daytime","scenery","high-angle-view"]
 },
-
+{
+id:"26K042643",
+title:"Group of Tall Pine Trees at Odaiba Marine Park with City Building",
+tags:["odaiba","tokyo","japan","pine-tree","tree","nature","park","greenery","urban-park","foliage","landscape","sky","blue-sky","clouds","outdoors","daytime","city-building","skyscraper","stone-wall","rock-work","shrubbery","flower-bed","scenery"]
+},
   
 ];
