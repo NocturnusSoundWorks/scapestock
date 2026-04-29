@@ -2167,4 +2167,10 @@ id:"26K042649",
 title:"Rainbow Bridge and Tokyo Skyline Framed by Pine Trees at Odaiba Marine Park",
 tags:["odaiba","tokyo","japan","pine-tree","tree","nature","odaiba-marine-park","waterfront","rainbow-bridge","suspension-bridge","bridge","landmark","cityscape","urban","skyline","skyscraper","architecture","tokyo-bay","sea","water","sky","clouds","outdoors","daytime","scenery"]
 },  
+{
+id:"26K042650",
+title:"Rainbow Bridge and Tokyo Tower View from Odaiba Promenade",
+tags:["odaiba","tokyo","japan","rainbow-bridge","tokyo-tower","landmark","suspension-bridge","bridge","cityscape","urban","skyline","skyscraper","architecture","tokyo-bay","waterfront","sea","water","sky","clouds","outdoors","daytime","scenery","promenade"]
+},
+  
 ];
