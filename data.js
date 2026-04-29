@@ -2102,5 +2102,9 @@ id:"26K042636",
 title:"Vertical View of Rainbow Bridge and Tokyo Bay Skyline from Odaiba Beach",
 tags:["odaiba","tokyo","japan","beach","sand","seaside","waterfront","tokyo-bay","rainbow-bridge","suspension-bridge","bridge","landmark","cityscape","urban","skyline","skyscraper","architecture","sea","water","sky","clouds","outdoors","daytime","scenery","vertical-shot"]
 },
-  
+{
+id:"26K042637",
+title:"Modern Wooden Pedestrian Bridge Leading to Odaiba Marine Park with Cityscape Background",
+tags:["odaiba","tokyo","japan","pedestrian-bridge","bridge","wood-deck","pathway","walkway","architecture","modern-design","tactile-paving","symmetry","odaiba-marine-park","waterfront","tokyo-bay","cityscape","urban","rainbow-bridge","landmark","skyline","skyscraper","sky","clouds","outdoors","daytime","scenery"]
+},  
 ];
