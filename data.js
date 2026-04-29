@@ -2092,7 +2092,11 @@ id:"26K042634",
 title:"Odaiba Marine Park Beach and High-Rise Residential Buildings",
 tags:["odaiba","tokyo","japan","odaiba-marine-park","beach","sand","seaside","waterfront","tokyo-bay","cityscape","urban","skyline","skyscraper","apartment","residential-building","architecture","trees","greenery","park","sky","blue-sky","clouds","scenery","outdoors","daytime"]
 },
-
+{
+id:"26K042635",
+title:"Panoramic View of Odaiba Beach with High-Rise Residential Buildings and Boardwalk",
+tags:["odaiba","tokyo","japan","beach","sand","seaside","waterfront","odaiba-marine-park","boardwalk","wood-deck","pathway","cityscape","urban","skyline","skyscraper","apartment","residential-building","architecture","trees","greenery","park","sky","blue-sky","clouds","scenery","outdoors","daytime"]
+},
 
   
 ];
