@@ -2177,5 +2177,9 @@ id: "26K042651",
 title: "Wide View of Rainbow Bridge and Tokyo Bay with Floating Structures from Odaiba",
 tags: ["odaiba","tokyo","japan","rainbow-bridge","suspension-bridge","bridge","landmark","tokyo-bay","waterfront","sea","ocean","shoreline","rocky-shore","floating-pier","dock","cityscape","urban","skyline","skyscraper","architecture","outdoor","daytime","clouds","sky","scenery"]
 },
-  
+{
+id:"26K042652",
+title:"Tall Pine Tree with New Shoots Overlooking Odaiba Waterfront",
+tags:["odaiba","tokyo","japan","pine-tree","tree","nature","botany","new-shoots","odaiba-marine-park","waterfront","seaside","cityscape","urban","skyline","architecture","walkway","tokyo-bay","sky","clouds","outdoors","daytime","scenery","vertical-shot"]
+},  
 ];
