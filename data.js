@@ -2056,8 +2056,11 @@ tags:["tokyo","japan","cityscape","city","urban","downtown","skyline","building"
 id:"26K042627",    
 title:"Urban Street Lamp and Pedestrian Bridge Under Blue Sky",
 tags:["street-lamp","lamp","light","lighting","pole","urban","city","cityscape","downtown","infrastructure","pedestrian-bridge","bridge","walkway","stairs","platform","architecture","building","tower","high-rise","residential","modern","sky","blue-sky","cloud","sunny","daytime","odaiba","tokyo","japan","outdoors","travel","destination","scenery","background","wallpaper","copy-space","no-people"]
-}
-
-
+},
+{
+id:"26K042628",      
+title:"Urban Beachfront Lagoon with High Rise Towers",
+tags:["beach","sand","shore","coast","waterfront","lagoon","bay","water","sea","cityscape","city","urban","skyline","tower","high-rise","apartment","residential","building","architecture","bridge","highway","infrastructure","park","blue-sky","sky","cloud","daytime","sunny","outdoors","travel","destination","landscape","scenery","background","wallpaper","copy-space","no-people"]
+},
   
 ];
