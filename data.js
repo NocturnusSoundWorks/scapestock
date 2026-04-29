@@ -2042,5 +2042,13 @@ id:"26K042624",
 title:"High-Rise Apartment Complex and Park Greenery under a Blue Sky",
 tags:["cityscape","urban","odaiba","tokyo","japan","architecture","building","skyscraper","apartment-complex","residential-building","condominium","modern-design","curved-roof-feature","park","greenery","trees","foliage","scenery","outdoors","daytime","sunny","blue-sky","clouds","pathway","stone-wall","scenic-view","residential-area"]
 },
+{
+id:"26K042625",  
+title:"Modern High Rise Towers Under Clear Blue Sky",
+tags:["cityscape","city","urban","downtown","skyline","building","architecture","tower","high-rise","apartment","residential","condominium","modern","business","office","blue-sky","sky","cloud","sunny","daytime","summer","tree","green","park","outdoors","travel","odaiba","tokyo","japan","destination","scenery","background","wallpaper","copy-space","no-people"]
+},
+
+
+
   
 ];
