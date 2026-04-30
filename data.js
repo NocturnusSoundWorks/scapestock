@@ -2202,5 +2202,9 @@ id:"26K042656",
 title:"Japanese Train Platform Safety Warning Marking",
 tags:["japan","train","railway","station","platform","track","transportation","public-transport","warning","caution","safety","marking","road-sign","sign","symbol","text","yellow","orange","asphalt","ground","floor","line","boundary","stop","urban","infrastructure","travel","detail","close-up","background","copy-space","no-people"]
 },
-  
+{
+id:"26K042657",  
+title:"White Daisy Flowers Blooming in Garden Background",
+tags:["daisy","daisies","flower","white","yellow","blossom","petal","floral","nature","plant","botanical","garden","field","meadow","green","leaf","fresh","blooming","spring","summer","seasonal","outdoors","natural","close-up","background","wallpaper","copy-space","no-people"]
+},
 ];
