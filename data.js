@@ -2200,7 +2200,7 @@ tags:["rose","roses","flower","pink","blossom","petal","floral","nature","plant"
 {
 id:"26K042656",    
 title:"Japanese Train Platform Safety Warning Marking",
-tags:["japan","train","railway","station","platform","track","transportation","public-transport","warning","caution","safety","marking","sign","symbol","text","yellow","orange","asphalt","ground","floor","line","boundary","stop","urban","infrastructure","travel","detail","close-up","background","copy-space","no-people"]
+tags:["japan","train","railway","station","platform","track","transportation","public-transport","warning","caution","safety","marking","road-sign","sign","symbol","text","yellow","orange","asphalt","ground","floor","line","boundary","stop","urban","infrastructure","travel","detail","close-up","background","copy-space","no-people"]
 },
   
 ];
