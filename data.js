@@ -2232,7 +2232,11 @@ tags:["sky","blue-sky","cloud","white-clouds","cloudscape","nature","weather","a
 "title":"Low Angle View of Odaiba Waterfront Buildings Framed by Trees",
 "tags":["odaiba","tokyo","japan","fuji-television-building","architecture","modern-architecture","cityscape","urban","skyline","skyscraper","park","greenery","trees","foliage","sky","blue-sky","clouds","daytime","low-angle-view","scenery"]
 },
-
+{
+id:"26K042663",
+title:"White Wispy Clouds in a Wide Deep Blue Sky",
+tags:["sky","blue-sky","clouds","cloud","sun","summer","daytime","sunny","white-clouds","wispy-clouds","cumulus-clouds","daytime","outdoors","nature","atmosphere","scenery","background","copy-space"]
+}
 
 
 
