@@ -2300,5 +2300,16 @@ id:"26K042675",
 title:"Wet Leaves in the Rain with Urban Background",
 tags:["leaf","leaves","plant","green","wet","raindrop","waterdrops","rain","rainy","foliage","nature","growth","branch","park","garden","outdoors","residential","wall","concrete-wall","house","roof","rain-day","daytime","overcast","background","vertical-composition"]
 }, 
+{
+id:"26K042676",
+title:"Lush Green Leaves Covered in Raindrops After Rain",
+tags:["leaf","leaves","plant","green","nature","botanical","foliage","fresh","growth","garden","park","shrub","raindrop","water-droplet","after-rain","wet","moist","outdoors","daytime","natural-light","background","wallpaper","no-people"]
+}, 
+
+
+
+
+
+
   
 ];
