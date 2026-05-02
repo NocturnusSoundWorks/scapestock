@@ -2243,7 +2243,12 @@ title:"Statue of Liberty and Rainbow Bridge from Odaiba Marine Park",
 tags:["odaiba","tokyo","japan","statue-of-liberty","replica","rainbow-bridge","bridge","tokyo-bay","cityscape","urban","skyline","skyscraper","odaiba-marine-park","waterfront","trees","greenery","park","sky","clouds","outdoors","daytime","scenery"],
 license:"editorial"
 },
-
+{
+id:"26K042665",
+title:"Replica of the Statue of Liberty and Rainbow Bridge over Tokyo Bay",
+tags:["odaiba","tokyo","japan","statue-of-liberty","replica","rainbow-bridge","bridge","landmark","tokyo-bay","waterfront","cityscape","urban","skyline","skyscraper","odaiba-marine-park","sea","water","sky","clouds","outdoors","daytime","scenery","vertical-composition"],
+license:"editorial"
+},
 
   
 ];
