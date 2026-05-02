@@ -2330,6 +2330,30 @@ id:"26K042681",
 title:"Outdoor Public Sport Court with Basketball Hoop under Cloudy Sky in Urban Japan",
 tags:["japan","outdoor","sport-court","basketball-hoop","basketball","playground","recreation","urban","highway","overpass","picnic-table","bench","fuji-tv-building","metro-logo","concrete-wall","fence","cloudy","landscape","scenery","no-people"]
 }, 
+{
+id:"26K042682",
+title:"Wooden Pedestrian Bridge with Braille Blocks and Metal Handrails",
+tags:["bridge","pedestrian-bridge","wood-deck","braille-blocks","tactile-paving","handrail","glass-panel","outdoor","sunlight","shadow","perspective","path","walkway","urban-design","barrier-free","architecture","daytime","no-people","vertical-composition","scenery"]
+},
+
+{
+id:"26K042683",
+title:"Scenic View of Odaiba Marine Park with Tokyo Skyline and Bay",
+tags:["tokyo","japan","odaiba","odaiba-marine-park","bay","ocean","sea","cityscape","skyline","skyscraper","buildings","park","greenery","tree","outdoor","outdoors","scenery","landscape","daytime","sunny","horizon","waterfront","pier","no-people"]
+},
+{
+id:"26K042684",
+title:"No U-Turn Traffic Sign with Time Restriction in Urban Area",
+tags:["traffic-sign","road-sign","no-u-turn","u-turn-prohibited","japanese-traffic-sign","urban","cityscape","buildings","skyscraper","tree","foliage","greenery","outdoor","outdoors","daytime","cloudy","street","infrastructure","vertical-composition","no-people"]
+},
+{
+id:"26K042685",
+title:"Panoramic View of Tokyo Bay with Rainbow Bridge and City Skyline at Sunset",
+tags:["tokyo","japan","odaiba","rainbow-bridge","tokyo-bay","ocean","sea","waterfront","beach","cityscape","skyline","skyscraper","buildings","bridge","sunset","sunlight","clouds","sky","outdoor","scenery","landscape","panorama","horizon","no-people"]
+},
+
+
+
 
   
 ];
