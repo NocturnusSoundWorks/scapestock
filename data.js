@@ -2255,5 +2255,10 @@ title:"Statue of Liberty Replica and Rainbow Bridge in Odaiba Tokyo",
 tags:["odaiba","tokyo","japan","statue-of-liberty","rainbow-bridge","bridge","landmark","landmark-architecture","tokyo-bay","waterfront","sea","water","cityscape","urban","skyline","skyscraper","building","trees","greenery","park","sky","clouds","outdoors","daytime","scenery","vertical-composition"],
 license:"editorial"  
 },
+{
+id:"26K042667",
+title:"Scenic Waterfront Park Boardwalk and Tokyo Cityscape Skyline",
+tags:["tokyo","japan","odaiba","cityscape","urban","skyline","skyscraper","building","waterfront","bay","sea","water","park","boardwalk","path","bridge","trees","pine-tree","greenery","nature","landscape","scenery","outdoors","daytime","sunny","clouds","background","copy-space","no-people"]
+},
   
 ];
