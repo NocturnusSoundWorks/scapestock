@@ -2285,5 +2285,20 @@ id:"26K042672",
 title:"Traditional Japanese Garden with Bamboo Fence Stone Lantern and Azaleas",
 tags:["japan","japanese-garden","traditional","bamboo-fence","stone-lantern","toro","azalea","flower","pink-flower","spring","nature","plant","botanical","garden","landscape","zen","aesthetic","stone-wall","moss","greenery","trees","outdoors","daytime","scenery","vertical-composition","no-people"]
 }, 
+{
+id:"26K042673",
+title:"Fresh Green Leaves with Raindrops After Rain Background",
+tags:["leaf","plant","green","nature","botanical","foliage","fresh","growth","seasonal","outdoors","garden","park","raindrop","water-droplet","after-rain","wet","dew","close-up","macro","natural-light","background","wallpaper","no-people","vertical-composition"]
+}, 
+{
+id:"26K042674",
+title:"Bright Green Leaves with Raindrops in a Garden",
+tags:["leaf","plant","green","nature","foliage","fresh","growth","garden","park","shrub","hedge","raindrop","water-droplet","after-rain","wet","moist","outdoors","daytime","natural-light","scenery","background","wallpaper","no-people","vertical-composition"]
+}, 
+{
+id:"26K042675",
+title:"Wet Leaves in the Rain with Urban Background",
+tags:["leaf","leaves","plant","green","wet","raindrop","waterdrops","rain","rainy","foliage","nature","growth","branch","park","garden","outdoors","residential","wall","concrete-wall","house","roof","rain-day","daytime","overcast","background","vertical-composition"]
+}, 
   
 ];
