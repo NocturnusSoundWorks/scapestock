@@ -2280,6 +2280,10 @@ id:"26K042671",
 title:"Kameshima Bridge Pillar with Traditional Design in Tokyo",
 tags:["tokyo","japan","bridge","kameshima-bridge","chuo-ku","architecture","traditional-design","stone-pillar","street-lamp","urban","cityscape","building","greenery","trees","leaves","path","sidewalk","outdoors","daytime","scenery","vertical-composition","no-people"]
 }, 
-
+{
+id:"26K042672",
+title:"Traditional Japanese Garden with Bamboo Fence Stone Lantern and Azaleas",
+tags:["japan","japanese-garden","traditional","bamboo-fence","stone-lantern","toro","azalea","flower","pink-flower","spring","nature","plant","botanical","garden","landscape","zen","aesthetic","stone-wall","moss","greenery","trees","outdoors","daytime","scenery","vertical-composition","no-people"]
+}, 
   
 ];
