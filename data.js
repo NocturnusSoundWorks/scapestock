@@ -2361,6 +2361,11 @@ id:"226K042687",
 title:"Outdoor Public Basketball Court Under a City Overpass",
 tags:["tokyo","japan","cityscape","urban","basketball","basketball-hoop","basketball-court","playground","recreation","leisure","sports","park","outdoors","daytime","public-space","overpass","highway","concrete","wall","fence","bench","picnic-table","buildings","apartments","metro-logo","cloudy-day","scenery","vertical-composition","no-people"]
 },
-
+{
+id:"26K042688",
+title:"Statue of Liberty Replica with Rainbow Bridge and Tokyo Skyline in Odaiba",
+tags:["tokyo","japan","odaiba","statue-of-liberty","replica","rainbow-bridge","tokyo-bay","cityscape","skyline","skyscraper","buildings","waterfront","park","greenery","trees","outdoor","scenery","landscape","daytime","sunny","horizon","vertical-composition","landmark","tourism"],
+license:"editorial"
+},
   
 ];
