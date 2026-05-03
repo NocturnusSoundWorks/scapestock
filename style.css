@@ -84,7 +84,7 @@ body {
     display: grid;
     grid-template-columns: 220px 1fr 200px;
     gap: 30px;
-    max-width: 1400px;
+    max-width: 1800px; /* 1400から1800へ広げる */
     margin: auto;
     padding: 20px;
 }
@@ -114,12 +114,11 @@ body {
 
 /* --- GALLERY (ここが修正の肝です) --- */
 .gallery {
-    display: block; /* Gridを解除してコラム形式に固定 */
-    column-count: 3;
+    display: block; 
+    column-count: 4; /* 3から4へ変更 */
     column-gap: 15px;
     width: 100%;
 }
-
 /* 画像とテキストを「絶対に分離させない」セットの箱 */
 .photo-card {
     display: inline-block;
@@ -250,24 +249,31 @@ body {
     text-decoration: underline;
 }
 
+
 /* --- RESPONSIVE (レスポンシブ設定) --- */
-@media screen and (max-width: 1200px) {
-    .container {
-        grid-template-columns: 220px 1fr; /* 右サイドバーを隠すなど */
+@media screen and (max-width: 1600px) {
+    .gallery {
+        column-count: 3; /* 画面が少し狭くなったら3列に戻す */
     }
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1200px) {
     .container {
-        grid-template-columns: 1fr; /* サイドバーを縦並びに */
+        grid-template-columns: 220px 1fr; 
     }
     .gallery {
-        column-count: 2; /* 2列 */
+        column-count: 2; /* さらに狭くなったら2列に */
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .container {
+        grid-template-columns: 1fr;
     }
 }
 
 @media screen and (max-width: 600px) {
     .gallery {
-        column-count: 1; /* 1列 */
+        column-count: 1; /* スマホでは1列 */
     }
 }
