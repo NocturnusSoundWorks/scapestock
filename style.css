@@ -17,6 +17,15 @@ color:#333;
     font-weight: bold;
     text-align: left;
 }
+.license-label {
+    display: block;
+    margin-top: 10px;
+    font-size: 12px;
+    color: #666;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
 /* HERO HEADER */
 
 .hero{
@@ -84,10 +93,9 @@ text-decoration:underline;
 /* GALLERY */
 
 .gallery {
-    display: grid;
-    /* 10pxの設定を削除し、自動調整（auto）にします */
-    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-    gap: 25px; /* 隙間を少し広げてテキストの場所を確保 */
+    column-count: 3;    /* 列の数 */
+    column-gap: 15px;   /* 列同士の隙間 */
+    width: 100%;
 }
 
 .gallery a{
@@ -114,10 +122,9 @@ box-shadow .25s ease;
 /* 画像の調整（カードいっぱいに広げる） */
 .gallery img {
     width: 100%;
-    height: auto;
+    height: auto;        /* 元の比率（縦長・横長）を維持 */
     display: block;
-    border-radius: 8px;
-    /* paddingやbox-shadowは親の.photo-cardに任せるので削除または調整 */
+    border-radius: 5px;
 }
 
 /* PHOTO PAGE */
@@ -222,18 +229,20 @@ text-decoration:none;
 ========================= */
 
 .photo-card {
-    position: relative;
-    display: flex;
-    flex-direction: column; /* 縦に並べる */
-    background: white;     /* 背景を白に */
-    padding: 10px;        /* 周囲に余白を作る */
-    border-radius: 12px;
-    box-shadow: 0 3px 8px rgba(0,0,0,0.08);
-    transition: transform .25s ease;
+    display: inline-block; /* これが重要！要素が途中で切れるのを防ぎます */
+    width: 100%;
+    margin-bottom: 20px;   /* 下のカードとの隙間 */
+    background: white;
+    padding: 8px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    box-sizing: border-box;
+    transition: transform 0.3s ease;
+    break-inside: avoid;   /* カードが途中で次の列に分割されないようにする */
 }
 
 .photo-card:hover {
-    transform: translateY(-5px); /* 少し上に浮く演出 */
+    transform: translateY(-5px);
 }
 
 #description {
@@ -264,4 +273,10 @@ text-align:center;
 margin:16px 0 8px;
 font-size:15px;
 color:#555;
+}
+@media (max-width: 900px) {
+    .gallery { column-count: 2; }
+}
+@media (max-width: 500px) {
+    .gallery { column-count: 1; }
 }
