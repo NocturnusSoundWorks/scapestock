@@ -2432,7 +2432,11 @@ id:"26K050302",
 title:"Breaking Wave and Foam on a Dark Sand Beach under Hazy Sky",
 tags:["ocean","sea","water","waves","breakers","foam","spray","beach","sand","shoreline","coastline","nature","outdoors","scenery","landscape","horizon","sky","haze","mist","daytime","vertical"]
 },
-
+{
+id:"26K050303",
+title:"Sculpted Pine Trees and Lush Greenery in a Japanese-Style Garden",
+tags:["garden","japanese-garden","landscape","scenery","nature","outdoors","pine-trees","conifers","sculpted-trees","bushes","shrubs","foliage","greenery","plants","pathway","paved-path","stones","building","house","roof","sunny","daytime","clear-sky","blue-sky","tranquil","peaceful"]
+},
 
   
 
