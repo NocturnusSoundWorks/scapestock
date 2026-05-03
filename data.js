@@ -2442,6 +2442,13 @@ id:"26K050304",
 title:"Sculpted Pine Trees and Stepping Stones in a Japanese Garden",
 tags:["garden","japanese-garden","nature","outdoors","landscape","scenery","pine-trees","conifers","sculpted-trees","bushes","shrubs","stepping-stones","rocks","stones","pathway","greenery","sunny","clear-sky","blue-sky","daytime","peaceful","tranquil"]
 },
+{
+id:"26K050305",
+title:"Large Sculpted Pine Tree under a Clear Blue Sky",
+tags:["pine-tree","conifer","evergreen","sculpted-tree","japanese-garden","nature","outdoors","greenery","landscape","scenery","sky","blue-sky","clear-sky","sunny","daytime","branches","foliage","tranquil","peaceful"]
+},
+
+
   
 
   
