@@ -2457,6 +2457,20 @@ id:"26K050307",
 title:"Vibrant Pink Roses in Full Bloom in a Summer Garden",
 tags:["rose","flower","pink-flower","vibrant-pink","blooms","blossoms","garden","floral","nature","plants","foliage","leaves","green-leaves","buds","flower-buds","summer","spring","outdoors","sunny","close-up","gardening","beautiful","fresh"]
 }, 
-
+{
+id:"26K050308",
+title:"Close-up of Bright Pink Roses and Flower Buds in a Garden",
+tags:["rose","flower","pink-flower","vibrant-pink","blooms","blossoms","buds","flower-buds","floral","nature","plants","greenery","leaves","foliage","garden","outdoors","sunny","close-up","macrophotography","fresh","beautiful"]
+}, 
+{
+id:"26K050309",
+title:"Bright Pink Rose Blooming with Buds in a Sunny Garden",
+tags:["rose","flower","pink-flower","vibrant-pink","blooms","blossoms","floral","nature","plants","greenery","leaves","foliage","buds","flower-buds","garden","outdoors","sunny","close-up","fresh","beautiful"]
+},
+{
+id:"26K050310",
+title:"Multiple Bright Pink Roses in Full Bloom and Buds",
+tags:["rose","flower","pink-flower","vibrant-pink","blooms","blossoms","buds","flower-buds","nature","plants","floral","garden","leaves","green-leaves","foliage","greenery","outdoors","sunny","close-up","gardening","beautiful","fresh"]
+},  
   
 ];
