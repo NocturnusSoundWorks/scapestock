@@ -2479,7 +2479,7 @@ tags:["rose","flower","pink-flower","vibrant-pink","blooms","blossoms","buds","f
 },
 {
 id:"26K050312",
-title:Bright Sun Shining through Wispy Cirrus Clouds in a Blue Sky",
+title:"Bright Sun Shining through Wispy Cirrus Clouds in a Blue Sky",
 tags:["sky","blue-sky","sun","sunshine","bright-sun","clouds","cirrus-clouds","wispy-clouds","thin-clouds","weather","meteorology","nature","outdoors","daytime","daylight","clear-sky","blue","white","sun-glare","flare","backlit","vertical"]
 },
 
