@@ -2452,7 +2452,11 @@ id:"26K050306",
 title:"Wispy White Clouds in a Bright Blue Sky Over Green Treeline",
 tags:["sky","blue-sky","clouds","wispy-clouds","nature","outdoor","scenery","landscape","treeline","forest","trees","daytime","sunny","clear-sky","vertical-composition","tranquil","peaceful"]
 },
-  
+{
+id:"26K050307",
+title:"Vibrant Pink Roses in Full Bloom in a Summer Garden",
+tags:["rose","flower","pink-flower","vibrant-pink","blooms","blossoms","garden","floral","nature","plants","foliage","leaves","green-leaves","buds","flower-buds","summer","spring","outdoors","sunny","close-up","gardening","beautiful","fresh"]
+}, 
 
   
 ];
