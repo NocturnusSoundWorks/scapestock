@@ -200,6 +200,38 @@ body {
     color: #555;
 }
 
+/* =========================
+   DOWNLOAD表示（ホバー）
+========================= */
+
+/* ラベルを表示するために親要素を基準にする */
+.photo-card {
+    position: relative; 
+}
+
+/* 黒い「Free Download」ラベルの作成 */
+.photo-card::after {
+    content: "Free Download";
+    position: absolute;
+    /* 位置の調整：画像の上に重なるように配置 */
+    top: 20px;
+    right: 20px;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 6px 12px;
+    font-size: 12px;
+    border-radius: 4px;
+    pointer-events: none; /* マウス操作を邪魔しない */
+    opacity: 0;           /* 最初は消しておく */
+    transition: 0.3s;     /* ふわっと出す */
+    z-index: 10;
+}
+
+/* ホバーした時だけ表示する */
+.photo-card:hover::after {
+    opacity: 1;
+}
+
 .footer {
     margin-top: 60px;
     padding: 20px;
