@@ -1,282 +1,241 @@
-body{
-font-family:sans-serif;
-margin:0;
-background:#f7f7f7;
-color:#333;
+/* --- 全体基本設定 --- */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background: #f7f7f7;
+    color: #333;
 }
-.license {
-  display: block;
-  font-size: 12px;
-  color: #777;
-  margin-top: 4px;
-}
-.license-type {
-    margin-top: 10px;
-    font-size: 13px;
-    color: #666;
-    font-weight: bold;
-    text-align: left;
-}
-.license-label {
+
+/* ラベル類を1つに統合：画像の下に必ず隙間を作る設定 */
+.license-label, .license-type, .license {
     display: block;
     margin-top: 10px;
     font-size: 12px;
     color: #666;
     text-transform: uppercase;
+    font-weight: bold;
     letter-spacing: 0.5px;
 }
 
-/* HERO HEADER */
-
-.hero{
-height:320px;
-background-image:url("images/hero.jpg");
-background-size:cover;
-background-position:center;
-display:flex;
-align-items:center;
-justify-content:center;
-text-align:center;
+/* --- HERO HEADER --- */
+.hero {
+    height: 320px;
+    background-image: url("images/hero.jpg");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 
-.hero-inner{
-background:rgba(255,255,255,0.8);
-padding:40px;
-border-radius:12px;
+.hero-inner {
+    background: rgba(255,255,255,0.8);
+    padding: 40px;
+    border-radius: 12px;
 }
 
-.hero h1{
-font-size:42px;
-margin-bottom:10px;
+.hero h1 {
+    font-size: 42px;
+    margin-bottom: 10px;
 }
 
-.hero p{
-font-size:18px;
-margin:0;
+.hero h1 a {
+    color: black;
+    text-decoration: none;
 }
 
-/* MAIN LAYOUT */
-
-.container{
-display:grid;
-grid-template-columns:220px 1fr 200px;
-gap:30px;
-max-width:1400px;
-margin:auto;
-padding:20px;
+.hero p {
+    font-size: 18px;
+    margin: 0;
 }
 
-/* SIDEBAR */
-
-.sidebar{
-background:white;
-padding:20px;
-border-radius:8px;
-height:fit-content;
+/* --- SEARCH --- */
+#search-form {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
 }
 
-.sidebar h2{
-margin-top:0;
+#search-input {
+    padding: 10px 14px;
+    font-size: 16px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    width: 260px;
 }
 
-.sidebar a{
-display:block;
-padding:6px 0;
-text-decoration:none;
-color:#333;
+#search-form button {
+    padding: 10px 16px;
+    border: none;
+    background: #333;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
 }
 
-.sidebar a:hover{
-text-decoration:underline;
+#search-form button:hover {
+    background: #555;
 }
 
-/* GALLERY */
-
-.gallery {
-    column-count: 3;    /* 列の数 */
-    column-gap: 15px;   /* 列同士の隙間 */
-    width: 100%;
+/* --- MAIN LAYOUT --- */
+.container {
+    display: grid;
+    grid-template-columns: 220px 1fr 200px;
+    gap: 30px;
+    max-width: 1400px;
+    margin: auto;
+    padding: 20px;
 }
 
-.gallery a{
-display:block;
-overflow:hidden;
-border-radius:8px;
-}
-
-.gallery img{
-width:100%;
-height:auto;
-display:block;
-border-radius:8px;
-
-background:white;
-padding:4px;
-
-box-shadow:0 3px 8px rgba(0,0,0,0.08);
-
-transition:transform .25s ease,
-box-shadow .25s ease;
-}
-
-/* 画像の調整（カードいっぱいに広げる） */
-.gallery img {
-    width: 100%;
-    height: auto;        /* 元の比率（縦長・横長）を維持 */
-    display: block;
-    border-radius: 5px;
-}
-
-/* PHOTO PAGE */
-
-.photo-container{
-max-width:900px;
-margin:auto;
-padding:40px;
-text-align:center;
-}
-
-.photo-container img{
-max-width:100%;
-border-radius:8px;
-}
-
-/* DOWNLOAD BUTTON */
-
-.download-btn{
-display:inline-block;
-margin-top:20px;
-padding:12px 24px;
-background:#333;
-color:white;
-text-decoration:none;
-border-radius:6px;
-}
-
-/* MOBILE */
-
-@media screen and (max-width:1000px){
-
-.container{
-grid-template-columns:1fr;
-}
-
-.gallery{
-grid-template-columns:repeat(2,1fr);
-}
-
-}
-
-/* SEARCH */
-
-#search-form{
-margin-top:20px;
-display:flex;
-justify-content:center;
-gap:10px;
-}
-
-#search-input{
-padding:10px 14px;
-font-size:16px;
-border-radius:6px;
-border:1px solid #ccc;
-width:260px;
-}
-
-#search-form button{
-padding:10px 16px;
-border:none;
-background:#333;
-color:white;
-border-radius:6px;
-cursor:pointer;
-}
-
-#search-form button:hover{
-background:#555;
-}
-.footer{
-margin-top:60px;
-padding:20px;
-text-align:center;
-font-size:14px;
-color:#666;
-border-top:1px solid #eee;
-}
-
-.footer a{
-color:#666;
-text-decoration:none;
-}
-
-.footer a:hover{
-text-decoration:underline;
-}
-.hero h1 a{
-color:black;
-text-decoration:none;
-}
-
-.hero h1 a:hover{
-color:black;
-text-decoration:none;
-}
-
-
-/* =========================
-   DOWNLOAD表示（ホバー）
-========================= */
-
-.photo-card {
-    display: inline-block; /* これが重要！要素が途中で切れるのを防ぎます */
-    width: 100%;
-    margin-bottom: 20px;   /* 下のカードとの隙間 */
+/* --- SIDEBAR --- */
+.sidebar {
     background: white;
-    padding: 8px;
+    padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    height: fit-content;
+}
+
+.sidebar h2 {
+    margin-top: 0;
+}
+
+.sidebar a {
+    display: block;
+    padding: 6px 0;
+    text-decoration: none;
+    color: #333;
+}
+
+.sidebar a:hover {
+    text-decoration: underline;
+}
+
+/* --- GALLERY (ここが修正の肝です) --- */
+.gallery {
+    display: block; /* Gridを解除してコラム形式に固定 */
+    column-count: 3;
+    column-gap: 15px;
+    width: 100%;
+}
+
+/* 画像とテキストを「絶対に分離させない」セットの箱 */
+.photo-card {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 20px;
+    background: white;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.08);
     box-sizing: border-box;
-    transition: transform 0.3s ease;
-    break-inside: avoid;   /* カードが途中で次の列に分割されないようにする */
+    break-inside: avoid; /* 画像と下の文字が別々の列に泣き別れするのを防ぐ */
+    transition: transform .25s ease;
+    position: relative;
 }
 
 .photo-card:hover {
     transform: translateY(-5px);
+    box-shadow: 0 15px 35px rgba(0,0,0,0.15);
+}
+
+.photo-card img {
+    width: 100%;
+    height: auto; /* 縦横の比率を維持 */
+    display: block;
+    border-radius: 5px;
+}
+
+/* --- PHOTO PAGE & OTHER COMPONENTS --- */
+.photo-container {
+    max-width: 900px;
+    margin: auto;
+    padding: 40px;
+    text-align: center;
+}
+
+.photo-container img {
+    max-width: 100%;
+    border-radius: 8px;
+}
+
+.download-btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 24px;
+    background: #333;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
 }
 
 #description {
-  margin-top: 20px;
-  line-height: 1.6;
-  color: #555;
+    margin-top: 20px;
+    line-height: 1.6;
+    color: #555;
 }
 
-.support-btn{
-display:block;
-width:fit-content;
-margin:12px auto 25px;
-padding:8px 14px;
-font-size:14px;
-background:#ffdd00;
-color:#000;
-text-decoration:none;
-border-radius:20px;
-font-weight:bold;
+.support-btn {
+    display: block;
+    width: fit-content;
+    margin: 12px auto 25px;
+    padding: 8px 14px;
+    font-size: 14px;
+    background: #ffdd00;
+    color: #000;
+    text-decoration: none;
+    border-radius: 20px;
+    font-weight: bold;
 }
 
-.support-btn:hover{
-opacity:0.9;
+.support-btn:hover {
+    opacity: 0.9;
 }
 
-.support-text{
-text-align:center;
-margin:16px 0 8px;
-font-size:15px;
-color:#555;
+.support-text {
+    text-align: center;
+    margin: 16px 0 8px;
+    font-size: 15px;
+    color: #555;
 }
-@media (max-width: 900px) {
-    .gallery { column-count: 2; }
+
+.footer {
+    margin-top: 60px;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+    border-top: 1px solid #eee;
 }
-@media (max-width: 500px) {
-    .gallery { column-count: 1; }
+
+.footer a {
+    color: #666;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+/* --- RESPONSIVE (レスポンシブ設定) --- */
+@media screen and (max-width: 1200px) {
+    .container {
+        grid-template-columns: 220px 1fr; /* 右サイドバーを隠すなど */
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .container {
+        grid-template-columns: 1fr; /* サイドバーを縦並びに */
+    }
+    .gallery {
+        column-count: 2; /* 2列 */
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .gallery {
+        column-count: 1; /* 1列 */
+    }
 }
