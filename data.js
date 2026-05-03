@@ -2367,5 +2367,13 @@ title:"Statue of Liberty Replica with Rainbow Bridge and Tokyo Skyline in Odaiba
 tags:["tokyo","japan","odaiba","statue-of-liberty","replica","rainbow-bridge","tokyo-bay","cityscape","skyline","skyscraper","buildings","waterfront","park","greenery","trees","outdoor","scenery","landscape","daytime","sunny","horizon","vertical-composition","landmark","tourism"],
 license:"editorial"
 },
+{
+id:"26K042689",
+title:"No Pedestrian Crossing Traffic Sign in Japanese Urban Street",
+tags:["traffic-sign","road-sign","no-pedestrian-crossing","japanese-sign","koudan-kinshi","urban","cityscape","street","road","asphalt","buildings","apartments","outdoor","outdoors","daytime","safety","infrastructure","vertical-composition","no-people"]
+},
+
+
+
   
 ];
