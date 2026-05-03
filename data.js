@@ -2437,7 +2437,11 @@ id:"26K050303",
 title:"Sculpted Pine Trees and Lush Greenery in a Japanese-Style Garden",
 tags:["garden","japanese-garden","landscape","scenery","nature","outdoors","pine-trees","conifers","sculpted-trees","bushes","shrubs","foliage","greenery","plants","pathway","paved-path","stones","building","house","roof","sunny","daytime","clear-sky","blue-sky","tranquil","peaceful"]
 },
-
+{
+id:"26K050304",
+title:"Sculpted Pine Trees and Stepping Stones in a Japanese Garden",
+tags:["garden","japanese-garden","nature","outdoors","landscape","scenery","pine-trees","conifers","sculpted-trees","bushes","shrubs","stepping-stones","rocks","stones","pathway","greenery","sunny","clear-sky","blue-sky","daytime","peaceful","tranquil"]
+},
   
 
   
