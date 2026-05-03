@@ -10,7 +10,13 @@ color:#333;
   color: #777;
   margin-top: 4px;
 }
-
+.license-type {
+    margin-top: 10px;
+    font-size: 13px;
+    color: #666;
+    font-weight: bold;
+    text-align: left;
+}
 /* HERO HEADER */
 
 .hero{
@@ -77,11 +83,11 @@ text-decoration:underline;
 
 /* GALLERY */
 
-.gallery{
-display:grid;
-grid-template-columns:repeat(auto-fill,minmax(260px,1fr));
-grid-auto-rows:10px;
-gap:12px;
+.gallery {
+    display: grid;
+    /* 10pxの設定を削除し、自動調整（auto）にします */
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 25px; /* 隙間を少し広げてテキストの場所を確保 */
 }
 
 .gallery a{
@@ -105,9 +111,13 @@ transition:transform .25s ease,
 box-shadow .25s ease;
 }
 
-.gallery img:hover{
-transform:scale(1.06);
-box-shadow:0 15px 35px rgba(0,0,0,0.25);
+/* 画像の調整（カードいっぱいに広げる） */
+.gallery img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+    /* paddingやbox-shadowは親の.photo-cardに任せるので削除または調整 */
 }
 
 /* PHOTO PAGE */
@@ -206,48 +216,24 @@ color:black;
 text-decoration:none;
 }
 
-@media (max-width:1200px){
-.gallery{
-column-count:3;
-}
-}
-
-@media (max-width:800px){
-.gallery{
-column-count:2;
-}
-}
-
-@media (max-width:500px){
-.gallery{
-column-count:1;
-}
-}
 
 /* =========================
    DOWNLOAD表示（ホバー）
 ========================= */
 
-.photo-card{
-position:relative;
+.photo-card {
+    position: relative;
+    display: flex;
+    flex-direction: column; /* 縦に並べる */
+    background: white;     /* 背景を白に */
+    padding: 10px;        /* 周囲に余白を作る */
+    border-radius: 12px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.08);
+    transition: transform .25s ease;
 }
 
-.photo-card::after{
-content:"Free Download";
-position:absolute;
-bottom:10px;
-right:10px;
-background:rgba(0,0,0,0.7);
-color:white;
-padding:4px 8px;
-font-size:12px;
-border-radius:4px;
-opacity:0;
-transition:.2s;
-}
-
-.photo-card:hover::after{
-opacity:1;
+.photo-card:hover {
+    transform: translateY(-5px); /* 少し上に浮く演出 */
 }
 
 #description {
