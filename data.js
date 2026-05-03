@@ -2372,6 +2372,31 @@ id:"26K042689",
 title:"No Pedestrian Crossing Traffic Sign in Japanese Urban Street",
 tags:["traffic-sign","road-sign","no-pedestrian-crossing","japanese-sign","koudan-kinshi","urban","cityscape","street","road","asphalt","buildings","apartments","outdoor","outdoors","daytime","safety","infrastructure","vertical-composition","no-people"]
 },
+{
+id:"26K042690",
+title:"Ocean Waves Crashing on a Sandy Beach under a Hazy Sky",
+tags:["ocean","sea","waves","beach","sand","shoreline","waterfront","coastline","nature","outdoor","scenery","landscape","horizon","sky","haze","misty","daytime","serene","peaceful","no-people"]
+},
+{
+id:"26K042691",
+title:"Breaking Wave and Sea Foam on a Sandy Beach under Hazy Sky",
+tags:["ocean","sea","wave","breakers","foam","spray","beach","sand","shore","coastline","waterfront","nature","scenery","landscape","horizon","sky","haze","mist","daytime","vertical"]
+},
+{
+id:"26K042692",
+title:"Small Waves Crashing on a Sandy Shore under a Hazy Sky",
+tags:["ocean","sea","water","waves","beach","sand","shoreline","coastline","nature","outdoors","scenery","landscape","horizon","sky","clouds","haze","mist","daytime","vertical-composition","peaceful"]
+},
+{
+id:"26K042693",
+title:"Bright Sun Shining Over Sparkling Ocean Waves and Hazy Horizon",
+tags:["ocean","sea","sun","sunlight","glitter","sparkle","waves","beach","shoreline","waterfront","horizon","haze","misty","sky","clouds","nature","outdoor","scenery","landscape","vertical-composition"]
+},
+{
+id:"26K042694",
+title:"Sparkling Ocean Waves on a Sandy Shore under a Hazy Sky",
+tags:["ocean","sea","water","waves","beach","sand","shoreline","coastline","horizon","sparkle","glitter","sunlight","nature","outdoors","scenery","landscape","sky","haze","mist","daytime","peaceful"]
+},
 
 
 
