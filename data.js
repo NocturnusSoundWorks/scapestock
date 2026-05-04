@@ -2552,7 +2552,11 @@ id:"26K050326",
 title:"Urban Road with Modern Buildings and Apartments in Japan",
 tags:["cityscape","urban-landscape","street","road","asphalt","buildings","apartments","condominiums","architecture","city-view","daytime","sunny","blue-sky","clouds","greenery","hedges","sidewalk","modern-architecture","outdoors","waseda","tokyo","japan"]
 },
-
+{
+id:"26K050327",
+title:"Traditional Japanese Garden Pond with Lush Green Trees and Reflections",
+tags:["garden","japanese-garden","pond","water","reflection","trees","greenery","foliage","nature","outdoors","scenery","landscape","tranquil","peaceful","park","summer","spring","shrub","leaf","vertical","tokyo","japan"]
+},
 
   
   
