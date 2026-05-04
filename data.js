@@ -2582,7 +2582,11 @@ id:"26K050332",
 title:"Looking Up at Green Maple Leaves and Pine Branches Against a Blue Sky",
 tags:["maple","green-leaves","momiji","pine-tree","sky","blue-sky","looking-up","low-angle-shot","nature","sunlight","outdoor","summer","spring","foliage","greenery","trees","forest","scenery","vertical"]
 },
-
+{
+id:"26K050333",
+title:"Japanese Garden with Bamboo Fence and Red Maple Tree",
+tags:["japanese-garden","bamboo-fence","red-maple","maple-tree","greenery","nature","landscape","outdoor","scenery","traditional","garden-path","tranquil","peaceful","summer","spring","foliage","trees","japan","zen","park"]
+},
 
 
 
