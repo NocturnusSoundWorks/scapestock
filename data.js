@@ -2562,6 +2562,10 @@ id:"26K050328",
 title:"Natural Pond Surrounding by Lush Green Trees Under a Blue Sky",
 tags:["pond","water","trees","lush","greenery","foliage","nature","scenery","landscape","outdoors","reflection","calm","tranquil","peaceful","summer","spring","forest","garden","blue-sky","clouds","tokyo","japan"]
 },
-  
+{
+id:"26K050329",
+title:"Japanese Street Signs for Parking and No Entry under a Cloudy Sky",
+tags:["road-sign","traffic-sign","parking-sign","no-entry","japanese-sign","street-view","urban-landscape","cityscape","buildings","architecture","sky","clouds","daytime","outdoor","japan","information-sign","blue-and-red","vertical-shot"]
+},
   
 ];
