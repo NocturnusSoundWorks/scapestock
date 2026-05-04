@@ -2567,5 +2567,12 @@ id:"26K050329",
 title:"Japanese Street Signs for Parking and No Entry under a Cloudy Sky",
 tags:["road-sign","traffic-sign","parking-sign","no-entry","japanese-sign","street-view","urban-landscape","cityscape","buildings","architecture","sky","clouds","daytime","outdoor","japan","information-sign","blue-and-red","vertical-shot"]
 },
+{
+id:"26K050330",
+title:"Traditional Japanese Garden Pond with a Stone Lantern and Lush Greenery",
+tags:["japanese-garden","pond","water","stone-lantern","toro","reflection","greenery","trees","foliage","nature","scenery","landscape","tranquil","peaceful","zen","outdoor","summer","spring","park","vertical"]
+},
+
+  
   
 ];
