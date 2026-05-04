@@ -2517,7 +2517,15 @@ id:"26K050319",
 title:"Lush Green Pine Trees and Forest Foliage under a Bright Sky",
 tags:["tree","pine-tree","conifer","needles","branches","foliage","leaves","greenery","forest","woodland","nature","outdoors","landscape","sky","blue-sky","clouds","sunny-day","scenery","garden","park"]
 },
+{
+id:"26K050320",
+title:"Modern Outdoor Wall Lantern with Cylindrical White Glass and Black Frame",
+tags:["lighting","outdoor-lighting","wall-lantern","lamp","fixture","modern-design","cylindrical","black-frame","stone-wall","exterior","architecture","building-exterior","decor","minimalist","street-lamp","lighting-fixture","night-light","garden-light","urban-detail","close-up"]
+},
 
+
+
+  
   
   
 ];
