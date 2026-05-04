@@ -2592,7 +2592,11 @@ id:"26K050334",
 title:"Modern City Buildings and Blue Sky with White Clouds",
 tags:["cityscape","urban-landscape","sky","blue-sky","clouds","buildings","skyscrapers","office-buildings","architecture","low-angle-shot","looking-up","glass-facade","sunlight","daytime","outdoor","tokyo","japan","modern-architecture","city-view","vertical"]
 },
-
+{
+id:"26K050335",
+title:"Sparkling Sea Surface and Waves on a Sandy Beach Under Hazy Sky",
+tags:["sea","ocean","beach","sand","waves","water","sparkle","sunlight","reflection","horizon","coast","seashore","nature","landscape","outdoor","scenery","hazy-sky","tranquil","peaceful","horizontal"]
+},
 
 
   
