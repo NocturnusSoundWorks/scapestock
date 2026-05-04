@@ -2547,6 +2547,13 @@ id:"26K050325",
 title:"Urban Sky View Looking Up Between Buildings and Clouds",
 tags:["sky","blue-sky","clouds","white-clouds","urban-landscape","cityscape","architecture","modern-architecture","glass-building","office-building","low-angle-shot","looking-up","worm's-eye-view","daytime","sunny","outdoors","city-view","vertical-shot"]
 }, 
+{
+id:"26K050326",
+title:"Urban Road with Modern Buildings and Apartments in Japan",
+tags:["cityscape","urban-landscape","street","road","asphalt","buildings","apartments","condominiums","architecture","city-view","daytime","sunny","blue-sky","clouds","greenery","hedges","sidewalk","modern-architecture","outdoors","waseda","tokyo","japan"]
+},
+
+
   
   
 ];
