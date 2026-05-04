@@ -2502,5 +2502,9 @@ id:"26K050316",
 title:"Gentle Ocean Waves Crashing on a Sandy Shore under Overcast Sky",
 tags:["beach","ocean","sea","waves","water","sea-foam","surf","sand","shoreline","coastline","nature","outdoors","scenery","landscape","overcast","cloudy-sky","daytime","tranquil","peaceful"]
 },
-  
+{
+id:"26K050317",
+title:"Urban Beach with High-Rise Buildings under a Lightly Clouded Sky",
+tags:["tokyo","japan","odaiba","beach","sand","cityscape","urban-landscape","skyline","buildings","high-rise","skyscrapers","waterfront","bay","ocean","sea","clouds","sunny-day","outdoors","nature","park","city-view","scenery","tranquil"]
+},  
 ];
