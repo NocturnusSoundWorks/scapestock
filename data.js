@@ -2557,7 +2557,11 @@ id:"26K050327",
 title:"Traditional Japanese Garden Pond with Lush Green Trees and Reflections",
 tags:["garden","japanese-garden","pond","water","reflection","trees","greenery","foliage","nature","outdoors","scenery","landscape","tranquil","peaceful","park","summer","spring","shrub","leaf","vertical","tokyo","japan"]
 },
-
+{
+id:"26K050328",
+title:"Natural Pond Surrounding by Lush Green Trees Under a Blue Sky",
+tags:["pond","water","trees","lush","greenery","foliage","nature","scenery","landscape","outdoors","reflection","calm","tranquil","peaceful","summer","spring","forest","garden","blue-sky","clouds","tokyo","japan"]
+},
   
   
 ];
