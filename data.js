@@ -2572,7 +2572,11 @@ id:"26K050330",
 title:"Traditional Japanese Garden Pond with a Stone Lantern and Lush Greenery",
 tags:["japanese-garden","pond","water","stone-lantern","toro","reflection","greenery","trees","foliage","nature","scenery","landscape","tranquil","peaceful","zen","outdoor","summer","spring","park","vertical"]
 },
-
+{
+id:"26K050331",
+title:"Traditional Japanese Garden with Pine Trees and a Tranquil Pond",
+tags:["japanese-garden","pine-tree","pond","water","stone-lantern","nature","scenery","landscape","greenery","lush","foliage","reflection","outdoors","tranquil","peaceful","zen","summer","spring","park","tradition","tokyo","japan"]
+},
   
   
 ];
