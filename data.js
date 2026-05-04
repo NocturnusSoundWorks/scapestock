@@ -2542,7 +2542,11 @@ id:"26K050324",
 title:"Worm's Eye View of a Glass Skyscraper Under a Cloudy Blue Sky",
 tags:["sky","blue-sky","clouds","white-clouds","skyscraper","building","architecture","glass-building","urban-landscape","cityscape","low-angle-shot","looking-up","daytime","sunny-day","outdoors","modern-architecture","reflection","city-view","vertical"]
 }, 
-  
+{
+id:"26K050325",
+title:"Urban Sky View Looking Up Between Buildings and Clouds",
+tags:["sky","blue-sky","clouds","white-clouds","urban-landscape","cityscape","architecture","modern-architecture","glass-building","office-building","low-angle-shot","looking-up","worm's-eye-view","daytime","sunny","outdoors","city-view","vertical-shot"]
+}, 
   
   
 ];
