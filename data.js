@@ -2587,7 +2587,11 @@ id:"26K050333",
 title:"Japanese Garden with Bamboo Fence and Red Maple Tree",
 tags:["japanese-garden","bamboo-fence","red-maple","maple-tree","greenery","nature","landscape","outdoor","scenery","traditional","garden-path","tranquil","peaceful","summer","spring","foliage","trees","japan","zen","park"]
 },
-
+{
+id:"26K050334",
+title:"Modern City Buildings and Blue Sky with White Clouds",
+tags:["cityscape","urban-landscape","sky","blue-sky","clouds","buildings","skyscrapers","office-buildings","architecture","low-angle-shot","looking-up","glass-facade","sunlight","daytime","outdoor","tokyo","japan","modern-architecture","city-view","vertical"]
+},
 
 
 
