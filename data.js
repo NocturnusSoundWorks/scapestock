@@ -2492,5 +2492,15 @@ id:"26K050314",
 title:"Vibrant Pink Roses in Bloom under a Clear Blue Sky",
 tags:["rose","flower","pink-flower","vibrant-pink","blooms","blossoms","nature","floral","plants","foliage","green-leaves","leaves","buds","flower-buds","garden","outdoors","sunny","clear-sky","blue-sky","daytime","close-up","fresh","beautiful"]
 },
+{
+id:"26K050315",
+title:"Close-up of Bright Pink Roses with Lush Green Leaves in Daylight",
+tags:["rose","flower","pink-flower","vibrant-pink","blooms","blossoms","nature","floral","plants","foliage","green-leaves","leaves","buds","flower-buds","garden","outdoors","sunny","daytime","close-up","fresh","beautiful"]
+},
+{
+id:"26K050316",
+title:"Gentle Ocean Waves Crashing on a Sandy Shore under Overcast Sky",
+tags:["beach","ocean","sea","waves","water","sea-foam","surf","sand","shoreline","coastline","nature","outdoors","scenery","landscape","overcast","cloudy-sky","daytime","tranquil","peaceful"]
+},
   
 ];
