@@ -2625,7 +2625,7 @@ tags:["sky","blue-sky","clouds","white-clouds","trees","greenery","lush","foliag
 {
 id:"26K050341",
 title:"Dramatic Deep Blue Sky Filled with Dynamic White Clouds",
-tags:["sky","blue-sky","clouds","white-clouds","cumulus","nature","atmosphere","weather","scenery","outdoor","daytime","bright","dramatic-sky","vast","vertical"]
+tags:["sky","blue-sky","clouds","white-clouds","cumulus","nature","atmosphere","weather","scenery","outdoor","daytime","bright","dramatic-sky","vast","vertical","background","copy-space","wallpaper","outdoors","no-people"]
 },
 {
 id:"26K050342",
