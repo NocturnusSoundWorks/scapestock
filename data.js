@@ -2687,5 +2687,11 @@ id:"26K050353",
 title:"Urban Park Scene with Lush Green Trees and Traditional Bamboo Fence",
 tags:["park","garden","trees","greenery","lush","foliage","bamboo-fence","street-lamp","sky","blue-sky","clouds","cityscape","building","nature","urban-nature","scenery","outdoor","daytime","spring","summer"]
 },
+{
+id:"26K050354",
+title:"Traditional Japanese Garden with Pine Trees and a Tranquil Pond",
+tags:["japanese-garden","pine-tree","pond","water","reflection","stone-lantern","greenery","nature","scenery","landscape","outdoors","calm","tranquil","peaceful","summer","spring","shrub","foliage","zen","garden"]
+},
+  
   
 ];
