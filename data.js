@@ -2677,7 +2677,11 @@ id:"26K050351",
 title:"Dynamic Low Angle View of a Vermilion Torii Gate and Pine Trees",
 tags:["torii-gate","shinto-shrine","japan","tokyo","japanese-culture","tradition","architecture","vermilion","pine-tree","sky","clouds","low-angle-shot","looking-up","outdoor","daytime","shrine-entrance","scenery","vertical"]
 },
-
+{
+id:"26K050352",
+title:"Urban Crosswalk in Front of a Shinto Shrine Entrance with a Vermilion Torii Gate",
+tags:["crosswalk","street-view","urban-landscape","torii-gate","shinto-shrine","japan","tokyo","shrine-entrance","traffic-signals","road-signs","trees","greenery","cityscape","Japanese-culture","tradition","sky","blue-sky","clouds","outdoor","daytime","vertical"]
+},
   
   
 ];
