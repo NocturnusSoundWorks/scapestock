@@ -2694,8 +2694,8 @@ tags:["japanese-garden","pine-tree","pond","water","reflection","stone-lantern",
 },
 {
 id:"26K050355",
-title:"Stone Pathway Winding Through a Lush Green Japanese Garden",
-tags:["pathway","stone-path","garden","japanese-garden","greenery","lush","nature","trees","foliage","scenery","landscape","outdoors","tranquil","peaceful","summer","spring","moss","shrub","traditional-garden","vertical"]
+title:"Sparkling Sea Waves and Sandy Beach Under a Cloudy Sky",
+tags:["sea","ocean","waves","beach","sand","water","shimmer","sunlight","reflection","sky","clouds","overcast","horizon","nature","scenery","landscape","outdoor","tranquil","peaceful","vertical"]
 },
   
 ];
