@@ -2642,7 +2642,11 @@ id:"26K050344",
 title:"Deep Blue Sky with Dynamic White Clouds",
 tags:["sky","blue-sky","cloud","white-clouds","nature","atmosphere","weather","scenery","outdoor","daytime","bright","vast","vertical","background","copy-space","wallpaper","outdoors","no-people"]
 },
-
+{
+"id": "26K050345",
+"title": "Low Angle View of a Large Tree Trunk and Canopy Against a Blue Sky",
+"tags": ["tree","trunk","canopy","foliage","leaves","branches","nature","forest","woods","outdoor","low-angle-shot","looking-up","sky","blue-sky","sunlight","scenery","greenery","huge","big-tree","summer"]
+},
   
   
 ];
