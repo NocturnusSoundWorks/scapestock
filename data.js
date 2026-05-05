@@ -2707,7 +2707,11 @@ id:"26K050357",
 title:"Ocean Waves Rolling onto a Sandy Beach Under a Hazy Sky",
 tags:["beach","sea","ocean","waves","shore","sand","water","foam","seascape","horizon","haze","misty","cloudy-sky","nature","outdoors","scenery","coastline","tranquil","serene","vertical"]
 },
-
+{
+id:"26K050358",
+title:"Railroad Crossing in an Urban Residential Area",
+tags:["railroad-crossing","railway","train-tracks","urban","cityscape","apartment","building","residential-area","sign","warning-sign","transportation","outdoors","daytime","infrastructure","japan","street-scene"]
+}
 
 
   
