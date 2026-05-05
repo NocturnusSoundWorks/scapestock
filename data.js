@@ -2711,8 +2711,12 @@ tags:["beach","sea","ocean","waves","shore","sand","water","foam","seascape","ho
 id:"26K050358",
 title:"Railroad Crossing in an Urban Residential Area",
 tags:["railroad-crossing","railway","train-tracks","urban","cityscape","apartment","building","residential-area","sign","warning-sign","transportation","outdoors","daytime","infrastructure","japan","street-scene"]
-}
-
+},
+{
+id:"26K050358",
+title:"Vibrant Vermillion Torii Gate at a Shinto Shrine Entrance in Tokyo",
+tags:["torii-gate","shinto-shrine","japan","tokyo","japanese-culture","tradition","architecture","urban-landscape","street-view","crosswalk","stairs","shrine","vermilion","outdoor","daytime","scenery"]
+},
 
   
 ];
