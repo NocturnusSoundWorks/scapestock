@@ -2667,7 +2667,11 @@ id:"26K050349",
 title:"Front View of a Large Vermilion Torii Gate Leading to a Shinto Shrine",
 tags:["torii-gate","shinto-shrine","japan","tokyo","japanese-culture","tradition","architecture","shrine-entrance","stairs","vermilion","outdoor","daytime","scenery","culture","temple","pathway","vertical"]
 },
-
+{
+id:"26K050350",
+title:"Large Vermilion Torii Gate at the Entrance of a Shinto Shrine",
+tags:["torii-gate","shinto-shrine","japan","tokyo","japanese-culture","tradition","architecture","shrine-entrance","stairs","vermilion","outdoor","daytime","scenery","culture","temple","pathway","vertical"]
+},
 
 
   
