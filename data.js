@@ -2657,7 +2657,11 @@ id:"26K050347",
 title:"A Vibrant Vermillion Torii Gate Standing at a Shinto Shrine Entrance by a Crosswalk in Japan",
 tags:["Japan","Shinto-shrine","torii-gate","vermillion","red","gate","crosswalk","street-view","urban","city","Japanese-culture","shrine-entrance","stairs","statue","animal-statue","road-signs","traffic-lights","trees","outdoors","daytime","tradition","culture","scenery"]
 },  
-
+{
+id:"26K050348",
+title:"Urban Street View with Shinto Shrine Torii Gate and Traffic Signals",
+tags:["Japan","torii-gate","shrine","urban-landscape","cityscape","street-view","crosswalk","traffic-light","road-signs","trees","greenery","Babashitacho","Tokyo","Japanese-culture","tradition","architecture","blue-sky","outdoor","daytime","vertical"]
+}, 
 
   
 ];
