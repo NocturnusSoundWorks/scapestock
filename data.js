@@ -2651,6 +2651,13 @@ tags:["tree","trunk","canopy","foliage","leaves","branches","nature","forest","w
 id:"26K050346",
 title:"Silver Dust Dusty Miller Plants with Silvery Grey Foliage",
 tags:["dusty-miller","silver-dust","foliage","leaves","plants","garden","botanical","nature","silvery","grey","texture","pattern","outdoor","greenery","spring","summer","ornamental-plant","close-up","scenery","horizontal"]
-}  
+},
+{
+id:"26K050347",
+title:"A Vibrant Vermillion Torii Gate Standing at a Shinto Shrine Entrance by a Crosswalk in Japan",
+tags:["Japan","Shinto-shrine","torii-gate","vermillion","red","gate","crosswalk","street-view","urban","city","Japanese-culture","shrine-entrance","stairs","statue","animal-statue","road-signs","traffic-lights","trees","outdoors","daytime","tradition","culture","scenery"]
+},  
+
+
   
 ];
