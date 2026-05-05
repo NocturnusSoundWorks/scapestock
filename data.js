@@ -2660,8 +2660,16 @@ tags:["Japan","Shinto-shrine","torii-gate","vermillion","red","gate","crosswalk"
 {
 id:"26K050348",
 title:"Urban Street View with Shinto Shrine Torii Gate and Traffic Signals",
-tags:["Japan","torii-gate","shrine","urban-landscape","cityscape","street-view","crosswalk","traffic-light","road-signs","trees","greenery","Babashitacho","Tokyo","Japanese-culture","tradition","architecture","blue-sky","outdoor","daytime","vertical"]
+tags:["torii-gate","shrine","urban-landscape","cityscape","street-view","crosswalk","traffic-light","road-signs","trees","greenery","Babashitacho","Tokyo","Japan","Japanese-culture","tradition","architecture","blue-sky","outdoor","daytime","vertical"]
 }, 
+{
+id:"26K050349",
+title:"Front View of a Large Vermilion Torii Gate Leading to a Shinto Shrine",
+tags:["torii-gate","shinto-shrine","japan","tokyo","japanese-culture","tradition","architecture","shrine-entrance","stairs","vermilion","outdoor","daytime","scenery","culture","temple","pathway","vertical"]
+},
 
+
+
+  
   
 ];
