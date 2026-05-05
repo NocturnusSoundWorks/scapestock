@@ -2612,5 +2612,13 @@ id:"26K050338",
 title:"Deep Blue Sky with Wispy White Clouds and Sunlight",
 tags:["sky","blue-sky","clouds","white-clouds","cirrus","sunlight","bright","nature","background","atmosphere","weather","clear-sky","daytime","outdoor","scenery","vertical"]
 },
+{
+id:"26K050339",
+title:"Bright Sun and Clouds in a Deep Blue Sky Framed by Green Trees",
+tags:["sky","blue-sky","sun","sunlight","clouds","white-clouds","nature","scenery","outdoor","daytime","trees","greenery","leaves","looking-up","low-angle-shot","atmosphere","bright","summer","vertical"]
+},
+
+
+
   
 ];
