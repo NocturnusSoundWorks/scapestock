@@ -2692,6 +2692,10 @@ id:"26K050354",
 title:"Traditional Japanese Garden with Pine Trees and a Tranquil Pond",
 tags:["japanese-garden","pine-tree","pond","water","reflection","stone-lantern","greenery","nature","scenery","landscape","outdoors","calm","tranquil","peaceful","summer","spring","shrub","foliage","zen","garden"]
 },
-  
+{
+id:"26K050355",
+title:"Stone Pathway Winding Through a Lush Green Japanese Garden",
+tags:["pathway","stone-path","garden","japanese-garden","greenery","lush","nature","trees","foliage","scenery","landscape","outdoors","tranquil","peaceful","summer","spring","moss","shrub","traditional-garden","vertical"]
+},
   
 ];
