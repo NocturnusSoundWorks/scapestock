@@ -2597,8 +2597,20 @@ id:"26K050335",
 title:"Sparkling Sea Surface and Waves on a Sandy Beach Under Hazy Sky",
 tags:["sea","ocean","beach","sand","waves","water","sparkle","sunlight","reflection","horizon","coast","seashore","nature","landscape","outdoor","scenery","hazy-sky","tranquil","peaceful","horizontal"]
 },
-
-
-  
+{
+id:"26K050336",
+title:"Beautiful Red Roses Blooming in the Garden",
+tags:["rose","red-rose","flower","bloom","floral","nature","garden","greenery","leaves","outdoor","sunlight","close-up","botanical","summer","spring","vibrant","beauty-in-nature","scenery","vertical"]
+},
+{
+id:"26K050337",
+title:"Close-up of Vibrant Red Roses Blooming in a Sunlit Garden",
+tags:["rose","red-rose","flower","bloom","floral","nature","garden","close-up","sunlight","petals","botanical","summer","spring","vibrant","green-leaves","beauty-in-nature","outdoor","scenery","vertical"]
+},
+{
+id:"26K050338",
+title:"Deep Blue Sky with Wispy White Clouds and Sunlight",
+tags:["sky","blue-sky","clouds","white-clouds","cirrus","sunlight","bright","nature","background","atmosphere","weather","clear-sky","daytime","outdoor","scenery","vertical"]
+},
   
 ];
