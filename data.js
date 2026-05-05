@@ -2682,6 +2682,10 @@ id:"26K050352",
 title:"Urban Crosswalk in Front of a Shinto Shrine Entrance with a Vermilion Torii Gate",
 tags:["crosswalk","street-view","urban-landscape","torii-gate","shinto-shrine","japan","tokyo","shrine-entrance","traffic-signals","road-signs","trees","greenery","cityscape","Japanese-culture","tradition","sky","blue-sky","clouds","outdoor","daytime","vertical"]
 },
-  
+{
+id:"26K050353",
+title:"Urban Park Scene with Lush Green Trees and Traditional Bamboo Fence",
+tags:["park","garden","trees","greenery","lush","foliage","bamboo-fence","street-lamp","sky","blue-sky","clouds","cityscape","building","nature","urban-nature","scenery","outdoor","daytime","spring","summer"]
+},
   
 ];
