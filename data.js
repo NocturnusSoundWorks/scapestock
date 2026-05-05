@@ -2635,9 +2635,13 @@ tags:["koinobori","carp-streamers","fish","japan","japanese-culture","traditiona
 {
 "id": "26K050343",
 "title": "Dramatic Skyscape with Dark and Light Clouds and Iridescent Sunlight",
-"tags": ["sky","clouds","skyscape","nature","atmosphere","sunlight","bright","dark","contrast","iridescent","rainbow-colors","cumulus","weather","blue-sky","daytime","outdoor","scenery","dramatic","vertical"]
+"tags": ["sky","clouds","skyscape","nature","atmosphere","sunlight","bright","dark","contrast","iridescent","rainbow-colors","cumulus","weather","blue-sky","daytime","outdoor","scenery","dramatic","vertical","background","copy-space","wallpaper","outdoors","no-people"]
 },
-
+{
+id:"26K050344",
+title:"Deep Blue Sky with Dynamic White Clouds",
+tags:["sky","blue-sky","cloud","white-clouds","nature","atmosphere","weather","scenery","outdoor","daytime","bright","vast","vertical","background","copy-space","wallpaper","outdoors","no-people"]
+},
 
   
   
