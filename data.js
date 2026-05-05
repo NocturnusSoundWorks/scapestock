@@ -2717,6 +2717,10 @@ id:"26K050359",
 title:"Vibrant Vermillion Torii Gate at a Shinto Shrine Entrance in Tokyo",
 tags:["torii-gate","shinto-shrine","japan","tokyo","japanese-culture","tradition","architecture","urban-landscape","street-view","crosswalk","stairs","shrine","vermilion","outdoor","daytime","scenery"]
 },
-
+{
+id:"26K050360",
+title:"Ocean Waves on a Sandy Beach with Tokyo Skytree Visible on the Horizon",
+tags:["beach","sea","ocean","waves","shoreline","sand","water","seascape","horizon","Tokyo-Skytree","cityscape","haze","misty","cloudy-sky","nature","outdoors","scenery","coastline","Japan","vertical"]
+},
   
 ];
