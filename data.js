@@ -2702,7 +2702,11 @@ id:"26K050356",
 title:"Glistening Ocean Waves Washing Ashore on a Sandy Beach",
 tags:["sea","ocean","waves","beach","sand","shoreline","water","shimmer","glitter","sunlight","reflection","sky","overcast","horizon","nature","scenery","landscape","outdoors","tranquil","peaceful","vertical"]
 },
-
+{
+id:"26K050357",
+title:"Ocean Waves Rolling onto a Sandy Beach Under a Hazy Sky",
+tags:["beach","sea","ocean","waves","shore","sand","water","foam","seascape","horizon","haze","misty","cloudy-sky","nature","outdoors","scenery","coastline","tranquil","serene","vertical"]
+},
 
 
 
