@@ -58,6 +58,11 @@ body {
     gap: 10px;
 }
 
+.trust-bar {
+  font-size: 12px;
+  color: #888;
+  margin-top: 6px;
+}
 #search-input {
     padding: 10px 14px;
     font-size: 16px;
