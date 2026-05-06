@@ -2826,4 +2826,18 @@ tags:["japan","japanese-culture","shrine","temple","stone-fence","traditional","
 "title":"Low Angle View of Modern White Skyscraper and Highway Overpass in Tokyo",
 "tags":["skyscraper","building","urban","city","architecture","modern","highway","overpass","expressway","infrastructure","concrete","low-angle","perspective","ikebukuro","tokyo","japan","sky","blue-sky","clouds","daytime","sunny","cityscape","metropolis","vertical","structure","no-people"]
 }, 
+{
+id:"26K050381",
+title:"Urban Highway Overpass and Modern Buildings with Cloudy Sky",
+tags:["highway","overpass","expressway","bridge","urban","city","architecture","infrastructure","concrete","skyscraper","building","metropolis","traffic-light","low-angle","perspective","sky","clouds","blue-sky","tokyo","japan","daytime","outdoors","cityscape","transportation","structure","vertical","ikebukuro","tokyo","japan"]
+}, 
+
+
+
+
+
+
+
+
+  
 ];
