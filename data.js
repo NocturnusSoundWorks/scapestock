@@ -1103,7 +1103,8 @@ tags:["cityscape","city","urban","downtown","ginza","tokyo","japan","night","nig
 {
 id:"26K032657",
 title:"Elevated Urban View with Stone Steps in Ichikawa Chiba",
-tags:["cityscape","city","urban","downtown","building","architecture","stairs","stone-steps","stairway","steps","viewpoint","high-angle","overlooking","elevated-view","sky","blue-sky","sunny","daytime","scenery","landscape","urban-landscape","shrine","temple","traditional","japanese","chiba","ichikawa","japan","outdoors","travel","destination","background","copy-space","no-people"]
+tags:["cityscape","city","urban","downtown","building","architecture","stairs","stone-steps","stairway","steps","viewpoint","high-angle","overlooking","elevated-view","sky","blue-sky","sunny","daytime","scenery","landscape","urban-landscape","shrine","temple","traditional","japanese","chiba","ichikawa","japan","outdoors","travel","destination","background","copy-space","no-people"],
+license:"commercial"
 },
 {
 id:"26K032658",
