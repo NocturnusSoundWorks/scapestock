@@ -2817,8 +2817,13 @@ title:"Traditional Japanese Stone Fence and Lush Green Trees at a Shrine",
 tags:["japan","japanese-culture","shrine","temple","stone-fence","traditional","architecture","stone-wall","nature","tree","greenery","foliage","lush","forest","shinto","spirituality","historical","scenery","landscape","outdoors","daytime","quiet","peaceful","tranquil","vertical","no-people","zousigaya","tokyo","japan"]
 },
 {
-"id": "26K050379",
-"title": "Low Angle View of Multi-Level Urban Highway and Skyscrapers",
-"tags": ["highway","overpass","expressway","urban","city","architecture","skyscraper","building","metropolis","concrete","steel","infrastructure","sky","clouds","blue-sky","tokyo","japan","modern","perspective","low-angle","transportation","street","cityscape","daytime","vertical","ikebukuro","tokyo","japan"]
-}  
+"id":"26K050379",
+"title":"Low Angle View of Multi-Level Urban Highway and Skyscrapers",
+"tags":["highway","overpass","expressway","urban","city","architecture","skyscraper","building","metropolis","concrete","steel","infrastructure","sky","clouds","blue-sky","tokyo","japan","modern","perspective","low-angle","transportation","street","cityscape","daytime","vertical","ikebukuro","tokyo","japan"]
+},
+{
+"id":"26K050380",
+"title":"Low Angle View of Modern White Skyscraper and Highway Overpass in Tokyo",
+"tags":["skyscraper","building","urban","city","architecture","modern","highway","overpass","expressway","infrastructure","concrete","low-angle","perspective","ikebukuro","tokyo","japan","sky","blue-sky","clouds","daytime","sunny","cityscape","metropolis","vertical","structure","no-people"]
+}, 
 ];
