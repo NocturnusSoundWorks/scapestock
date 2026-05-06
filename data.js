@@ -2751,7 +2751,11 @@ id:"26K050365",
 title:"Deep Blue Summer Sky with Bright Shining Sun Background",
 tags:["sky","sun","sunlight","bright","shining","blue-sky","summer","clear-sky","daytime","sunny","nature","background","copy-space","wallpaper","outdoors","no-people","vibrant","natural-light","atmosphere","weather","solar","hot-weather","clear"]
 },
-
+{
+id:"26K050366",
+title:"Brilliant Sun Shining in a Clear Blue Summer Sky Background",
+tags:["sky","sun","sunlight","sunshine","bright","blue-sky","clear-sky","summer","daytime","sunny","nature","background","copy-space","wallpaper","outdoors","no-people","flare","lens-flare","vibrant","natural-light","atmosphere","weather","solar","hot","clear","vertical"]
+},
 
   
 ];
