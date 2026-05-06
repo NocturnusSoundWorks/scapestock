@@ -2736,7 +2736,11 @@ id:"26K050362",
 title:"Wide Grassy Field and Dense Forest under a Pale Overcast Sky",
 tags:["park","lawn","grass","meadow","field","greenery","trees","forest","woodland","sky","overcast","cloudy","nature","landscape","scenery","outdoors","tranquil","peaceful","wide-angle","horizon","environment","vegetation","summer","spring"]
 },
-
+{
+id:"26K050363",
+title:"Lush Green Tree Silhouette Against a Clear Blue Sky",
+tags:["sky","blue-sky","clear-sky","sunny","daytime","tree","greenery","leaves","foliage","lush","nature","outdoor","scenery","landscape","summer","spring","vibrant","fresh","sunlight","natural-light","low-angle-shot","tranquil","peaceful","calm","horizon","minimalist","vegetation"]
+},
 
 
   
