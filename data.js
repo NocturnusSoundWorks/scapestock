@@ -1534,7 +1534,8 @@ tags:["flower","nature","nanohana","rape-blossom","canola-flower","yellow","plan
 {
 id:"26K042204",
 title:"Traditional Japanese Paper Lantern Hanging Indoors",
-tags:["lantern","japanese-lantern","paper-lantern","traditional","japan","temple","shrine","architecture","culture","heritage","interior","wood","wooden","timber","ceiling","beam","hanging","white","round","detail","close-up","rustic","historic","background","copy-space","no-people"]
+tags:["lantern","japanese-lantern","paper-lantern","traditional","japan","temple","shrine","architecture","culture","heritage","interior","wood","wooden","timber","ceiling","beam","hanging","white","round","detail","close-up","rustic","historic","background","copy-space","no-people"],
+license:"commercial"
 },
 {
 id:"26K042205",
