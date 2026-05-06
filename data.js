@@ -1539,7 +1539,8 @@ tags:["lantern","japanese-lantern","paper-lantern","traditional","japan","temple
 {
 id:"26K042205",
 title:"White Paper Lantern in Historic Japanese Interior",
-tags:["lantern","japanese-lantern","paper-lantern","traditional","japan","temple","shrine","architecture","culture","heritage","interior","wood","wooden","timber","ceiling","beam","hanging","white","round","detail","close-up","rustic","historic","background","copy-space","no-people"]
+tags:["lantern","japanese-lantern","paper-lantern","traditional","japan","temple","shrine","architecture","culture","heritage","interior","wood","wooden","timber","ceiling","beam","hanging","white","round","detail","close-up","rustic","historic","background","copy-space","no-people"],
+license:"commercial"
 },
 {
 id:"26K042206",
