@@ -2796,5 +2796,10 @@ id:"26K050374",
 title:"Vibrant Purple Lobelia Flowers with Light Blue Delphiniums in a Sunny Garden Background",
 tags:["flower","lobelia","purple-flower","delphinium","larkspur","light-blue","nature","plant","botanical","blossom","petal","garden","flowerbed","spring","summer","seasonal","fresh","vibrant","colorful","outdoors","scenery","background","copy-space","wallpaper","no-people","vertical","greenery","foliage","sunlight"]
 },
+{
+id: "26K050375",
+title: "Urban Landscape with a Green Steel Bridge and Modern Buildings under a Blue Sky",
+tags: ["bridge","urban","city","cityscape","architecture","building","street","road","green-bridge","steel-structure","sky","blue-sky","clouds","trees","greenery","zousigaya","tokyo","japan","daytime","sunny","outdoors","landscape","scenery","transportation","infrastructure","no-people","vertical"]
+},
   
 ];
