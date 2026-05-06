@@ -2810,7 +2810,11 @@ tags:["bridge","urban","city","road","street","traffic","car","green-bridge","iv
 id:"26K050377",
 title:"Beautiful Purple Campanula Bellflowers in Full Bloom Background",
 tags:["flower","campanula","bellflower","purple","violet","nature","plant","botanical","blossom","petal","garden","flowerbed","spring","summer","seasonal","fresh","vibrant","colorful","outdoors","scenery","background","copy-space","wallpaper","no-people","greenery","foliage"]
+},
+{
+id:"26K050378",
+title:"Traditional Japanese Stone Fence and Lush Green Trees at a Shrine",
+tags:["japan","japanese-culture","shrine","temple","stone-fence","traditional","architecture","stone-wall","nature","tree","greenery","foliage","lush","forest","shinto","spirituality","historical","scenery","landscape","outdoors","daytime","quiet","peaceful","tranquil","vertical","no-people","zousigaya","tokyo","japan"]
 }
-
   
 ];
