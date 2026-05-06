@@ -2815,6 +2815,10 @@ tags:["flower","campanula","bellflower","purple","violet","nature","plant","bota
 id:"26K050378",
 title:"Traditional Japanese Stone Fence and Lush Green Trees at a Shrine",
 tags:["japan","japanese-culture","shrine","temple","stone-fence","traditional","architecture","stone-wall","nature","tree","greenery","foliage","lush","forest","shinto","spirituality","historical","scenery","landscape","outdoors","daytime","quiet","peaceful","tranquil","vertical","no-people","zousigaya","tokyo","japan"]
-}
-  
+},
+{
+"id": "26K050379",
+"title": "Low Angle View of Multi-Level Urban Highway and Skyscrapers",
+"tags": ["highway","overpass","expressway","urban","city","architecture","skyscraper","building","metropolis","concrete","steel","infrastructure","sky","clouds","blue-sky","tokyo","japan","modern","perspective","low-angle","transportation","street","cityscape","daytime","vertical","ikebukuro","tokyo","japan"]
+}  
 ];
