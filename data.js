@@ -269,7 +269,8 @@ tags:["nature","leaf","plant","black-and-white","monochrome","rain","rainy","aft
 {
 id:"25K062148",
 title:"Traditional Japanese Lantern After Rain Moody Scene",
-tags:["lantern","japanese-lantern","traditional","japan","temple","shrine","architecture","culture","heritage","rain","after-rain","wet","moody","dark","black","white","outdoors","copy-space","background","no-people"]
+tags:["lantern","japanese-lantern","traditional","japan","temple","shrine","architecture","culture","heritage","rain","after-rain","wet","moody","dark","black","white","outdoors","copy-space","background","no-people"],
+license:"commercial"  
 },
 
 {
