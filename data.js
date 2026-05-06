@@ -2801,5 +2801,9 @@ id: "26K050375",
 title: "Urban Landscape with a Green Steel Bridge and Modern Buildings under a Blue Sky",
 tags: ["bridge","urban","city","cityscape","architecture","building","street","road","green-bridge","steel-structure","sky","blue-sky","clouds","trees","greenery","zousigaya","tokyo","japan","daytime","sunny","outdoors","landscape","scenery","transportation","infrastructure","no-people","vertical"]
 },
-  
+{
+id:"26K050376",
+title:"Urban Road Passing Under a Green Steel Bridge with Ivy Covered Walls",
+tags:["bridge","urban","city","road","street","traffic","car","green-bridge","ivy","greenery","wall","stone-wall","architecture","building","infrastructure","zousigaya","tokyo","japan","sky","blue-sky","clouds","daytime","sunny","outdoors","landscape","scenery","vertical"]
+}  
 ];
