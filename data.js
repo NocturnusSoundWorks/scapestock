@@ -2901,6 +2901,13 @@ id:"26K050395",
 title:"Bright Orange Clivia Miniata Flowers in Full Bloom",
 tags:["clivia","clivia-miniata","natal-lily","flower","orange","yellow","nature","plant","botanical","blossom","petal","blooming","lily","spring","seasonal","fresh","vibrant","outdoors","garden","background","no-people"]
 },
+{
+id:"26K050396",
+title:"Vibrant Orange Clivia Miniata Flowers in Vertical Composition",
+tags:["clivia","clivia-miniata","natal-lily","flower","orange","yellow","nature","plant","botanical","blossom","petal","blooming","lily","spring","seasonal","fresh","vibrant","outdoors","garden","background","no-people"]
+},
 
+
+  
   
 ];
