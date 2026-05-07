@@ -2906,7 +2906,18 @@ id:"26K050396",
 title:"Vibrant Orange Clivia Miniata Flowers in Vertical Composition",
 tags:["clivia","clivia-miniata","natal-lily","flower","orange","yellow","nature","plant","botanical","blossom","petal","blooming","lily","spring","seasonal","fresh","vibrant","outdoors","garden","background","no-people"]
 },
+{
+id:"26K050397",
+title:"Bright Purple Azalea Flowers in Full Bloom with Green Leaves",
+tags:["azalea","tsutsuji","flower","purple","magenta","violet","pink","nature","plant","botanical","blossom","petal","blooming","shrub","bush","garden","spring","seasonal","fresh","vibrant","outdoors","background","wallpaper","no-people"]
+},
+{
+id:"26K050398",
+title:"White and Pink Azalea Flowers in Full Bloom with Green Leaves",
+tags:["azalea","tsutsuji","flower","white","pink","nature","plant","botanical","blossom","petal","blooming","shrub","bush","garden","spring","seasonal","fresh","vibrant","outdoors","background","wallpaper","no-people"]
+},
 
+  
 
   
   
