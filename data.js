@@ -2871,5 +2871,20 @@ id:"26K050389",
 title:"Bright Pink Azalea Flowers in Full Bloom with Sunlight",
 tags:["azalea","tsutsuji","flower","plant","botanical","nature","garden","shrub","bush","pink","light-pink","blossom","petal","stamens","bloom","blooming","spring","seasonal","fresh","bright","sunny","sunlight","outdoors","background","copy-space","wallpaper","no-people"]
 },
+{
+id:"26K050390",
+title:"White Pink and Magenta Azalea Flowers in Spring Garden",
+tags:["azalea","tsutsuji","flower","nature","plant","botanical","garden","shrub","bush","pink","white","magenta","blossom","petal","blooming","floral","spring","seasonal","fresh","vibrant","outdoors","background","wallpaper","no-people"]
+},
+{
+id:"26K050391",
+title:"Red Azalea Flowers in Full Bloom Background",
+tags:["azalea","tsutsuji","flower","red","nature","plant","botanical","blossom","petal","blooming","garden","shrub","bush","spring","seasonal","fresh","vibrant","outdoors","background","no-people"]
+},
+
+
+
+
+
   
 ];
