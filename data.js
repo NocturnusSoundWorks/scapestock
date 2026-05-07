@@ -2881,7 +2881,11 @@ id:"26K050391",
 title:"Red Azalea Flowers in Full Bloom Background",
 tags:["azalea","tsutsuji","flower","red","nature","plant","botanical","blossom","petal","blooming","garden","shrub","bush","spring","seasonal","fresh","vibrant","outdoors","background","no-people"]
 },
-
+{
+id:"26K050392",
+title:"Pure White Azalea Flowers in Full Bloom Background",
+tags:["azalea","tsutsuji","flower","white","pure-white","nature","plant","botanical","blossom","petal","blooming","dense","garden","shrub","bush","spring","seasonal","fresh","vibrant","sunny","outdoors","background","wallpaper","no-people"]
+},
 
 
 
