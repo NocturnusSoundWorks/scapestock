@@ -2896,7 +2896,11 @@ id:"26K050394",
 title:"Densely Growing White Azalea Flowers Background",
 tags:["azalea","tsutsuji","flower","white","pure-white","nature","plant","botanical","blossom","petal","blooming","full-bloom","dense","garden","shrub","bush","spring","seasonal","fresh","vibrant","sunny","outdoors","background","wallpaper","no-people"]
 },
-
+{
+id:"26K050395",
+title:"Bright Orange Clivia Miniata Flowers in Full Bloom",
+tags:["clivia","clivia-miniata","natal-lily","flower","orange","yellow","nature","plant","botanical","blossom","petal","blooming","lily","spring","seasonal","fresh","vibrant","outdoors","garden","background","no-people"]
+},
 
   
 ];
