@@ -2866,6 +2866,10 @@ id:"26K050388",
 title:"Low Angle View of Lush Green Tree and Modern Glass Building",
 tags:["tree","leaf","green","nature","plant","botanical","fresh","bright","building","skyscraper","architecture","glass","modern","urban","city","tokyo","japan","sky","blue-sky","low-angle","perspective","scenery","outdoors","daytime","vertical"]
 },
-
+{
+id:"26K050389",
+title:"Bright Pink Azalea Flowers in Full Bloom with Sunlight",
+tags:["azalea","tsutsuji","flower","plant","botanical","nature","garden","shrub","bush","pink","light-pink","blossom","petal","stamens","bloom","blooming","spring","seasonal","fresh","bright","sunny","sunlight","outdoors","background","copy-space","wallpaper","no-people"]
+},
   
 ];
