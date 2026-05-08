@@ -2979,12 +2979,12 @@ tags:["bridge","street-lamp","retro","vintage","urban","cityscape","architecture
 {
 id:"26K050713",
 title:"Railway Tracks Between Modern Building and Green Trees in the City",
-tags:["railway","train-track","railroad","tracks","transportation","urban","cityscape","building","apartment","condominium","nature","green","trees","sky","blue-sky","waseda","tokyo","japan","sunny","daytime","japan","outdoor","landscape","perspective","scenery","no-people"]
+tags:["railway","train-track","railroad","tracks","transportation","urban","cityscape","building","apartment","condominium","nature","green","trees","sky","blue-sky","waseda","tokyo","japan","sunny","daytime","outdoor","landscape","perspective","scenery","no-people"]
 },
 {
 id:"26K050714",
 title:"Urban Street Corner with Green Bridge Railing and Apartment Building Background",
-tags:["street","urban","cityscape","bridge","railing","green-railing","apartment","building","condominium","road","sidewalk","utility-pole","tree","greenery","sky","sunny","daytime","city-life","japan","outdoor","landscape","background","no-people"]
+tags:["street","urban","cityscape","bridge","railing","green-railing","apartment","building","condominium","road","sidewalk","utility-pole","tree","greenery","sky","sunny","daytime","city-life","waseda","tokyo","japan","outdoor","landscape","background","no-people"]
 },
   
 ];
