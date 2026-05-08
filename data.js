@@ -3041,7 +3041,11 @@ id:"26K050725",
 title:"Ocean Waves Washing over Sandy Beach with Industrial Background",
 tags:["ocean","sea","wave","beach","sand","coastline","waterfront","industrial-area","factory","sky","blue-sky","nature","scenery","outdoor","daytime","shore","surf","tokyo-bay","japan","background","wallpaper","no-people"]
 },
-
+{
+id:"26K050726",
+title:"Urban Sidewalk Path Lined with Lush Green Trees and Railway Fence",
+tags:["sidewalk","path","road","street","tree","greenery","lush","nature","urban","railway","fence","cityscape","landscape","outdoor","daytime","summer","waseda","tokyo","japan","perspective","scenery","no-people"]
+}
 
   
 ];
