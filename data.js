@@ -3045,7 +3045,11 @@ tags:["ocean","sea","wave","beach","sand","coastline","waterfront","industrial-a
 id:"26K050726",
 title:"Urban Sidewalk Path Lined with Lush Green Trees and Railway Fence",
 tags:["sidewalk","path","road","street","tree","greenery","lush","nature","urban","railway","fence","cityscape","landscape","outdoor","daytime","summer","waseda","tokyo","japan","perspective","scenery","no-people"]
-}
-
+},
+{
+id:"26K050727",
+title:"Close-up of Green Leaves with Raindrops on a Cloudy Day",
+tags:["leaf","green-leaves","raindrop","rainy-day","nature","wet","fresh","botanical","plant","tree","outdoor","rainy-season","june","japan","close-up","soft-focus","bokeh","background","wallpaper","no-people"]
+},
   
 ];
