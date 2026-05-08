@@ -3006,7 +3006,11 @@ id:"26K050718",
 title:"Dramatic White Clouds against Deep Blue Sky Background",
 tags:["sky","blue-sky","cloud","white-cloud","sunlight","bright","nature","weather","atmosphere","summer","daytime","sunny","outdoors","background","copy-space","wallpaper","no-people","dramatic","scenery"]
 },
-
+{
+id:"26K050719",
+title:"Pink and White Azalea Flowers in Full Bloom",
+tags:["azalea","tsutsuji","flower","blossom","petal","pink","white","floral","nature","plant","botanical","spring","seasonal","japan","blooming","fresh","garden","outdoors","background","copy-space","wallpaper","no-people"]
+},
   
   
 ];
