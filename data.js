@@ -2926,7 +2926,11 @@ id:"26K050702",
 title:"High Voltage Power Line Tower under Bright Sky",
 tags:["utility-pole","power-line","electricity","tower","infrastructure","steel","sky","blue-sky","cloud","sunny","low-angle","urban","street-sign","wire","technology","outdoors","daytime"]
 }, 
-
+{
+id:"26K050703",
+title:"Wide Bay View with Factory Smoke Stacks under Blue Sky",
+tags:["sea","ocean","water","wave","coast","shoreline","beach","sky","blue-sky","horizon","japan","bay","industrial","factory","smokestack","chimney","smoke","pollution","environment","landscape","scenery","outdoors","daytime","vertical","no-people"]
+}, 
   
   
 ];
