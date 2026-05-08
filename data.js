@@ -2936,7 +2936,11 @@ id:"26K050704",
 title:"Single White Cloud in Bright Blue Summer Sky with Street Lamp",
 tags:["sky","blue-sky","cloud","white-cloud","sunlight","bright","clear-sky","summer","daytime","sunny","nature","street-lamp","street-light","infrastructure","low-angle","minimalism","simple","outdoor","no-people"]
 },
-
+{
+id:"26K050705",
+title:"Modern Cityscape with Tall Office Buildings and Skyscrapers",
+tags:["cityscape","urban","city","skyscraper","building","office-building","apartment","architecture","modern","metropolis","tokyo","japan","sky","clouds","haze","scenery","outdoors","daytime","vertical"]
+},
 
 
   
