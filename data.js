@@ -2921,7 +2921,11 @@ id:"26K050701",
 title:"High Voltage Power Line Tower under Blue Sky",
 tags:["utility-pole","power-line","electricity","tower","infrastructure","steel","sky","blue-sky","cloud","sunny","low-angle","urban","street-sign","wire","technology","outdoors","daytime"]
 },
-  
+{
+id:"26K050702",
+title:"High Voltage Power Line Tower under Bright Sky",
+tags:["utility-pole","power-line","electricity","tower","infrastructure","steel","sky","blue-sky","cloud","sunny","low-angle","urban","street-sign","wire","technology","outdoors","daytime"]
+}, 
 
   
   
