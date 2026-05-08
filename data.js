@@ -2916,7 +2916,11 @@ id:"26K050398",
 title:"White and Pink Azalea Flowers in Full Bloom with Green Leaves",
 tags:["azalea","tsutsuji","flower","white","pink","nature","plant","botanical","blossom","petal","blooming","shrub","bush","garden","spring","seasonal","fresh","vibrant","outdoors","background","wallpaper","no-people"]
 },
-
+{
+id:"26K050701",
+title:"High Voltage Power Line Tower under Blue Sky",
+tags:["utility-pole","power-line","electricity","tower","infrastructure","steel","sky","blue-sky","cloud","sunny","low-angle","urban","street-sign","wire","technology","outdoors","daytime"]
+},
   
 
   
