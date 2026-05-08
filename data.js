@@ -2956,6 +2956,10 @@ id:"26K050708",
 title:"Blooming Pink Azalea Flowers with Green Leaves Background",
 tags:["azalea","tsutsuji","flower","pink","nature","plant","botanical","blossom","petal","blooming","shrub","bush","garden","spring","seasonal","fresh","vibrant","outdoors","background","wallpaper","no-people"]
 },
-  
+{
+id:"26K050709",
+title:"Bright Pink Azalea Flowers in Full Bloom with Green Leaves",
+tags:["azalea","tsutsuji","flower","pink","nature","plant","botanical","blossom","petal","blooming","full-bloom","shrub","bush","garden","spring","seasonal","fresh","vibrant","outdoors","background","wallpaper","no-people"]
+},
   
 ];
