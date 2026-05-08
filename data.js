@@ -2931,6 +2931,14 @@ id:"26K050703",
 title:"Wide Bay View with Factory Smoke Stacks under Blue Sky",
 tags:["sea","ocean","water","wave","coast","shoreline","beach","sky","blue-sky","horizon","japan","bay","industrial","factory","smokestack","chimney","smoke","pollution","environment","landscape","scenery","outdoors","daytime","vertical","no-people"]
 }, 
+{
+id:"26K050704",
+title:"Single White Cloud in Bright Blue Summer Sky with Street Lamp",
+tags:["sky","blue-sky","cloud","white-cloud","sunlight","bright","clear-sky","summer","daytime","sunny","nature","street-lamp","street-light","infrastructure","low-angle","minimalism","simple","outdoor","no-people"]
+},
+
+
+
   
   
 ];
