@@ -3026,7 +3026,11 @@ id:"26K050722",
 title:"Vertical Corrugated Blue Metal Wall Texture Background",
 tags:["metal","wall","corrugated","texture","vertical-lines","blue","industrial","surface","pattern","exterior","siding","background","steel","aluminum","ribbed","modern","minimalist","construction","no-people"]
 },
-
+{
+id:"26K050723",
+title:"Street Lamp Silhouette against Overcast Cloudy Sky",
+tags:["street-lamp","lighting","lamp-post","silhouette","sky","overcast","cloudy","gray-sky","weather","gloomy","atmosphere","urban","outdoor","minimalist","background","copy-space","wallpaper","no-people"]
+},
   
   
 ];
