@@ -2966,8 +2966,25 @@ id:"26K050710",
 title:"Densely Blooming Pure White Azalea Flowers Background",
 tags:["azalea","tsutsuji","flower","white","pure-white","nature","plant","botanical","blossom","petal","blooming","full-bloom","dense","shrub","bush","garden","spring","seasonal","fresh","vibrant","outdoors","background","wallpaper","no-people"]
 },
-
-
-
+{
+id:"26K050711",
+title:"White and Pink Azalea Flowers with Bright Green Leaves",
+tags:["azalea","tsutsuji","flower","white","pink","nature","plant","botanical","blossom","petal","blooming","sunlight","bright","fresh","green-leaves","shrub","bush","garden","spring","seasonal","outdoors","background","no-people"]
+},
+{
+id:"26K050712",
+title:"Urban Bridge with Retro Street Lamp and Blue Sky Background",
+tags:["bridge","street-lamp","retro","vintage","urban","cityscape","architecture","stone-wall","railing","sky","blue-sky","cloud","sunny","daytime","green-tree","folly","infrastructure","zoushigaya","tokyo","japan","outdoor","landscape","background","no-people"]
+},
+{
+id:"26K050713",
+title:"Railway Tracks Between Modern Building and Green Trees in the City",
+tags:["railway","train-track","railroad","tracks","transportation","urban","cityscape","building","apartment","condominium","nature","green","trees","sky","blue-sky","waseda","tokyo","japan","sunny","daytime","japan","outdoor","landscape","perspective","scenery","no-people"]
+},
+{
+id:"26K050714",
+title:"Urban Street Corner with Green Bridge Railing and Apartment Building Background",
+tags:["street","urban","cityscape","bridge","railing","green-railing","apartment","building","condominium","road","sidewalk","utility-pole","tree","greenery","sky","sunny","daytime","city-life","japan","outdoor","landscape","background","no-people"]
+},
   
 ];
