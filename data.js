@@ -3031,6 +3031,10 @@ id:"26K050723",
 title:"Street Lamp Silhouette against Overcast Cloudy Sky",
 tags:["street-lamp","lighting","lamp-post","silhouette","sky","overcast","cloudy","gray-sky","weather","gloomy","atmosphere","urban","outdoor","minimalist","background","copy-space","wallpaper","no-people"]
 },
-  
+{
+id:"26K050724",
+title:"Urban Cityscape with Tall Buildings under Overcast Sky",
+tags:["cityscape","urban","building","apartment","office-building","skyscraper","architecture","street-view","low-angle","sky","overcast","cloudy","gray-sky","weather","gloomy","leaves","greenery","city-life","japan","outdoor","no-people"]
+},
   
 ];
