@@ -3106,7 +3106,11 @@ id:"26K050738",
 title:"A Red Torii Gate, Stone Steps, and Various Street Signs in Japan",
 tags:["torii","shrine","jinja","japan","japanese-culture","traditional","landmark","stone-steps","stairs","walkway","roadside","street","road","signs","traffic-sign","no-parking","parking-sign","statue","horse-statue","bronze-statue","greenery","trees","foliage","lush","stone-wall","fence","guardrail","street-lamp","daytime","sunny","outdoors","scenery","travel","cultural-heritage"]
 },
-
+{
+id:"26K050739",
+title:"Urban Railway Tracks Between Apartment Buildings and Lush Green Trees",
+tags:["railway","train-track","urban","cityscape","tokyo","japan","apartment","building","architecture","street","road","transportation","greenery","tree","plant","nature","grass","ballast","overhead-line","power-line","utility-pole","blue-sky","cloud","daytime","sunny","outdoor","landscape","scenery","perspective","street-level","no-people"]
+},
 
 
 
