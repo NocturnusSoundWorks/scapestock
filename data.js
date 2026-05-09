@@ -3076,7 +3076,11 @@ id:"26K050732",
 title:"Urban Railway Tracks and Cityscape under Overcast Sky",
 tags:["railway","train-track","railroad","cityscape","urban","building","architecture","sky","overcast","cloudy","gray-sky","ikebukuro","tokyo","japan","street-view","transportation","infrastructure","outdoor","daytime","landscape","no-people"]
 },
-
+{
+id:"26K050733",
+title:"Urban Canal Flowing Through City with Lush Greenery and Buildings",
+tags:["canal","river","waterway","urban","cityscape","building","apartment","greenery","tree","lush","nature","city","waseda","tokyo","japan","landscape","outdoor","daytime","sky","bridge","infrastructure","scenery","no-people"]
+}
 
 
   
