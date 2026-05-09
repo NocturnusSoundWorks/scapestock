@@ -3101,7 +3101,11 @@ id:"26K050737",
 title:"Rainy City Street in Tokyo with Wet Road and Office Buildings",
 tags:["rainy","wet-road","cityscape","tokyo","japan","urban","building","street","traffic","crossing","sidewalk","rainy-day","outdoor","asphalt","transportation","vehicle","car","van","tree","architecture","overcast","gray-sky","no-people"]
 },
-
+{
+id:"26K050738",
+title:"A Red Torii Gate, Stone Steps, and Various Street Signs in Japan",
+tags:["torii","shrine","jinja","japan","japanese-culture","traditional","landmark","stone-steps","stairs","walkway","roadside","street","road","signs","traffic-sign","no-parking","parking-sign","statue","horse-statue","bronze-statue","greenery","trees","foliage","lush","stone-wall","fence","guardrail","street-lamp","daytime","sunny","outdoors","scenery","travel","cultural-heritage"]
+},
 
 
 
