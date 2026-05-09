@@ -3121,6 +3121,10 @@ id:"26K050741",
 title:"Bright Sunlight Filtering Through Green Tree Canopy",
 tags:["sunlight","sun","sunbeam","lens-flare","tree","leaf","green","nature","canopy","foliage","summer","spring","bright","fresh","sky","blue-sky","look-up","low-angle","forest","park","outdoor","daytime","shining","light","natural","background","wallpaper","no-people","growth","vitality","botanical"]
 },
-
+{
+id:"26K050742",
+title:"Palm Trees Silhouetted Against Sunny Coastal City Sky",
+tags:["palm-tree","tree","nature","city","cityscape","urban","coast","harbor","seaside","ocean","water","building","skyscraper","sunny","sun","sunlight","bright","sky","blue-sky","cloud","silhouette","backlit","daytime","outdoor","landscape","scenery","travel","destination","japan","pier","dock","walkway","view","scenic","no-people"]
+},
   
 ];
