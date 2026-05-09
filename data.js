@@ -3109,7 +3109,7 @@ tags:["torii","shrine","jinja","japan","japanese-culture","traditional","landmar
 {
 id:"26K050739",
 title:"Urban Railway Tracks Between Apartment Buildings and Lush Green Trees",
-tags:["railway","train-track","urban","cityscape","tokyo","japan","apartment","building","architecture","street","road","transportation","greenery","tree","plant","nature","grass","ballast","overhead-line","power-line","utility-pole","blue-sky","cloud","daytime","sunny","outdoor","landscape","scenery","perspective","street-level","no-people"]
+tags:["railway","train-track","urban","cityscape","waseda","tokyo","japan","apartment","building","architecture","street","road","transportation","greenery","tree","plant","nature","grass","ballast","overhead-line","power-line","utility-pole","blue-sky","cloud","daytime","sunny","outdoor","landscape","scenery","perspective","street-level","no-people"]
 },
 
 
