@@ -3131,5 +3131,10 @@ id:"26K050743",
 title:"Palm Trees Silhouetted Against Clear Blue Sky",
 tags:["palm-tree","tree","nature","sky","blue-sky","sunny","sunlight","bright","silhouette","backlit","daytime","outdoor","landscape","scenery","travel","destination","tropical","resort","summer","clear-sky","leaf","foliage","frond","growth","botanical","peaceful","calm","scenic","background","wallpaper","no-people"]
 },
+{
+id:"26K050744",
+title:"Palm Trees Silhouetted Against Sunny Blue Sky with Light Halo",
+tags:["palm-tree","tree","nature","sky","blue-sky","sun","sunlight","bright","backlit","silhouette","halo","light-effect","cloud","white-cloud","sunny","daytime","outdoor","scenery","landscape","summer","tropical","resort","frond","leaf","botanical","funabashi","chiba","japan","background","wallpaper","no-people"]
+},
   
 ];
