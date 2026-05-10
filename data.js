@@ -3166,6 +3166,15 @@ id:"26K050750",
 title:"Street View Next to Tram Tracks in Tokyo Cityscape",
 tags:["street","road","asphalt","cityscape","urban","waseda","tokyo","japan","tram-track","railway","rail","transportation","sign","japanese-sign","building","apartment","condominium","tree","sky","cloud","daytime","outdoor","scenery","landscape","perspective","modern","neighborhood","infrastructure","transit","city-life"]
 },
+{
+id:"26K050751",
+title:"Pink Textured Stucco Wall with Vertical Grooves",
+tags:["wall","texture","stucco","pink","pale-pink","background","surface","material","abstract","pattern","vertical-line","groove","rough","plaster","architecture","building-material","detail","close-up","no-people","wallpaper","solid-color","exterior","interior","design"]
+},
 
+
+
+
+  
   
 ];
