@@ -3250,6 +3250,10 @@ tags:["traffic-light","traffic-sign","road-sign","pedestrian-signal","green-ligh
 id:"26K050767",
 title:"Modern Street Lights Against Cloudy Urban Sky",
 tags:["street-light","lamp","lighting","urban","cityscape","buildings","apartment","architecture","sky","clouds","overcast","gray-sky","low-angle","looking-up","tokyo","japan","modern","residential","outdoor","city-view"]
-}
-  
+},
+{
+id:"26K050768",
+title:"Curving Waterfront Path Along Urban Canal",
+tags:["canal","river","waterfront","path","walkway","promenade","urban","cityscape","buildings","apartment","architecture","greenery","bushes","boats","marina","harbor","sky","clouds","overcast","landscape","scenery","hacchobori","tokyo","japan"]
+}  
 ];
