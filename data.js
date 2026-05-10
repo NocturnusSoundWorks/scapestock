@@ -3245,7 +3245,11 @@ tags:["street-lamp","lighting","urban","cityscape","buildings","apartment","arch
 id:"26K050766",
 title:"Green Pedestrian Traffic Light in Tokyo Urban Street",
 tags:["traffic-light","traffic-sign","road-sign","pedestrian-signal","green-light","street","urbanscape","cityscape","tokyo","japan","apartment","building","high-rise","architecture","sky","clouds","overcast","sidewalk","street-lamp","neighborhood","outdoor","city-life"]
+},
+{
+id:"26K050767",
+title:"Modern Street Lights Against Cloudy Urban Sky",
+tags:["street-light","lamp","lighting","urban","cityscape","buildings","apartment","architecture","sky","clouds","overcast","gray-sky","low-angle","looking-up","tokyo","japan","modern","residential","outdoor","city-view"]
 }
-
   
 ];
