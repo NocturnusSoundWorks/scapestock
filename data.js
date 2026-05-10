@@ -3226,6 +3226,10 @@ id:"26K050762",
 title:"Charred Wood Texture with Vertical Planks and Knots",
 tags:["wood","timber","charred-wood","shou-sugi-ban","texture","surface","material","plank","board","vertical-lines","grain","knot","burnt","black","brown","dark","abstract","background","wallpaper","natural-material","no-people"]
 },
-
+{
+id:"26K050763",
+title:"Granite Bridge Ornament with Traditional Japanese Engraving",
+tags:["bridge","ornament","stone","granite","texture","engraving","japanese-characters","kanji","sculpture","architecture","design","urban","city","walkway","pavement","pattern","detail","hacchobori","japan","tokyo","no-people"]
+},
   
 ];
