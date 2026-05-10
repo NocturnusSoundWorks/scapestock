@@ -3214,7 +3214,14 @@ tags:["river","canal","water","cityscape","urban","buildings","architecture","tr
 {
 id:"26K050760",
 title:"Urban Canal with Modern Buildings and Sky Reflections",
-tags:["tokyo","japan","river","canal","waterway","cityscape","urban","architecture","modern-building","apartment","office-building","willow","tree","greenery","sky-reflection","cloudy-sky","overcast","tranquil","scenery","outdoor","city-life","embankment"]
+tags:["hacchobori","tokyo","japan","river","canal","waterway","cityscape","urban","architecture","modern-building","apartment","office-building","willow","tree","greenery","sky-reflection","cloudy-sky","overcast","tranquil","scenery","outdoor","city-life","embankment"]
 },
+{
+id:"26K050761",
+title:"Modern Office Buildings Under a Cloudy Sky with Trees",
+tags:["cityscape","urban","architecture","office-building","skyscraper","modern","facade","glass","steel","sky","clouds","overcast","daytime","trees","greenery","nature-in-city","looking-up","low-angle","hacchobori","tokyo","japan","scenery"]
+},
+
+
   
 ];
