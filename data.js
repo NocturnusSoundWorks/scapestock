@@ -3240,8 +3240,12 @@ tags:["tokyo","japan","cityscape","urban","buildings","apartment","architecture"
 id:"26K050765",
 title:"Urban Street Lamp Against Cloudy Sky and High-Rise Buildings",
 tags:["street-lamp","lighting","urban","cityscape","buildings","apartment","architecture","sky","clouds","overcast","cloudy","gray-sky","low-angle","looking-up","tokyo","japan","modern","residential","outdoor","city-view"]
+},
+{
+id:"26K050766",
+title:"Green Pedestrian Traffic Light in Tokyo Urban Street",
+tags:["traffic-light","pedestrian-signal","green-light","street","urbanscape","cityscape","tokyo","japan","apartment","building","high-rise","architecture","sky","clouds","overcast","sidewalk","street-lamp","neighborhood","outdoor","city-life"]
 }
-
 
   
 ];
