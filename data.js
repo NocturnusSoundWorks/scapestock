@@ -3176,8 +3176,11 @@ id:"26K050752",
 title:"Colorful Koinobori Carp Streamers Flying Under Blue Sky",
 tags:["koinobori","carp-streamer","japan","japanese-culture","tradition","childrens-day","festival","celebration","may","spring","seasonal","colorful","fish","wind","flying","outdoor","sky","blue-sky","cloud","sunny","bright","pole","metal-pole","scenery","decoration","no-people","background","wallpaper"]
 },
-
-
+{
+id:"26K050753",
+title:"Tranquil Stone Paved Pedestrian Path with Green Trees",
+tags:["path","walkway","pavement","stone","street","alley","trees","greenery","nature","urban-nature","shade","sunlight","tranquil","peaceful","neighborhood","kishibojin","tokyo","japan","perspective","outdoor","landscape","no-people"]
+},
 
   
   
