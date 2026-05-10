@@ -3191,8 +3191,21 @@ id:"26K050755",
 title:"Urban Skyline and High-Rise Buildings Under Overcast Sky",
 tags:["cityscape","urban","skyline","buildings","high-rise","skyscraper","apartment","architecture","sky","clouds","overcast","gray-sky","sunlight","city-view","modern","residential","landscape","scenery","outdoor","looking-up"]
 },
-
-
+{
+id:"26K050756",
+title:"Rough Granite Stone Wall Texture Background",
+tags:["stone","rock","granite","texture","surface","wall","background","background-pattern","material","rugged","rough","coarse","grey","gray","natural-stone","masonry","construction","detail","close-up","no-people","architecture","hard","durable"]
+},
+{
+id:"26K050757",
+title:"Urban Waterfront View with City Buildings and River",
+tags:["river","canal","water","waterfront","cityscape","urban","skyline","buildings","apartment","high-rise","architecture","cloudy-sky","overcast","gray-sky","scenery","landscape","outdoor","tokyo","japan","modern","metropolis"]
+},
+{
+id:"26K050758",
+title:"Large Tree and Steel Railway Bridge Over Green Field",
+tags:["tree","zelkova","greenery","leaves","nature","field","grass","railway-bridge","steel-bridge","infrastructure","riverbank","blue-sky","sunny","clear-sky","landscape","scenery","outdoor","spring","perspective","edogawa","tokyo","japan"]
+},
   
   
 ];
