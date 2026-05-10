@@ -3261,7 +3261,11 @@ id:"26K050769",
 title:"Curving Waterfront Walkway Along Urban Canal",
 tags:["canal","river","waterway","path","walkway","promenade","curving","urban","cityscape","buildings","apartment","architecture","bushes","greenery","boats","sky","clouds","overcast","landscape","scenery","hacchobori","tokyo","japan"]
 },
-
+{
+id:"26K050770",
+title:"Modern Glass Office Building and Bridge over Canal",
+tags:["building","architecture","modern","glass-facade","office-building","apartment","skyscraper","bridge","canal","river","waterway","reflection","urban","cityscape","sky","clouds","overcast","tokyo","japan","outdoor"]
+},
 
 
   
