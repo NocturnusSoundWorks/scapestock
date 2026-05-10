@@ -3160,8 +3160,12 @@ tags:["delphinium","flower","blossom","petal","light-blue","pale-blue","blue","n
 id:"26K050749",
 title:"Bright Red Roses Blooming in Early Summer Garden",
 tags:["rose","red-rose","flower","blossom","bloom","petal","nature","plant","botanical","floral","garden","green-leaves","foliage","lush","spring","summer","early-summer","may","waseda","tokyo","japan","outdoors","seasonal","fresh","bright","vibrant","background","wallpaper","no-people"]
-}
-
+},
+{
+id:"26K050750",
+title:"Street View Next to Tram Tracks in Tokyo Cityscape",
+tags:["street","road","asphalt","cityscape","urban","waseda","tokyo","japan","tram-track","railway","rail","transportation","sign","japanese-sign","building","apartment","condominium","tree","sky","cloud","daytime","outdoor","scenery","landscape","perspective","modern","neighborhood","infrastructure","transit","city-life"]
+},
 
   
 ];
