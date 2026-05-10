@@ -3221,7 +3221,11 @@ id:"26K050761",
 title:"Modern Office Buildings Under a Cloudy Sky with Trees",
 tags:["cityscape","urban","architecture","office-building","skyscraper","modern","facade","glass","steel","sky","clouds","overcast","daytime","trees","greenery","nature-in-city","looking-up","low-angle","hacchobori","tokyo","japan","scenery"]
 },
-
+{
+id:"26K050762",
+title:"Charred Wood Texture with Vertical Planks and Knots",
+tags:["wood","timber","charred-wood","shou-sugi-ban","texture","surface","material","plank","board","vertical-lines","grain","knot","burnt","black","brown","dark","abstract","background","wallpaper","natural-material","no-people"]
+},
 
   
 ];
