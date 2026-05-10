@@ -3281,7 +3281,11 @@ id:"26K050773",
 title:"Urban Waterfront View with City Buildings and Boats on Canal",
 tags:["river","canal","waterway","cityscape","urban","skyline","buildings","apartment","architecture","skyscraper","hacchobori","tokyo","japan","modern-city","waterfront","promenade","railing","boats","yachts","cloudy-sky","overcast","scenery","landscape","outdoor","daytime"]
 },
-
+{
+id:"26K050774",
+title:"Modern City Buildings Along Urban Canal and Waterfront Walkway",
+tags:["river","canal","waterway","cityscape","urban","skyline","buildings","apartment","hacchobori","tokyo","japan","architecture","skyscraper","modern-city","waterfront","promenade","railing","path","walkway","boats","yachts","cloudy-sky","overcast","scenery","landscape","outdoor","daytime"]
+},
   
   
 ];
