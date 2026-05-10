@@ -3256,7 +3256,11 @@ id:"26K050768",
 title:"Curving Waterfront Path Along Urban Canal",
 tags:["canal","river","waterfront","path","walkway","promenade","urban","cityscape","buildings","apartment","architecture","greenery","bushes","boats","marina","harbor","sky","clouds","overcast","landscape","scenery","hacchobori","tokyo","japan"]
 },
-
+{
+id:"26K050769",
+title:"Curving Waterfront Walkway Along Urban Canal",
+tags:["canal","river","waterway","path","walkway","promenade","curving","urban","cityscape","buildings","apartment","architecture","bushes","greenery","boats","sky","clouds","overcast","landscape","scenery","hacchobori","tokyo","japan"]
+},
 
 
 
