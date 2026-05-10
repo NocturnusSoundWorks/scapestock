@@ -3264,9 +3264,13 @@ tags:["canal","river","waterway","path","walkway","promenade","curving","urban",
 {
 id:"26K050770",
 title:"Modern Glass Office Building and Bridge over Canal",
-tags:["building","architecture","modern","glass-facade","office-building","apartment","skyscraper","bridge","canal","river","waterway","reflection","urban","cityscape","sky","clouds","overcast","tokyo","japan","outdoor"]
+tags:["building","architecture","modern","glass-facade","office-building","apartment","skyscraper","bridge","canal","river","waterway","reflection","urban","cityscape","sky","clouds","overcast","hacchobori","tokyo","japan","outdoor"]
 },
-
+{
+id:"26K050771",
+title:"Modern Office Building and Residential High-Rise Under Cloudy Sky",
+tags:["building","architecture","modern","glass-facade","office-building","apartment","skyscraper","residential","urban","cityscape","sky","clouds","overcast","hacchobori","tokyo","japan","outdoor","low-angle","looking-up"]
+},
 
   
 ];
