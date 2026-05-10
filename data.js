@@ -3286,6 +3286,12 @@ id:"26K050774",
 title:"Modern City Buildings Along Urban Canal and Waterfront Walkway",
 tags:["river","canal","waterway","cityscape","urban","skyline","buildings","apartment","hacchobori","tokyo","japan","architecture","skyscraper","modern-city","waterfront","promenade","railing","path","walkway","boats","yachts","cloudy-sky","overcast","scenery","landscape","outdoor","daytime"]
 },
+{
+id:"26K050775",
+title:"Urban Outdoor Basketball Court with City Buildings",
+tags:["basketball-court","sports-field","urban","cityscape","buildings","architecture","apartment","concrete","fence","bench","outdoor","recreation","park","overcast","sky","tokyo","japan","no-people"]
+},
+
   
   
 ];
