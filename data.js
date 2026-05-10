@@ -3235,8 +3235,12 @@ tags:["bridge","ornament","stone","granite","texture","engraving","japanese-char
 id:"26K050764",
 title:"Tokyo Cityscape View with Skytree and Cloudy Sky",
 tags:["tokyo","japan","cityscape","urban","buildings","apartment","architecture","tokyo-skytree","landmark","tower","sky","clouds","overcast","perspective","view","scenery","landscape","outdoor","metropolis","city-view"]
+},
+{
+id:"26K050765",
+title:"Urban Street Lamp Against Cloudy Sky and High-Rise Buildings",
+tags:["street-lamp","lighting","urban","cityscape","buildings","apartment","architecture","sky","clouds","overcast","cloudy","gray-sky","low-angle","looking-up","tokyo","japan","modern","residential","outdoor","city-view"]
 }
-
 
 
   
