@@ -3276,7 +3276,11 @@ id:"26K050772",
 title:"Looking Up at Modern Skyscrapers and Flowering Tree",
 tags:["cityscape","urban","architecture","skyscrapers","office-buildings","apartment","facade","glass-windows","sky","clouds","overcast","trees","white-flowers","blossom","low-angle","perspective","looking-up","tokyo","japan","business-district"]
 },
-
+{
+id:"26K050773",
+title:"Urban Waterfront View with City Buildings and Boats on Canal",
+tags:["river","canal","waterway","cityscape","urban","skyline","buildings","apartment","architecture","skyscraper","hacchobori","tokyo","japan","modern-city","waterfront","promenade","railing","boats","yachts","cloudy-sky","overcast","scenery","landscape","outdoor","daytime"]
+},
 
   
   
