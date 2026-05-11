@@ -3326,5 +3326,11 @@ id:"26K050782",
 title:"Wood Deck Waterfront Terrace with Bench",
 tags:["wood-deck","terrace","patio","bench","seating","waterfront","promenade","canal","river","urban","cityscape","buildings","apartment","architecture","sky","clouds","overcast","outdoor","scenery","hacchobori","tokyo","japan"]
 },
+{
+id:"26K050783",
+title:"Outdoor Stone Stairs with Metal Railing",
+tags:["stairs","steps","staircase","outdoor","stone","pavement","railing","handrail","hacchobori","tokyo","japan","metal","black","architecture","path","urban","cityscape","buildings","greenery","trees","perspective","daytime"]
+},
+
   
 ];
