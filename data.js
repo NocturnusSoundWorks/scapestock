@@ -3358,9 +3358,12 @@ tags:["tile","wall","exterior","facade","surface","texture","pattern","material"
 },
 {
 id:"26K050789",
-title:"High Angle View of Outdoor Metal Stairs and Playground",
-tags:["stairs","staircase","steps","metal","tread-plate","industrial","outdoor","high-angle","looking-down","playground","recreation","basketball-court","urban","cityscape","buildings","apartment","architecture","tokyo","japan"]
+title:"Urban Outdoor Sports Court and Modern Office Buildings",
+tags:["basketball-court","sports-ground","fence","wire-mesh","urban","cityscape","skyscrapers","office-buildings","apartment","architecture","modern","sky","clouds","overcast","concrete","outdoor","recreation","metropolis","tokyo","japan","daytime","landscape"]
 },
-  
-  
+{
+id:"26K050790",
+title:"Japanese Road Signs and City Buildings under Cloudy Sky",
+tags:["road-sign","traffic-sign","street-sign","japan","japanese","kanji","urban","city","buildings","architecture","apartment","skyscraper","low-angle","perspective","looking-up","sky","clouds","overcast","airplane","street","outdoor","cityscape","no-people"]
+},
 ];
