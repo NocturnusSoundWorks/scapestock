@@ -3331,6 +3331,13 @@ id:"26K050783",
 title:"Outdoor Stone Stairs with Metal Railing",
 tags:["stairs","steps","staircase","outdoor","stone","pavement","railing","handrail","hacchobori","tokyo","japan","metal","black","architecture","path","urban","cityscape","buildings","greenery","trees","perspective","daytime"]
 },
+{
+id:"26K050784",
+title:"Green Trees in Front of Modern Skyscrapers and Blue Sky",
+tags:["trees","green-leaves","foliage","nature","urban","cityscape","buildings","skyscrapers","office-buildings","architecture","modern","sky","blue-sky","clear-sky","sunny","daytime","kayabacho","tokyo","japan","outdoor","scenery"]
+}
 
+
+  
   
 ];
