@@ -3346,6 +3346,12 @@ id:"26K050786",
 title:"Modern Skyscrapers and Green Trees Under Clear Blue Sky",
 tags:["skyscrapers","office-buildings","architecture","modern","glass-facade","cityscape","urban","hacchobori","tokyo","japan","trees","green-leaves","foliage","nature","sky","blue-sky","clear-sky","sunny-day","daytime","low-angle","perspective","looking-up","outdoor","scenery"]
 },
+{
+id:"26K050787",
+title:"Outdoor Concrete Stairs with Handrail Leading to Greenery",
+tags:["stairs","steps","staircase","stairway","hacchobori","tokyo","japan","outdoor","concrete","railing","handrail","black-metal","architecture","urban","buildings","apartment","greenery","trees","sky","clouds","overcast","daytime","perspective"]
+},
+
   
   
 ];
