@@ -3316,7 +3316,11 @@ id:"26K050780",
 title:"Green Pedestrian Light under Steel Bridge Structure",
 tags:["traffic-sign","road-sign","traffic-light","pedestrian-signal","green-light","bridge","steel-structure","girders","beams","infrastructure","urban","cityscape","architecture","low-angle","perspective","tokyo","japan","outdoor","daytime"]
 },
-
+{
+id:"26K050781",
+title:"Tactile Paving on Sidewalk with Urban Background",
+tags:["tactile-paving","yellow-bricks","sidewalk","pavement","urban","street","cityscape","building","apartment","architecture","greenery","trees","flower-bed","outdoor","hacchobori","tokyo","japan","infrastructure","safety","daytime"]
+},
 
   
 ];
