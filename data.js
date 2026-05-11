@@ -3351,7 +3351,11 @@ id:"26K050787",
 title:"Outdoor Concrete Stairs with Handrail Leading to Greenery",
 tags:["stairs","steps","staircase","stairway","hacchobori","tokyo","japan","outdoor","concrete","railing","handrail","black-metal","architecture","urban","buildings","apartment","greenery","trees","sky","clouds","overcast","daytime","perspective"]
 },
-
+{
+id:"26K050788",
+title:"Brown Vertical Rectangle Wall Tiles Background",
+tags:["tile","wall","exterior","facade","surface","texture","pattern","material","stone","ceramic","rectangle","vertical","brown","beige","neutral","geometric","architecture","background","copy-space","wallpaper","no-people"]
+},
   
   
 ];
