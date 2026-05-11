@@ -3335,8 +3335,12 @@ tags:["stairs","steps","staircase","outdoor","stone","pavement","railing","handr
 id:"26K050784",
 title:"Green Trees in Front of Modern Skyscrapers and Blue Sky",
 tags:["trees","green-leaves","foliage","nature","urban","cityscape","buildings","skyscrapers","office-buildings","architecture","modern","sky","blue-sky","clear-sky","sunny","daytime","kayabacho","tokyo","japan","outdoor","scenery"]
-}
-
+},
+{
+id:"26K050785",
+title:"Bridge Ornament with Traditional Japanese Engraving",
+tags:["bridge","ornament","stone","granite","texture","engraving","japanese-characters","kanji","sculpture","architecture","design","urban","city","walkway","pavement","pattern","detail","hacchobori","japan","tokyo","no-people"]
+},
 
   
   
