@@ -3299,7 +3299,16 @@ tags:["tree","branches","trunk","bark","leaves","foliage","green","nature","bota
 {
 id:"26K050777",
 title:"Outdoor Stone Stairs with Black Metal Railing",
-tags:["stairs","steps","staircase","outdoor","stone","pavement","railing","handrail","metal","black","architecture","path","urban","cityscape","buildings","greenery","trees","perspective","daytime"]
+tags:["stairs","steps","staircase","outdoor","stone","pavement","railing","handrail","hacchobori","tokyo","japan","metal","black","architecture","path","urban","cityscape","buildings","greenery","trees","perspective","daytime"]
 },
+{
+id:"26K050778",
+title:"Waterfront Railing and Urban Cityscape Background",
+tags:["railing","handrail","fence","waterfront","path","promenade","canal","river","urban","hacchobori","tokyo","japan","cityscape","buildings","apartment","skyscraper","sky","clouds","overcast","outdoor","scenery","tokyo","japan"]
+},
+
+
+
+
   
 ];
