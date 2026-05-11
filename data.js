@@ -3321,6 +3321,10 @@ id:"26K050781",
 title:"Tactile Paving on Sidewalk with Urban Background",
 tags:["tactile-paving","yellow-bricks","sidewalk","pavement","urban","street","cityscape","building","apartment","architecture","greenery","trees","flower-bed","outdoor","hacchobori","tokyo","japan","infrastructure","safety","daytime"]
 },
-
+{
+id:"26K050782",
+title:"Wood Deck Waterfront Terrace with Bench",
+tags:["wood-deck","terrace","patio","bench","seating","waterfront","promenade","canal","river","urban","cityscape","buildings","apartment","architecture","sky","clouds","overcast","outdoor","scenery","hacchobori","tokyo","japan"]
+},
   
 ];
