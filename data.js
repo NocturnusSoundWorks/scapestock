@@ -3356,6 +3356,11 @@ id:"26K050788",
 title:"Brown Vertical Rectangle Wall Tiles Background",
 tags:["tile","wall","exterior","facade","surface","texture","pattern","material","stone","ceramic","rectangle","vertical","brown","beige","neutral","geometric","architecture","background","copy-space","wallpaper","no-people"]
 },
+{
+id:"26K050789",
+title:"High Angle View of Outdoor Metal Stairs and Playground",
+tags:["stairs","staircase","steps","metal","tread-plate","industrial","outdoor","high-angle","looking-down","playground","recreation","basketball-court","urban","cityscape","buildings","apartment","architecture","tokyo","japan"]
+},
   
   
 ];
