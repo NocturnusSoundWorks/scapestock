@@ -3296,6 +3296,10 @@ id:"26K050776",
 title:"Looking Up through Lush Green Tree Branches",
 tags:["tree","branches","trunk","bark","leaves","foliage","green","nature","botanical","looking-up","low-angle","perspective","canopy","summer","spring","outdoor","forest","natural-light"]
 },
-  
+{
+id:"26K050777",
+title:"Outdoor Stone Stairs with Black Metal Railing",
+tags:["stairs","steps","staircase","outdoor","stone","pavement","railing","handrail","metal","black","architecture","path","urban","cityscape","buildings","greenery","trees","perspective","daytime"]
+},
   
 ];
