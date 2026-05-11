@@ -3311,7 +3311,11 @@ id:"26K050779",
 title:"Urban Waterfront Promenade with Metal Railing and Skyscrapers",
 tags:["river","canal","waterway","cityscape","urban","skyline","buildings","apartment","hacchobori","tokyo","japan","architecture","skyscraper","modern-city","waterfront","promenade","railing","path","walkway","handrail","cloudy-sky","overcast","scenery","landscape","outdoor","daytime"]
 },
-
+{
+id:"26K050780",
+title:"Green Pedestrian Light under Steel Bridge Structure",
+tags:["traffic-sign","road-sign","traffic-light","pedestrian-signal","green-light","bridge","steel-structure","girders","beams","infrastructure","urban","cityscape","architecture","low-angle","perspective","tokyo","japan","outdoor","daytime"]
+},
 
 
   
