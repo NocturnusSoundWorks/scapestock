@@ -3341,7 +3341,11 @@ id:"26K050785",
 title:"Bridge Ornament with Traditional Japanese Engraving",
 tags:["bridge","ornament","stone","granite","texture","engraving","japanese-characters","kanji","sculpture","architecture","design","urban","city","walkway","pavement","pattern","detail","hacchobori","japan","tokyo","no-people"]
 },
-
+{
+id:"26K050786",
+title:"Modern Skyscrapers and Green Trees Under Clear Blue Sky",
+tags:["skyscrapers","office-buildings","architecture","modern","glass-facade","cityscape","urban","hacchobori","tokyo","japan","trees","green-leaves","foliage","nature","sky","blue-sky","clear-sky","sunny-day","daytime","low-angle","perspective","looking-up","outdoor","scenery"]
+},
   
   
 ];
