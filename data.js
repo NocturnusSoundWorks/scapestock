@@ -3396,6 +3396,15 @@ id:"26K050796",
 title:"Reflective Park Pond with Statue and Modern City Skyline",
 tags:["pond","water","reflection","statue","sculpture","park","garden","grass","lawn greenery","urban","cityscape","buildings","skyscrapers","architecture","sky","blue-sky","sunny","kayabacho","tokyo","japan","outdoor","scenery"]
 },
-  
+{
+id:"26K050797",
+title:"Weathered Metal Roller Shutter Door Background",
+tags:["shutter","metal","door","security","industrial","texture","background","pattern","horizontal","lines","weathered","grungy","metallic","steel","gray","closed","surface","material","urban","no-people"]
+},
+{
+id:"26K050798",
+title:"Urban Streetscape with Buildings and Green Trees Under Blue Sky",
+tags:["cityscape","urban","street","buildings","architecture","apartment","office-building","trees","greenery","sky","blue-sky","clouds","electric-wires","pedestrian-signal","kayabacho","tokyo","japan","outdoor","daytime"]
+}, 
   
 ];
