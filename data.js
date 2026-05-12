@@ -3516,6 +3516,10 @@ id:"26K051121",
 title:"White Cumulus Clouds in a Bright Blue Sky",
 tags:["sky","blue-sky","cloud","white-cloud","cumulus","sunny","daytime","clear-sky","nature","weather","atmosphere","scenic","outdoors","background","copy-space","wallpaper","horizontal-composition","no-people"]
 },
-  
+{
+id:"26K051122",
+title:"Bright Blue Sky and White Clouds over City Buildings",
+tags:["sky","blue-sky","cloud","white-cloud","cumulus","cityscape","building","apartment","architecture","urban","sunny","daytime","clear-sky","nature","atmosphere","outdoors","background","copy-space","wallpaper","vertical-composition","no-people"]
+},
   
 ];
