@@ -3436,6 +3436,23 @@ id:"26K051105",
 title:"Bridge Walkway with Traditional Lantern Posts and City View",
 tags:["bridge","walkway","pathway","sidewalk","pavement","stone-pavement","lantern","traditional-style","architecture","railing","fence","urban","cityscape","buildings","apartments","skyscrapers","skyline","kayabacho","tokyo","japan","sunny","daytime","outdoor","scenery","perspective"]
 },
-  
+{
+id:"26K051106",
+title:"Wet Urban Street and Buildings During Rainy Weather",
+tags:["street","road","asphalt","wet","rain","rainy","weather","urban","cityscape","buildings","architecture","sidewalk","pavement","crosswalk","traffic","cars","city-view","overcast","gloomy","hacchobori","japan","tokyo","outdoor"]
+},
+{
+id:"26K051107",
+title:"Japanese No Entry Road Sign with Auxiliary Text Plate",
+tags:["road-sign","traffic-sign","no-entry","japan","japanese","kanji","language","urban","street","infrastructure","electric-wires","railway-wires","utility-pole","sky","overcast","cloudy","daytime","outdoor","low-angle","perspective","tokyo","cityscape"]
+},
+{
+id:"26K051108",
+title:"Wet Asphalt Street and Sidewalk in Rainy Urban Setting",
+tags:["street","road","wet","rain","rainy","urban","cityscape","asphalt","pavement","sidewalk","buildings","architecture","traffic","van","vehicle","crosswalk","reflection","overcast","gloomy","hacchobori","tokyo","japan","outdoor","daytime"]
+},
+
+
+
   
 ];
