@@ -3416,7 +3416,11 @@ id:"26K051101",
 title:"Grey Granite Stone Tile Wall Texture Background",
 tags:["stone","wall","tile","granite","texture","background","pattern","horizontal","lines","grey","gray","exterior","facade","architecture","material","surface","rough","geometric","modern","no-people"]
 },
-
+{
+id:"26K051102",
+title:"Traditional Style Stone Lantern Post on Urban Bridge",
+tags:["bridge","stone-lantern","post","monument","japanese-style","traditional","architecture","urban","cityscape","buildings","apartments","sidewalk","pavement","pathway","railing","riverfront","skyline","kayabacho","tokyo","japan","outdoor","daytime","clear-sky","sunny"]
+},
 
   
 ];
