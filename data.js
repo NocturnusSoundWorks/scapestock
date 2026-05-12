@@ -3430,8 +3430,12 @@ tags:["street","urban","cityscape","trees","foliage","green-leaves","pink-flower
 id:"26K051104",
 title:"Urban Sidewalk with Stone Pavement and Street Lanterns",
 tags:["sidewalk","pavement","pathway","stone","urban","cityscape","buildings","apartments","street","road","lantern","street-light","architecture","kayabacho","tokyo","japan","manhole-cover","flower-bed","sunny","daytime","outdoor","perspective"]
-}
-
+},
+{
+id:"26K051105",
+title:"Bridge Walkway with Traditional Lantern Posts and City View",
+tags:["bridge","walkway","pathway","sidewalk","pavement","stone-pavement","lantern","traditional-style","architecture","railing","fence","urban","cityscape","buildings","apartments","skyscrapers","skyline","kayabacho","tokyo","japan","sunny","daytime","outdoor","scenery","perspective"]
+},
   
   
 ];
