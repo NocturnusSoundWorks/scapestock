@@ -3454,7 +3454,7 @@ tags:["street","road","wet","rain","rainy","urban","cityscape","asphalt","paveme
 {
 id:"26K051109",
 title:"Koinobori Carp Streamers Flying Over a Small River",
-tags:["koinobori","carp-streamer","japan","japanese-culture","tradition","childrens-day","may","spring","river","canal","waterfront","grass","nature","blue","red","colorful","outdoors","sunny","daytime","seasonal","no-people"]
+tags:["koinobori","carp-streamer","japan","japanese-culture","traditional","childrens-day","may","spring","river","canal","waterfront","grass","nature","blue","red","colorful","outdoors","sunny","daytime","seasonal","no-people"]
 },
 
 
