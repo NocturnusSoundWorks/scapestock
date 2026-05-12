@@ -3421,6 +3421,10 @@ id:"26K051102",
 title:"Traditional Style Stone Lantern Post on Urban Bridge",
 tags:["bridge","stone-lantern","post","monument","japanese-style","traditional","architecture","urban","cityscape","buildings","apartments","sidewalk","pavement","pathway","railing","riverfront","skyline","kayabacho","tokyo","japan","outdoor","daytime","clear-sky","sunny"]
 },
-
+{
+id:"26K051103",
+title:"Urban Street Scene with Lush Green and Pink Trees",
+tags:["street","urban","cityscape","trees","foliage","green-leaves","pink-flowers","blossom","spring","nature","buildings","architecture","sidewalk","road","car","tokyo","japan","sunny","daytime","outdoor","scenery"]
+},
   
 ];
