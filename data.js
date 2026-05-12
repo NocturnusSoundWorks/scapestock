@@ -3426,5 +3426,12 @@ id:"26K051103",
 title:"Urban Street Scene with Lush Green and Pink Trees",
 tags:["street","urban","cityscape","trees","foliage","green-leaves","pink-flowers","blossom","spring","nature","buildings","architecture","sidewalk","road","car","tokyo","japan","sunny","daytime","outdoor","scenery"]
 },
+{
+id:"26K051104",
+title:"Urban Sidewalk with Stone Pavement and Street Lanterns",
+tags:["sidewalk","pavement","pathway","stone","urban","cityscape","buildings","apartments","street","road","lantern","street-light","architecture","kayabacho","tokyo","japan","manhole-cover","flower-bed","sunny","daytime","outdoor","perspective"]
+}
+
+  
   
 ];
