@@ -3575,8 +3575,12 @@ tags:["industrial","port","harbor","sea","ocean","water","river","landscape","ci
 id:"26K051133",
 title:"Wooden Stairs Leading to a Waterfront Observation Deck",
 tags:["stairs","staircase","wooden-stairs","observation-deck","viewpoint","railing","fence","waterfront","sea","ocean","harbor","sky","blue-sky","sunny","daytime","outdoors","architecture","structure","perspective","industrial","coastal","landscape","vertical-composition","chiba","japan","no-people"]
-}
-
+},
+{
+id:"26K051134",
+title:"Massive Concrete Piers and Steel Beams Underneath a Large Bridge",
+tags:["bridge","infrastructure","underneath","concrete","pier","column","steel","iron","beam","girder","structure","engineering","industrial","water","river","urban","cityscape","architecture","perspective","massive","rust","weathered","low-angle-shot","vertical-composition","chiba","japan","daytime","outdoors","no-people"]
+},
   
   
 ];
