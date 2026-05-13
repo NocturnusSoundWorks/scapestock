@@ -3601,7 +3601,11 @@ id:"26K051138",
 title:"Vertical View of a Waterfront Promenade and Distant Highway Bridge",
 tags:["bridge","highway","overpass","infrastructure","waterfront","promenade","walkway","pathway","fence","railing","river","harbor","port","industrial","urban","cityscape","sky","blue-sky","sunny","daytime","outdoors","perspective","vertical-composition","scenic","chiba","japan","no-people"]
 },
-
+{
+id:"26K051139",
+title:"Vertical View of a Large Bridge over Industrial Waterfront with Paved Walkway",
+tags:["bridge","highway","overpass","infrastructure","waterfront","promenade","walkway","pavement","fence","railing","river","sea","harbor","port","industrial","urban","cityscape","architecture","sky","blue-sky","sunny","daytime","outdoors","perspective","vertical-composition","no-people"]
+},
 
   
 ];
