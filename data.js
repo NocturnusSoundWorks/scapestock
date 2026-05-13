@@ -3536,6 +3536,12 @@ id:"26K051125",
 title:"Scenic Green Field and Blue Sky with White Clouds",
 tags:["sky","blue-sky","cloud","white-cloud","cumulus","nature","landscape","green-field","grassland","meadow","trees","sunny","daytime","clear-sky","weather","outdoors","scenic","horizon","rural","summer","spring","background","wallpaper","no-people"]
 }, 
+{
+id:"26K051126",
+title:"Steel Truss Bridge Crossing Over a River",
+tags:["bridge","truss-bridge","steel","infrastructure","river","water","harbor","concrete-pier","architecture","engineering","urban","cityscape","blue-sky","sunny","daytime","outdoors","transportation","industrial","perspective","scenic","no-people","chiba","japan"]
+},
+
   
 
 
