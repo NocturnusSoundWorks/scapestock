@@ -3610,6 +3610,11 @@ tags:["bridge","highway","overpass","infrastructure","waterfront","promenade","w
 id:"26K051140",
 title:"Vertical View of a Waterfront Promenade with Shelters and a distant Highway Bridge",
 tags:["bridge","highway","infrastructure","waterfront","promenade","walkway","pathway","shelter","canopy","fence","railing","river","harbor","port","urban","cityscape","architecture","sky","blue-sky","sunny","daytime","outdoors","perspective","chiba","japan","vertical-composition","no-people"]
-}
+},
+{
+id:"26K051141",
+title:"Industrial Harbor and Yacht Marina under Clear Blue Sky",
+tags:["harbor","port","marina","yacht","boat","sailing-boat","industrial","warehouse","factory","waterfront","sea","ocean","bay","coast","sky","blue-sky","sunny","daytime","outdoors","urban","cityscape","landscape","scenic","no-people"]
+},
   
 ];
