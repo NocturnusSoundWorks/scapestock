@@ -3604,8 +3604,12 @@ tags:["bridge","highway","overpass","infrastructure","waterfront","promenade","w
 {
 id:"26K051139",
 title:"Vertical View of a Large Bridge over Industrial Waterfront with Paved Walkway",
-tags:["bridge","highway","overpass","infrastructure","waterfront","promenade","walkway","pavement","fence","railing","river","sea","harbor","port","industrial","urban","cityscape","architecture","sky","blue-sky","sunny","daytime","outdoors","perspective","vertical-composition","no-people"]
+tags:["bridge","highway","overpass","infrastructure","waterfront","promenade","walkway","pavement","fence","railing","river","sea","harbor","port","industrial","urban","cityscape","architecture","sky","blue-sky","sunny","daytime","outdoors","perspective","chiba","japan","vertical-composition","no-people"]
 },
-
+{
+id:"26K051140",
+title:"Vertical View of a Waterfront Promenade with Shelters and a distant Highway Bridge",
+tags:["bridge","highway","infrastructure","waterfront","promenade","walkway","pathway","shelter","canopy","fence","railing","river","harbor","port","urban","cityscape","architecture","sky","blue-sky","sunny","daytime","outdoors","perspective","chiba","japan","vertical-composition","no-people"]
+}
   
 ];
