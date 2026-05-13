@@ -3556,7 +3556,11 @@ id:"26K051129",
 title:"Symmetrical View Underneath Industrial Steel Bridge Structures",
 tags:["bridge","infrastructure","steel","iron","industrial","architecture","civil-engineering","underneath","structure","beam","girder","concrete","pier","column","water","river","urban","cityscape","perspective","symmetry","low-angle-shot","vertical-composition","daytime","chiba","japan","outdoors","no-people"]
 },
-  
+{
+id:"26K051130",
+title:"Industrial Waterfront with Steel Truss Bridge and Urban Buildings",
+tags:["bridge","truss-bridge","steel","infrastructure","industrial","waterfront","river","harbor","port","building","warehouse","factory","urban","cityscape","architecture","engineering","fence","railing","sky","blue-sky","sunny","daytime","outdoors","perspective","vertical-composition","chiba","japan","scenic","no-people"]
+},
 
 
   
