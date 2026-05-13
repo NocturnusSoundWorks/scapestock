@@ -3589,9 +3589,13 @@ tags:["bridge","highway","overpass","infrastructure","river","water","industrial
 {
 id:"26K051136",
 title:"Waterfront Promenade with Highway Bridge over Industrial River",
-tags:["bridge","highway","overpass","infrastructure","river","waterfront","promenade","walkway","fence","railing","industrial","harbor","port","sky","blue-sky","sunny","daytime","outdoors","urban","cityscape","architecture","engineering","perspective","scenic","no-people"]
+tags:["bridge","highway","overpass","infrastructure","river","waterfront","promenade","walkway","fence","railing","industrial","harbor","port","sky","blue-sky","sunny","daytime","outdoors","urban","cityscape","architecture","engineering","chiba","japan","perspective","scenic","no-people"]
 },
-
+{
+id:"26K051137",
+title:"Waterfront Walkway with Highway Bridge and Industrial Harbor View",
+tags:["bridge","highway","overpass","infrastructure","waterfront","promenade","walkway","fence","railing","river","sea","harbor","port","industrial","warehouse","sky","blue-sky","sunny","daytime","outdoors","urban","cityscape","architecture","perspective","scenic","chiba","japan","no-people"]
+},
 
 
 
