@@ -1154,7 +1154,17 @@ id:"26K032610",
 title:"Night View of an Urban Park with an Illuminated Pyramid Structure",
 tags:["park","night","night-view","illumination","light","pyramid","structure","sculpture","art","monument","cityscape","urban","building","flower-bed","garden","grass","pathway","tree","ginza","tokyo","japan","dark","outdoor","modern-art"]
 },
+{
+id:"26K032611",
+title:"Urban Intersection with Apartment Buildings and Road Signs in Tokyo",
+tags:["tsukiji","tokyo","japan","cityscape","urban","building","apartment","condominium","residential-area","road","intersection","street","sign","traffic-sign","no-entry-sign","fence","railing","pavement","sidewalk","sky","overcast","daytime","outdoors","metropolis"]
+}},
 
+
+
+
+
+  
   
 {
 id:"26K032656",
