@@ -3546,6 +3546,12 @@ id:"26K051127",
 title:"Modern Industrial Port and Warehouse by the Sea",
 tags:["industrial","port","warehouse","building","sea","ocean","water","river","coast","harbor","factory","sky","blue-sky","clouds","sunny","daytime","outdoors","architecture","logistics","commercial","cityscape","urban","landscape","scenic","chiba","japan","no-people"]
 },
+{
+id:"26K051128",
+title:"Vertical View of Calm Industrial Harbor under Blue Sky",
+tags:["sea","harbor","port","industrial","ocean","water","river","sky","blue-sky","clouds","horizon","coastline","warehouse","tower","crane","shipping","logistics","sunny","daytime","outdoors","scenic","landscape","vertical-composition","chiba","japan","no-people"]
+},
+
   
 
 
