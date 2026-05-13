@@ -3581,6 +3581,10 @@ id:"26K051134",
 title:"Massive Concrete Piers and Steel Beams Underneath a Large Bridge",
 tags:["bridge","infrastructure","underneath","concrete","pier","column","steel","iron","beam","girder","structure","engineering","industrial","water","river","urban","cityscape","architecture","perspective","massive","rust","weathered","low-angle-shot","vertical-composition","chiba","japan","daytime","outdoors","no-people"]
 },
-  
+{
+id:"26K051135",
+title:"Large Highway Bridge Over Industrial River with Factory Building",
+tags:["bridge","highway","overpass","infrastructure","river","water","industrial","factory","warehouse","port","harbor","sky","blue-sky","sunny","daytime","outdoors","architecture","engineering","urban","cityscape","landscape","logistics","scenic","no-people"]
+}, 
   
 ];
