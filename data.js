@@ -3569,9 +3569,13 @@ tags:["industrial","logistics","warehouse","facility","building","waterfront","s
 {
 id:"26K051132",
 title:"Wide Landscape of Industrial Port with Modern Buildings and Blue Sky",
-tags:["industrial","port","harbor","sea","ocean","water","river","landscape","cityscape","urban","warehouse","factory","facility","logistics","building","tower","sky","blue-sky","clouds","sunny","daytime","outdoors","scenic","horizon","commercial","no-people"]
+tags:["industrial","port","harbor","sea","ocean","water","river","landscape","cityscape","urban","warehouse","factory","facility","logistics","building","tower","sky","blue-sky","clouds","sunny","daytime","outdoors","scenic","horizon","commercial","chiba","japan","no-people"]
 },
-
+{
+id:"26K051133",
+title:"Wooden Stairs Leading to a Waterfront Observation Deck",
+tags:["stairs","staircase","wooden-stairs","observation-deck","viewpoint","railing","fence","waterfront","sea","ocean","harbor","sky","blue-sky","sunny","daytime","outdoors","architecture","structure","perspective","industrial","coastal","landscape","vertical-composition","chiba","japan","no-people"]
+}
 
   
   
