@@ -3561,7 +3561,11 @@ id:"26K051130",
 title:"Industrial Waterfront with Steel Truss Bridge and Urban Buildings",
 tags:["bridge","truss-bridge","steel","infrastructure","industrial","waterfront","river","harbor","port","building","warehouse","factory","urban","cityscape","architecture","engineering","fence","railing","sky","blue-sky","sunny","daytime","outdoors","perspective","vertical-composition","chiba","japan","scenic","no-people"]
 },
-
+{
+id:"26K051131",
+title:"Vertical View of Industrial Waterfront and Modern Logistics Facility",
+tags:["industrial","logistics","warehouse","facility","building","waterfront","sea","ocean","coast","harbor","port","sky","blue-sky","clouds","sunny","daytime","outdoors","architecture","urban","cityscape","landscape","scenic","vertical-composition","concrete","seawall","no-people"]
+},
 
   
 ];
