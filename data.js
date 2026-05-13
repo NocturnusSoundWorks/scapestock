@@ -3566,6 +3566,13 @@ id:"26K051131",
 title:"Vertical View of Industrial Waterfront and Modern Logistics Facility",
 tags:["industrial","logistics","warehouse","facility","building","waterfront","sea","ocean","coast","harbor","port","sky","blue-sky","clouds","sunny","daytime","outdoors","architecture","urban","cityscape","landscape","scenic","vertical-composition","concrete","seawall","no-people"]
 },
+{
+id:"26K051132",
+title:"Wide Landscape of Industrial Port with Modern Buildings and Blue Sky",
+tags:["industrial","port","harbor","sea","ocean","water","river","landscape","cityscape","urban","warehouse","factory","facility","logistics","building","tower","sky","blue-sky","clouds","sunny","daytime","outdoors","scenic","horizon","commercial","no-people"]
+},
 
+
+  
   
 ];
