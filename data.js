@@ -3614,7 +3614,12 @@ tags:["bridge","highway","infrastructure","waterfront","promenade","walkway","pa
 {
 id:"26K051141",
 title:"Industrial Harbor and Yacht Marina under Clear Blue Sky",
-tags:["harbor","port","marina","yacht","boat","sailing-boat","industrial","warehouse","factory","waterfront","sea","ocean","bay","coast","sky","blue-sky","sunny","daytime","outdoors","urban","cityscape","landscape","scenic","no-people"]
+tags:["harbor","port","marina","yacht","boat","sailing-boat","industrial","warehouse","factory","waterfront","sea","ocean","bay","coast","sky","blue-sky","sunny","daytime","outdoors","urban","cityscape","landscape","chiba","japan","scenic","no-people"]
 },
+{
+id:"26K051142",
+title:"Urban Waterfront Park with Sluice Gate and City Skyline Background",
+tags:["waterfront","park","promenade","walkway","sluice-gate","dam","river","canal","harbor","port","cityscape","urban","skyline","building","skyscraper","architecture","sky","clouds","blue-sky","sunny","daytime","outdoors","scenic","landscape","chiba","japan","infrastructure","no-people"]
+}  
   
 ];
