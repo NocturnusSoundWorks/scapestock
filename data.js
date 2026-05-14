@@ -3971,6 +3971,10 @@ id:"26K051158",
 title:"Koinobori Carp Streamers Swaying Above a Narrow River",
 tags:["koinobori","carp-streamer","japan","japanese-culture","tradition","festival","childrens-day","river","canal","waterway","nature","green-grass","outdoor","spring","may","colorful","vibrant","decoration","celebration","scenery","wind","no-people","background","wallpaper"]
 },
-
+{
+id:"26K051159",
+title:"Traditional Red Japanese Paper Lantern for Horumon Restaurant",
+tags:["lantern","chochin","red-lantern","japan","japanese-culture","tradition","restaurant","izakaya","horumon","meat","offal","food-culture","signboard","advertising","shutter","storefront","red","white","black","kanji","outdoor","no-people"]
+},
   
 ];
