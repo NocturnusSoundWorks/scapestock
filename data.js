@@ -3921,6 +3921,10 @@ id:"26K051148",
 title:"Japanese Stop Sign for Pedestrians Painted on Asphalt Road",
 tags:["stop-sign","tomare","japanese-sign","pedestrian-safety","road-sign","traffic-sign","street-sign","road-marking","asphalt","pavement","street","white-paint","footprints","traffic-safety","japan","urban","outdoor","safety-first","infrastructure","transportation","road-surface","symbol","signage","no-people"]
 },
-  
+{
+id:"26K051149",
+title:"Weathered Exposed Concrete Wall Texture Background",
+tags:["concrete","wall","texture","cement","exposed-concrete","gray","grey","weathered","aged","grungy","rough","industrial","urban","architecture","background","material","pattern","surface","exterior","no-people","wallpaper","structural"]
+},
   
 ];
