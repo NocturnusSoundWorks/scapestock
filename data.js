@@ -1236,7 +1236,11 @@ id:"26K032629",
 title:"Night View of Tokyo Metropolis with Illuminated Buildings and Traffic",
 tags:["tokyo","japan","ginza","night","night-view","cityscape","urban","metropolis","building","architecture","skyscraper","illumination","light","neon","billboard","road","street","traffic","car","tree","city-life","outdoor"]
 }, 
-  
+{
+id:"26K032630",
+title:"Night View of a Narrow Commercial Street in Ginza",
+tags:["tokyo","japan","ginza","night","night-view","cityscape","urban","metropolis","street","alley","backstreet","pavement","building","architecture","modern-architecture","glass-facade","shop","storefront","illumination","light","neon","sign","street-light","outdoor"]
+}, 
 
 
 
