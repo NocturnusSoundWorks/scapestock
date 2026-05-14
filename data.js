@@ -1324,10 +1324,18 @@ tags:["pine-tree","conifer","matsu","nature","plant","evergreen","needle-leaf","
 {
 id:"26K032647",
 title:"Stone Stairs Leading to a Traditional Japanese Shrine",
-tags:["shrine","jinja","temple","japan","japanese-culture","tradition","stairs","stone-steps","architecture","gate","forest","trees","nature","sky","blue-sky","sunny","chiba","japan","daytime","outdoors","shinto","scenery","landscape","spiritual","red-railing","path","way","no-people"]
+tags:["shrine","jinja","temple","japanese-culture","tradition","stairs","stone-steps","architecture","gate","forest","trees","nature","sky","blue-sky","sunny","chiba","japan","daytime","outdoors","shinto","scenery","landscape","spiritual","red-railing","path","way","no-people"]
 },
-
-
+{
+id:"26K032648",
+title:"Close-up of White Cherry Blossoms on a Thick Tree Trunk",
+tags:["cherry-blossom","sakura","flower","nature","plant","spring","seasonal","white-flower","blossom","petal","bud","tree","trunk","bark","branch","close-up","macro","japan","japanese-culture","hanami","outdoors","park","background","wallpaper","no-people"]
+},
+{
+id:"26K032649",
+title:"Vibrant Pink Cherry Blossoms Blooming in a Temple Garden",
+tags:["cherry-blossom","sakura","flower","pink-flower","nature","plant","spring","seasonal","japan","japanese-temple","temple","garden","blue-sky","sky","sunny","daytime","outdoors","bright","blossom","petal","tree","branch","hanami","traditional-architecture","background","wallpaper","no-people"]
+},
   
 
 /*{
