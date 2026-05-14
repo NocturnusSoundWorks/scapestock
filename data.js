@@ -3976,5 +3976,10 @@ id:"26K051159",
 title:"Traditional Red Japanese Paper Lantern for Horumon Restaurant",
 tags:["lantern","chochin","red-lantern","japan","japanese-culture","tradition","restaurant","izakaya","horumon","meat","offal","food-culture","signboard","advertising","shutter","storefront","red","white","black","kanji","outdoor","no-people"]
 },
+{
+id:"26K051160",
+title:"White Clouds in Blue Sky Over Residential Cityscape",
+tags:["sky","cloud","blue-sky","white-clouds","cumulus","cityscape","residential-area","town","road","street","japan","summer","sunny","daytime","bright","outdoor","scenery","landscape","horizon","architecture","tree","greenery"]
+}, 
   
 ];
