@@ -4051,8 +4051,12 @@ tags:["sky","blue-sky","cloud","white-clouds","canal","river","waterway","citysc
 id:"26K051173",
 title:"Traditional Japanese Garden Lantern Andon with Green Plants",
 tags:["andon","lantern","traditional","japanese-style","garden","plants","greenery","outdoor","stone-wall","bamboo-fence","wooden-structure","shrine-style","culture","scenery","sunny","daytime","ningyoucho","tokyo","japan","foliage","decorative","no-people"]
+},
+{
+id:"26K051174",
+title:"Narrow Japanese Alley with Traditional Lantern and Potted Plants",
+tags:["alley","lane","streetscape","ningyoucho","tokyo","japan","japanese-style","traditional","lantern","andon","potted-plants","greenery","bamboo-fence","narrow-street","urban","scenery","quiet","culture","architecture","outdoor","sunny","daytime","no-people"]
 }
-
 
 
   
