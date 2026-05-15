@@ -4075,7 +4075,7 @@ tags:["flower","yellow-flower","coreopsis","lance-leaved-coreopsis","nature","pl
 {
 id:"26K051178",
 title:"Colorful Koinobori Carp Streamers Flying in Blue Sky",
-tags:["koinobori","carp-streamer","fish-flag","japan","japanese-culture","tradition","childrens-day","may","festival","blue-sky","sunny","windy","outdoor","decoration","colorful","red","blue","white","celebration","custom","no-people"]
+tags:["koinobori","carp-streamer","fish-flag","japan","japanese-culture","traditional","childrens-day","may","festival","blue-sky","sunny","windy","outdoor","decoration","colorful","red","blue","white","celebration","custom","no-people"]
 },
 
   
