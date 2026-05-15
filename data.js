@@ -4022,7 +4022,16 @@ id:"26K051168",
 title:"Stone Bridge Post of Kamejima Bridge in Tokyo",
 tags:["bridge","kamejima-bridge","kayabacho","tokyo","japan","stone","architecture","structure","lantern","street-light","urban","cityscape","building","sidewalk","pavement","sunny","outdoor","daytime","clear-sky","blue-sky","scenery","tradition","modern","no-people"]
 },
-
+{
+id:"26K051169",
+title:"Rough Grey Tree Bark Texture Background",
+tags:["tree","bark","trunk","texture","pattern","natural","nature","wood","rough","organic","surface","grey","brown","detail","close-up","botanical","forest","outdoor","background","wallpaper","no-people"]
+},
+{
+id:"26K051169",
+title:"Rough Grey Tree Bark Texture Background",
+tags:["tree","bark","trunk","texture","pattern","natural","nature","wood","rough","organic","surface","grey","brown","detail","close-up","botanical","forest","outdoor","background","wallpaper","no-people"]
+},
 
 
   
