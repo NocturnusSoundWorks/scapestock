@@ -4036,8 +4036,12 @@ tags:["tree","bark","trunk","texture","pattern","natural","nature","wood","rough
 id:"26K051170",
 title:"Entrance of Hamacho Park with Stone Wall in Tokyo",
 tags:["park","entrance","hamacho-park","ningyoucho","tokyo","japan","stone-wall","signboard","monument","street","road","sidewalk","urban","cityscape","nature","greenery","trees","summer","sunny","daytime","outdoor","scenery","no-people"]
+},
+{
+id:"26K051171",
+title:"Horizontal Green Ceramic Tile Wall Texture",
+tags:["tile","wall","ceramic","texture","pattern","green","teal","aqua","material","surface","glossy","horizontal-lines","architecture","interior","exterior","construction","brick-style","background","wallpaper","no-people"]
 }
-
   
   
 ];
