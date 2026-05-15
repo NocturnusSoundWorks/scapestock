@@ -4047,5 +4047,13 @@ id:"26K051172",
 title:"Cityscape with River Canal Under Blue Sky and Clouds",
 tags:["sky","blue-sky","cloud","white-clouds","canal","river","waterway","cityscape","urban-landscape","buildings","apartment","residential-area","bridge","hiba","japan","sunny","daytime","outdoor","scenery","landscape","horizon","no-people"]
 },
+{
+id:"26K051173",
+title:"Traditional Japanese Garden Lantern Andon with Green Plants",
+tags:["andon","lantern","traditional","japanese-style","garden","plants","greenery","outdoor","stone-wall","bamboo-fence","wooden-structure","shrine-style","culture","scenery","sunny","daytime","ningyoucho","tokyo","japan","foliage","decorative","no-people"]
+}
+
+
+
   
 ];
