@@ -4017,6 +4017,14 @@ id:"26K051167",
 title:"Bright Yellow Lance-leaved Coreopsis Flower in Bloom",
 tags:["flower","coreopsis","lance-leaved-coreopsis","yellow-flower","wildflower","nature","plant","botanical","blossom","petal","floral","green-leaves","garden","outdoor","spring","summer","bright","colorful","no-people","background"]
 },
+{
+id:"26K051168",
+title:"Stone Bridge Post of Kamejima Bridge in Tokyo",
+tags:["bridge","kamejima-bridge","kayabacho","tokyo","japan","stone","architecture","structure","lantern","street-light","urban","cityscape","building","sidewalk","pavement","sunny","outdoor","daytime","clear-sky","blue-sky","scenery","tradition","modern","no-people"]
+},
+
+
+
   
   
 ];
