@@ -4056,8 +4056,12 @@ tags:["andon","lantern","traditional","japanese-style","garden","plants","greene
 id:"26K051174",
 title:"Narrow Japanese Alley with Traditional Lantern and Potted Plants",
 tags:["alley","lane","streetscape","ningyoucho","tokyo","japan","japanese-style","traditional","lantern","andon","potted-plants","greenery","bamboo-fence","narrow-street","urban","scenery","quiet","culture","architecture","outdoor","sunny","daytime","no-people"]
+},
+{
+id:"26K051175",
+title:"Victorian Style Street Lamp Against Green Trees and Blue Sky",
+tags:["street-lamp","lantern","lamp-post","ningyoucho","tokyo","japan","victorian-style","green-trees","nature","blue-sky","clear-sky","sunny","daytime","summer","outdoor","urban-greenery","city-park","architecture","low-angle-shot","scenery","bright","no-people"]
 }
-
 
   
 ];
