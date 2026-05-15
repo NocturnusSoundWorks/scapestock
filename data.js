@@ -4121,6 +4121,10 @@ tags:["koinobori","carp-streamer","fish-flag","japan","japanese-culture","tradit
 id:"26K051187",
 title:"Many Colorful Koinobori Carp Streamers Flying Over a Canal",
 tags:["koinobori","carp-streamer","fish-flag","japan","japanese-culture","traditional","childrens-day","may","festival","canal","river","waterway","stream","bank","green-grass","sunny","daytime","outdoors","colorful","vibrant","many-objects","celebration","scenery","no-people"]
-}  
-  
+},
+{
+id:"26K051188",
+title:"Traditional Koinobori Carp Streamers Swimming in Clear Blue Sky",
+tags:["koinobori","carp-streamer","fish-flag","japan","japanese-culture","traditional","childrens-day","may","festival","blue-sky","sunny","sunshine","bright","windy","outdoors","decoration","colorful","vibrant","celebration","custom","streamer","no-people"]
+},
 ];
