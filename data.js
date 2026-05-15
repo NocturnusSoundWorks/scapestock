@@ -4002,6 +4002,17 @@ id:"26K051164",
 title:"Traditional Japanese Bamboo Blind Sudare Texture",
 tags:["sudare","bamboo","blind","bamboo-blind","traditional","japan","japanese-style","texture","pattern","natural","material","background","wallpaper","brown","summer","shade","sunshade","screen","horizontal-lines","craftsmanship","no-people"]
 },
+{
+id:"26K051165",
+title:"Blue Sky and White Clouds Framed by Green Tree Leaves",
+tags:["sky","cloud","blue-sky","white-clouds","nature","leaf","tree","green-leaves","fresh-green","foliage","sunlight","bright","summer","spring","outdoor","low-angle-shot","scenery","natural-frame","daytime","no-people"]
+},
+{
+id:"26K051166",
+title:"White Clouds in Blue Sky Framed by Green Leaves",
+tags:["sky","blue-sky","cloud","white-cloud","cumulus","leaf","green-leaf","tree","nature","summer","sunny","daytime","bright","fresh-green","outdoor","low-angle-shot","scenery","natural-frame","foliage","background","wallpaper","no-people"]
+},
 
+  
   
 ];
