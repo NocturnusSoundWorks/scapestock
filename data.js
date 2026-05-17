@@ -4335,7 +4335,11 @@ id:"26K051330",
 title:"Bright Red Torii Gate of Shinto Shrine near Crosswalk and Street Signs",
 tags:["torii","gate","shrine","jinja","shinto","traditional","culture","architecture","historic","sacred","red-torii","vermilion","stone-wall","stairs","steps","crosswalk","street","road","traffic-sign","sign","parking-sign","street-lamp","trees","green","japan","tokyo","outdoors","no-people"]
 },
-
+{
+id:"26K051331",
+title:"Stone Steps and Pine Tree at Shinto Shrine Entrance with Red Lanterns",
+tags:["shrine","jinja","shinto","traditional","culture","architecture","historic","sacred","steps","stairs","stone-steps","pine-tree","tree","green","leaves","plants","red-lantern","lantern","kasuga-toro","gate","white-gate","stone-wall","japan","tokyo","outdoors","no-people"]
+},
 
 
 
