@@ -4275,6 +4275,68 @@ id:"26K051318",
 title:"Abstract Architectural Lines and Geometric Concrete Building Background",
 tags:["building","architecture","modern","minimalist","abstract","geometry","geometric","line","lines","concrete","wall","facade","shadow","light-and-shadow","gray","grey","structure","design","texture","pattern","background","wallpaper","no-people"]
 },
+{
+id:"26K051319",
+title:"Raindrops Creating Ripples in a Muddy Puddle under a Tree",
+tags:["rain","rainy-day","rainy-season","puddle","muddy-water","ripple","ripples","water-droplet","raindrops","tree-trunk","root","roots","sprout","weed","weeds","green","earth","soil","ground","wet","nature","plant","seasonal","june","outdoors","vertical","no-people"]
+},
+{
+id:"26K051320",
+title:"Traditional Japanese Shinto Shrine Entrance with Stone Torii Gate and Green Trees",
+tags:["shrine","jinja","torii","gate","stone-torii","shinto","stone-lantern","komainu","stone-statue","traditional","culture","architecture","historic","sacred","green","trees","fresh-green","leaves","foliage","wall","stone-wall","crosswalk","street","road","daytime","sunny","japan","tokyo","outdoors","no-people"]
+},
+{
+id:"26K051321",
+title:"Modern Corporate Building Exterior under Cloudy Sky Background",
+tags:["building","architecture","office","corporate","company","facade","window","windows","modern","minimalist","concrete","structure","sky","cloud","clouds","overcast","daytime","background","wallpaper","outdoors","no-people"]
+},
+{
+id:"26K051322",
+title:"Scenic View of Tokyo Suburb with Houses and High-Voltage Power Lines",
+tags:["residential-area","houses","roof","apartment","buildings","transmission-tower","pylon","utility-pole","power-lines","electricity","infrastructure","town","suburb","neighborhood","cityscape","sky","cloudy-sky","overcast","clouds","scenery","landscape","japan","tokyo","outdoors","no-people"]
+},
+{
+id:"26K051323",
+title:"Low-Angle View of Corporate Office Buildings under Cloudy Sky",
+tags:["building","buildings","office-building","architecture","modern","facade","window","windows","city","urban","street-light","lamp-post","sky","cloudy-sky","overcast","clouds","white-clouds","grey-clouds","vertical","scenery","landscape","japan","tokyo","outdoors","no-people"]
+},
+{
+id:"26K051324",
+title:"Wet City Street and Buildings on a Rainy Day in Tokyo",
+tags:["street","road","asphalt","wet","rain","rainy-day","puddle","reflection","crosswalk","sidewalk","buildings","architecture","office-building","traffic-sign","trees","cityscape","urban","tokyo","japan","overcast","gloomy","outdoors"]
+},
+{
+id:"26K051325",
+title:"Highway Traffic Passing Through Tokyo Suburban Residential Area",
+tags:["highway","expressway","road","traffic","car","truck","transportation","soundproof-wall","barrier","residential-area","houses","apartment","buildings","townscape","cityscape","suburb","sky","blue-sky","clouds","white-clouds","sunny","daytime","scenery","landscape","japan","Chiba","outdoors","no-people"]
+},
+{
+id:"26K051326",
+title:"Pedestrian and Bicycle Crossing Sign against Modern Buildings and Sky",
+tags:["road-sign","japanese-sign","traffic-sign","sign","pedestrian-sign","bicycle-sign","icon","symbol","low-angle","building","architecture","modern","skyscraper","street-tree","green","leaves","sky","blue-sky","sunny","daytime","urban","city","tokyo","japan","outdoors"]
+},
+{
+id:"26K051327",
+title:"Japanese Carp Streamers Koinobori Flying in Blue Sky",
+tags:["koinobori","carp-streamer","streamer","fish","carp","traditional","culture","festival","childrens-day","tango-no-sekku","custom","spring","may","sky","blue-sky","clear-sky","sunny","daytime","breeze","wind","scenery","japan","outdoors","no-people"]
+},
+{
+id:"26K051328",
+title:"Japanese Koinobori Carp Streamers Flying Over Green Field Under Blue Sky",
+tags:["koinobori","carp-streamer","streamer","fish","carp","traditional","culture","festival","childrens-day","tango-no-sekku","custom","spring","may","sky","blue-sky","sunny","daytime","breeze","wind","field","grass","green-field","puddle","shadow","scenery","landscape","japan","outdoors","no-people"]
+},
+{
+id:"26K051329",
+title:"Low-Angle Dynamic View of Koinobori Carp Streamers in Sunny Sky",
+tags:["koinobori","carp-streamer","streamer","fish","carp","traditional","culture","festival","childrens-day","tango-no-sekku","custom","spring","may","sky","blue-sky","clear-sky","sunny","daytime","breeze","wind","low-angle","close-up","scenery","japan","outdoors","no-people"]
+},
+{
+id:"26K051330",
+title:"Bright Red Torii Gate of Shinto Shrine near Crosswalk and Street Signs",
+tags:["torii","gate","shrine","jinja","shinto","traditional","culture","architecture","historic","sacred","red-torii","vermilion","stone-wall","stairs","steps","crosswalk","street","road","traffic-sign","sign","parking-sign","street-lamp","trees","green","japan","tokyo","outdoors","no-people"]
+},
+
+
 
 
 
