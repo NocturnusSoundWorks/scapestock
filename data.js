@@ -4345,6 +4345,11 @@ id:"26K051332",
 title:"Bright Orange Torii Gate and Shinto Shrine Entrance with Stone Steps",
 tags:["torii","gate","shrine","jinja","shinto","traditional","culture","architecture","historic","sacred","orange-torii","vermilion","stone-statue","horse-statue","sculpture","monument","steps","stairs","stone-steps","stone-wall","railing","fence","traffic-sign","sign","parking-sign","street-lamp","trees","pine-tree","green","leaves","foliage","crosswalk","street","road","daytime","japan","tokyo","outdoors","no-people"]
 },
+{
+id:"26K051333",
+title:"Clusters of White Kalmia Flowers with Pink Dots in a Garden",
+tags:["kalmia","calico-bush","flower","blossom","petal","white-flower","pink-dots","cluster","shrub","plant","botanical","garden","leaves","green-leaves","nature","fresh","spring","may","floral","background","outdoors","no-people"]
+},
 
 
 
