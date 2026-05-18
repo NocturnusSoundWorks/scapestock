@@ -4370,7 +4370,11 @@ id:"26K051337",
 title:"Sunlight Reflecting on Modern Skyscrapers Beyond Wooden Steps and Railings",
 tags:["building","buildings","skyscraper","architecture","modern","facade","window","windows","high-rise","office-building","city","urban","uchisaiwaicho","tokyo","japan","sun","sunlight","sunbeam","reflection","glare","bright","clear-sky","blue-sky","sunny","daytime","steps","stairs","wooden-deck","handrail","railing","scenery","landscape","outdoors","no-people"]
 },
-
+{
+id:"26K051338",
+title:"Urban Landscape with Factory Building Roof Solar Panels and River Canal in Tokyo",
+tags:["solar-panels","solar-energy","roof","rooftop","factory","warehouse","building","buildings","apartment","condominium","river","canal","waterway","bridge","path","embankment","greenery","grass","cityscape","townscape","urban","suburb","sky","blue-sky","clouds","white-clouds","sunny","daytime","scenery","landscape","japan","tokyo","outdoors","no-people"]
+},
 
 
 
