@@ -4475,4 +4475,13 @@ id:"26K051358",
 title:"Wet Asphalt City Street on a Rainy and Overcast Day in Tokyo",
 tags:["rain","rainy","rainy-day","wet-street","asphalt","pavement","reflection","road","traffic","car","van","building","architecture","cityscape","urban","streetscape","tokyo","japan","cloudy","overcast","gloomy","weather","monsoon-season","outdoors"]
 }, 
+{
+id:"26K051359",
+title:"Urban Intersection at Kayabacho and Eitai-dori Avenue with Traffic in Tokyo",
+tags:["intersection","crossing","crosswalk","street","road","traffic","truck","car","traffic-light","sign","street-sign","road-sign","eitai-dori","kayabacho","urban","city","cityscape","streetscape","buildings","architecture","sky","blue-sky","sunny","bright","daytime","kayabacho","tokyo","japan","outdoors"]
+},
+
+
+
+  
 ];
