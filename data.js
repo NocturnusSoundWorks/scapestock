@@ -4425,6 +4425,10 @@ id:"26K051348",
 title:"Traditional Japanese Karakuri Clock Tower in Ningyocho Tokyo Under Blue Sky",
 tags:["clock","clock-tower","karakuri-clock","ningyocho","tokyo","japan","tradition","traditional","culture","architecture","edo-period","edo","samurai","illustration","painting","lantern","red-lantern","wood","wooden","landmark","sightseeing","tourist-attraction","historic","monument","sky","blue-sky","sunny","daytime","outdoors"]
 },
-
+{
+id:"26K051349",
+title:"Lush Green Trees Under Bright Blue Sky with White Clouds in an Urban Park",
+tags:["tree","trees","greenery","leaves","green-leaves","foliage","ginkgo","park","public-park","plaza","square","path","walkway","pavement","sky","blue-sky","cloud","clouds","white-clouds","sunny","bright","daytime","may","spring","early-summer","scenery","landscape","ningyoucho","tokyo","japan","outdoors","no-people"]
+},
   
 ];
