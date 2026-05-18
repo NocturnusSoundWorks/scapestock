@@ -4448,7 +4448,7 @@ tags:["night-view","nightscape","cityscape","skyline","skyscraper","building","i
 {
 id:"26K051353",
 title:"Utility Poles Standing on Egawa Beach at Low Tide in Chiba Japan",
-tags:["utility-pole","telephone-pole","power-lines","beach","coast","sea","ocean","mudflat","tidal-flat","low-tide","egawa-beach","chiba","kisarazu","japan","sky","blue-sky","horizon","perspective","landscape","scenery","retro","unique-view","outdoors","no-people"]
+tags:["utility-pole","telephone-pole","power-lines","beach","coast","sea","ocean","mudflat","tidal-flat","low-tide","egawa-beach","chiba","kisarazu","chiba","japan","sky","blue-sky","horizon","perspective","landscape","scenery","retro","unique-view","outdoors","no-people"]
 },
   
 ];
