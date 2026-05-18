@@ -4480,7 +4480,11 @@ id:"26K051359",
 title:"Urban Intersection at Kayabacho and Eitai-dori Avenue with Traffic in Tokyo",
 tags:["intersection","crossing","crosswalk","street","road","traffic","truck","car","traffic-light","sign","street-sign","road-sign","eitai-dori","kayabacho","urban","city","cityscape","streetscape","buildings","architecture","sky","blue-sky","sunny","bright","daytime","kayabacho","tokyo","japan","outdoors"]
 },
-
+{
+id:"26K051360",
+title:"Traditional Japanese Garden Landscape with Pine Trees and Stone Pathways",
+tags:["garden","japanese-garden","niwa","traditional","culture","zen-garden","pine-tree","matsu","shrub","bush","greenery","nature","plant","botanical","stone","rock","path","pathway","pavement","landscape","scenery","cloudy-sky","clouds","japan","summer","outdoors","no-people"]
+},
 
 
   
