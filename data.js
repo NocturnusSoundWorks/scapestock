@@ -4375,8 +4375,11 @@ id:"26K051338",
 title:"Urban Landscape with Factory Building Roof Solar Panels and River Canal in Tokyo",
 tags:["solar-panels","solar-energy","roof","rooftop","factory","warehouse","building","buildings","apartment","condominium","river","canal","waterway","bridge","path","embankment","greenery","grass","cityscape","townscape","urban","suburb","sky","blue-sky","clouds","white-clouds","sunny","daytime","scenery","landscape","japan","tokyo","outdoors","no-people"]
 },
-
-
+{
+id:"26K051339",
+title:"Panoramic View of Residential Area and Apartments Under Bright Cumulus Clouds Sky",
+tags:["cityscape","townscape","suburb","residential-area","houses","roofs","apartment","condominium","buildings","sky","blue-sky","clouds","cumulus-clouds","white-clouds","cloudy-sky","sunny","bright","daytime","may","scenery","landscape","panorama","high-angle","outdoors","japan","no-people"]
+},
 
 
 
