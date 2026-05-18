@@ -4411,9 +4411,9 @@ title:"Traditional Japanese Carp Streamers Koinobori Flying Over Green Field Und
 tags:["koinobori","carp-streamer","carp-streamers","streamer","streamers","windsock","tradition","traditional","culture","festival","boys-festival","childrens-day","may","spring","seasonal","decoration","colorful","fish","sky","blue-sky","clear-sky","sunny","daytime","breeze","wind","flying","field","green-field","grass","riverbank","scenery","landscape","japan","outdoors","no-people"]
 }, 
 {
-id:"26K051333",
-title:"White Kalmia Flowers Blossoming in Spring Garden Background",
-tags:["kalmia","calico-bush","flower","blossom","petal","white-flowers","cluster","inflorescence","bud","nature","botanical","plant","gardening","shrub","spring","may","japan","outdoors","background","wallpaper","no-people"]
+id:"26K051346",
+title:"Scenic View of a City Bridge Over a River Surrounded by Lush Green Trees",
+tags:["bridge","river","canal","waterway","water","reflection","greenery","trees","leaves","green-leaves","foliage","lush","nature","park","promenade","path","walkway","cityscape","urban","tokyo","japan","may","spring","sunny","daytime","scenery","landscape","outdoors","no-people"]
 }, 
   
   
