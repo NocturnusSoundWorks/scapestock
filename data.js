@@ -4460,7 +4460,11 @@ id:"26K051355",
 title:"Close-up of Eitai Bridge Steel Truss Structure Illuminated with Blue Neon Lights at Night",
 tags:["bridge","eitai-bridge","truss-bridge","steel-structure","girders","beams","rivets","architecture","engineering","illumination","light-up","blue-light","neon-lights","night-view","nightscape","urban","city","kayabacho","tokyo","japan","night","close-up","perspective","monumental","outdoors","no-people"]
 },
-
+{
+id:"26K051356",
+title:"Night View of Eitai Bridge Walkway with Vibrant Blue and Green Illuminations in Tokyo",
+tags:["bridge","eitai-bridge","walkway","path","sidewalk","steel-structure","arch-bridge","girders","beams","illumination","light-up","blue-light","green-light","neon-lights","night-view","nightscape","urban","city","kayabacho","tokyo","japan","night","perspective","roadway","outdoors","no-people"]
+},
   
   
 ];
