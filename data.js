@@ -4455,7 +4455,11 @@ id:"26K051354",
 title:"Stunning Night Skyline of Tokyo Skyscrapers Reflecting on Sumida River from Eitai Bridge",
 tags:["night-view","nightscape","cityscape","skyline","skyscraper","building","illuminated","light","lights","reflection","river","sumida-river","bridge","chuo-bridge","water","waterfront","promenade","urban","tsukiji","tokyo","japan","night","scenery","landscape","outdoors","no-people"]
 },
-
+{
+id:"26K051355",
+title:"Close-up of Eitai Bridge Steel Truss Structure Illuminated with Blue Neon Lights at Night",
+tags:["bridge","eitai-bridge","truss-bridge","steel-structure","girders","beams","rivets","architecture","engineering","illumination","light-up","blue-light","neon-lights","night-view","nightscape","urban","city","kayabacho","tokyo","japan","night","close-up","perspective","monumental","outdoors","no-people"]
+},
 
   
   
