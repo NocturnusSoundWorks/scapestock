@@ -4420,5 +4420,11 @@ id:"26K051347",
 title:"Traditional Japanese Carp Streamers Koinobori Flying Under Clear Sky and Bright Sun",
 tags:["koinobori","carp-streamer","carp-streamers","streamer","streamers","windsock","tradition","traditional","culture","festival","boys-festival","childrens-day","may","spring","seasonal","decoration","colorful","fish","sky","blue-sky","clear-sky","sunny","sun","sunlight","sunbeam","bright","daytime","breeze","wind","flying","scenery","japan","outdoors","no-people"]
 }, 
+{
+id:"26K051348",
+title:"Traditional Japanese Karakuri Clock Tower in Ningyocho Tokyo Under Blue Sky",
+tags:["clock","clock-tower","karakuri-clock","ningyocho","tokyo","japan","tradition","traditional","culture","architecture","edo-period","edo","samurai","illustration","painting","lantern","red-lantern","wood","wooden","landmark","sightseeing","tourist-attraction","historic","monument","sky","blue-sky","sunny","daytime","outdoors"]
+},
+
   
 ];
