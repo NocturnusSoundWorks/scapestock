@@ -4430,5 +4430,13 @@ id:"26K051349",
 title:"Lush Green Trees Under Bright Blue Sky with White Clouds in an Urban Park",
 tags:["tree","trees","greenery","leaves","green-leaves","foliage","ginkgo","park","public-park","plaza","square","path","walkway","pavement","sky","blue-sky","cloud","clouds","white-clouds","sunny","bright","daytime","may","spring","early-summer","scenery","landscape","ningyoucho","tokyo","japan","outdoors","no-people"]
 },
+{
+id:"26K051350",
+title:"Narrow City Back-Alley and Side-Street with a Barber Pole in Japan",
+tags:["alley","back-alley","side-street","narrow-street","lane","path","barber-pole","barbershop","plants","flowers","potted-plants","bicycles","buildings","shadows","sunlight","urban","cityscape","retro","scenery","tokyo","japan","sunny","daytime","outdoors","no-people"]
+},
+
+
+
   
 ];
