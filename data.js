@@ -4703,4 +4703,12 @@ id:"26K051804",
 title:"Close-Up of Dense Fresh Green Leaves of Boxwood Shrub",
 tags:["leaf","green","leaves","nature","plant","botanical","shrub","bush","hedge","fresh","bright","spring","may","close-up","texture","pattern","background","wallpaper","no-people"]
 },  
+{
+id:"26K051805",
+title:"Traditional Japanese Bamboo and Reed Fence Texture",
+tags:["japan","fence","bamboo","reed","yosuzi","texture","pattern","traditional","material","craftsmanship","natural","woody","green-bamboo","tied-knot","rope","structure","background","wallpaper","close-up","no-people"]
+},
+
+
+  
 ];
