@@ -4803,5 +4803,9 @@ id:"26K051824",
 title:"Urban Park Garden with Colorful Flower Bed and Modern Sculpture",
 tags:["park","garden","flowerbed","flower","blossom","plant","green","grass","lawn","sculpture","monument","object","architecture","building","office-building","path","walkway","outdoors","nature","urban","city","ginza","tokyo","japan","daytime","sunny","spring","clear-weather","scenery","landscape","no-people"]
 }, 
-  
+{
+id:"26K051825",
+title:"Pyramid Shaped Steel Monument in Urban Park Garden",
+tags:["park","garden","monument","object","sculpture","pyramid","steel","structure","architecture","building","office-building","plaza","pavement","brick","lawn","grass","green","tree","plant","outdoors","urban","city","ginza","tokyo","japan","daytime","sunny","summer","spring","clear-weather","scenery","landscape","no-people"]
+}, 
 ];
