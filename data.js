@@ -4623,7 +4623,11 @@ id:"26K051387",
 title:"Two Traditional Japanese Stone Lanterns and Outdoor Stairs",
 tags:["lantern","stone-lantern","toro","traditional","culture","history","japan","japanese-style","shrine","temple","staircase","stairs","steps","pathway","stone-path","wall","architecture","outdoor","daytime","no-people"]
 },
-
+{
+id:"26K051388",
+title:"Night View of Chuo-ohashi Bridge Pylon and Tower Mansion in Tokyo",
+tags:["tokyo","japan","kayabacho","night","night-view","cityscape","urban","metropolis","bridge","cable-stayed-bridge","pylon","tower","architecture","structure","illumination","light","street-light","skyscraper","apartment","tower-mansion","residential-building","outdoor"]
+},
 
 
   
