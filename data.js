@@ -4618,6 +4618,14 @@ id:"26K051386",
 title:"Traditional Disaster Prevention Well in Ningyocho Alley Background",
 tags:["well","disaster-prevention-well","bousai-ido","wooden-structure","stone-base","bucket","alley","alleyway","backstreet","rojiura","ningyocho","ningyo-cho","chuo-ku","tokyo","japan","traditional","culture","history","retro","nostalgic","shitamachi","urban","cityscape","street-view","bamboo-fence","daytime","bright","outdoors","background","no-people"]
 },
+{
+id:"26K051387",
+title:"Two Traditional Japanese Stone Lanterns and Outdoor Stairs",
+tags:["lantern","stone-lantern","toro","traditional","culture","history","japan","japanese-style","shrine","temple","staircase","stairs","steps","pathway","stone-path","wall","architecture","outdoor","daytime","no-people"]
+},
 
+
+
+  
   
 ];
