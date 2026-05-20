@@ -4713,6 +4713,10 @@ id:"26K051806",
 title:"Close-Up of Fresh Bamboo and Reed Fence Texture",
 tags:["japan","fence","bamboo","reed","yosuzi","texture","pattern","traditional","material","craftsmanship","natural","woody","green-bamboo","tied-knot","rope","structure","background","wallpaper","close-up","no-people"]
 },
-
+{
+id:"26K051807",
+title:"Street View with Tall Green Tree and Japanese Traffic Signs",
+tags:["tokyo","japan","street","road","tree","road-sign","green-tree","tall-tree","leaf","nature","plant","botanical","fresh-green","sky","blue-sky","daytime","sunny","traffic-sign","road-sign","fire-hydrant","one-way","no-parking","japanese-text","kanji","building","architecture","urban","cityscape","outdoor"]
+},
   
 ];
