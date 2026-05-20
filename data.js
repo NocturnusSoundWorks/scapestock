@@ -4712,7 +4712,7 @@ tags:["japan","fence","bamboo","reed","yosuzi","texture","pattern","traditional"
 id:"26K051806",
 title:"Close-Up of Fresh Bamboo and Reed Fence Texture",
 tags:["japan","fence","bamboo","reed","yosuzi","texture","pattern","traditional","material","craftsmanship","natural","woody","green-bamboo","tied-knot","rope","structure","background","wallpaper","close-up","no-people"]
-}
+},
 
   
 ];
