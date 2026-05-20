@@ -4808,4 +4808,11 @@ id:"26K051825",
 title:"Pyramid Shaped Steel Monument in Urban Park Garden",
 tags:["park","garden","monument","object","sculpture","pyramid","steel","structure","architecture","building","office-building","plaza","pavement","brick","lawn","grass","green","tree","plant","outdoors","urban","city","ginza","tokyo","japan","daytime","sunny","summer","spring","clear-weather","scenery","landscape","no-people"]
 }, 
+{
+id:"26K051826",
+title:"Tokyo Night View with High Rise Apartments over Sumida River",
+tags:["tokyo","japan","night","nightview","river","sumida-river","cityscape","skyline","architecture","building","skyscraper","high-rise","apartment","condominium","tower","illuminated","light","illumination","water","reflection","waterfront","riverbank","promenade","terrace","walkway","dusk","evening","darkness","urban","metropolitan","scenery","landscape","travel","tourism","landmark","scenic","no-people"]
+},
+
+  
 ];
