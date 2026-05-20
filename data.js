@@ -4688,5 +4688,10 @@ id:"26K051801",
 title:"Night View of Tsukishima High-Rise Apartments and Red Balustrade of Minato Bridge",
 tags:["tokyo","japan","bridge","minato-bridge","red-bridge","balustrade","railing","giboshi","night","night-view","cityscape","urban","metropolis","illumination","light","skyscraper","apartment","tower-mansion","residential-building","tsukishima","river","waterfront","outdoor"]
 },
+{
+id:"26K051802",
+title:"Street View with Shinto Shrine Entrance and Fresh Green Trees",
+tags:["tokyo","japan","shrine","shinto-shrine","torii","stone-torii","entrance","sacred","traditional","ginkgo-tree","fresh-green","leaf","nature","plant","botanical","spring","may","street","road","crosswalk","building","skyscraper","cityscape","urban","daytime","cloudy","outdoor"]
+}, 
   
 ];
