@@ -4678,6 +4678,10 @@ id:"26K051398",
 title:"Night View of Tsukishima High-Rise Apartments from Minato Bridge",
 tags:["tokyo","japan","bridge","minato-bridge","red-bridge","balustrade","railing","giboshi","night","night-view","cityscape","urban","metropolis","illumination","light","skyscraper","apartment","tower-mansion","residential-building","river","waterfront","outdoor"]
 },
-
+{
+id:"26K051399",
+title:"Wooden Utility Poles Standing on Tidal Flat at Egawa Coast",
+tags:["japan","chiba","kisarazu","egawa-coast","coast","beach","shore","tidal-flat","tide","mudflat","sea","ocean","utility-pole","telephone-pole","wooden-pole","electric-wire","sky","blue-sky","daytime","sunny","horizon","scenery","landscape","outdoor","no-people"]
+},
   
 ];
