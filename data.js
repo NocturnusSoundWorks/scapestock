@@ -4728,7 +4728,11 @@ id:"26K051809",
 title:"Eitai Bridge Night View with Vibrant Blue LED Illumination",
 tags:["tokyo","japan","kayabacho","bridge","eitai-bridge","sumida-river","night","night-view","illumination","light-up","blue-light","led","steel-bridge","arch-bridge","sidewalk","walkway","structure","architecture","urban","cityscape","river","waterfront","outdoor"]
 },
-
+{
+id:"26K051810",
+title:"Night View of Minato Bridge with Red Railing and Tsukishima High-Rise Apartments",
+tags:["tokyo","japan","bridge","minato-bridge","red-bridge","balustrade","railing","giboshi","green-railing","sidewalk","street","night","night-view","cityscape","urban","metropolis","skyscraper","apartment","tower-mansion","residential-building","tsukishima","outdoor"]
+},
 
   
 ];
