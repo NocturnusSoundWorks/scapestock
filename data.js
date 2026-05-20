@@ -4668,5 +4668,12 @@ id:"26K051396",
 title:"Night View of Ishikawajima Lighthouse Replica and Modern High-Rise Buildings",
 tags:["tokyo","japan","lighthouse","ishikawajima-lighthouse","replica","historical-monument","wooden-structure","stairs","steps","handrail","night","night-view","cityscape","urban","metropolis","illumination","light","warm-light","street-lamp","building","skyscraper","architecture","park","outdoor"]
 },
+{
+id:"26K051397",
+title:"Night View of Ishikawajima Lighthouse Replica and High-Rise Buildings Across the River",
+tags:["tokyo","japan","lighthouse","ishikawajima-lighthouse","replica","historical-monument","wooden-structure","sumida-river","river","waterfront","night","night-view","cityscape","urban","metropolis","illumination","light","warm-light","reflection","building","skyscraper","architecture","park","outdoor"]
+},
+
+
   
 ];
