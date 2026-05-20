@@ -4628,7 +4628,11 @@ id:"26K051388",
 title:"Night View of Chuo-ohashi Bridge Pylon and Tower Mansion in Tokyo",
 tags:["tokyo","japan","kayabacho","night","night-view","cityscape","urban","metropolis","bridge","cable-stayed-bridge","pylon","tower","architecture","structure","illumination","light","street-light","skyscraper","apartment","tower-mansion","residential-building","outdoor"]
 },
-
+{
+id:"26K051389",
+title:"Night View of Tokyo Skytree and Eitai Bridge Illuminated in Blue",
+tags:["tokyo","japan","tokyo-skytree","skytree","tower","bridge","eitai-bridge","sumida-river","river","waterfront","night","night-view","cityscape","urban","metropolis","illumination","light","blue-light","reflection","building","architecture","outdoor"]
+},
 
   
   
