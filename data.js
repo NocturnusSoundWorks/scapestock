@@ -4673,7 +4673,11 @@ id:"26K051397",
 title:"Night View of Ishikawajima Lighthouse Replica and High-Rise Buildings Across the River",
 tags:["tokyo","japan","lighthouse","ishikawajima-lighthouse","replica","historical-monument","wooden-structure","sumida-river","river","waterfront","night","night-view","cityscape","urban","metropolis","illumination","light","warm-light","reflection","building","skyscraper","architecture","park","outdoor"]
 },
-
+{
+id:"26K051398",
+title:"Night View of Tsukishima High-Rise Apartments from Minato Bridge",
+tags:["tokyo","japan","bridge","minato-bridge","red-bridge","balustrade","railing","giboshi","night","night-view","cityscape","urban","metropolis","illumination","light","skyscraper","apartment","tower-mansion","residential-building","river","waterfront","outdoor"]
+},
 
   
 ];
