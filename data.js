@@ -4485,7 +4485,11 @@ id:"26K051360",
 title:"Traditional Japanese Garden Landscape with Pine Trees and Stone Pathways",
 tags:["garden","japanese-garden","niwa","traditional","culture","zen-garden","pine-tree","matsu","shrub","bush","greenery","nature","plant","botanical","stone","rock","path","pathway","pavement","landscape","scenery","cloudy-sky","clouds","japan","summer","outdoors","no-people"]
 },
-
+{
+id:"26K051361",
+title:"Night View of Eitai Bridge Side Panel Illuminated with Vivid Blue Neon Lights in Tokyo",
+tags:["bridge","eitai-bridge","arch-bridge","steel-structure","girders","beams","rivets","architecture","engineering","illumination","light-up","blue-light","neon-lights","night-view","nightscape","urban","city","tokyo","japan","night","perspective","walkway","outdoors","no-people"]
+},
 
   
 ];
