@@ -4798,5 +4798,10 @@ id:"26K051823",
 title:"Utility Poles on Egawa Coast Sandy Beach Background",
 tags:["beach","coast","shore","sandy-beach","sand","mudflat","sea","ocean","sky","blue-sky","utility-pole","telegraph-pole","power-line","perspective","chiba","kisarazu","egawa-coast","japan","scenery","landscape","nature","outdoors","horizon","daytime","sunny","minimal","background","copy-space","wallpaper","no-people"]
 }, 
+{
+id:"26K051824",
+title:"Urban Park Garden with Colorful Flower Bed and Modern Sculpture",
+tags:["park","garden","flowerbed","flower","blossom","plant","green","grass","lawn","sculpture","monument","object","architecture","building","office-building","path","walkway","outdoors","nature","urban","city","ginza","tokyo","japan","daytime","sunny","spring","clear-weather","scenery","landscape","no-people"]
+}, 
   
 ];
