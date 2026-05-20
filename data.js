@@ -4693,5 +4693,9 @@ id:"26K051802",
 title:"Street View with Shinto Shrine Entrance and Fresh Green Trees",
 tags:["tokyo","japan","shrine","shinto-shrine","torii","stone-torii","entrance","sacred","traditional","ginkgo-tree","fresh-green","leaf","nature","plant","botanical","spring","may","street","road","crosswalk","building","skyscraper","cityscape","urban","daytime","cloudy","outdoor"]
 }, 
-  
+{
+id:"26K051803",
+title:"No Entry Road Sign with Auxiliary Plate Except Bicycles",
+tags:["japan","road-sign","traffic-sign","no-entry","regulatory-sign","auxiliary-plate","japanese-text","kanji","bicycle","street","pole","utility-pole","traffic-light","building","architecture","window","facade","urban","cityscape","daytime","outdoor"]
+}  
 ];
