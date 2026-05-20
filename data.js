@@ -4731,7 +4731,7 @@ tags:["tokyo","japan","kayabacho","bridge","eitai-bridge","sumida-river","night"
 {
 id:"26K051810",
 title:"Night View of Minato Bridge with Red Railing and Tsukishima High-Rise Apartments",
-tags:["tokyo","japan","bridge","minato-bridge","red-bridge","balustrade","railing","giboshi","green-railing","sidewalk","street","night","night-view","cityscape","urban","metropolis","skyscraper","apartment","tower-mansion","residential-building","tsukishima","outdoor"]
+tags:["Tsukishima","tokyo","japan","bridge","minato-bridge","red-bridge","balustrade","railing","giboshi","green-railing","sidewalk","street","night","night-view","cityscape","urban","metropolis","skyscraper","apartment","tower-mansion","residential-building","tsukishima","outdoor"]
 },
 
   
