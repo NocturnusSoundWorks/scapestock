@@ -4697,5 +4697,10 @@ tags:["tokyo","japan","shrine","shinto-shrine","torii","stone-torii","entrance",
 id:"26K051803",
 title:"No Entry Road Sign with Auxiliary Plate Except Bicycles",
 tags:["japan","road-sign","traffic-sign","no-entry","regulatory-sign","auxiliary-plate","japanese-text","kanji","bicycle","street","pole","utility-pole","traffic-light","building","architecture","window","facade","urban","cityscape","daytime","outdoor"]
-}  
+},
+{
+id:"26K051804",
+title:"Close-Up of Dense Fresh Green Leaves of Boxwood Shrub",
+tags:["leaf","green","leaves","nature","plant","botanical","shrub","bush","hedge","fresh","bright","spring","may","close-up","texture","pattern","background","wallpaper","no-people"]
+},  
 ];
