@@ -4793,4 +4793,10 @@ id:"26K051822",
 title:"Tokyo Night Landscape over Sumida River with Illuminated Kachidoki Bridge",
 tags:["tokyo","japan","night","nightview","river","sumida-river","bridge","kachidoki-bridge","boat","yakatabune","pleasure-boat","cruise","cityscape","skyline","architecture","building","skyscraper","apartment","condominium","tower","illuminated","light","illumination","water","reflection","waterfront","riverbank","dusk","evening","darkness","urban","metropolitan","scenery","landscape","travel","tourism","landmark","scenic","no-people"]
 }, 
+{
+id:"26K051823",
+title:"Utility Poles on Egawa Coast Sandy Beach Background",
+tags:["beach","coast","shore","sandy-beach","sand","mudflat","sea","ocean","sky","blue-sky","utility-pole","telegraph-pole","power-line","perspective","chiba","kisarazu","egawa-coast","japan","scenery","landscape","nature","outdoors","horizon","daytime","sunny","minimal","background","copy-space","wallpaper","no-people"]
+}, 
+  
 ];
