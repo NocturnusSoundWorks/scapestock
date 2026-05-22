@@ -605,24 +605,28 @@ tags:["flower","nature","plant","botanical","blossom","petal","red","purple","sp
 
 {
 id:"25K070121",
+folder:"full01",    
 title:"Bright Spring Blossom with Purple Hues",
 tags:["flower","nature","plant","botanical","blossom","petal","red","purple","spring","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
 },
 
 {
 id:"25K070122",
+folder:"full01",  
 title:"Seasonal Red Purple Flower Background",
 tags:["flower","nature","plant","botanical","blossom","petal","red","purple","spring","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
 },
 
 {
 id:"25K070123",
+folder:"full01",  
 title:"Sunny Beach and Blue Ocean Horizon",
 tags:["sea","ocean","beach","coast","shore","summer","nature","water","blue","sky","sand","seaside","wave","horizon","outdoors","travel","vacation","scenery","landscape","sunny","daytime","no-people"]
 },
 
 {
 id:"25K070124",
+folder:"full01",  
 title:"Spring Blossom with Red Purple Petals",
 tags:["flower","nature","plant","botanical","blossom","petal","red","purple","spring","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
 },
@@ -635,18 +639,21 @@ tags:["flower","nature","plant","botanical","blossom","petal","red","purple","sp
 
 {
 id:"25K070126",
+folder:"full01",  
 title:"Empty Playground Swing in Quiet Park",
 tags:["swing","playground","park","outdoor","play","childhood","kids","empty","seat","leisure","recreation","equipment","daytime","nature","green","calm","nostalgic","copy-space","no-people"]
 },
 
 {
 id:"25K070127",
+folder:"full01",  
 title:"White Wooden Plank Texture Background",
 tags:["wood","plank","wooden","wall","white","texture","background","material","surface","pattern","panel","board","painted","clean","minimal","simple","detail","close-up","copy-space","no-people"]
 },
 
 {
 id:"25K070128",
+folder:"full01",  
 title:"Colorful Sunset Sky with Purple Clouds",
 tags:["sky","sunset","cloud","colorful-sky","purple","pink","orange","gradient","dusk","evening","twilight","nature","scenery","landscape","outdoors","dramatic","beautiful","background","copy-space","no-people"]
 },
@@ -659,30 +666,35 @@ tags:["sky","sunset","cloud","colorful-sky","purple","pink","orange","gradient",
 
 {
 id:"25K070130",
+folder:"full01",  
 title:"Monochrome Rainy Japanese Shrine Roof Scene",
 tags:["nature","leaf","plant","black-and-white","monochrome","rain","rainy","after-rain","raindrop","wet","shrine","temple","roof","japanese","traditional","architecture","zen","minimal","aesthetic","japan","outdoors","background","wallpaper","copy-space","no-people"]
 },
 
 {
 id:"25K070132",
+folder:"full01",  
 title:"Wet Leaves Near Shrine Roof Black and White",
 tags:["nature","leaf","plant","black-and-white","monochrome","rain","rainy","after-rain","raindrop","wet","shrine","temple","roof","japanese","traditional","architecture","zen","minimal","aesthetic","japan","outdoors","background","wallpaper","copy-space","no-people"]
 },
 
 {
 id:"25K070133",
+folder:"full01",  
 title:"Minimal Japanese Temple Roof in Rain Monochrome",
 tags:["nature","leaf","plant","black-and-white","monochrome","rain","rainy","after-rain","raindrop","wet","shrine","temple","roof","japanese","traditional","architecture","zen","minimal","aesthetic","japan","outdoors","background","wallpaper","copy-space","no-people"]
 },
 
 {
 id:"25K070134",
+folder:"full01",  
 title:"Fresh Green Forest with Sunlight Background",
 tags:["forest","grass","leaf","green","nature","plant","botanical","sunlight","sun","light","fresh","bright","outdoors","background","copy-space","wallpaper","no-people"]
 },
 
 {
 id:"25K070135",
+folder:"full01",  
 title:"Sunlight Shining Through Forest Leaves",
 tags:["forest","grass","leaf","green","nature","plant","botanical","sunlight","sun","light","fresh","bright","outdoors","background","copy-space","wallpaper","no-people"]
 },
@@ -690,186 +702,205 @@ tags:["forest","grass","leaf","green","nature","plant","botanical","sunlight","s
 
 {
 id:"25K070136",
+folder:"full01",  
 title:"Rainy Season Hydrangea by Traditional Japanese Eaves",
 tags:["flower","hydrangea","ajisai","plant","botanical","blossom","petal","purple","blue","nature","rain","after-rain","wet","raindrop","water-droplet","eaves","japanese","traditional","garden","outdoors","seasonal","rainy-season","june","moody","calm","background","copy-space","no-people"]
 },
 
 {
 id:"25K070137",
+folder:"full01",  
 title:"Fresh Green Lawn in Sunny Park Landscape",
 tags:["grass","lawn","green","park","field","meadow","nature","outdoors","fresh","natural","spring","summer","sunlight","sunny","landscape","scenery","open-space","calm","peaceful","background","copy-space","no-people"]
 },
 
 {
 id:"25K070138",
+folder:"full01",  
 title:"Purple Blue Hydrangea Bloom in Japan Rainy Season",
 tags:["hydrangea","ajisai","flower","rainy-season","june","japan","purple","blue","nature","blossom","petal","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
 },
 
 {
 id:"25K070139",
+folder:"full01",  
 title:"Green Forest Trees Under Open Sky",
 tags:["sky","tree","trees","forest","green","nature","outdoors","daytime","fresh","natural","landscape","scenery","leaf","foliage","peaceful","tranquil","background","copy-space","no-people"]
 },
 
 {
 id:"25K070140",
+folder:"full01",  
 title:"Japanese Hydrangea Flowers in Early Summer",
 tags:["hydrangea","ajisai","flower","rainy-season","june","japan","purple","blue","nature","blossom","petal","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
 },
 
 {
 id:"25K070141",
+folder:"full01",  
 title:"Sunlight Through Fresh Green Forest Leaves",
 tags:["forest","grass","leaf","green","nature","plant","botanical","sunlight","sun","light","fresh","bright","outdoors","background","copy-space","wallpaper","no-people"]
 },
 
 {
 id:"25K070142",
+folder:"full01",  
 title:"Koinobori Above Rice Field in Japanese Countryside",
 tags:["cloud","blue","white","scenery","countryside","daytime","sunny","rice-field","green","koinobori","nature","traditional-japanese","japan","traditional"]
 },
 
 {
 id:"25K070143",
+folder:"full01",  
 title:"Sunny Beach and Blue Ocean Coastline",
 tags:["sea","ocean","beach","coast","shore","summer","nature","water","blue","sky","sand","seaside","wave","horizon","outdoors","travel","vacation","scenery","landscape","sunny","daytime","no-people"]
 },
 
 {
 id:"25K070144",
+folder:"full01",  
 title:"Summer Seaside Beach with Waves and Sand",
 tags:["sea","ocean","beach","coast","shore","summer","nature","water","blue","sand","seaside","wave","horizon","outdoors","travel","vacation","scenery","landscape","sunny","daytime","no-people"]
 },
 
 {
 id:"25K070145",
+folder:"full01",  
 title:"Calm Blue Sea Under Summer Sky",
 tags:["sea","ocean","sky","blue-sky","summer","nature","water","coast","horizon","seascape","outdoors","sunny","daytime","travel","vacation","scenery","landscape","calm","peaceful","background","copy-space","no-people"]
 },
 
 {
 id:"25K070146",
+folder:"full01",  
 title:"Sunny Ocean Beach with Clear Horizon",
 tags:["sea","ocean","beach","coast","shore","summer","nature","water","blue","sky","sand","seaside","wave","horizon","outdoors","travel","vacation","scenery","landscape","sunny","daytime","no-people"]
 },
 
 {
 id:"25K070147",
+folder:"full01",  
 title:"Blue Seaside Shoreline on Sunny Day",
 tags:["sea","ocean","beach","coast","shore","summer","nature","water","blue","sky","sand","seaside","wave","horizon","outdoors","travel","vacation","scenery","landscape","sunny","daytime","no-people"]
 },
 
 {
 id:"25K070148",
+folder:"full01",  
 title:"Peaceful Summer Seascape with Blue Horizon",
 tags:["sea","ocean","sky","blue-sky","summer","nature","water","coast","horizon","seascape","outdoors","sunny","daytime","travel","vacation","scenery","landscape","calm","peaceful","background","copy-space","no-people"]
 },
 
 {
 id:"25K070149",
+folder:"full01",  
 title:"Bright Spring Flowers in Red Orange Yellow",
 tags:["flower","nature","plant","botanical","blossom","petal","red","orange","yellow","spring","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
 },
 
 {
 id:"25K070150",
+folder:"full01",  
 title:"Green Trees Beneath Clear Blue Sky",
 tags:["sky","blue-sky","clear-sky","tree","trees","green","nature","forest","foliage","leaves","outdoors","daytime","sunny","summer","fresh","natural","minimal","simple","copy-space","background","wallpaper","tranquil","peaceful","scenery","no-people"]
 },
 
 {
 id:"25K070151",
+folder:"full01",  
 title:"Bright Summer Sky with White Clouds",
 tags:["sky","cloud","sun","blue-sky","summer","daytime","sunny","nature","background","copy-space","wallpaper","outdoors","no-people"]
 },
 
 {
 id:"25K070152",
+folder:"full01",  
 title:"Blue Brick Wall Texture Background",
 tags:["brick","stone","wall","texture","background","material","surface","pattern","detail","blue","rough","grunge","weathered","aged","masonry","construction","architecture","urban","industrial","copy-space","no-people"]
 },
-
 {
 id:"25K070153",
+folder:"full01",  
 title:"Fresh White Purple Hydrangea After Rain",
 tags:["hydrangea","ajisai","flower","plant","botanical","blossom","petal","white","purple","blue","nature","japan","rainy-season","june","seasonal","rain","after-rain","wet","raindrop","water-droplet","garden","outdoors","fresh","natural","background","copy-space","no-people"]
 },
-
 {
 id:"25K070154",
+folder:"full01",  
 title:"Rainy Season Hydrangea with Water Droplets",
 tags:["hydrangea","ajisai","flower","plant","botanical","blossom","petal","white","purple","blue","nature","japan","rainy-season","june","seasonal","rain","after-rain","wet","raindrop","water-droplet","garden","outdoors","fresh","natural","background","copy-space","no-people"]
 },
-
 {
 id:"25K070155",
+folder:"full01",  
 title:"Soft Green Summer Flower Background",
 tags:["flower","plant","botanical","blossom","petal","nature","green","fresh","natural","summer","seasonal","outdoors","garden","floral","soft","delicate","beauty","background","copy-space","wallpaper","no-people"]
 },
-
 {
 id:"25K070158",
+folder:"full01",  
 title:"Urban Crosswalk at Empty City Intersection",
 tags:["city","urban","downtown","cityscape","street","road","crosswalk","pedestrian-crossing","intersection","town","metropolitan","city-life","urban-area","built-environment","street-scene","asphalt","traffic","transportation","walkway","no-people"]
 },
 
 {
 id:"25K070159",
+folder:"full01",  
 title:"Scenic Mountain Road Beneath Cloudy Sky",
 tags:["mountain","mountains","sky","cloud","clouds","road","path","trail","mountain-road","mountain-path","countryside","nature","landscape","scenery","outdoors","hiking","travel","scenic","no-people"]
 },
 
 {
 id:"25K083001",
+folder:"full01",  
 title:"Purple Hydrangea Flowers in Japanese Rainy Season",
 tags:["hydrangea","ajisai","flower","rainy-season","june","japan","purple","blue","nature","blossom","petal","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
 },
-
 {
 id:"25K083002",
+folder:"full01",  
 title:"Modern City Crosswalk and Street Scene",
 tags:["city","urban","downtown","cityscape","street","road","crosswalk","pedestrian-crossing","intersection","town","metropolitan","city-life","urban-area","built-environment","street-scene","asphalt","traffic","transportation","walkway","no-people"]
 },
-
 {
 id:"25K083003",
+folder:"full01",  
 title:"Rough Brick Wall Texture Background",
 tags:["brick","stone","wall","texture","background","material","surface","pattern","detail","rough","grunge","weathered","aged","masonry","construction","architecture","urban","industrial","copy-space","no-people"]
 },
-
 {
 id:"25K083004",
+folder:"full01",  
 title:"Peaceful Trees Under Clear Summer Sky",
 tags:["sky","blue-sky","clear-sky","tree","trees","green","nature","forest","foliage","leaves","outdoors","daytime","sunny","summer","fresh","natural","minimal","simple","copy-space","background","wallpaper","tranquil","peaceful","scenery","no-people"]
 },
-
 {
 id:"25K083005",
+folder:"full01",
 title:"Blue Purple Ajisai Bloom in June",
 tags:["hydrangea","ajisai","flower","rainy-season","june","japan","purple","blue","nature","blossom","petal","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
 },
-
 {
 id:"25K083006",
+folder:"full01",  
 title:"Pink Red Spring Blossom Flower Background",
 tags:["flower","nature","plant","botanical","blossom","petal","red","pink","spring","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
 },
-
 {
 id:"25K083007",
+folder:"full01",  
 title:"Japanese Hydrangea in Rainy Season Garden",
 tags:["hydrangea","ajisai","flower","rainy-season","june","japan","purple","blue","nature","blossom","petal","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
 },
-
 {
 id:"25K083008",
+folder:"full01",  
 title:"Scenic Mountain Path Beneath Cloudy Sky",
 tags:["mountain","mountains","sky","cloud","clouds","road","path","trail","mountain-path","countryside","nature","landscape","scenery","outdoors","hiking","travel","scenic","no-people"]
 },
-
 {
 id:"25K083009",
+folder:"full01",
 title:"Bright Summer Sky with White Clouds",
 tags:["sky","cloud","sun","blue-sky","summer","daytime","sunny","nature","background","copy-space","wallpaper","outdoors","no-people"]
 },
@@ -882,42 +913,43 @@ tags:["forest","grass","leaf","green","nature","plant","botanical","sunlight","s
 
 {
 id:"25K083011",
+folder:"full01",  
 title:"Moon in Twilight Sky with Orange Glow",
 tags:["moon","night","night-sky","sunset","dusk","twilight","orange","glow","sky","cloud","nature","scenery","landscape","nightscape","evening","dark","moody","outdoors","background","copy-space","no-people"]
 },
-
 {
 id:"26K031401",
+folder:"full01",  
 title:"Bright Sunflower Field in Summer Japan",
 tags:["nature","flower","sunflower","himawari","yellow","summer","plant","botanical","blossom","petal","field","garden","outdoors","daytime","sunny","bright","seasonal","japan","background","wallpaper","copy-space","no-people"]
 },
-
 {
 id:"26K031402",
+folder:"full01",  
 title:"Green Trees Under Clear Blue Sky",
 tags:["sky","blue-sky","clear-sky","tree","trees","green","nature","forest","foliage","leaves","outdoors","daytime","sunny","summer","fresh","natural","minimal","simple","copy-space","background","wallpaper","tranquil","peaceful","scenery","no-people"]
 },
-
 {
 id:"26K031403",
+folder:"full01",  
 title:"Peaceful Rice Field Under Blue Sky",
 tags:["rice-field","farmland","agriculture","countryside","rural","field","green","nature","landscape","scenery","summer","daytime","sunny","sky","blue-sky","cloud","white","fresh","peaceful","tranquil","outdoors","japan","background","copy-space","no-people"]
 },
-
 {
 id:"26K031404",
+folder:"full01",  
 title:"White Gray Marble Texture Background",
 tags:["marble","stone","marble-texture","texture","background","material","surface","pattern","luxury","elegant","white","gray","natural-stone","polished","tile","slab","interior","design","construction","architecture","copy-space","no-people"]
 },
-
 {
 id:"26K031405",
+folder:"full01",  
 title:"Sunny Blue Summer Sky Background",
 tags:["sky","cloud","sun","blue-sky","summer","daytime","sunny","nature","background","copy-space","wallpaper","outdoors","no-people"]
 },
-
 {
 id:"26K031406",
+folder:"full01",  
 title:"White Clouds in Bright Blue Sky",
 tags:["sky","cloud","sun","blue-sky","summer","daytime","sunny","nature","background","copy-space","wallpaper","outdoors","no-people"]
 },
@@ -931,6 +963,7 @@ license:"editorial"
 
 {
 id:"26K031408",
+folder:"full01",  
 title:"Glass Facade Urban Building in Chiba",
 tags:["building","architecture","city","urban","cityscape","structure","modern","office-building","facade","glass","blue","sky","daytime","sunny","japan","chiba","outdoors","street","downtown","real-estate","no-people"],
 license:"editorial"
@@ -938,24 +971,28 @@ license:"editorial"
 
 {
 id:"26K031409",
+folder:"full01",  
 title:"Palm Tree Under Sunny Blue Sky",
 tags:["palm-tree","palm","tropical","summer","nature","tree","green","leaf","blue-sky","sky","sunny","daytime","outdoors","beach","resort","vacation","travel","warm","sunlight","fresh","background","copy-space","no-people"]
 },
 
 {
 id:"26K031410",
+folder:"full01",  
 title:"Japanese Kakigori Lantern Summer Festival Scene",
 tags:["lantern","japanese-lantern","shaved-ice","kakigori","dessert","sweet","ice","frozen","cold","japan","japanese","summer","festival","traditional","light","glow","seasonal","cultural","event","atmosphere","background","copy-space","no-people"]
 },
 
 {
 id:"26K031411",
+folder:"full01",  
 title:"Natural Brown Wood Grain Texture",
 tags:["wood","woodgrain","wood-texture","texture","background","material","surface","pattern","detail","natural","brown","grain","timber","plank","board","wall","rustic","organic","close-up","copy-space","no-people"]
 },
 
 {
 id:"26K031412",
+folder:"full01",  
 title:"Modern City Architecture in Chiba Japan",
 tags:["building","architecture","city","urban","cityscape","structure","modern","office-building","facade","glass","blue","sky","daytime","sunny","japan","chiba","outdoors","street","downtown","real-estate","no-people"],
 license:"editorial"
@@ -963,193 +1000,228 @@ license:"editorial"
 
 {
 id:"26K031413",
+folder:"full01",  
 title:"Traditional Wooden Bridge in Rural Japan",
 tags:["bridge","wooden-bridge","old","traditional","japanese","japan","architecture","structure","historic","heritage","countryside","rural","nature","river","water","scenery","landscape","outdoors","travel","cultural","background","copy-space","no-people"]
 },
 
 {
 id:"26K031414",
+folder:"full01",  
 title:"Summer Sky with Sun and Clouds",
 tags:["sky","cloud","sun","blue-sky","summer","daytime","sunny","nature","background","copy-space","wallpaper","outdoors","no-people"]
 },
 
 {
 id:"26K031415",
+folder:"full01",  
 title:"Water Splash with Dynamic Droplets",
 tags:["water","splash","droplet","water-droplet","liquid","motion","dynamic","impact","ripple","wave","fresh","nature","outdoors","macro","close-up","freeze-motion","high-speed","abstract","background","copy-space","no-people"]
 },
 
 {
 id:"26K031416",
+folder:"full01",  
 title:"Tree Bark with Green Moss Texture",
 tags:["wood","woodgrain","tree","trunk","bark","moss","green","texture","background","material","surface","pattern","detail","natural","forest","nature","organic","rough","close-up","outdoors","copy-space","no-people"]
 },
 
 {
 id:"26K031417",
+folder:"full01",  
 title:"Fresh Forest Leaves in Bright Sunlight",
 tags:["forest","grass","leaf","green","nature","plant","botanical","sunlight","sun","light","fresh","bright","outdoors","background","copy-space","wallpaper","no-people"]
 },
 
 {
 id:"26K031418",
+folder:"full01",  
 title:"Tokyo Business District City Skyline",
 tags:["cityscape","city","urban","downtown","building","architecture","skyscraper","high-rise","office-building","street","road","traffic","transportation","modern","business-district","skyline","tokyo","japan","daytime","outdoors","travel","metropolitan","no-people"]
 },
 
 {
 id:"26K031419",
+folder:"full01",  
 title:"Japanese Urban Alley Street Scene",
 tags:["cityscape","city","urban","downtown","building","architecture","skyscraper","street","road","alley","backstreet","narrow-street","urban-life","city-life","japan","daytime","outdoors","travel","metropolitan","scenery","no-people"]
 },
 
 {
 id:"26K031420",
+folder:"full01",  
 title:"Modern Tokyo Skyscrapers and City Road",
 tags:["cityscape","city","urban","downtown","building","architecture","skyscraper","high-rise","office-building","street","road","traffic","transportation","modern","business-district","skyline","tokyo","japan","daytime","outdoors","travel","metropolitan","no-people"]
 },
 
 {
 id:"26K031421",
+folder:"full01",  
 title:"Backstreet Cityscape in Urban Japan",
 tags:["cityscape","city","urban","downtown","building","architecture","skyscraper","street","road","alley","backstreet","narrow-street","urban-life","city-life","japan","daytime","outdoors","travel","metropolitan","scenery","no-people"]
 },
 
 {
 id:"26K031422",
+folder:"full01",  
 title:"Tokyo Urban Park Along Narrow Street",
 tags:["cityscape","city","urban","downtown","street","road","alley","backstreet","narrow-street","park","green","tree","urban-park","city-life","tokyo","japan","daytime","outdoors","travel","metropolitan","scenery","no-people"]
 },
 
 {
 id:"26K031423",
+folder:"full01",  
 title:"Steam Rising in Beppu Hot Spring Town",
 tags:["hot-spring","onsen","hot-spring-town","beppu","kyushu","japan","steam","vapor","geothermal","alley","street","road","town","traditional","travel","tourism","landmark","culture","outdoors","scenery","atmosphere","no-people"]
 },
 
 {
 id:"26K031424",
+folder:"full01",  
 title:"Glowing Grass at Night in Darkness",
 tags:["grass","green","nature","night","glow","light","luminous","illumination","dark","moody","outdoors","field","plant","natural","calm","mystical","ambient","low-light","background","copy-space","no-people"]
 },
 
 {
 id:"26K031425",
+folder:"full01",  
 title:"Tokyo Riverside Cityscape in Daylight",
 tags:["tokyo","japan","cityscape","urban","river","water","architecture","building","daytime","outdoors","travel","landmark","background","copy-space","no-people"]
 },
 
 {
 id:"26K031426",
+folder:"full01",  
 title:"Tokyo Downtown Skyline with High Rise Buildings",
 tags:["cityscape","city","urban","downtown","building","architecture","skyscraper","high-rise","office-building","street","road","traffic","transportation","modern","business-district","skyline","tokyo","japan","daytime","outdoors","travel","metropolitan","no-people"]
 },
 
 {
 id:"26K031427",
+folder:"full01",  
 title:"Chiba Modern City Skyline and Street",
 tags:["cityscape","city","urban","downtown","building","architecture","skyscraper","high-rise","office-building","street","road","traffic","transportation","modern","business-district","skyline","chiba","japan","daytime","outdoors","travel","metropolitan","no-people"]
 },
 
 {
 id:"26K031428",
+folder:"full01",  
 title:"Urban Chiba Cityscape with Modern Towers",
 tags:["cityscape","city","urban","downtown","building","architecture","skyscraper","high-rise","office-building","street","road","traffic","transportation","modern","business-district","skyline","chiba","japan","daytime","outdoors","travel","metropolitan","no-people"]
 },
   
 {
 id:"26K031429",
+folder:"full01",  
 tags:["cityscape","city","urban","downtown","building","architecture","skyscraper","high-rise","office-building","street","road","traffic","transportation","modern","business-district","skyline","chiba","japan","daytime","outdoors","travel","metropolitan","no-people"],
 title:"Modern Chiba City Skyline and Business District in Daytime, Japan"
 },
 {
 id:"26K031430",
+folder:"full01",  
 tags:["cityscape","city","urban","downtown","building","architecture","skyscraper","high-rise","office-building","street","road","traffic","transportation","modern","business-district","skyline","chiba","japan","daytime","outdoors","travel","metropolitan","no-people"],
 title:"Urban Downtown Chiba with High-Rise Buildings and Streets, Japan"
 },
 {
 id:"26K031431",
+folder:"full01",  
 tags:["cityscape","city","urban","downtown","building","architecture","skyscraper","high-rise","office-building","street","road","traffic","transportation","modern","business-district","skyline","chiba","japan","daytime","outdoors","travel","metropolitan","no-people"],
 title:"Chiba Metropolitan Skyline with Modern Office Towers in Japan"
 },
 {
 id:"26K031432",
+folder:"full01",  
 tags:["asphalt","road","pavement","street","surface","texture","background","material","rough","pattern","gray","urban","infrastructure","construction","detail","close-up","outdoors","grunge","copy-space","no-people"],
 title:"Gray Asphalt Road Surface Texture Background with Rough Detail"
 },
 {
 id:"26K031433",
+folder:"full01",  
 tags:["sakura","cherry-blossom","flower","spring","japan","pink","nature","blossom","petal","tree","seasonal","outdoors","background","copy-space","wallpaper","no-people"],
 title:"Pink Cherry Blossom Tree in Springtime, Japan"
 },
 {
 id:"26K031434",
+folder:"full01",  
 tags:["tree","trees","green","nature","forest","foliage","leaves","outdoors","daytime","sunny","summer","fresh","natural","minimal","simple","copy-space","background","wallpaper","tranquil","peaceful","scenery","no-people"],
 title:"Fresh Green Summer Trees in Peaceful Natural Scenery"
 },
 {
 id:"26K031435",
+folder:"full01",  
 tags:["tree","trees","green","nature","forest","foliage","leaves","outdoors","daytime","sunny","summer","fresh","natural","minimal","simple","copy-space","background","wallpaper","tranquil","peaceful","scenery","no-people"],
 title:"Sunlit Green Forest Trees in Calm Summer Landscape"
 },
 {
 id:"26K031436",
+folder:"full01",  
 tags:["tree","trees","green","nature","forest","foliage","leaves","outdoors","daytime","sunny","summer","fresh","natural","minimal","simple","copy-space","background","wallpaper","tranquil","peaceful","scenery","no-people"],
 title:"Peaceful Green Trees and Foliage in Summer Nature"
 },
 {
 id:"26K031437",
+folder:"full01",  
 tags:["sky","blue-sky","clear-sky","tree","trees","green","nature","forest","foliage","leaves","outdoors","daytime","sunny","summer","fresh","natural","minimal","simple","copy-space","background","wallpaper","tranquil","peaceful","scenery","no-people"],
 title:"Clear Blue Sky Above Fresh Green Summer Trees"
 },
 {
 id:"26K031438",
+folder:"full01",  
 tags:["wood","woodgrain","wood-texture","material","texture","plank","board","timber","natural","brown","pattern","surface","detail","grain","rustic","organic","background","close-up","outdoors","copy-space","no-people"],
 title:"Natural Brown Wood Grain Texture Background Close Up"
 },
 {
 id:"26K031439",
+folder:"full01",  
 tags:["cobblestone","stone","road","street","pavement","path","traditional","japanese","japan","texture","surface","pattern","old","historic","outdoors","urban","detail","background","copy-space","no-people"],
 title:"Traditional Japanese Cobblestone Street Texture in Japan"
 },
 {
 id:"26K031440",
+folder:"full01",  
 tags:["sky","cloud","sun","blue-sky","summer","daytime","sunny","nature","background","copy-space","wallpaper","outdoors","no-people"],
 title:"Bright Summer Blue Sky with White Clouds and Sunlight"
 },
 {
 id:"26K031441",
+folder:"full01",  
 tags:["sakura","cherry-blossom","flower","blossom","petal","spring","nature","scenery","pink","white","temple","shrine","torii","gate","cobblestone","stone-path","traditional","japanese","japan","chiba","outdoors","travel","cultural","background","copy-space","no-people"],
 title:"Cherry Blossoms and Torii Gate on Stone Path in Chiba, Japan"
 },
 {
 id:"26K031442",
+folder:"full01",  
 tags:["cityscape","city","urban","downtown","building","architecture","skyscraper","high-rise","office-building","street","road","traffic","transportation","modern","business-district","skyline","chiba","japan","daytime","outdoors","travel","metropolitan","no-people"],
 title:"Modern Chiba Downtown Skyline with Urban Streets, Japan"
 },
 {
 id:"26K031443",
+folder:"full01",  
 tags:["cityscape","city","urban","downtown","building","architecture","skyscraper","high-rise","office-building","street","road","traffic","transportation","modern","business-district","skyline","chiba","japan","daytime","outdoors","travel","metropolitan","no-people"],
 title:"Chiba Business District with High-Rise Cityscape in Japan"
 },
 {
 id:"26K031444",
+folder:"full01",  
 tags:["lake","lakeside","water","swamp","wetland","tega-numa","chiba","japan","nature","scenery","landscape","road","path","daytime","outdoors","calm","peaceful","reflection","green","travel","background","copy-space","no-people"],
 title:"Peaceful Tega Numa Lakeside Wetland Landscape in Chiba, Japan"
 },
 {
 id:"26K031445",
+folder:"full01",  
 tags:["lake","lakeside","water","swamp","wetland","tega-numa","chiba","japan","nature","scenery","landscape","road","path","daytime","outdoors","calm","peaceful","reflection","green","travel","background","copy-space","no-people"],
 title:"Calm Wetland Path at Tega Numa Lake in Chiba, Japan"
 },
 {
 id:"26K031446",
+folder:"full01",  
 tags:["cityscape","city","urban","downtown","building","architecture","skyscraper","high-rise","office-building","street","road","traffic","transportation","nihonbashi","tokyo","japan","business-district","modern","skyline","daytime","outdoors","travel","metropolitan","no-people"], 
 license:"editorial",
 title:"Modern Nihonbashi Business District Skyline in Tokyo, Japan"
 },
 {
 id:"26K031447",
+folder:"full01",  
 tags:["cityscape","city","urban","downtown","building","architecture","skyscraper","street","road","bridge","traditional","japanese","nihonbashi","tokyo","japan","historic","heritage","landmark","business-district","modern","contrast","daytime","outdoors","travel","metropolitan","no-people"],
 license:"editorial",
 title:"Historic Nihonbashi Bridge with Modern Tokyo Skyline, Japan"
