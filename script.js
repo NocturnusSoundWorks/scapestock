@@ -164,8 +164,12 @@ link.href="photo.html?id="+photo.id
 link.className="photo-card"  
 
 const img=document.createElement("img")
-img.src="images/thu/"+photo.id+"_thu.jpg"
+// 👇 folder情報を元に、thu01, thu02 などを自動で判定します（データがない場合は安全策として thu01 になります）
+const thuFolder = photo.folder ? photo.folder.replace("full", "thu") : "thu01";
+img.src = "images/" + thuFolder + "/" + photo.id + "_thu.jpg";
+
 img.alt = generateTitle(photo);
+
 img.loading="lazy"
 
 // 👇画像が読み込まれてから高さ計算
@@ -442,7 +446,10 @@ const link=document.createElement("a")
 link.href="photo.html?id="+photo.id
 
 const img=document.createElement("img")
-img.src="images/thu/"+photo.id+"_thu.jpg"
+// 👇 関連写真のところも同様に、自動で適切な thu フォルダを判定します
+const thuFolder = photo.folder ? photo.folder.replace("full", "thu") : "thu01";
+img.src = "images/" + thuFolder + "/" + photo.id + "_thu.jpg";
+
 img.alt = generateTitle(photo);
 img.loading="lazy"
 
