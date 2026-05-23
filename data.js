@@ -5780,7 +5780,12 @@ folder:"full01",
 title:"Ocean Waves Washing Over Sandy Beach Background",
 tags:["sea","ocean","wave","beach","sand","sandy-beach","shore","coastline","water","foam","seafoam","horizon","sky","cloudy","overcast","nature","landscape","scenery","outdoors","background","copy-space","wallpaper","no-people"]
 },
-
+{
+id:"26K051838",
+folder:"full02",
+title:"Traditional Japanese Garden Pond with Pine Tree and Greenery Background",
+tags:["pond","garden","japanese-garden","pine-tree","tree","greenery","nature","plant","botanical","leaf","leaves","forest","woods","reflection","water","bamboo-fence","fence","spring","summer","fresh","bright","sunny","daytime","sky","outdoors","scenery","landscape","japan","background","copy-space","wallpaper","no-people"]
+},
 
 
 ];
