@@ -272,7 +272,7 @@ if(!photo) return
 
 const img=document.createElement("img")
 
-img.src="images/full/"+photo.id+".jpg"
+img.src = "images/" + (photo.folder || "full01") + "/" + photo.id + ".jpg"
 
 const desc = generateDescription(photo);
 const title = generateTitle(photo);
@@ -303,7 +303,7 @@ img.alt = title;
   
 const download=document.createElement("a")
 
-download.href="images/full/"+photo.id+".jpg"
+download.href = "images/" + (photo.folder || "full01") + "/" + photo.id + ".jpg"
 
 download.className="download-btn"
 
