@@ -5860,6 +5860,47 @@ folder:"full02",
 title:"Weathered Wooden Planks Texture with Knots and Grain Background",
 tags:["wood","wooden","plank","board","fence","wall","texture","pattern","grain","wood-grain","knot","weathered","aged","old","vintage","rustic","natural","brown","grey","abstract","background","wallpaper","surface","material","close-up","no-people"]
 },
+{
+id:"26K051850",
+folder:"full02",
+title:"Red Brick Wall Texture with Parallel Mortar Lines Background",
+tags:["brick","wall","brickwall","brick-wall","red-brick","texture","pattern","material","surface","structure","construction","architecture","building","block","tile","geometric","regular","background","wallpaper","brown","terracotta","mortar","solid","backdrop","abstract","close-up","no-people"]
+},
+{
+id:"26K051851",
+folder:"full02",
+title:"Traditional Wooden Lattice Fence with Textured Wall Background",
+tags:["lattice","fence","wooden-fence","koshi","grid","pattern","texture","linear","stripe","shadow","wood","stucco","wall","textured-wall","concrete","architecture","building","traditional","japanese","minimal","abstract","background","wallpaper","grey","brown","structure","no-people"]
+},
+{
+id:"26K051852",
+folder:"full02",
+title:"Modern Concrete Monument in a Public Park Flower Bed",
+tags:["monument","sculpture","statue","art","abstract-art","concrete","stone","flower-bed","flower","petunia","salvia","blooming","garden","park","public-park","bench","green","grass","lawn","tree","nature","plant","outdoors","cityscape","urban","building”,”ginza”,”tokyo","japan","japanese","daytime","sunny","spring","summer","seasonal","scenery","landscape"]
+},
+{
+id:"26K051853",
+folder:"full02",
+title:"Modern and Traditional Buildings Under Blue Sky",
+tags:["building","apartment","condominium","office-building","brick-building","modern-architecture","architecture","cityscape","urban”,”tsukiji”,”tokyo","japan","japanese","ivy","creeper","green-leaves","plant","hedge","fence","sky","blue-sky","clear-sky","daytime","sunny","outdoors","no-people"]
+},
+		
+
+{
+id:"26K051854",
+folder:"full02",
+title:"Modern City Buildings and Low Angle View of Skyscrapers Under Blue Sky",
+tags:["building","skyscraper","high-rise","apartment","condominium","office-building","architecture","modern-architecture","cityscape","urban","Tsukiji","tokyo","japan","japanese","low-angle-view","perspective","ivy","green-leaves","plant","hedge","sky","blue-sky","clear-sky","daytime","sunny","outdoors","no-people"]
+},
+{
+id:"26K051855",
+folder:"full02",
+title:"Row of Pink Azalea Flowers Beside an Apartment Building Wall",
+tags:["azalea","flower","pink","blooming","blossom","plant","botanical","nature","garden","hedge","shrub","flowering-plant","wall","exterior","architecture","apartment-building","condominium","modern","japanese","street","sidewalk","urban","cityscape","outdoors","daytime","may","spring","seasonal","background","no-people"]
+},
+
+
+
 
 
 
