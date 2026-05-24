@@ -5966,8 +5966,37 @@ title:"Traditional Style Street Lamps and Japanese Flag at Night in Tokyo",
 tags:["street-lamp","lantern","light","illumination","night","night-view","signboard","japanese-flag","flag","hinomaru","fire-hydrant-sign","tree","ginko-tree","green-leaves","buildings","urban","cityscape","street","ryogoku","kokugikan-dori","tokyo","japan","japanese","outdoors","scenery"]
 },
 
+{
+id:"26K051868",
+folder:"full02",
+title:"Many Colorful Koinobori Carp Streamers Flying over a River under Blue Sky",
+tags:["koinobori","carp-streamer","streamer","childrens-day","traditional","festival","japanese-culture","river","canal","grassy-bank","green","grass","sky","blue-sky","sunny","daytime","may","spring","seasonal","outdoor","scenery","landscape","japan","japanese","no-people"]
+},
+{
+id:"26K051869",
+folder:"full02",
+title:"Paved Walkway and Topiary Shrubs in an Urban Park at Dusk",
+tags:["park","garden","walkway","pavement","tiles","stone-path","topiary","shrub","bush","hedge","green","tree","forest","woods","nature","sky","dusk","evening","cloudy","sunset","urban","city-park","scenery","landscape","outdoor","no-people"]
+},
 
-
+{
+id:"26K051870",
+folder:"full02",
+title:"Urban Intersection and Crosswalk with Buildings under Cloudy Sky",
+tags:["intersection","crosswalk","street","road","asphalt","traffic-light","road-sign","buildings","apartment","condominium","urban","cityscape","Waseda","tokyo","japan","japanese","sky","clouds","daytime","outdoors","scenery","no-people"]
+},
+{
+id:"26K051871",
+folder:"full02",
+title:"Modern Residential Buildings under Blue Sky with Wispy Clouds",
+tags:["building","apartment","condominium","architecture","residential","urban","cityscape","sky","blue-sky","clouds","cirrus-clouds","leaves","tree","green","sunny","daytime","tokyo","japan","japanese","outdoors","scenery","low-angle-shot","no-people"]
+},
+{
+id:"26K051872",
+folder:"full02",
+title:"Scenic Pond Surrounded by Fresh Green Trees in a Japanese Garden",
+tags:["pond","water","reflection","garden","japanese-garden","park","tree","green","fresh-green","leaves","maple-leaves","nature","scenery","landscape","summer","spring","seasonal","sunny","daytime","outdoors","stone","rock","bamboo-fence","no-people"]
+},
 
 
 ];
