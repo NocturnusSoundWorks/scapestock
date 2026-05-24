@@ -5997,6 +5997,11 @@ folder:"full02",
 title:"Scenic Pond Surrounded by Fresh Green Trees in a Japanese Garden",
 tags:["pond","water","reflection","garden","japanese-garden","park","tree","green","fresh-green","leaves","maple-leaves","nature","scenery","landscape","summer","spring","seasonal","sunny","daytime","outdoors","stone","rock","bamboo-fence","no-people"]
 },
-
+{
+id:"26K051873",
+folder:"full02",
+title:"Large Vermilion Torii Gate at the Entrance of a Japanese Shinto Shrine",
+tags:["torii","torii-gate","shrine","shinto-shrine","traditional","japanese-culture","architecture","stone-steps","stairs","horse-statue","statue","crosswalk","road-sign","traffic-sign","street","urban","green-trees","nature","japan","japanese","outdoors","scenery"]
+},
 
 ];
