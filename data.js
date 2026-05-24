@@ -5786,6 +5786,17 @@ folder:"full02",
 title:"Traditional Japanese Garden Pond with Pine Tree and Greenery Background",
 tags:["pond","garden","japanese-garden","pine-tree","tree","greenery","nature","plant","botanical","leaf","leaves","forest","woods","reflection","water","bamboo-fence","fence","spring","summer","fresh","bright","sunny","daytime","sky","outdoors","scenery","landscape","japan","background","copy-space","wallpaper","no-people"]
 },
-
+{
+id:"26K051839",
+folder:"full02",
+title:"Traditional Japanese Garden Path with Red Maple Tree and Bamboo Fence",
+tags:["garden","japanese-garden","path","walkway","maple","maple-tree","red-leaves","momiji","bamboo-fence","fence","gate","wooden-gate","green","greenery","tree","plant","nature","shrub","stone-path","sunlight","bright","sunny","daytime","spring","summer","outdoors","scenery","landscape","japan","background","wallpaper","no-people"]
+},
+{
+id:"26K051840",
+folder:"full02",
+title:"Stone Lantern and Bamboo Fence Along Traditional Japanese Garden Path",
+tags:["garden","japanese-garden","path","walkway","stone-lantern","tourou","bamboo-fence","fence","gate","wooden-gate","maple","maple-tree","red-leaves","momiji","green","greenery","tree","plant","nature","shrub","sunlight","bright","sunny","daytime","spring","summer","outdoors","scenery","landscape","japan","background","wallpaper","no-people"]
+},
 
 ];
