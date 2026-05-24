@@ -5824,12 +5824,6 @@ title:"Imperial Palace Moat with Stone Wall and Modern Buildings in Tokyo",
 tags:["moat","imperial-palace","chiyoda","tokyo","japan","japanese","cityscape","building","architecture","skyscraper","high-rise","hotel","tree","green","greenery","nature","plant","outdoors","scenery","landscape","daytime","sunny","clear-sky","reflection","water","stone-wall","bridge","wooden-bridge","historical-site","seasonal","may","spring","summer","background","wallpaper","no-people"]
 },
 {
-id:"26K051844",
-folder:"full02",
-title:"Imperial Palace Moat with Stone Wall and Modern Buildings in Tokyo",
-tags:["moat","imperial-palace","chiyoda","tokyo","japan","japanese","cityscape","building","architecture","skyscraper","high-rise","hotel","tree","green","greenery","nature","plant","outdoors","scenery","landscape","daytime","sunny","clear-sky","reflection","water","stone-wall","bridge","wooden-bridge","historical-site","seasonal","may","spring","summer","background","wallpaper","no-people"]
-},
-{
 id:"26K051845",
 folder:"full02",
 title:"Urban Cityscape with Railway Tracks and Modern Buildings Under Blue Sky",
@@ -5876,13 +5870,13 @@ tags:["lattice","fence","wooden-fence","koshi","grid","pattern","texture","linea
 id:"26K051852",
 folder:"full02",
 title:"Modern Concrete Monument in a Public Park Flower Bed",
-tags:["monument","sculpture","statue","art","abstract-art","concrete","stone","flower-bed","flower","petunia","salvia","blooming","garden","park","public-park","bench","green","grass","lawn","tree","nature","plant","outdoors","cityscape","urban","building”,”ginza”,”tokyo","japan","japanese","daytime","sunny","spring","summer","seasonal","scenery","landscape"]
+tags:["monument","sculpture","statue","art","abstract-art","concrete","stone","flower-bed","flower","petunia","salvia","blooming","garden","park","public-park","bench","green","grass","lawn","tree","nature","plant","outdoors","cityscape","urban","building","ginza","tokyo","japan","japanese","daytime","sunny","spring","summer","seasonal","scenery","landscape"]
 },
 {
 id:"26K051853",
 folder:"full02",
 title:"Modern and Traditional Buildings Under Blue Sky",
-tags:["building","apartment","condominium","office-building","brick-building","modern-architecture","architecture","cityscape","urban”,”tsukiji”,”tokyo","japan","japanese","ivy","creeper","green-leaves","plant","hedge","fence","sky","blue-sky","clear-sky","daytime","sunny","outdoors","no-people"]
+tags:["building","apartment","condominium","office-building","brick-building","modern-architecture","architecture","cityscape","urban","tsukiji","tokyo","japan","japanese","ivy","creeper","green-leaves","plant","hedge","fence","sky","blue-sky","clear-sky","daytime","sunny","outdoors","no-people"]
 },
 		
 
