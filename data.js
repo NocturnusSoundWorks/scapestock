@@ -6081,4 +6081,22 @@ folder:"full02",
 title:"Illuminated Street Lights and Signboard at Night in Tokyo",
 tags:["street-lamp","lamp","lighting","illumination","light","sign","signboard","street-sign","japanese-sign","flag","japanese-flag","fire-hydrant-sign","tree","ginkgo-tree","night","night-view","city","urban","buildings","scenery","ryogoku","tokyo","japan","japanese"]
 },
+{
+id:"26K051887",
+folder:"full02",
+title:"Illuminated Traditional Gate of Eko-in Temple at Night",
+tags:["gate","temple-gate","temple","buddhism","ekoin","eko-in","traditional","japanese-culture","architecture","statue","nio-statue","guardian-statue","lighting","illumination","light","night","night-view","street","road","ryogoku","tokyo","japan","japanese"]
+},
+{
+id:"26K051888",
+folder:"full02",
+title:"Illuminated Traditional Gate of Eko-in Temple at Night in Tokyo",
+tags:["gate","temple-gate","temple","buddhism","ekoin","eko-in","traditional","japanese-culture","architecture","statue","nio-statue","guardian-statue","lighting","illumination","light","night","night-view","street","road","asphalt","ryogoku","tokyo","japan","japanese"]
+},
+
+
+
+
+
+
 ];
