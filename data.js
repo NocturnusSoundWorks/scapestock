@@ -6075,5 +6075,10 @@ folder:"full02",
 title:"Illuminated Archway Sign of Yokozuna Yokocho Alley at Night",
 tags:["sign","signboard","archway","entrance","yokocho","alley","yokozuna-yokocho","ryogoku","tokyo","japan","japanese","kanji","night","night-view","city","urban","building","architecture","lighting","street"]
 },
-
+{
+id:"26K051886",
+folder:"full02",
+title:"Illuminated Street Lights and Signboard at Night in Tokyo",
+tags:["street-lamp","lamp","lighting","illumination","light","sign","signboard","street-sign","japanese-sign","flag","japanese-flag","fire-hydrant-sign","tree","ginkgo-tree","night","night-view","city","urban","buildings","scenery","ryogoku","tokyo","japan","japanese"]
+},
 ];
