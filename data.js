@@ -6033,6 +6033,37 @@ folder:"full02",
 title:"Railway Tracks and Construction Site with City Skyscrapers Background",
 tags:["railway","rail","track","train-track","construction","construction-site","scaffolding","urban","cityscape","skyscrapers","buildings","apartment","high-rise","sky","blue-sky","clouds","crane","sunny","daytime","tokyo","japan","japanese","outdoors","scenery","no-people"]
 },
+{
+id:"26K051879",
+folder:"full02",
+title:"Wide View of Railway Tracks and Construction Site with City Skyscrapers",
+tags:["railway","rail","track","train-track","construction","construction-site","scaffolding","urban","cityscape","skyscrapers","buildings","apartment","high-rise","sky","blue-sky","clouds","crane","sunny","daytime","tokyo","japan","japanese","outdoors","scenery","no-people"]
+},
+{
+id:"26K051880",
+folder:"full02",
+title:"Close Up of a Bridge Stone Pillar with Modern Street Lamps",
+tags:["bridge","pillar","stone-pillar","lamp","street-lamp","lighting","light-bulb","modern-design","architecture","railing","fence","street","crosswalk","buildings","apartment","skyscraper","urban","cityscape","tokyo","japan","japanese","sky","clouds","daytime","outdoors","scenery"]
+},
+{
+id:"26K051881",
+folder:"full02",
+title:"Walkway Along an Urban Canal with High-Rise Buildings in Japan",
+tags:["walkway","canal","river","water","promenade","railing","fence","buildings","apartment","condominium","skyscraper","urban","cityscape","sky","clouds","utility-pole","boats","Kayabacho","tokyo","japan","japanese","outdoors","scenery"]
+},
+{
+id:"26K051882",
+folder:"full02",
+title:"Traditional Japanese Paper Lantern Chochin Glowing Indoors",
+tags:["lantern","paper-lantern","chochin","japanese-lantern","lighting","illumination","light","glow","traditional","japanese-culture","wood","ceiling","interior","indoor","close-up"]
+},
+{
+id:"26K051883",
+folder:"full02",
+title:"Two Glowing Japanese Paper Lanterns Hanging Against a Dark Background",
+tags:["lantern","paper-lantern","chochin","japanese-lantern","lighting","illumination","light","glow","traditional","japanese-culture","interior","indoor","night-view","dark-background","close-up","pair","hanging-lantern"]
+},
+
 
 
 ];
