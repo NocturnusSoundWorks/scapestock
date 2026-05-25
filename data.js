@@ -6003,5 +6003,36 @@ folder:"full02",
 title:"Large Vermilion Torii Gate at the Entrance of a Japanese Shinto Shrine",
 tags:["torii","torii-gate","shrine","shinto-shrine","traditional","japanese-culture","architecture","stone-steps","stairs","horse-statue","statue","crosswalk","road-sign","traffic-sign","street","urban","green-trees","nature","japan","japanese","outdoors","scenery"]
 },
+{
+id:"26K051874",
+folder:"full02",
+title:"Low Angle View of Red Brick Office Building under Blue Sky",
+tags:["building","office-building","architecture","brick","red-brick","high-rise","skyscraper","urban","cityscape","sky","blue-sky","sunny","daytime","green-leaves","tree","street-lamp","outdoors","scenery","low-angle-shot","no-people"]
+},
+{
+id:"26K051875",
+folder:"full02",
+title:"Elevated View of an Empty City Road and Buildings in Japan",
+tags:["road","street","asphalt","lane","crosswalk","buildings","apartment","residential","urban","cityscape","green-trees","tree","nature","traffic-sign","car","shadow","sunny","daytime","sky","clouds","scenery","landscape","outdoor","Waseda","tokyo","japan","japanese"]
+},
+{
+id:"26K051876",
+folder:"full02",
+title:"Urban Road Passing Under a Green Metal Arch Bridge",
+tags:["bridge","arch-bridge","overpass","road","street","asphalt","curve","traffic","car","urban","cityscape","buildings","ivy","greenery","leaves","tree","construction-barrier","sky","sunny","daytime","Waseda","tokyo","japan","japanese","outdoors","scenery","no-people"]
+},
+{
+id:"26K051877",
+folder:"full02",
+title:"Vintage Stone Pillar Lamp on a Bridge Under Bright Sunlight",
+tags:["bridge","pillar","stone-pillar","lamp","street-lamp","architecture","fence","railing","sun","sunlight","bright","sky","clouds","blue-sky","trees","green","urban","daytime","Waseda","tokyo","japan","outdoors","scenery","low-angle-shot"]
+},
+{
+id:"26K051878",
+folder:"full02",
+title:"Railway Tracks and Construction Site with City Skyscrapers Background",
+tags:["railway","rail","track","train-track","construction","construction-site","scaffolding","urban","cityscape","skyscrapers","buildings","apartment","high-rise","sky","blue-sky","clouds","crane","sunny","daytime","tokyo","japan","japanese","outdoors","scenery","no-people"]
+},
+
 
 ];
