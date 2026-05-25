@@ -6063,7 +6063,17 @@ folder:"full02",
 title:"Two Glowing Japanese Paper Lanterns Hanging Against a Dark Background",
 tags:["lantern","paper-lantern","chochin","japanese-lantern","lighting","illumination","light","glow","traditional","japanese-culture","interior","indoor","night-view","dark-background","close-up","pair","hanging-lantern"]
 },
-
-
+{
+id:"26K051884",
+folder:"full02",
+title:"Two Traditional Japanese Paper Lanterns Glowing in the Dark",
+tags:["lantern","paper-lantern","chochin","japanese-lantern","lighting","illumination","light","glow","traditional","japanese-culture","interior","indoor","night-view","dark-background","close-up","pair","hanging-lantern"]
+},
+{
+id:"26K051885",
+folder:"full02",
+title:"Illuminated Archway Sign of Yokozuna Yokocho Alley at Night",
+tags:["sign","signboard","archway","entrance","yokocho","alley","yokozuna-yokocho","ryogoku","tokyo","japan","japanese","kanji","night","night-view","city","urban","building","architecture","lighting","street"]
+},
 
 ];
