@@ -6093,10 +6093,18 @@ folder:"full02",
 title:"Illuminated Traditional Gate of Eko-in Temple at Night in Tokyo",
 tags:["gate","temple-gate","temple","buddhism","ekoin","eko-in","traditional","japanese-culture","architecture","statue","nio-statue","guardian-statue","lighting","illumination","light","night","night-view","street","road","asphalt","ryogoku","tokyo","japan","japanese"]
 },
-
-
-
-
+{
+id:"26K051889",
+folder:"full02",
+title:"Illuminated Street Lamps and Telephone Booth along the Sidewalk at Night",
+tags:["street-lamp","lamp","lighting","illumination","light","telephone-booth","payphone","sidewalk","street","road","traffic-sign","japanese-sign","flag","japanese-flag","ginkgo-tree","night","night-view","city","urban","buildings","scenery","ryogoku","tokyo","japan","japanese"]
+},
+{
+id:"26K051890",
+folder:"full02",
+title:"Close Up of Illuminated Traditional Street Lamps at Night",
+tags:["street-lamp","lamp","lighting","illumination","light","lantern-style","sign","signboard","street-sign","japanese-sign","fire-hydrant-sign","tree","ginkgo-tree","night","night-view","city","urban","ryogoku","tokyo","japan","japanese"]
+},
 
 
 ];
