@@ -6129,7 +6129,29 @@ folder:"full02",
 title:"City Street and Elevated Highway at Night with Tokyo Skytree in the Distance",
 tags:["street","road","asphalt","railing","fence","sidewalk","highway","elevated-road","overpass","bridge","tokyo-skytree","skytree","tower","landmark","illuminated","light","night","night-view","city","urban","buildings","apartment","sky","tokyo","japan","japanese","scenery"]
 },
-
-
+{
+id:"26K051895",
+folder:"full02",
+title:"Streetlamp on Urban Bridge at Night",
+tags["streetlamp","light","bridge","night","cityscape","urban","building","apartment","street","road","traffic","car","sidewalk","walkway","railway","illuminated","dark","sky","japan","tokyo","scenery","outdoor","nightview"]
+},
+{
+id:"26K051896",
+folder:"full02",
+title:"Tokyo Skytree with Streetlamp and Cityscape at Night",
+tags:["tokyo-skytree","skytree","tower","landmark","illuminated","light-up","streetlamp","bridge","road","asphalt","highway","building","cityscape","urban","night","nightview","dark","sky","japan","tokyo","sumida","scenery","outdoor"]
+},
+{
+id:"26K051897",
+folder:"full02",
+title:"Urban River and Cityscape at Night",
+tags:["river","water","reflection","night","nightview","cityscape","urban","building","bridge","highway","overpass","light","illuminated","dark","sky","japan","tokyo","sumida-river","scenery","outdoor","scenic","no-people"]
+},
+{
+id:"26K051898",
+folder:"full02",
+title:"Stone Bridge Pillar with Spherical Ornament at Night",
+tags:["bridge","pillar","stone","monument","ornament","sphere","globe","light","illuminated","sidewalk","walkway","tactile-paving","manhole","road","streetlamp","night","dark","sky","tree","japan","tokyo","ryogoku-bridge","urban","outdoor"]
+},
 
 ];
