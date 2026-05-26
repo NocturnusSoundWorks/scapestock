@@ -6133,7 +6133,7 @@ tags:["street","road","asphalt","railing","fence","sidewalk","highway","elevated
 id:"26K051895",
 folder:"full02",
 title:"Streetlamp on Urban Bridge at Night",
-tags["streetlamp","light","bridge","night","cityscape","urban","building","apartment","street","road","traffic","car","sidewalk","walkway","railway","illuminated","dark","sky","japan","tokyo","scenery","outdoor","nightview"]
+tags:["streetlamp","light","bridge","night","cityscape","urban","building","apartment","street","road","traffic","car","sidewalk","walkway","railway","illuminated","dark","sky","japan","tokyo","scenery","outdoor","nightview"]
 },
 {
 id:"26K051896",
