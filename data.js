@@ -6183,10 +6183,30 @@ folder:"full02",
 title:"Minatomirai Nightscape with Yokohama Landmark Tower and River",
 tags:["nightview","night","cityscape","urban","building","skyscraper","landmark","yokohama-landmark-tower","high-rise","hotel","river","water","reflection","illuminated","light","cloudy","sky","overcast","boat","ship","ropeway","yokohama-air-cabin","minatomirai","yokohama","kanagawa","japan","scenery","outdoor","scenic"]
 },
-
-
-
-
+{
+id:"26K052306",
+folder:"full02",
+title:"Red Brick Building with Metal Bracket and Window",
+tags:["brick","wall","building","architecture","red-brick","warehouse","bracket","metal-fixture","window","shutter","chair","table","terrace","patio","vintage","historic","yokohama-red-brick-warehouse","yokohama","kanagawa","japan","outdoor"]
+},
+{
+id:"26K052307",
+folder:"full02",
+title:"Port View with Boats and Industrial Coastline under Cloudy Sky",
+tags:["sea","ocean","port","harbor","water","boat","ship","vessel","pier","dock","breakwater","lighthouse","coastline","factory","chimney","industrial","horizon","cloudy","sky","overcast","daytime","yokohama","kanagawa","japan","outdoor"]
+},
+{
+id:"26K052308",
+folder:"full02",
+title:"Port of Yokohama with Terminal and Boats under Cloudy Sky",
+tags:["sea","ocean","port","harbor","water","terminal","osanbashi","building","pier","dock","boat","ship","vessel","coastline","horizon","cloudy","sky","overcast","daytime","yokohama","kanagawa","japan","scenery","outdoor","scenic"]
+},
+{
+id:"26K052309",
+folder:"full02",
+title:"Urban Cable Car Cabin and Support Tower at Night",
+tags:["cable-car","gondola","ropeway","cabin","yokohama-air-cabin","tower","support-pillar","steel-tower","transportation","illuminated","light","night","nightview","dark","sky","overcast","building","hotel","tree","minatomirai","yokohama","kanagawa","japan","outdoor","scenery"]
+},
 
 
 ];
