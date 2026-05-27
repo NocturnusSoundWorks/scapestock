@@ -6153,5 +6153,10 @@ folder:"full02",
 title:"Stone Bridge Pillar with Spherical Ornament at Night",
 tags:["bridge","pillar","stone","monument","ornament","sphere","globe","light","illuminated","sidewalk","walkway","tactile-paving","manhole","road","streetlamp","night","dark","sky","tree","japan","tokyo","ryogoku-bridge","urban","outdoor"]
 },
-
+{
+id:"26K052301",
+folder:"full02",
+title:"Urban Intersection and Modern Buildings at Night",
+tags:["intersection","crosswalk","pedestrian-crossing","street","road","traffic-light","car","building","skyscraper","hotel","high-rise","cityscape","urban","night","nightview","dark","sky","tree","station","ropeway","yokohama-air-cabin","minatomirai","yokohama","kanagawa","japan","outdoor"]
+},
 ];
