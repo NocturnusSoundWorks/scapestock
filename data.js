@@ -6213,4 +6213,12 @@ folder:"full02",
 title:"Illuminated Ferris Wheel and Modern Buildings at Night",
 tags:["ferris-wheel","cosmo-clock-21","amusement-park","yokohama-cosmoworld","illuminated","light-up","colorful","nightview","night","cityscape","urban","building","skyscraper","high-rise","hotel","dark","sky","overcast","tree","minatomirai","yokohama","kanagawa","japan","scenery","outdoor"]
 },
+{
+id:"26K052311",
+folder:"full02",
+title:"Urban Cable Car Cabins with City Buildings at Night",
+tags:["cable-car","gondola","ropeway","cabin","yokohama-air-cabin","transportation","illuminated","light","night","nightview","dark","sky","overcast","building","hotel","tree","minatomirai","yokohama","kanagawa","japan","outdoor","scenery"]
+},
+
+
 ];
