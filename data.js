@@ -6219,6 +6219,18 @@ folder:"full02",
 title:"Urban Cable Car Cabins with City Buildings at Night",
 tags:["cable-car","gondola","ropeway","cabin","yokohama-air-cabin","transportation","illuminated","light","night","nightview","dark","sky","overcast","building","hotel","tree","minatomirai","yokohama","kanagawa","japan","outdoor","scenery"]
 },
+{
+id:"26K052312",
+folder:"full02",
+title:"Urban Nightscape with High-Rise Buildings and Cable Car Route",
+tags:["nightview","night","cityscape","urban","building","skyscraper","high-rise","apartment","construction-site","crane","hotel","cable-car","gondola","ropeway","yokohama-air-cabin","river","water","reflection","illuminated","light","cloudy","sky","overcast","tree","greenery","minatomirai","yokohama","kanagawa","japan","scenery","outdoor"]
+},
+{
+id:"26K052313",
+folder:"full02",
+title:"Yokohama Port View with Terminal and City Buildings under Cloudy Sky",
+tags:["sea","ocean","port","harbor","water","boat","ship","speedboats","terminal","osanbashi","building","coastline","pier","dock","breakwater","cloudy","sky","overcast","daytime","yokohama","kanagawa","japan","scenery","outdoor","scenic"]
+},
 
 
 ];
