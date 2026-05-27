@@ -6177,6 +6177,12 @@ folder:"full02",
 title:"Minatomirai Cityscape with River View in Daytime",
 tags:["cityscape","urban","building","skyscraper","landmark","yokohama-landmark-tower","high-rise","office-building","river","water","reflection","cloudy","sky","daytime","overcast","tree","greenery","minatomirai","yokohama","kanagawa","japan","scenery","outdoor","scenic","no-people"]
 },
+{
+id:"26K052305",
+folder:"full02",
+title:"Minatomirai Nightscape with Yokohama Landmark Tower and River",
+tags:["nightview","night","cityscape","urban","building","skyscraper","landmark","yokohama-landmark-tower","high-rise","hotel","river","water","reflection","illuminated","light","cloudy","sky","overcast","boat","ship","ropeway","yokohama-air-cabin","minatomirai","yokohama","kanagawa","japan","scenery","outdoor","scenic"]
+},
 
 
 
