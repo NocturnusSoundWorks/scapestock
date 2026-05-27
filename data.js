@@ -6159,4 +6159,28 @@ folder:"full02",
 title:"Urban Intersection and Modern Buildings at Night",
 tags:["intersection","crosswalk","pedestrian-crossing","street","road","traffic-light","car","building","skyscraper","hotel","high-rise","cityscape","urban","night","nightview","dark","sky","tree","station","ropeway","yokohama-air-cabin","minatomirai","yokohama","kanagawa","japan","outdoor"]
 },
+{
+id:"26K052302",
+folder:"full02",
+title:"Weathered Red Brick Wall Texture",
+tags:["brick","wall","brickwall","red-brick","texture","background","pattern","surface","material","weathered","aged","old","vintage","rough","cracked","damaged","mortar","cement","architecture","construction","close-up","no-people","wallpaper"]
+},
+{
+id:"26K052303",
+folder:"full02",
+title:"Close-up of Old Red Brick Wall Texture",
+tags:["brick","wall","brickwall","red-brick","texture","background","pattern","surface","material","weathered","aged","old","vintage","rough","mortar","cement","architecture","construction","close-up","no-people","wallpaper"]
+},
+{
+id:"26K052304",
+folder:"full02",
+title:"Minatomirai Cityscape with River View in Daytime",
+tags:["cityscape","urban","building","skyscraper","landmark","yokohama-landmark-tower","high-rise","office-building","river","water","reflection","cloudy","sky","daytime","overcast","tree","greenery","minatomirai","yokohama","kanagawa","japan","scenery","outdoor","scenic","no-people"]
+},
+
+
+
+
+
+
 ];
