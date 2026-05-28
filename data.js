@@ -6267,6 +6267,36 @@ folder:"full02",
 title:"Rough Stucco Wall Texture Background",
 tags:["texture","background","wall","stucco","concrete","cement","plaster","rough","surface","pattern","gray","grey","solid","material","structure","architecture","detail","close-up","abstract","wallpaper","no-people"]
 },
+{
+id:"26K052320",
+folder:"full02",
+title:"Blue Square Mosaic Tiles Wall Texture Background",
+tags:["texture","background","wall","tile","mosaic","ceramic","square","grid","pattern","blue","surface","material","structure","architecture","detail","close-up","abstract","wallpaper","no-people"]
+},
+{
+id:"26K052321",
+folder:"full02",
+title:"Modern City Street at Night with Illuminated Buildings and Streetlights",
+tags:["cityscape","urban","night-view","nightscape","illumination","light","streetlight","building","skyscraper","high-rise","architecture","modern","miyashita-park","shibuya","tokyo","japan","tree","greenery","night","outdoor","scenery"]
+},
+{
+id:"26K052322",
+folder:"full02",
+title:"Japanese No Parking Road Sign with Blue Sky Background",
+tags:["traffic-sign","road-sign","no-parking","regulatory-sign","japanese-sign","circle-sign","red-and-blue","street","residential-area","town","railway-track","overhead-line","wire","electricity-pole","sky","blue-sky","cloud","sunny","daytime","japan","outdoor"]
+},
+{
+id:"26K052323",
+folder:"full02",
+title:"Urban Street with Large Green Tree and Triangular Clock Monument",
+tags:["street","road","asphalt","monument","clock-tower","ginkgo-tree","green-leaves","tree","building","office-building","skyscraper","cityscape","urban","tokyo","japan","sunny","daytime","bright","outdoor","scenery"]
+},
+{
+id:"26K052324",
+folder:"full02",
+title:"Modern Skyscrapers and Gran Roof Canopy at Tokyo Station Plaza",
+tags:["tokyo-station","marunouchi","plaza","granroof","canopy","skyscrapers","high-rise","office-building","architecture","modern","urban","cityscape","street","pavement","tactile-paving","sunny","daytime","bright","sky","blue-sky","tokyo","japan","outdoor","scenery"]
+},
 
 
 ];
