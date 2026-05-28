@@ -6297,6 +6297,36 @@ folder:"full02",
 title:"Modern Skyscrapers and Gran Roof Canopy at Tokyo Station Plaza",
 tags:["tokyo-station","marunouchi","plaza","granroof","canopy","skyscrapers","high-rise","office-building","architecture","modern","urban","cityscape","street","pavement","tactile-paving","sunny","daytime","bright","sky","blue-sky","tokyo","japan","outdoor","scenery"]
 },
+{
+id:"26K052325",
+folder:"full02",
+title:"Modern Skyscrapers and Plaza with Blue Sky in Tokyo Marunouchi",
+tags:["marunouchi","tokyo-station","plaza","skyscrapers","high-rise","building","office-building","architecture","modern","urban","cityscape","street","pavement","tree","greenery","sunny","daytime","bright","sky","blue-sky","cloud","tokyo","tsukiji","japan","outdoor","scenery"]
+},
+{
+id:"26K052326",
+folder:"full02",
+title:"Stone Bridge Nameplate and Green Fence with City Buildings Background",
+tags:["bridge","stone-wall","nameplate","sign","fence","green-fence","shrub","bush","green-leaves","tree","sidewalk","pavement","cityscape","urban","building","apartment","tokyo","japan","cloudy","daytime","outdoor","scenery"]
+},
+{
+id:"26K052327",
+folder:"full02",
+title:"Urban Intersection with Crosswalk and Chuo City Office Building Background",
+tags:["crosswalk","pedestrian-crossing","intersection","street","road","asphalt","traffic-sign","no-entry","city-office","building","architecture","cityscape","urban","tokyo","japan","cloudy","sunny","daytime","outdoor","scenery"]
+},
+{
+id:"26K052328",
+folder:"full02",
+title:"Urban Traffic Signs and Streetlights with Chuo City Office Background",
+tags:["traffic-sign","road-sign","no-entry","one-way","regulatory-sign","japanese-sign","streetlight","lighting","pole","utility-pole","city-office","building","architecture","cityscape","urban","tokyo","japan","cloudy","daytime","outdoor","scenery"]
+},
+{
+id:"26K052329",
+folder:"full02",
+title:"Urban Sidewalk in Japan with Stone Pagoda and Green Trees",
+tags:["sidewalk","pavement","street","road","walkway","pagoda","stone-pagoda","monument","tree","greenery","ivy","plants","fence","building","urban","cityscape","tokyo","japan","cloudy","daytime","outdoor","scenery"]
+},
 
 
 ];
