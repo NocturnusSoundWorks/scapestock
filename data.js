@@ -6231,6 +6231,42 @@ folder:"full02",
 title:"Yokohama Port View with Terminal and City Buildings under Cloudy Sky",
 tags:["sea","ocean","port","harbor","water","boat","ship","speedboats","terminal","osanbashi","building","coastline","pier","dock","breakwater","cloudy","sky","overcast","daytime","yokohama","kanagawa","japan","scenery","outdoor","scenic"]
 },
+{
+id:"26K052314",
+folder:"full02",
+title:"Kanagawa Prefectural Government Building and Yokohama Cityscape",
+tags:["building","architecture","historic","kanagawa-prefectural-government","king-tower","cityscape","urban","office-building","skyscraper","high-rise","street","road","car","tree","greenery","cloudy","sky","overcast","daytime","kanagawa","yokohama","japan","scenery","outdoor"]
+},
+{
+id:"26K052315",
+folder:"full02",
+title:"Urban Canal with Pier and Moored Boats Surrounded by Buildings",
+tags:["canal","river","water","boat","pier","dock","moored","embankment","cityscape","urban","building","apartment","office-building","skyscraper","high-rise","walkway","promenade","fence","cloudy","sky","overcast","daytime","tokyo","japan","outdoor","scenery"]
+},
+{
+id:"26K052316",
+folder:"full02",
+title:"White Kalmia Latifolia Flowers and Daisies Background",
+tags:["flower","kalmia","mountain-laurel","calico-bush","white","nature","plant","botanical","blossom","petal","daisy","green-leaves","fresh","spring","seasonal","outdoors","background","copy-space","wallpaper","no-people"]
+},
+{
+id:"26K052317",
+folder:"full02",
+title:"Urban River and City Buildings under Cloudy Sky",
+tags:["river","canal","water","cityscape","urban","building","apartment","office-building","skyscraper","high-rise","tower","bridge","boat","pier","dock","embankment","cloudy","sky","overcast","daytime","japan","scenery","outdoor"]
+},
+{
+id:"26K052318",
+folder:"full02",
+title:"Japanese Red Fire Hydrant Sign with Tall Green Tree",
+tags:["fire-hydrant","sign","signboard","street-sign","japanese-sign","road-sign","kanji","red-sign","tree","green-leaves","tall-tree","street","roadside","building","architecture","urban","cityscape","sky","cloudy","daytime","japan","outdoor","scenery"]
+},
+{
+id:"26K052319",
+folder:"full02",
+title:"Rough Stucco Wall Texture Background",
+tags:["texture","background","wall","stucco","concrete","cement","plaster","rough","surface","pattern","gray","grey","solid","material","structure","architecture","detail","close-up","abstract","wallpaper","no-people"]
+},
 
 
 ];
