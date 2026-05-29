@@ -6401,7 +6401,7 @@ title:"Chuo Ohashi Cable Stayed Bridge and High Rise Skyscrapers Over Sumida Riv
 tags:["bridge","cable-stayed-bridge","chuo-ohashi","river","water","sumida-river","riverfront","waterfront","cityscape","urban","skyscraper","high-rise","apartment","tower-mansion","building","architecture","tokyo","japan","cloudy","overcast","sky","clouds","daytime","outdoor","scenery"]
 },
 {
-id:"26K052342,
+id:"26K052342",
 folder:"full02",
 title:"Stone Paved Riverside Promenade with Stairs and Cityscape View",
 tags:["promenade","walkway","path","pavement","stone-pavement","stairs","steps","handrail","railing","riverfront","waterfront","river","sumida-river","hydrangea","ajisai","flowers","bicycle","buildings","apartment","skyscraper","high-rise","yellow-cone","sign","urban","cityscape","tokyo","japan","cloudy","overcast","daytime","outdoor","scenery"]
