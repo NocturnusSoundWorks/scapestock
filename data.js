@@ -6357,5 +6357,41 @@ folder:"full02",
 title:"Ishikawajima Lighthouse Replica and Tsukishima High Rise Buildings Along Sumida River",
 tags:["lighthouse","replica","ishikawajima-lighthouse","monument","river","water","sumida-river","cityscape","urban","skyscraper","high-rise","apartment","tower-mansion","building","architecture","greenery","trees","tsukishima","tokyo","japan","cloudy","overcast","daytime","outdoor","scenery"]
 },
+{
+id:"26K052335",
+folder:"full02",
+title:"Ishikawajima Lighthouse Replica with Chuo Ohashi Bridge and Sumida River",
+tags:["lighthouse","replica","ishikawajima-lighthouse","monument","bridge","cable-stayed-bridge","chuo-ohashi","river","water","sumida-river","cityscape","urban","skyscraper","high-rise","apartment","building","architecture","greenery","trees","tokyo","japan","cloudy","overcast","daytime","outdoor","scenery"]
+},
+{
+id:"26K052336",
+folder:"full02",
+title:"Ishikawajima Lighthouse Replica with Chuo Ohashi Bridge and Sumida River Background",
+tags:["lighthouse","replica","ishikawajima-lighthouse","monument","bridge","cable-stayed-bridge","chuo-ohashi","river","water","sumida-river","cityscape","urban","skyscraper","high-rise","apartment","building","architecture","greenery","trees","tokyo","japan","cloudy","overcast","daytime","outdoor","scenery"]
+},
+{
+id:"26K052337",
+folder:"full02",
+title:"Modern High Rise Skyscrapers and Riverfront in Tokyo Cityscape",
+tags:["skyscraper","high-rise","apartment","tower-mansion","building","architecture","modern-architecture","river","water","sumida-river","riverfront","waterfront","reflection","cityscape","urban","tokyo","japan","cloudy","overcast","daytime","outdoor","scenery"]
+},
+{
+id:"26K052338",
+folder:"full02",
+title:"Water Gate and Modern Office Buildings Along Sumida River",
+tags:["water-gate","sluice","floodgate","river","water","sumida-river","riverfront","waterfront","buildings","office-building","architecture","cityscape","urban","tokyo","japan","cloudy","overcast","daytime","outdoor","scenery"]
+},
+{
+id:"26K052339",
+folder:"full02",
+title:"Steel Truss Bridge Structure Under Cloudy Sky",
+tags:["bridge","truss-bridge","iron-bridge","steel","structure","beam","framework","architecture","engineering","construction","building","apartment","urban","cityscape","tokyo","japan","cloudy","overcast","sky","cloud","daytime","outdoor"]
+},
+{
+id:"26K052340",
+folder:"full02",
+title:"Tranquil Pathway in Japanese Garden with Bamboo Fence and Greenery",
+tags:["path","pathway","walkway","garden","japanese-garden","park","greenery","trees","shrubs","bushes","leaves","bamboo-fence","fence","wooden-gate","gate","apartment","building","urban-park","nature","sunny","daytime","bright","blue-sky","clouds","outdoor","scenery"]
+},
 
 ];
