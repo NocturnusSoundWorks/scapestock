@@ -6327,6 +6327,35 @@ folder:"full02",
 title:"Urban Sidewalk in Japan with Stone Pagoda and Green Trees",
 tags:["sidewalk","pavement","street","road","walkway","pagoda","stone-pagoda","monument","tree","greenery","ivy","plants","fence","building","urban","cityscape","tokyo","japan","cloudy","daytime","outdoor","scenery"]
 },
-
+{
+id:"26K052330",
+folder:"full02",
+title:"Urban Street and Bridge with Buildings and Blue Sky Background",
+tags:["bridge","street","road","asphalt","sidewalk","pavement","brick-pavement","fence","railing","streetlight","lamp-post","building","tall-building","architecture","cityscape","urban","tokyo","japan","sunny","daytime","bright","sky","blue-sky","cloud","outdoor","scenery"]
+},
+{
+id:"26K052331",
+folder:"full02",
+title:"Urban Pedestrian Walkway with Stone Wall Greenery and High Rise Buildings",
+tags:["walkway","pavement","sidewalk","brick-pavement","stone-wall","greenery","shrub","bush","tree","leaves","staircase","stairs","handrail","high-rise","apartment","building","architecture","cityscape","urban","tokyo","japan","sunny","daytime","bright","sky","blue-sky","cloud","outdoor","scenery"]
+},
+{
+id:"26K052332",
+folder:"full02",
+title:"Chuo Ohashi Bridge and Sumida River Cityscape Under Cloudy Sky",
+tags:["bridge","cable-stayed-bridge","river","water","sumida-river","cityscape","urban","skyscraper","high-rise","apartment","building","architecture","cloudy","overcast","sky","cloud","tokyo","japan","outdoor","scenery"]
+},
+{
+id:"26K052333",
+folder:"full02",
+title:"Ishikawajima Lighthouse Replica and Tsukishima Skyscrapers Along Sumida River",
+tags:["lighthouse","replica","ishikawajima-lighthouse","monument","river","water","sumida-river","cityscape","urban","skyscraper","high-rise","apartment","tower-mansion","building","architecture","greenery","trees","tsukishima","tokyo","japan","cloudy","overcast","daytime","outdoor","scenery"]
+},
+{
+id:"26K052334",
+folder:"full02",
+title:"Ishikawajima Lighthouse Replica and Tsukishima High Rise Buildings Along Sumida River",
+tags:["lighthouse","replica","ishikawajima-lighthouse","monument","river","water","sumida-river","cityscape","urban","skyscraper","high-rise","apartment","tower-mansion","building","architecture","greenery","trees","tsukishima","tokyo","japan","cloudy","overcast","daytime","outdoor","scenery"]
+},
 
 ];
