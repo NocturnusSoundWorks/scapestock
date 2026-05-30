@@ -6496,5 +6496,18 @@ folder:"full02",
 title:"Illuminated Decorative Light Pillars and Shadows in Urban Square at Night",
 tags:["light","pillar","column","illumination","illuminated","night-view","night","light-fixture","lantern","pattern","shadow","plaza","square","park","pavement","brick-pavement","trees","greenery","urban-park","cityscape","tokyo","japan","outdoor","no-people"]
 },
+{
+id:"26K051858",
+folder:"full02",
+title:"Close Up of Illuminated Decorative Light Pillars with Dot Patterns at Night",
+tags:["light","pillar","column","illumination","illuminated","night-view","night","light-fixture","lantern","pattern","dot-pattern","plaza","square","park","pavement","tile-pavement","trees","greenery","urban-park","cityscape","tokyo","japan","outdoor","no-people"]
+},
+{
+id:"26K051859",
+folder:"full02",
+title:"Illuminated Decorative Pillars and Circles of Light Patterns at Night",
+tags:["light","pillar","column","illumination","illuminated","night-view","night","light-fixture","lantern","pattern","dot-pattern","shadow","plaza","square","park","pavement","tile-pavement","trees","urban-park","cityscape","tokyo","japan","outdoor","no-people"]
+},
+
 
 ];
