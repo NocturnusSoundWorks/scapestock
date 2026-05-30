@@ -6496,9 +6496,23 @@ folder:"full02",
 title:"Close Up of Red Brick Wall Texture",
 tags:["brick","wall","texture","red-brick","background","pattern","surface","mortar","construction","material","close-up","architecture","brown","rough","masonry","joint","building","row","outdoor","no-people"]
 },
-
-
-
-
+{
+id:"26K052359",
+folder:"full02",
+title:"Close Up of Pitted Grey Masonry Wall with Alternating Textured and Smooth Bricks",
+tags:["wall","texture","brick","block","masonry","construction","material","background","pattern","abstract","texture-pattern","grey","gray","pitted","pitted-surface","rough","smooth","alternating","alternating-pattern","rows","horizontal-lines","mortar","dark-mortar","speckled","porous","pavement-block","building-material","architecture","close-up","no-people"]
+},
+{
+id:"26K052360",
+folder:"full02",
+title:"Close Up of Bright Yellow St John's Wort Flowers with Long Stamens and Green Leaves",
+tags:["flower","hypericum","st-johns-wort","biyouyanagi","yellow-flower","gold-flower","blossom","petal","stamen","bud","leaves","green-leaves","foliage","plant","botanical","nature","bush","shrub","garden","park","spring","summer","bright","close-up","macro","outdoor","no-people"]
+},
+{
+id:"26K052361",
+folder:"full02",
+title:"Japanese Traffic Signs and Street Signs with City Buildings Background",
+tags:["traffic-sign","street-sign","road-sign","stop-sign","tomare","no-parking","pedestrian-crossing","bicycle-crossing","japan","japanese-sign","tokyo","urban","cityscape","buildings","architecture","apartment","skyscraper","tree","greenery","cloudy-sky","sky","daytime","outdoor"]
+},
 
 ];
