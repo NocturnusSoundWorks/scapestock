@@ -6508,6 +6508,13 @@ folder:"full02",
 title:"Illuminated Decorative Pillars and Circles of Light Patterns at Night",
 tags:["light","pillar","column","illumination","illuminated","night-view","night","light-fixture","lantern","pattern","dot-pattern","shadow","plaza","square","park","pavement","tile-pavement","trees","urban-park","cityscape","tokyo","japan","outdoor","no-people"]
 },
+{
+id:"26K051860",
+folder:"full02",
+title:"Stunning Night View of Riverfront Promenade and Skyscrapers in Tokyo",
+tags:["night-view","night","river","promenade","walkway","skyscrapers","high-rise","buildings","apartment","condominium","cityscape","urban","tokyo","japan","sumida-river","tsukishima","waterfront","illumination","lights","city-lights","reflection","boat","bridge","scenery","outdoor"]
+},
+
 
 
 ];
