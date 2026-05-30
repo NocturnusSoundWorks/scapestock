@@ -6466,7 +6466,35 @@ folder:"full02",
 title:"Full Frame Texture of Slightly Rusted Gray Metal Roller Shutter Door",
 tags:["shutter","roller-shutter","door","gate","garage-door","metal","steel","iron","gray","texture","pattern","background","lines","horizontal-lines","rust","rusty","weathered","surface","industrial","closed","no-people"]
 },
-
-
+{
+id:"26K051853",
+folder:"full02",
+title:"Modern High Rise Buildings and Ivy Covered Brick Building Under Clear Blue Sky",
+tags:["building","architecture","brick-building","ivy","creeper","greenery","leaves","hedgerow","bushes","fence","white-fence","apartment","condominium","skyscraper","high-rise","office-building","urban","cityscape","tokyo","japan","sunny","bright","clear-sky","blue-sky","daytime","outdoor"]
+},
+{
+id:"26K051854",
+folder:"full02",
+title:"Low Angle View of Modern Skyscrapers and Ivy Covered Building Under Clear Sky",
+tags:["building","architecture","brick-building","ivy","creeper","greenery","leaves","hedgerow","bushes","apartment","condominium","skyscraper","high-rise","office-building","urban","cityscape","tokyo","japan","sunny","bright","clear-sky","blue-sky","low-angle","daytime","outdoor"]
+},
+{
+id:"26K051855",
+folder:"full02",
+title:"Blooming Pink Azalea Bushes Along a Modern Building Wall with Exterior Lamps",
+tags:["azalea","tsutsuji","flower","pink-flower","blossom","bush","shrub","greenery","plant","nature","building","wall","exterior-wall","concrete-wall","architecture","lamp","light-fixture","street","sidewalk","urban","cityscape","tokyo","japan","daytime","outdoor"]
+},
+{
+id:"26K051856",
+folder:"full02",
+title:"Illuminated Decorative Cylindrical Light Pillars at Night in Urban Park Plaza",
+tags:["light","pillar","column","illumination","illuminated","night-view","night","light-fixture","lantern","pattern","plaza","square","park","pavement","brick-pavement","trees","greenery","urban-park","cityscape","tokyo","japan","outdoor","no-people"]
+},
+{
+id:"26K051857",
+folder:"full02",
+title:"Illuminated Decorative Light Pillars and Shadows in Urban Square at Night",
+tags:["light","pillar","column","illumination","illuminated","night-view","night","light-fixture","lantern","pattern","shadow","plaza","square","park","pavement","brick-pavement","trees","greenery","urban-park","cityscape","tokyo","japan","outdoor","no-people"]
+},
 
 ];
