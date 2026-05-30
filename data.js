@@ -6526,6 +6526,22 @@ folder:"full02",
 title:"Green Lawn and Pathway in Urban Park with Sculpture and City Buildings",
 tags:["park","garden","lawn","grass","green-grass","pathway","walkway","trail","sculpture","statue","monument","monolith","pigeon","bird","trees","greenery","flower-bed","buildings","architecture","skyscraper","urban","cityscape","tokyo","japan","sunny","bright","blue-sky","clear-sky","daytime","outdoor"]
 },
+{
+id:"26K051863",
+folder:"full02",
+title:"High Angle Close Up of a Pigeon on Green Lawn",
+tags:["pigeon","bird","dove","feral-pigeon","rock-dove","wildlife","animal","fauna","grass","lawn","green-grass","clover","white-clover","nature","field","meadow","ground","high-angle","close-up","sunny","bright","daytime","outdoor"]
+},
+{
+id:"26K051864",
+folder:"full02",
+title:"Low Angle View of a High Rise Dark Brick Building and Ivy Under Blue Sky",
+tags:["building","architecture","brick-building","brown-brick","dark-brick","ivy","creeper","greenery","leaves","tree","street-lamp","sign","windows","high-rise","office-building","urban","cityscape","tokyo","japan","sunny","bright","clear-sky","blue-sky","low-angle","daytime","outdoor"]
+},
+
+
+
+
 
 
 ];
