@@ -6406,9 +6406,66 @@ folder:"full02",
 title:"Stone Paved Riverside Promenade with Stairs and Cityscape View",
 tags:["promenade","walkway","path","pavement","stone-pavement","stairs","steps","handrail","railing","riverfront","waterfront","river","sumida-river","hydrangea","ajisai","flowers","bicycle","buildings","apartment","skyscraper","high-rise","yellow-cone","sign","urban","cityscape","tokyo","japan","cloudy","overcast","daytime","outdoor","scenery"]
 },
-
-
-
+{
+id:"26K052343",
+folder:"full02",
+title:"Water Gate and Modern Office Buildings Along Sumida River",
+tags:["water-gate","sluice","floodgate","river","water","sumida-river","riverfront","waterfront","buildings","office-building","architecture","cityscape","urban","tokyo","japan","cloudy","overcast","daytime","outdoor","scenery"]
+},
+{
+id:"26K052344",
+folder:"full02",
+title:"Urban Cityscape View from a Steel Truss Bridge with Traffic Cones",
+tags:["bridge","truss-bridge","iron-bridge","steel","structure","framework","railing","traffic-cone","pylon","road","asphalt","river","canal","cityscape","urban","buildings","apartment","skyscraper","high-rise","architecture","tokyo","japan","cloudy","overcast","sky","clouds","daytime","outdoor"]
+},
+{
+id:"26K052345",
+folder:"full02",
+title:"Close Up of Water Gate and Concrete Waterfront Near High Rise Buildings",
+tags:["water-gate","sluice","floodgate","river","canal","water","waterfront","concrete-wall","embankment","buildings","skyscraper","apartment","tower-mansion","architecture","urban","cityscape","tokyo","japan","cloudy","overcast","daytime","outdoor"]
+},
+{
+id:"26K052346",
+folder:"full02",
+title:"Sluice Water Gate and Urban Concrete Waterfront Pathway",
+tags:["water-gate","sluice","floodgate","river","canal","water","waterfront","pathway","walkway","pavement","greenery","grass","buildings","office-building","architecture","urban","cityscape","tokyo","japan","cloudy","overcast","daytime","outdoor"]
+},
+{
+id:"26K052347",
+folder:"full02",
+title:"Steel Truss Bridge Portal Frame with Traffic Sign Under Cloudy Sky",
+tags:["bridge","truss-bridge","iron-bridge","steel-bridge","minatobashi","portal-frame","structure","framework","steel","iron","traffic-sign","speed-limit","buildings","apartment","cityscape","urban","tokyo","japan","cloudy","overcast","sky","clouds","daytime","outdoor"]
+},
+{
+id:"26K052348",
+folder:"full02",
+title:"Narrow Street View Leading Towards Chuo Ohashi Bridge in Tokyo",
+tags:["street","road","backstreet","alley","asphalt","buildings","apartment","houses","traffic-cone","pylon","bar","bicycle","bridge","cable-stayed-bridge","chuo-ohashi","urban","cityscape","tokyo","japan","cloudy","overcast","sky","clouds","daytime","outdoor"]
+},
+{
+id:"26K052349",
+folder:"full02",
+title:"Steel Truss Bridge Structure Crossing River in Urban Area",
+tags:["bridge","truss-bridge","iron-bridge","steel-bridge","minatobashi","structure","framework","steel","iron","river","canal","water","reflection","buildings","apartment","architecture","urban","cityscape","tokyo","japan","cloudy","overcast","daytime","outdoor"]
+},
+{
+id:"26K052350",
+folder:"full02",
+title:"Red Mailbox on Street Corner Next to Willow Tree and Wooden Fence",
+tags:["mailbox","postbox","red-mailbox","street","sidewalk","pavement","crosswalk","zebra-crossing","willow-tree","tree","greenery","leaves","wooden-fence","fence","building","architecture","urban","cityscape","tokyo","japan","daytime","outdoor"]
+},
+{
+id:"26K052351",
+folder:"full02",
+title:"Symmetrical City Canal Reflecting Buildings and Cloudy Sky",
+tags:["canal","river","waterway","water","reflection","buildings","apartment","condominium","architecture","cityscape","urban","streetscape","greenery","plants","bridge","tokyo","japan","cloudy","overcast","sky","clouds","daytime","outdoor","scenery"]
+},
+{
+id:"26K052352",
+folder:"full02",
+title:"Full Frame Texture of Slightly Rusted Gray Metal Roller Shutter Door",
+tags:["shutter","roller-shutter","door","gate","garage-door","metal","steel","iron","gray","texture","pattern","background","lines","horizontal-lines","rust","rusty","weathered","surface","industrial","closed","no-people"]
+},
 
 
 
