@@ -6514,7 +6514,18 @@ folder:"full02",
 title:"Stunning Night View of Riverfront Promenade and Skyscrapers in Tokyo",
 tags:["night-view","night","river","promenade","walkway","skyscrapers","high-rise","buildings","apartment","condominium","cityscape","urban","tokyo","japan","sumida-river","tsukishima","waterfront","illumination","lights","city-lights","reflection","boat","bridge","scenery","outdoor"]
 },
-
+{
+id:"26K051861",
+folder:"full02",
+title:"Close Up of Red and White Hot Lips Sage Flowers Blooming in the Garden",
+tags:["flower","salvia","cherry-sage","hot-lips","red-and-white","blossom","petal","bud","wildflower","greenery","leaves","bush","shrub","plant","botanical","nature","garden","park","clover","fence","handrail","spring","summer","daytime","bright","sunny","close-up","macro","outdoor"]
+},
+{
+id:"26K051862",
+folder:"full02",
+title:"Green Lawn and Pathway in Urban Park with Sculpture and City Buildings",
+tags:["park","garden","lawn","grass","green-grass","pathway","walkway","trail","sculpture","statue","monument","monolith","pigeon","bird","trees","greenery","flower-bed","buildings","architecture","skyscraper","urban","cityscape","tokyo","japan","sunny","bright","blue-sky","clear-sky","daytime","outdoor"]
+},
 
 
 ];
