@@ -6706,5 +6706,11 @@ folder:"full02",
 title:"Urban Highway Underpass and Overpass Structure with Blue Sky in Tokyo",
 tags:["highway","expressway","shutoko","underpass","tunnel","overpass","bridge","road","asphalt","infrastructure","concrete","structure","rust","rusty","metal-fence","chain-link-fence","street-light","urban","cityscape","architecture","buildings","sky","blue-sky","clouds","tokyo","japan","daytime","outdoor"]
 },
+{
+id:"26K052394",
+folder:"full02",
+title:"Utility Pole and Power Lines Against a Dramatic Cloudy Sky Background",
+tags:["utility-pole","telephone-pole","power-pole","power-lines","electric-wires","cables","electricity","energy","infrastructure","transformer","sky","blue-sky","clouds","white-clouds","dark-clouds","dramatic-sky","weather","meteorology","cloudscape","low-angle-shot","daytime","outdoors","background","copy-space","wallpaper","no-people"]
+},
 
 ];
