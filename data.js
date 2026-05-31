@@ -6580,6 +6580,47 @@ folder:"full02",
 title:"Top Angle View of Bright Yellow St John's Wort Flowers and Green Leaves Pattern",
 tags:["flower","hypericum","st-johns-wort","biyouyanagi","yellow-flower","gold-flower","blossom","petal","stamen","bud","leaves","green-leaves","foliage","plant","botanical","nature","bush","shrub","garden","park","spring","summer","bright","pattern","background","top-angle","outdoor","no-people"]
 },
-
+{
+id:"26K052373",
+folder:"full02",
+title:"Close Up of Two Tone Wall Tiles with White Beige and Glazed Blue Texture",
+tags:["tile","wall","texture","pattern","background","wall-tile","ceramic-tile","glazed-tile","blue-tile","white-tile","beige-tile","two-tone","surface","material","interior-design","architecture","construction","glossy","matte","joints","mortar","close-up","abstract","no-people"]
+},
+{
+id:"26K052374",
+folder:"full02",
+title:"Close Up of Square White Wall Tiles Texture with Grey Grout Lines",
+tags:["tile","wall","texture","pattern","background","wall-tile","ceramic-tile","square-tile","white-tile","surface","material","interior-design","architecture","construction","glossy","clean","minimal","grid","joints","grout","grey-grout","close-up","abstract","no-people"]
+},
+{
+id:"26K052375",
+folder:"full02",
+title:"Close Up of Shiny Brushed Metal Silver Surface Texture",
+tags:["metal","metallic","silver","chrome","aluminum","steel","stainless-steel","iron","texture","surface","pattern","background","brushed-metal","shiny","glossy","reflective","light","bright","gradient","clean","minimal","smooth","industrial","material","close-up","abstract","no-people"]
+},
+{
+id:"26K052376",
+folder:"full02",
+title:"No Entry Road Sign with Auxiliary Plate Except Bicycles in Japan",
+tags:["traffic-sign","road-sign","no-entry","do-not-enter","regulatory-sign","japanese-sign","jitensha-wo-nozoku","bicycle-exception","red-sign","white-sign","pole","street","road","traffic","urban","cityscape","tokyo","japan","close-up","low-angle","building-background","daytime","outdoor"]
+},
+{
+id:"26K052377",
+folder:"full02",
+title:"Low Angle View of Traditional Japanese Roof Tiles on a Modern Building Corner",
+tags:["roof-tile","kawara","japanese-tile","traditional-architecture","modern-building","corner","eaves","tomoe-pattern","architecture","facade","wall","stucco","grey-wall","window","glass","tokyo","japan","urban","cityscape","low-angle","close-up","daytime","outdoor","no-people"]
+},
+{
+id:"26K052378",
+folder:"full02",
+title:"Close Up of Dark Brown Wooden Fence Panels Texture with Screws",
+tags:["wood","wooden","fence","texture","grain","wood-grain","pattern","background","panel","board","plank","picket","timber","lumber","surface","material","brown","dark-brown","natural","screws","fasteners","outdoor","carpentry","construction","close-up","abstract","no-people"]
+},
+{
+id:"26K052379",
+folder:"full02",
+title:"Row of Traditional White Paper Lanterns Hanging Outside a Japanese Izakaya Bar",
+tags:["lantern","chochin","paper-lantern","japanese-lantern","white-lantern","izakaya","pub","bar","restaurant","signboard","sake-place","draft-beer","chuhai","kanji","calligraphy","japanese-characters","traditional","culture","vintage","retro","hanging","wood-beam","tokyo","japan","close-up","daytime","outdoor"]
+},
 
 ];
