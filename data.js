@@ -6550,6 +6550,25 @@ folder:"full02",
 title:"Beautiful Light Blue Hydrangea Flowers Blooming with Lush Green Leaves",
 tags:["hydrangea","ajisai","flower","blue-hydrangea","light-blue","blossom","petal","bud","leaves","greenery","plant","botanical","nature","bush","shrub","garden","park","rainy-season","june","summer","bright","close-up","outdoor","no-people"]
 },
+{
+id:"26K052368",
+folder:"full02",
+title:"Weeping Willow Tree and Hydrangea Bush on an Urban Street Corner with Crosswalk",
+tags:["willow-tree","weeping-willow","tree","hydrangea","ajisai","flower","bush","shrub","potted-plants","greenery","leaves","crosswalk","zebra-crossing","street-marking","road","pavement","sidewalk","building","architecture","urban","cityscape","tokyo","japan","daytime","outdoor"]
+},
+{
+id:"26K052369",
+folder:"full02",
+title:"Close Up of Kajibashi Dori Street Sign on a Vintage Brown Pole in Tokyo",
+tags:["street-sign","road-sign","signpost","kajibashi-dori","tokyo","japan","japanese-sign","vintage","antique","retro","brown-pole","ginkgo-tree","leaves","greenery","kyoka-square","information-board","street","road","traffic","truck","urban","cityscape","chuo-ku","daytime","outdoor"]
+},
+{
+id:"26K052370",
+folder:"full02",
+title:"Low Angle View of Modern Skyscrapers and Cloudy Sky Near Station in Tokyo",
+tags:["building","skyscraper","architecture","modern-architecture","high-rise","office-building","takaracho-station","subway-entrance","urban","cityscape","tokyo","japan","low-angle","worm-eye-view","cloudy-sky","sky","clouds","facade","windows","concrete","steel","glass","daytime","outdoor"]
+},
+
 
 
 ];
