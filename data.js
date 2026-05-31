@@ -6628,4 +6628,54 @@ folder:"full02",
 title:"Three Traditional White Paper Lanterns Hanging at a Japanese Izakaya Restaurant",
 tags:["lantern","chochin","paper-lantern","japanese-lantern","white-lantern","izakaya","pub","bar","restaurant","signboard","stew","yakitori","kushiyaki","kanji","hiragana","calligraphy","japanese-characters","traditional","culture","vintage","retro","hanging","wood-beam","tokyo","japan","close-up","daytime","outdoor"]
 },
+{
+id:"26K052381",
+folder:"full02",
+title:"Row of Traditional White Paper Lanterns with Japanese Kanji Inscriptions at an Izakaya Pub",
+tags:["lantern","chochin","paper-lantern","japanese-lantern","white-lantern","izakaya","pub","bar","restaurant","signboard","sake","chuhai","draft-beer","nama-biiru","kanji","katakana","calligraphy","japanese-characters","traditional","culture","vintage","retro","hanging","wood-beam","tokyo","japan","close-up","daytime","outdoor"]
+},
+{
+id:"26K052382",
+folder:"full02",
+title:"Stone Pillar of Danjobashi Bridge with Metropolitan Expressway Background in Tokyo",
+tags:["bridge","pillar","stone-pillar","monument","danjobashi","danjobashi-bridge","hiragana","japanese-characters","inscription","plaque","metropolitan-expressway","shutoko","highway","overpass","street","sidewalk","urban","cityscape","tokyo","japan","green-sign","traffic-sign","flowerbed","daytime","outdoor"]
+},
+{
+id:"26K052383",
+folder:"full02",
+title:"Close Up of Weathered Pink Shutter Door Texture with Rust and Peeling Paint",
+tags:["shutter","door","shutter-door","rolling-shutter","metal","metallic","iron","steel","texture","pattern","background","surface","material","pink","old","weathered","aged","rusty","rust","peeling-paint","cracked","industrial","retro","vintage","close-up","abstract","no-people"]
+},
+{
+id:"26K052384",
+folder:"full02",
+title:"Close Up of White Stucco Wall with Horizontal Brush Texture Background",
+tags:["wall","texture","pattern","background","stucco","plaster","concrete","cement","surface","material","horizontal-lines","brushed","rough","grooves","white","light-grey","clean","minimal","architecture","construction","close-up","abstract","no-people"]
+},
+{
+id:"26K052385",
+folder:"full02",
+title:"Narrow Back Alley with Asphalt Street and Old Buildings in Tokyo",
+tags:["alley","back-alley","street","road","pavement","asphalt","gutter","buildings","architecture","urban","cityscape","town","residential","retro","vintage","nostalgic","bicycle","plants","greenery","purple-building","tokyo","japan","japanese-street","narrow-street","daytime","outdoor"]
+},
+{
+id:"26K052386",
+folder:"full02",
+title:"No Pedestrian Crossing Road Sign on a City Street in Japan",
+tags:["traffic-sign","road-sign","regulatory-sign","no-crossing","pedestrian-prohibited","oudan-kinshi","japanese-sign","red-sign","arrow-plate","pole","street","road","asphalt","traffic","urban","cityscape","building-background","tree","trunk","ginkgo-tree","greenery","shrub","tokyo","japan","daytime","outdoor"]
+},
+{
+id:"26K052387",
+folder:"full02",
+title:"Vintage Manual Water Pump in a Small Japanese Garden with Ivy and Bricks",
+tags:["water-pump","hand-pump","well-pump","manual-pump","vintage","retro","antique","old","iron","metal","garden","courtyard","backyard","ivy","leaves","greenery","plants","nature","bricks","stones","drain-grate","concrete","shunka-en","tokyo","japan","daytime","outdoor"]
+},
+{
+id:"26K052388",
+folder:"full02",
+title:"Close Up of Dark Brown Wooden Fence Planks Texture with Screws",
+tags:["wood","wooden","fence","texture","grain","wood-grain","pattern","background","panel","board","plank","picket","timber","lumber","surface","material","brown","dark-brown","natural","screws","fasteners","outdoor","carpentry","construction","close-up","abstract","no-people"]
+},
+
+
 ];
