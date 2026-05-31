@@ -6514,5 +6514,42 @@ folder:"full02",
 title:"Japanese Traffic Signs and Street Signs with City Buildings Background",
 tags:["traffic-sign","street-sign","road-sign","stop-sign","tomare","no-parking","pedestrian-crossing","bicycle-crossing","japan","japanese-sign","tokyo","urban","cityscape","buildings","architecture","apartment","skyscraper","tree","greenery","cloudy-sky","sky","daytime","outdoor"]
 },
+{
+id:"26K052362",
+folder:"full02",
+title:"Beautiful Pink and Purple Hydrangea Bushes Blooming on a City Sidewalk",
+tags:["hydrangea","ajisai","flower","pink-hydrangea","purple-hydrangea","blossom","bush","shrub","greenery","leaves","plant","botanical","nature","willow-tree","sidewalk","pavement","street","road","car","urban","cityscape","tokyo","japan","daytime","outdoor"]
+},
+{
+id:"26K052363",
+folder:"full02",
+title:"Close Up of Minami-taka Bridge Nameplate on a Stone Pillar in Tokyo",
+tags:["bridge","nameplate","sign","stone-wall","pillar","concrete-wall","steel-bridge","truss-bridge","rivets","railing","handrail","sidewalk","pavement","tiles","greenery","leaves","trees","plants","weed","minamitakabashi","chuo-ku","tokyo","japan","history","historic","urban","cityscape","daytime","outdoor"]
+},
+{
+id:"26K052364",
+folder:"full02",
+title:"Scenic View of Minami-taka Steel Truss Bridge and City Buildings Over Sumida River in Tokyo",
+tags:["bridge","steel-bridge","truss-bridge","iron-bridge","river","waterway","sumida-river","reflection","water-reflection","buildings","architecture","apartment","condominium","skyscraper","high-rise","urban","cityscape","chuo-ku","tokyo","japan","cloudy-sky","sky","scenery","landscape","daytime","outdoor"]
+},
+{
+id:"26K052365",
+folder:"full02",
+title:"Symmetric Urban River Canal with Building Reflections Under Cloudy Sky in Tokyo",
+tags:["river","canal","waterway","reflection","water-reflection","buildings","apartment","condominium","architecture","cityscape","urban","tokyo","japan","symmetry","riverbank","greenery","reeds","bridge","cloudy-sky","sky","clouds","scenery","landscape","daytime","outdoor"]
+},
+{
+id:"26K052366",
+folder:"full02",
+title:"Close Up of Rough White Stucco Wall Texture",
+tags:["wall","texture","stucco","plaster","concrete","cement","exterior-wall","surface","pattern","background","white","light-grey","rough","textured","granular","coarse","bumpy","uneven","architecture","building-material","close-up","abstract","no-people"]
+},
+{
+id:"26K052367",
+folder:"full02",
+title:"Beautiful Light Blue Hydrangea Flowers Blooming with Lush Green Leaves",
+tags:["hydrangea","ajisai","flower","blue-hydrangea","light-blue","blossom","petal","bud","leaves","greenery","plant","botanical","nature","bush","shrub","garden","park","rainy-season","june","summer","bright","close-up","outdoor","no-people"]
+},
+
 
 ];
