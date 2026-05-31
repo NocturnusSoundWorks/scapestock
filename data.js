@@ -6622,5 +6622,10 @@ folder:"full02",
 title:"Row of Traditional White Paper Lanterns Hanging Outside a Japanese Izakaya Bar",
 tags:["lantern","chochin","paper-lantern","japanese-lantern","white-lantern","izakaya","pub","bar","restaurant","signboard","sake-place","draft-beer","chuhai","kanji","calligraphy","japanese-characters","traditional","culture","vintage","retro","hanging","wood-beam","tokyo","japan","close-up","daytime","outdoor"]
 },
-
+{
+id:"26K052380",
+folder:"full02",
+title:"Three Traditional White Paper Lanterns Hanging at a Japanese Izakaya Restaurant",
+tags:["lantern","chochin","paper-lantern","japanese-lantern","white-lantern","izakaya","pub","bar","restaurant","signboard","stew","yakitori","kushiyaki","kanji","hiragana","calligraphy","japanese-characters","traditional","culture","vintage","retro","hanging","wood-beam","tokyo","japan","close-up","daytime","outdoor"]
+},
 ];
