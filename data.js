@@ -6688,5 +6688,23 @@ folder:"full02",
 title:"Lush Green Trees Arching Over a Quiet City Street in Tokyo",
 tags:["tree","green-leaves","fresh-green","canopy","foliage","nature","street","road","asphalt","urban-nature","cityscape","avenue","sidewalk","buildings","cars","shadows","sunlight","sky","blue-sky","scenery","tokyo","japan","japanese-street","summer","spring","daytime","outdoor"]
 },
+{
+id:"26K052391",
+folder:"full02",
+title:"Dramatic White and Gray Clouds in Deep Blue Sky Background",
+tags:["sky","cloud","blue-sky","clouds","dark-cloud","white-cloud","gray-cloud","dramatic-sky","weather","meteorology","nature","cumulus","cloudscape","atmosphere","overcast","sunlight","bright","daytime","outdoors","background","copy-space","wallpaper","no-people"]
+},
+{
+id:"26K052392",
+folder:"full02",
+title:"Illuminated Ferris Wheel at Night with Yokohama Cosmoworld and City Buildings",
+tags:["yokohama","minato-mirai","kanagawa","japan","ferris-wheel","cosmo-clock","cosmo-clock-21","cosmoworld","amusement-park","theme-park","night-view","nightscape","cityscape","urban","illuminated","light","neon","pink-light","clock","digital-clock","buildings","skyscrapers","architecture","travel","tourism","outdoor","night"]
+},
+{
+id:"26K052393",
+folder:"full02",
+title:"Urban Highway Underpass and Overpass Structure with Blue Sky in Tokyo",
+tags:["highway","expressway","shutoko","underpass","tunnel","overpass","bridge","road","asphalt","infrastructure","concrete","structure","rust","rusty","metal-fence","chain-link-fence","street-light","urban","cityscape","architecture","buildings","sky","blue-sky","clouds","tokyo","japan","daytime","outdoor"]
+},
 
 ];
