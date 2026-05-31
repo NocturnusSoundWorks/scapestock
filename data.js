@@ -6568,6 +6568,12 @@ folder:"full02",
 title:"Low Angle View of Modern Skyscrapers and Cloudy Sky Near Station in Tokyo",
 tags:["building","skyscraper","architecture","modern-architecture","high-rise","office-building","takaracho-station","subway-entrance","urban","cityscape","tokyo","japan","low-angle","worm-eye-view","cloudy-sky","sky","clouds","facade","windows","concrete","steel","glass","daytime","outdoor"]
 },
+{
+id:"26K052371",
+folder:"full02",
+title:"Close Up of Bright Yellow St John's Wort Flowers with Long Stamens and Green Leaves",
+tags:["flower","hypericum","st-johns-wort","biyouyanagi","yellow-flower","gold-flower","blossom","petal","stamen","bud","leaves","green-leaves","foliage","plant","botanical","nature","bush","shrub","garden","park","spring","summer","bright","close-up","macro","outdoor","no-people"]
+},
 
 
 
