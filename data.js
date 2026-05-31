@@ -6574,7 +6574,12 @@ folder:"full02",
 title:"Close Up of Bright Yellow St John's Wort Flowers with Long Stamens and Green Leaves",
 tags:["flower","hypericum","st-johns-wort","biyouyanagi","yellow-flower","gold-flower","blossom","petal","stamen","bud","leaves","green-leaves","foliage","plant","botanical","nature","bush","shrub","garden","park","spring","summer","bright","close-up","macro","outdoor","no-people"]
 },
-
+{
+id:"26K052372",
+folder:"full02",
+title:"Top Angle View of Bright Yellow St John's Wort Flowers and Green Leaves Pattern",
+tags:["flower","hypericum","st-johns-wort","biyouyanagi","yellow-flower","gold-flower","blossom","petal","stamen","bud","leaves","green-leaves","foliage","plant","botanical","nature","bush","shrub","garden","park","spring","summer","bright","pattern","background","top-angle","outdoor","no-people"]
+},
 
 
 ];
