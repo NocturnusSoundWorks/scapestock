@@ -6676,6 +6676,17 @@ folder:"full02",
 title:"Close Up of Dark Brown Wooden Fence Planks Texture with Screws",
 tags:["wood","wooden","fence","texture","grain","wood-grain","pattern","background","panel","board","plank","picket","timber","lumber","surface","material","brown","dark-brown","natural","screws","fasteners","outdoor","carpentry","construction","close-up","abstract","no-people"]
 },
-
+{
+id:"26K052389",
+folder:"full02",
+title:"Beautiful Night View of Yokohama Minato Mirai Skyline with Yokohama Landmark Tower and Ropeway",
+tags:["yokohama","minato-mirai","kanagawa","japan","night-view","nightscape","skyline","cityscape","urban","illuminated","light","reflection","waterfront","bay","river","yokohama-landmark-tower","skyscraper","building","yokohama-air-cabin","ropeway","cable-car","boat","bridge","park","travel","tourism","outdoor","night"]
+},
+{
+id:"26K052390",
+folder:"full02",
+title:"Lush Green Trees Arching Over a Quiet City Street in Tokyo",
+tags:["tree","green-leaves","fresh-green","canopy","foliage","nature","street","road","asphalt","urban-nature","cityscape","avenue","sidewalk","buildings","cars","shadows","sunlight","sky","blue-sky","scenery","tokyo","japan","japanese-street","summer","spring","daytime","outdoor"]
+},
 
 ];
