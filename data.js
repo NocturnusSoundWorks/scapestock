@@ -6764,10 +6764,20 @@ tags:["yokohama","kanagawa","japan","yokohama-red-brick-warehouse","akarenga-sok
 {
 id:"26K052504",
 folder:"full02",
-title:"Close Up of Heavy Iron Door with Rivets and Hinges at Yokohama Red Brick Warehouse",
+title:"Heavy Iron Door with Rivets and Hinges at Yokohama Red Brick Warehouse",
 tags:["yokohama","kanagawa","japan","yokohama-red-brick-warehouse","akarenga-soko","iron-door","metal-door","gate","hinge","rivet","bolt","stud","hardware","industrial","historic-building","architecture","texture","pattern","background","surface","material","beige","cream-color","close-up","abstract","no-people"]
 },
-
-
+{
+id:"26K052505",
+folder:"full02",
+title:"Close Up of Heavy Iron Door Hinge and Rivets Detail at Yokohama Red Brick Warehouse",
+tags:["yokohama","kanagawa","japan","yokohama-red-brick-warehouse","akarenga-soko","iron-door","metal-door","hinge","rivet","bolt","stud","hardware","industrial","historic-building","architecture","texture","pattern","background","surface","material","beige","cream-color","close-up","macro","abstract","no-people"]
+},
+{
+id:"26K052506",
+folder:"full02",
+title:"Traditional Japanese Reed Screen Awning Structure Supported by Bamboo and Wooden Poles",
+tags:["sudare","yoshizu","reed-screen","bamboo","wood","pole","post","structure","hut","shelter","construction","craftsmanship","traditional","japanese-style","summer","shading","sunshade","awning","roof","texture","pattern","building","apartment","tree","greenery","sunlight","daytime","outdoors","no-people"]
+},
 
 ];
