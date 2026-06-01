@@ -6743,7 +6743,12 @@ folder:"full02",
 title:"Panoramic View of Yokohama Port and Osanbashi Pier Under Cloudy Sky",
 tags:["yokohama","kanagawa","japan","port-of-yokohama","osanbashi","pier","harbor","port","bay","sea","waterfront","coastline","skyline","cityscape","urban","buildings","cloudy-sky","overcast","gloomy-weather","boat","ship","travel","tourism","daytime","outdoors","background","no-people"]
 },
-
+{
+id:"26K052501",
+folder:"full02",
+title:"Waterfront View of Yokohama Port and City Buildings Under Cloudy Sky",
+tags:["yokohama","kanagawa","japan","port-of-yokohama","port","harbor","bay","sea","water","waterfront","promenade","railing","fence","coastline","skyline","cityscape","urban","buildings","cloudy-sky","overcast","gloomy-weather","travel","tourism","daytime","outdoors","background","no-people"]
+},
 
 
 ];
