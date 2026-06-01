@@ -6712,5 +6712,38 @@ folder:"full02",
 title:"Utility Pole and Power Lines Against a Dramatic Cloudy Sky Background",
 tags:["utility-pole","telephone-pole","power-pole","power-lines","electric-wires","cables","electricity","energy","infrastructure","transformer","sky","blue-sky","clouds","white-clouds","dark-clouds","dramatic-sky","weather","meteorology","cloudscape","low-angle-shot","daytime","outdoors","background","copy-space","wallpaper","no-people"]
 },
+{
+id:"26K052395",
+folder:"full02",
+title:"Close Up of Orange Lion's Ear Flowers Blooming in the Garden",
+tags:["flower","plant","botanical","lion's-ear","lion's-tail","leonotis-leonurus","orange-flower","spiky","bud","petal","leaf","greenery","nature","garden","blossom","fresh","vibrant","exotic","summer","autumn","daytime","outdoors","close-up","no-people"]
+},
+{
+id:"26K052396",
+folder:"full02",
+title:"Close Up of Orange Lion's Ear Flower in Bloom with Soft Focus Garden Background",
+tags:["flower","plant","botanical","lion's-ear","lion's-tail","leonotis-leonurus","orange-flower","spiky","bud","petal","leaf","stem","greenery","nature","garden","rose-garden","blossom","fresh","vibrant","exotic","summer","autumn","daytime","outdoors","close-up","shallow-depth-of-field","no-people"]
+},
+{
+id:"26K052397",
+folder:"full02",
+title:"Close Up of White Orlaya Grandiflora Flowers Blooming in the Garden",
+tags:["flower","plant","botanical","orlaya","orlaya-grandiflora","white-flower","lace-flower","lace-lace","umbel","petal","leaf","greenery","nature","garden","flower-bed","blossom","fresh","vibrant","white","green","spring","summer","daytime","outdoors","close-up","no-people"]
+},
+
+{
+id:"26K052398",
+folder:"full02",
+title:"Close Up of Pink and White Wild Roses Blooming in the Garden",
+tags:["flower","plant","botanical","rose","wild-rose","pink-rose","white-rose","shrub-rose","petal","stamen","leaf","greenery","nature","garden","flower-bed","blossom","fresh","vibrant","pink","white","green","spring","summer","daytime","outdoors","close-up","no-people"]
+},
+{
+id:"26K052399",
+folder:"full02",
+title:"Panoramic View of Yokohama Port and Osanbashi Pier Under Cloudy Sky",
+tags:["yokohama","kanagawa","japan","port-of-yokohama","osanbashi","pier","harbor","port","bay","sea","waterfront","coastline","skyline","cityscape","urban","buildings","cloudy-sky","overcast","gloomy-weather","boat","ship","travel","tourism","daytime","outdoors","background","no-people"]
+},
+
+
 
 ];
