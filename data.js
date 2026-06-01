@@ -6791,5 +6791,17 @@ folder:"full02",
 title:"Wide Angle View of Yokohama Red Brick Warehouse Facade Under Cloudy Sky",
 tags:["yokohama","kanagawa","japan","yokohama-red-brick-warehouse","akarenga-soko","red-brick","brick-wall","brickwork","warehouse","historic-building","architecture","facade","exterior","window","awning","canopy","urban","cityscape","cloudy-sky","overcast","gloomy-weather","travel","tourism","wide-angle","low-angle-shot","daytime","outdoors","no-people"]
 },
+{
+id:"26K052509",
+folder:"full02",
+title:"Elevated Night View of Yokohama Landmark Tower and Minato Mirai Cityscape with Road",
+tags:["yokohama","minato-mirai","kanagawa","japan","yokohama-landmark-tower","skyscraper","building","tower","cityscape","nightscape","urban","architecture","illuminated","light","street-light","road","street","asphalt","traffic-sign","car","tree","greenery","canal","waterfront","anniversaire","travel","tourism","night","outdoor"]
+},
+{
+id:"26K052510",
+folder:"full02",
+title:"Top Down View of Gray Asphalt Road Texture Background",
+tags:["asphalt","pavement","road","street","ground","surface","floor","texture","pattern","material","grainy","rough","concrete","gray","grey","monochrome","structure","solid","background","copy-space","wallpaper","outdoors","no-people"]
+},
 
 ];
