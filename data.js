@@ -6779,5 +6779,17 @@ folder:"full02",
 title:"Traditional Japanese Reed Screen Awning Structure Supported by Bamboo and Wooden Poles",
 tags:["sudare","yoshizu","reed-screen","bamboo","wood","pole","post","structure","hut","shelter","construction","craftsmanship","traditional","japanese-style","summer","shading","sunshade","awning","roof","texture","pattern","building","apartment","tree","greenery","sunlight","daytime","outdoors","no-people"]
 },
+{
+id:"26K052507",
+folder:"full02",
+title:"Close Up of Traditional Japanese Reed Screen Roof with Sunlight Filtering Through Trees",
+tags:["sudare","yoshizu","reed-screen","bamboo","wood","pole","structure","construction","shading","sunshade","awning","roof","traditional","japanese-style","texture","pattern","tree","greenery","leaves","sunlight","sunbeam","lens-flare","bright","building","summer","daytime","outdoors","no-people"]
+},
+{
+id:"26K052508",
+folder:"full02",
+title:"Wide Angle View of Yokohama Red Brick Warehouse Facade Under Cloudy Sky",
+tags:["yokohama","kanagawa","japan","yokohama-red-brick-warehouse","akarenga-soko","red-brick","brick-wall","brickwork","warehouse","historic-building","architecture","facade","exterior","window","awning","canopy","urban","cityscape","cloudy-sky","overcast","gloomy-weather","travel","tourism","wide-angle","low-angle-shot","daytime","outdoors","no-people"]
+},
 
 ];
