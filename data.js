@@ -6749,6 +6749,12 @@ folder:"full02",
 title:"Waterfront View of Yokohama Port and City Buildings Under Cloudy Sky",
 tags:["yokohama","kanagawa","japan","port-of-yokohama","port","harbor","bay","sea","water","waterfront","promenade","railing","fence","coastline","skyline","cityscape","urban","buildings","cloudy-sky","overcast","gloomy-weather","travel","tourism","daytime","outdoors","background","no-people"]
 },
+{
+id:"26K052502",
+folder:"full02",
+title:"Low Angle View of Yokohama Red Brick Warehouse Architecture Under Cloudy Sky",
+tags:["yokohama","kanagawa","japan","yokohama-red-brick-warehouse","akarenga-soko","red-brick","brick-wall","brickwork","warehouse","historic-building","architecture","facade","window","awning","canopy","urban","cityscape","cloudy-sky","overcast","travel","tourism","low-angle-shot","daytime","outdoors","no-people"]
+},
 
 
 ];
