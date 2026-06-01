@@ -6755,6 +6755,19 @@ folder:"full02",
 title:"Low Angle View of Yokohama Red Brick Warehouse Architecture Under Cloudy Sky",
 tags:["yokohama","kanagawa","japan","yokohama-red-brick-warehouse","akarenga-soko","red-brick","brick-wall","brickwork","warehouse","historic-building","architecture","facade","window","awning","canopy","urban","cityscape","cloudy-sky","overcast","travel","tourism","low-angle-shot","daytime","outdoors","no-people"]
 },
+{
+id:"26K052503",
+folder:"full02",
+title:"Low Angle View of Corrugated Awning and Steel Brackets on Yokohama Red Brick Warehouse Wall",
+tags:["yokohama","kanagawa","japan","yokohama-red-brick-warehouse","akarenga-soko","red-brick","brick-wall","brickwork","warehouse","historic-building","architecture","facade","awning","canopy","corrugated-roof","steel-bracket","metal-support","structure","urban","cityscape","overcast","low-angle-shot","daytime","outdoors","no-people"]
+},
+{
+id:"26K052504",
+folder:"full02",
+title:"Close Up of Heavy Iron Door with Rivets and Hinges at Yokohama Red Brick Warehouse",
+tags:["yokohama","kanagawa","japan","yokohama-red-brick-warehouse","akarenga-soko","iron-door","metal-door","gate","hinge","rivet","bolt","stud","hardware","industrial","historic-building","architecture","texture","pattern","background","surface","material","beige","cream-color","close-up","abstract","no-people"]
+},
+
 
 
 ];
