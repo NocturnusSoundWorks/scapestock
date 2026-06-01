@@ -6803,5 +6803,11 @@ folder:"full02",
 title:"Top Down View of Gray Asphalt Road Texture Background",
 tags:["asphalt","pavement","road","street","ground","surface","floor","texture","pattern","material","grainy","rough","concrete","gray","grey","monochrome","structure","solid","background","copy-space","wallpaper","outdoors","no-people"]
 },
+{
+id:"26K052511",
+folder:"full02",
+title:"Close Up of Weathered White Concrete Block Wall with Peeling Paint Texture",
+tags:["concrete","block","wall","concrete-block","cinder-block","cement","brick","surface","texture","pattern","material","weathered","aged","damaged","cracked","peeling-paint","chipped","mold","stain","grunge","industrial","urban","background","copy-space","no-people"]
+},
 
 ];
