@@ -6879,7 +6879,7 @@ tags:["night-view","nightscape","cityscape","skyline","skyscraper","building","o
 id:"26K052523",
 folder:"full02",
 title:"Symmetrical Perspective View of Illuminated Empty Pedestrian Walkway and Overpass at Night",
-tags:["walkway","footpath","pedestrian-zone","bridge","overpass","girders","beams","under-bridge","structure","architecture","infrastructure","lighting","illumination","street-light","light-pole","night-view","nightscape","cityscape","urban","modern","symmetrical","perspective","vanishing-point","night","outdoors","no-people"]
+tags:["walkway","footpath","pedestrian-zone","bridge","overpass","girders","beams","under-bridge","structure","architecture","infrastructure","lighting","illumination","street-light","light-pole","night-view","nightscape","cityscape","urban","modern","symmetrical","perspective","vanishing-point","shinbashi","tokyo","japan","night","outdoors","no-people"]
 },
 
 ];
