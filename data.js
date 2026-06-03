@@ -6052,10 +6052,10 @@ title:"Walkway Along an Urban Canal with High-Rise Buildings in Japan",
 tags:["walkway","canal","river","water","promenade","railing","fence","buildings","apartment","condominium","skyscraper","urban","cityscape","sky","clouds","utility-pole","boats","Kayabacho","tokyo","japan","japanese","outdoors","scenery"]
 },
 {
-id:"26K051882",
+id:"26K051382",
 folder:"full02",
-title:"Traditional Japanese Paper Lantern Chochin Glowing Indoors",
-tags:["lantern","paper-lantern","chochin","japanese-lantern","lighting","illumination","light","glow","traditional","japanese-culture","wood","ceiling","interior","indoor","close-up"]
+title:"Bright Summer Sky with White Clouds Over Residential Area Houses Background",
+tags:["sky","cloud","sun","blue-sky","summer","daytime","sunny","nature","house","building","residential-area","suburb","roof","power-pole","wire","townscape","cityscape","landscape","background","copy-space","wallpaper","outdoors","no-people"]
 },
 {
 id:"26K051883",
