@@ -6869,7 +6869,12 @@ folder:"full02",
 title:"Night View of Modern Curved Pedestrian Bridge and Illuminated Skyscraper Facade",
 tags:["pedestrian-bridge","walkway","overpass","curved","architecture","building","skyscraper","office-building","illuminated","windows","light","cityscape","urban","modern","shinbashi","tokyo","japan","night-view","nightscape","city-life","structure","night","outdoors","no-people"]
 },
-
+{
+id:"26K052522",
+folder:"full02",
+title:"Night View of Illuminated Skyscraper Buildings and City Skyline under Cloudy Sky",
+tags:["night-view","nightscape","cityscape","skyline","skyscraper","building","office-building","illuminated","windows","light","city-life","urban","modern","architecture","shrub","bush","greenery","overcast","shinbashi","tokyo","japan","cloudy-sky","cloud","dark","night","outdoors","no-people"]
+},
 
 
 
