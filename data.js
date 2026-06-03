@@ -6875,7 +6875,11 @@ folder:"full02",
 title:"Night View of Illuminated Skyscraper Buildings and City Skyline under Cloudy Sky",
 tags:["night-view","nightscape","cityscape","skyline","skyscraper","building","office-building","illuminated","windows","light","city-life","urban","modern","architecture","shrub","bush","greenery","overcast","shinbashi","tokyo","japan","cloudy-sky","cloud","dark","night","outdoors","no-people"]
 },
-
-
+{
+id:"26K052523",
+folder:"full02",
+title:"Symmetrical Perspective View of Illuminated Empty Pedestrian Walkway and Overpass at Night",
+tags:["walkway","footpath","pedestrian-zone","bridge","overpass","girders","beams","under-bridge","structure","architecture","infrastructure","lighting","illumination","street-light","light-pole","night-view","nightscape","cityscape","urban","modern","symmetrical","perspective","vanishing-point","night","outdoors","no-people"]
+},
 
 ];
