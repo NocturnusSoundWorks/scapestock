@@ -6855,8 +6855,22 @@ tags:["walkway","footpath","pedestrian-zone","bridge","overpass","girders","beam
 id:"26K052519",
 folder:"full02",
 title:"Symmetrical Night View of Illuminated Urban Pedestrian Walkway and Overpass Structure",
-tags:["walkway","footpath","pedestrian-zone","bridge","overpass","girders","beams","under-bridge","structure","architecture","infrastructure","lighting","illumination","street-light","light-pole","night-view","nightscape","cityscape","urban","modern","symmetrical","perspective","vanishing-point","night","outdoors","no-people"]
+tags:["walkway","footpath","pedestrian-zone","bridge","overpass","girders","beams","under-bridge","structure","architecture","infrastructure","lighting","illumination","street-light","light-pole","night-view","nightscape","cityscape","urban","modern","symmetrical","perspective","vanishing-point","shinbashi","tokyo","japan","night","outdoors","no-people"]
 },
+{
+id:"26K052520",
+folder:"full02",
+title:"Symmetrical Night View of Illuminated Pedestrian Walkway and Overpass Infrastructure",
+tags:["walkway","footpath","pedestrian-zone","bridge","overpass","girders","beams","under-bridge","structure","architecture","infrastructure","lighting","illumination","street-light","light-pole","night-view","nightscape","cityscape","urban","modern","symmetrical","perspective","vanishing-point","shinbashi","tokyo","japan","night","outdoors","no-people"]
+},
+{
+id:"26K052521",
+folder:"full02",
+title:"Night View of Modern Curved Pedestrian Bridge and Illuminated Skyscraper Facade",
+tags:["pedestrian-bridge","walkway","overpass","curved","architecture","building","skyscraper","office-building","illuminated","windows","light","cityscape","urban","modern","shinbashi","tokyo","japan","night-view","nightscape","city-life","structure","night","outdoors","no-people"]
+},
+
+
 
 
 ];
