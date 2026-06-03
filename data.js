@@ -6845,5 +6845,18 @@ folder:"full02",
 title:"Low Angle View of Modern Illuminated Street Light Under Bridge Structure at Night",
 tags:["street-light","light-pole","lamp-post","illumination","bright","glow","lighting","bridge","overpass","elevated-structure","beams","girders","under-bridge","night-view","nightscape","architecture","infrastructure","urban","city-life","modern","industrial","low-angle-shot","perspective","night","outdoors","no-people"]
 },
+{
+id:"26K052518",
+folder:"full02",
+title:"Symmetrical Night View of Illuminated Urban Pedestrian Walkway Under Bridge Girders",
+tags:["walkway","footpath","pedestrian-zone","bridge","overpass","girders","beams","under-bridge","structure","architecture","infrastructure","lighting","illumination","street-light","light-pole","night-view","nightscape","cityscape","urban","modern","symmetrical","perspective","shinbashi","tokyo","japan","night","outdoors","no-people"]
+},
+{
+id:"26K052519",
+folder:"full02",
+title:"Symmetrical Night View of Illuminated Urban Pedestrian Walkway and Overpass Structure",
+tags:["walkway","footpath","pedestrian-zone","bridge","overpass","girders","beams","under-bridge","structure","architecture","infrastructure","lighting","illumination","street-light","light-pole","night-view","nightscape","cityscape","urban","modern","symmetrical","perspective","vanishing-point","night","outdoors","no-people"]
+},
+
 
 ];
