@@ -6881,5 +6881,14 @@ folder:"full02",
 title:"Symmetrical Perspective View of Illuminated Empty Pedestrian Walkway and Overpass at Night",
 tags:["walkway","footpath","pedestrian-zone","bridge","overpass","girders","beams","under-bridge","structure","architecture","infrastructure","lighting","illumination","street-light","light-pole","night-view","nightscape","cityscape","urban","modern","symmetrical","perspective","vanishing-point","shinbashi","tokyo","japan","night","outdoors","no-people"]
 },
+{
+id:"26K052524",
+folder:"full02",
+title:"Modern Curved Pedestrian Walkway and Illuminated Skyscraper at Night",
+tags:["walkway","footpath","pedestrian-bridge","overpass","bridge","curved","path","architecture","infrastructure","building","skyscraper","office-building","illuminated","windows","light","cityscape","urban","modern","night-view","nightscape","city-life","structure","shinbashi","tokyo","japan","night","outdoors","no-people"]
+},
+
+
+
 
 ];
