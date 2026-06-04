@@ -6887,7 +6887,24 @@ folder:"full02",
 title:"Modern Curved Pedestrian Walkway and Illuminated Skyscraper at Night",
 tags:["walkway","footpath","pedestrian-bridge","overpass","bridge","curved","path","architecture","infrastructure","building","skyscraper","office-building","illuminated","windows","light","cityscape","urban","modern","night-view","nightscape","city-life","structure","shinbashi","tokyo","japan","night","outdoors","no-people"]
 },
-
+{
+id:"26K052525",
+folder:"full02",
+title:"Low Angle View of Illuminated Street Light and Japanese Road Signs at Night",
+tags:["street-light","lamp-post","light-pole","illumination","bright","glow","lighting","road-sign","street-sign","shin-ohashi-dori","harumi-dori","traffic-light","intersection","crossroad","night-view","nightscape","cityscape","urban","city-life","low-angle-shot","perspective","cloudy-sky","night","outdoors","no-people"]
+},
+{
+id:"26K052526",
+folder:"full02",
+title:"Urban Street View with Crosswalk and Chuo City Office Building under Cloudy Sky",
+tags:["street","road","crosswalk","zebra-crossing","asphalt","pavement","chuo-city-office","government-building","architecture","cityscape","urban","townscape","traffic-sign","no-entry","street-lamp","light-pole","cloudy","sky","clouds","daytime","tokyo","japan","outdoors","no-people"]
+},
+{
+id:"26K052527",
+folder:"full02",
+title:"Symmetrical View of Illuminated Urban Pedestrian Overpass Walkway under Bridge Structures at Night",
+tags:["walkway","footpath","pedestrian-zone","bridge","overpass","girders","beams","under-bridge","structure","architecture","infrastructure","lighting","illumination","night-view","nightscape","urban","modern","symmetrical","perspective","shinbashi","tokyo","japan","night","outdoors","no-people"]
+},
 
 
 
