@@ -6905,7 +6905,11 @@ folder:"full02",
 title:"Symmetrical View of Illuminated Urban Pedestrian Overpass Walkway under Bridge Structures at Night",
 tags:["walkway","footpath","pedestrian-zone","bridge","overpass","girders","beams","under-bridge","structure","architecture","infrastructure","lighting","illumination","night-view","nightscape","urban","modern","symmetrical","perspective","shinbashi","tokyo","japan","night","outdoors","no-people"]
 },
-
-
+{
+id:"26K052528",
+folder:"full02",
+title:"Symmetrical Night View of Illuminated Urban Pedestrian Walkway and Overpass Infrastructure Structures",
+tags:["walkway","footpath","pedestrian-zone","bridge","overpass","girders","beams","under-bridge","structure","architecture","infrastructure","lighting","illumination","street-light","light-pole","night-view","nightscape","cityscape","urban","modern","symmetrical","shinbashi","tokyo","japan","perspective","night","outdoors","no-people"]
+},
 
 ];
