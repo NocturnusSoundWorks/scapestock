@@ -6946,9 +6946,19 @@ id:"26K052534",
 folder:"full02",
 title:"Night View of Busy Urban Intersection with Traffic Lights and Elevated Structure",
 tags:["intersection","crossroad","street","road","asphalt","traffic-light","road-sign","traffic-signal","red-light","green-light","arrow-signal","elevated-structure","bridge","overpass","girders","beams","infrastructure","car","traffic","night-view","nightscape","cityscape","urban","city-life","modern","architecture","tokyo","japan","night","outdoors"]
-}
-
-
+},
+{
+id:"26K052535",
+folder:"full02",
+title:"Low Angle Night View of City Intersection with Traffic, Elevated Highway, and Skyscraper Buildings",
+tags:["intersection","crossroad","street","road","asphalt","traffic","car","taxi","motion-blur","highway","expressway","overpass","bridge","structure","infrastructure","skyscraper","building","architecture","modern","cloudy-sky","night-view","nightscape","cityscape","urban","city-life","shinbashi","tokyo","japan","night","outdoors"]
+},
+{
+id:"26K052536",
+folder:"full02",
+title:"Night View of Stone Arch Bridge over River with City Skyscrapers and Moonlit Cloudy Sky",
+tags:["bridge","stone-bridge","arch-bridge","river","water","reflection","night-view","nightscape","cityscape","urban","city-life","skyscraper","building","office-building","architecture","moon","moonlight","cloudy-sky","night","trees","greenery","tokyo","japan","outdoors","no-people"]
+},
 
 
 ];
