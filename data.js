@@ -6941,7 +6941,12 @@ folder:"full02",
 title:"Night View of Illuminated Skyscraper Buildings and Street Lights from Urban Sidewalk",
 tags:["night-view","nightscape","cityscape","urban","city-life","skyscraper","building","office-building","architecture","modern","street-light","lamp-post","light-pole","illumination","bright","glow","lighting","sidewalk","pavement","road","street","traffic","car","overpass","pedestrian-bridge","shinbashi","tokyo","japan","cloudy-sky","night","outdoors"]
 },
-
+{
+id:"26K052534",
+folder:"full02",
+title:"Night View of Busy Urban Intersection with Traffic Lights and Elevated Structure",
+tags:["intersection","crossroad","street","road","asphalt","traffic-light","road-sign","traffic-signal","red-light","green-light","arrow-signal","elevated-structure","bridge","overpass","girders","beams","infrastructure","car","traffic","night-view","nightscape","cityscape","urban","city-life","modern","architecture","tokyo","japan","night","outdoors"]
+}
 
 
 
