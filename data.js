@@ -6935,5 +6935,15 @@ folder:"full02",
 title:"Modern Red Brown Tiled Brick Wall Texture Background",
 tags:["brick","tile","wall","brickwork","stonework","cladding","surface","texture","pattern","material","facade","exterior","architecture","building","red-brick","brown","orange","modern","solid","abstract","background","copy-space","wallpaper","outdoors","no-people"]
 },
+{
+id:"26K052533",
+folder:"full02",
+title:"Night View of Illuminated Skyscraper Buildings and Street Lights from Urban Sidewalk",
+tags:["night-view","nightscape","cityscape","urban","city-life","skyscraper","building","office-building","architecture","modern","street-light","lamp-post","light-pole","illumination","bright","glow","lighting","sidewalk","pavement","road","street","traffic","car","overpass","pedestrian-bridge","shinbashi","tokyo","japan","cloudy-sky","night","outdoors"]
+},
+
+
+
+
 
 ];
