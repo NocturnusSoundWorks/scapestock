@@ -6921,7 +6921,13 @@ tags:["walkway","footpath","pedestrian-zone","bridge","overpass","girders","beam
 id:"26K052530",
 folder:"full02",
 title:"Night View of Illuminated Office Buildings and Pedestrian Overpass from Grass Field",
-tags:["night-view","nightscape","cityscape","skyscraper","building","office-building","illuminated","windows","light","pedestrian-bridge","overpass","street-light","light-pole","grass","field","lawn","greenery","urban","city-life","modern","architecture","tokyo","japan","night","outdoors","no-people"]
+tags:["night-view","nightscape","cityscape","skyscraper","building","office-building","illuminated","windows","light","pedestrian-bridge","overpass","street-light","light-pole","grass","field","lawn","greenery","urban","city-life","modern","architecture","shinbashi","tokyo","japan","night","outdoors","no-people"]
+},
+{
+id:"26K052531",
+folder:"full02",
+title:"Close Up of Japanese Traffic Light with Red and Green Arrow Signals under Steel Structure",
+tags:["traffic-light","traffic-signal","led-light","red-light","green-light","arrow-signal","turn-signal","electronic","equipment","steel-beams","girders","infrastructure","transportation","close-up","low-angle-shot","night","night-view","nightscape","urban","city-life","modern","tokyo","japan","outdoors","no-people"]
 },
 
 ];
