@@ -6929,5 +6929,11 @@ folder:"full02",
 title:"Close Up of Japanese Traffic Light with Red and Green Arrow Signals under Steel Structure",
 tags:["traffic-light","traffic-signal","led-light","red-light","green-light","arrow-signal","turn-signal","electronic","equipment","steel-beams","girders","infrastructure","transportation","close-up","low-angle-shot","night","night-view","nightscape","urban","city-life","modern","tokyo","japan","outdoors","no-people"]
 },
+{
+id:"26K052532",
+folder:"full02",
+title:"Modern Red Brown Tiled Brick Wall Texture Background",
+tags:["brick","tile","wall","brickwork","stonework","cladding","surface","texture","pattern","material","facade","exterior","architecture","building","red-brick","brown","orange","modern","solid","abstract","background","copy-space","wallpaper","outdoors","no-people"]
+},
 
 ];
