@@ -6987,6 +6987,27 @@ tags:["road-sign","traffic-sign","pedestrian-path","bicycle-lane","sidewalk","pa
 id:"26K052541",
 folder:"full02",
 title:"Low Angle Night View of Wide Urban Intersection with Elevated Expressway and Skyscraper Buildings",
-tags:["intersection","crossroad","street","road","asphalt","traffic","car","lights","highway","expressway","overpass","bridge","structure","infrastructure","skyscraper","building","office-building","architecture","modern","cloudy-sky","night-view","nightscape","cityscape","urban","city-life","tokyo","japan","night","outdoors"]
+tags:["intersection","crossroad","street","road","asphalt","traffic","car","lights","highway","expressway","overpass","bridge","structure","infrastructure","skyscraper","building","office-building","architecture","modern","cloudy-sky","night-view","nightscape","cityscape","urban","city-life","shinbashi","tokyo","japan","night","outdoors"]
 },
+{
+id:"26K052542",
+folder:"full02",
+title:"Low Angle Night View of Traffic Signals and Street Light with Elevated Expressway and Tokyo Skyscrapers",
+tags:["traffic-light","traffic-signal","street-light","lamp-post","light-pole","lens-flare","illumination","bright","glow","low-angle-shot","highway","expressway","overpass","bridge","structure","infrastructure","skyscraper","building","office-building","architecture","modern","cloudy-sky","night-view","nightscape","cityscape","urban","city-life","shinbashi","tokyo","japan","night","outdoors"]
+},
+
+{
+id:"26K052543",
+folder:"full02",
+title:"Nightscape View of Modern Office Buildings and Elevated Expressway by a Moat",
+tags:["night-view","nightscape","cityscape","urban","city-life","skyscraper","building","office-building","tower","architecture","modern","highway","expressway","overpass","bridge","structure","infrastructure","street-light","electronic-sign","traffic-info","moat","water","reflection","walkway","footpath","night","trees","shinbashi","tokyo","japan","outdoors"]
+},
+{
+id:"26K052544",
+folder:"full02",
+title:"Night View of Stone Arch Bridge over River with Illuminated City Skyscrapers and Cloudy Sky",
+tags:["bridge","stone-bridge","arch-bridge","river","water","reflection","night-view","nightscape","cityscape","urban","city-life","skyscraper","building","office-building","architecture","modern","cloudy-sky","clouds","night","trees","shinbashi","tokyo","japan","outdoors","no-people"]
+}
+
+
 ];
