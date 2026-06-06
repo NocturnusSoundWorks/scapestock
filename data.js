@@ -7038,7 +7038,11 @@ folder:"full02",
 title:"Night View of Japanese Expressway Entrance Sign and Electronic Traffic Board on Shiodome City Street",
 tags:["road-sign","traffic-sign","electronic-sign","led-display","traffic-info","shutoko","expressway","highway","shiodome","street","road","asphalt","curved-road","street-light","lamp-post","illumination","bright","lens-flare","skyscraper","building","office-building","architecture","modern","night-view","nightscape","cityscape","urban","city-life","shinbashi","tokyo","japan","night","outdoors"]
 },
-
-
+{
+id:"26K052550",
+folder:"full02",
+title:"Bright Full Moon Shining Through Night Sky with Clouds Background",
+tags:["moon","full-moon","moonlight","moonlit","sky","night-sky","cloud","cloudy-sky","night","night-view","nature","astronomy","lunar","space","bright","glow","shining","illumination","scenic","dark","mysterious","background","copy-space","wallpaper","outdoors","no-people"]
+},
 
 ];
