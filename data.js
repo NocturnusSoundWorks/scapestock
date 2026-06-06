@@ -6957,8 +6957,13 @@ tags:["intersection","crossroad","street","road","asphalt","traffic","car","taxi
 id:"26K052536",
 folder:"full02",
 title:"Night View of Stone Arch Bridge over River with City Skyscrapers and Moonlit Cloudy Sky",
-tags:["bridge","stone-bridge","arch-bridge","river","water","reflection","night-view","nightscape","cityscape","urban","city-life","skyscraper","building","office-building","architecture","moon","moonlight","cloudy-sky","night","trees","greenery","tokyo","japan","outdoors","no-people"]
+tags:["bridge","stone-bridge","arch-bridge","river","water","reflection","night-view","nightscape","cityscape","urban","city-life","skyscraper","building","office-building","architecture","moon","moonlight","cloudy-sky","night","trees","greenery","shinbashi","tokyo","japan","outdoors","no-people"]
 },
-
+{
+id:"26K052537",
+folder:"full02",
+title:"Night Cityscape View of High Rise Buildings and Forest Trees under Moonlit Cloudy Sky",
+tags:["night-view","nightscape","cityscape","urban","city-life","skyscraper","building","tower","apartment-building","architecture","modern","moon","moonlight","cloudy-sky","clouds","night","trees","forest","woods","greenery","stone-wall","bridge","shinbashi","tokyo","japan","outdoors"]
+},
 
 ];
