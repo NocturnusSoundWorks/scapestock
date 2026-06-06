@@ -111,11 +111,13 @@ body {
     margin-top: 0;
 }
 
-.sidebar a {
-    display: block;
-    padding: 6px 0;
-    text-decoration: none;
-    color: #333;
+.sidebar a{
+    display:inline-block;
+    padding:6px 12px;
+    margin:4px;
+    border-radius:20px;
+    background:#f3f4f6;
+    text-decoration:none;
 }
 
 .sidebar a:hover {
