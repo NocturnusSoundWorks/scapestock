@@ -7007,7 +7007,31 @@ id:"26K052544",
 folder:"full02",
 title:"Night View of Stone Arch Bridge over River with Illuminated City Skyscrapers and Cloudy Sky",
 tags:["bridge","stone-bridge","arch-bridge","river","water","reflection","night-view","nightscape","cityscape","urban","city-life","skyscraper","building","office-building","architecture","modern","cloudy-sky","clouds","night","trees","shinbashi","tokyo","japan","outdoors","no-people"]
-}
+},
+{
+id:"26K052545",
+folder:"full02",
+title:"Night View of Stone Arch Bridge over Moat Water with Illuminated City Skyscrapers and Cloudy Sky",
+tags:["bridge","stone-bridge","arch-bridge","moat","water","reflection","night-view","nightscape","cityscape","urban","city-life","skyscraper","building","office-building","architecture","modern","cloudy-sky","clouds","night","trees","greenery","shinbashi","tokyo","japan","outdoors","no-people"]
+},
+{
+id:"26K052546",
+folder:"full02",
+title:"Night Cityscape View of High Rise Buildings and Forest Trees under Moonlit Cloudy Sky",
+tags:["night-view","nightscape","cityscape","urban","city-life","skyscraper","building","tower","apartment-building","architecture","modern","cloudy-sky","clouds","night","trees","forest","woods","greenery","stone-wall","moat","water","shinbashi","tokyo","japan","outdoors","no-people"]
+},
+{
+id:"26K052547",
+folder:"full02",
+title:"Night View of City Street with Signboard for Hama-rikyu Gardens and Illuminated Skyscrapers",
+tags:["road-sign","signboard","street-sign","hama-rikyu-gardens","direction-sign","street","road","asphalt","sidewalk","pavement","fence","traffic","car","truck","highway","overpass","bridge","infrastructure","skyscraper","building","office-building","architecture","modern","illumination","bright","glow","night-view","nightscape","cityscape","urban","city-life","shinbashi","tokyo","japan","night","outdoors"]
+},
+{
+id:"26K052548",
+folder:"full02",
+title:"Night View of Curved Urban Road and Traffic with Illuminated High Rise Buildings",
+tags:["street","road","asphalt","curved-road","traffic","car","driving","sidewalk","pavement","fence","guardrail","street-light","lamp-post","road-sign","traffic-sign","direction-sign","skyscraper","building","office-building","tower","architecture","modern","illumination","bright","glow","night-view","nightscape","cityscape","urban","city-life","shinbashi","tokyo","japan","night","outdoors"]
+},
 
 
 ];
