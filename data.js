@@ -6977,5 +6977,10 @@ folder:"full02",
 title:"Night Cityscape View of Illuminated Highway and Skyscraper Buildings with Walkway Path",
 tags:["night-view","nightscape","cityscape","urban","city-life","skyscraper","building","tower","office-building","architecture","modern","highway","expressway","overpass","bridge","structure","infrastructure","street-light","walkway","footpath","pavement","moat","water","reflection","cloudy-sky","night","trees","shinbashi","tokyo","japan","outdoors"]
 },
-
+{
+id:"26K052540",
+folder:"full02",
+title:"Night View of Pedestrian and Bicycle Path with Japanese Traffic Signs and Moonlit Cloudy Sky",
+tags:["road-sign","traffic-sign","pedestrian-path","bicycle-lane","sidewalk","pavement","asphalt","street-light","lamp-post","fence","moon","moonlight","cloudy-sky","clouds","night-view","nightscape","cityscape","urban","city-life","skyscraper","building","tower","architecture","Tsukiji","tokyo","japan","night","outdoors"]
+},
 ];
