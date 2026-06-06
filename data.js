@@ -7044,6 +7044,7 @@ folder:"full02",
 title:"Bright Full Moon Shining Through Night Sky with Clouds Background",
 tags:["moon","full-moon","moonlight","moonlit","sky","night-sky","cloud","cloudy-sky","night","night-view","nature","astronomy","lunar","space","bright","glow","shining","illumination","scenic","dark","mysterious","background","copy-space","wallpaper","outdoors","no-people"]
 },
+{
 id:"26K052551",
 folder:"full02",
 title:"Night View of Japanese Expressway Entrance Sign and Electronic Traffic Board on Shiodome City Street",
