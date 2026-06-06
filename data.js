@@ -6965,5 +6965,17 @@ folder:"full02",
 title:"Night Cityscape View of High Rise Buildings and Forest Trees under Moonlit Cloudy Sky",
 tags:["night-view","nightscape","cityscape","urban","city-life","skyscraper","building","tower","apartment-building","architecture","modern","moon","moonlight","cloudy-sky","clouds","night","trees","forest","woods","greenery","stone-wall","bridge","shinbashi","tokyo","japan","outdoors"]
 },
+{
+id:"26K052538",
+folder:"full02",
+title:"Night View of Stone Arch Bridge and High Rise Buildings under Moonlit Sky",
+tags:["bridge","stone-bridge","arch-bridge","river","water","reflection","night-view","nightscape","cityscape","urban","city-life","skyscraper","building","tower","apartment-building","architecture","modern","moon","moonlight","cloudy-sky","clouds","night","trees","forest","greenery","shinbashi","tokyo","japan","outdoors","no-people"]
+},
+{
+id:"26K052539",
+folder:"full02",
+title:"Night Cityscape View of Illuminated Highway and Skyscraper Buildings with Walkway Path",
+tags:["night-view","nightscape","cityscape","urban","city-life","skyscraper","building","tower","office-building","architecture","modern","highway","expressway","overpass","bridge","structure","infrastructure","street-light","walkway","footpath","pavement","moat","water","reflection","cloudy-sky","night","trees","shinbashi","tokyo","japan","outdoors"]
+},
 
 ];
