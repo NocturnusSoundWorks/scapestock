@@ -7032,6 +7032,13 @@ folder:"full02",
 title:"Night View of Curved Urban Road and Traffic with Illuminated High Rise Buildings",
 tags:["street","road","asphalt","curved-road","traffic","car","driving","sidewalk","pavement","fence","guardrail","street-light","lamp-post","road-sign","traffic-sign","direction-sign","skyscraper","building","office-building","tower","architecture","modern","illumination","bright","glow","night-view","nightscape","cityscape","urban","city-life","shinbashi","tokyo","japan","night","outdoors"]
 },
+{
+id:"26K052549",
+folder:"full02",
+title:"Night View of Japanese Expressway Entrance Sign and Electronic Traffic Board on Shiodome City Street",
+tags:["road-sign","traffic-sign","electronic-sign","led-display","traffic-info","shutoko","expressway","highway","shiodome","street","road","asphalt","curved-road","street-light","lamp-post","illumination","bright","lens-flare","skyscraper","building","office-building","architecture","modern","night-view","nightscape","cityscape","urban","city-life","shinbashi","tokyo","japan","night","outdoors"]
+},
+
 
 
 ];
