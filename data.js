@@ -6983,4 +6983,10 @@ folder:"full02",
 title:"Night View of Pedestrian and Bicycle Path with Japanese Traffic Signs and Moonlit Cloudy Sky",
 tags:["road-sign","traffic-sign","pedestrian-path","bicycle-lane","sidewalk","pavement","asphalt","street-light","lamp-post","fence","moon","moonlight","cloudy-sky","clouds","night-view","nightscape","cityscape","urban","city-life","skyscraper","building","tower","architecture","Tsukiji","tokyo","japan","night","outdoors"]
 },
+{
+id:"26K052541",
+folder:"full02",
+title:"Low Angle Night View of Wide Urban Intersection with Elevated Expressway and Skyscraper Buildings",
+tags:["intersection","crossroad","street","road","asphalt","traffic","car","lights","highway","expressway","overpass","bridge","structure","infrastructure","skyscraper","building","office-building","architecture","modern","cloudy-sky","night-view","nightscape","cityscape","urban","city-life","tokyo","japan","night","outdoors"]
+},
 ];
