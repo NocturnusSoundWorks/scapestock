@@ -7137,5 +7137,11 @@ folder:"full02",
 title:"Daytime View of Public Park Walkway with Palm Trees and Green Hedges",
 tags:["park","public-park","walkway","path","road","asphalt","pavement","palm-tree","tree","greenery","hedge","bush","shrub","lawn","grass","garden","landscape","scenic","cloudy-sky","overcast","daytime","outdoors","no-people"]
 },
+{
+id:"26K052567",
+folder:"full02",
+title:"Pale Sun Shining Through Thick Overcast Cloudy Sky Background",
+tags:["sky","cloud","sun","sunlight","bright","light","cloudy-sky","overcast","gray-sky","haze","misty","weather","meteorology","daytime","nature","atmosphere","scenic","simple","minimal","background","copy-space","wallpaper","outdoors","no-people"]
+},
 
 ];
