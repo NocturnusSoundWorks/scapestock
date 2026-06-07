@@ -7128,4 +7128,14 @@ folder:"full02",
 title:"Night View of Yokohama Cosmoworld Ferris Wheel Framed Through Steel Bridge Structure",
 tags:["ferris-wheel","cosmo-clock-21","yokohama-cosmoworld","amusement-park","bridge","steel-bridge","truss-bridge","iron-structure","frame","framing","night-view","nightscape","cityscape","urban","city-life","yokohama","kanagawa","japan","minatomirai","illumination","green-light","bright","glow","lights","building","street","road","architecture","scenic","night","outdoors"]
 },
+
+
+
+{
+id:"26K052566",
+folder:"full02",
+title:"Daytime View of Public Park Walkway with Palm Trees and Green Hedges",
+tags:["park","public-park","walkway","path","road","asphalt","pavement","palm-tree","tree","greenery","hedge","bush","shrub","lawn","grass","garden","landscape","scenic","cloudy-sky","overcast","daytime","outdoors","no-people"]
+},
+
 ];
