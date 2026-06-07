@@ -7128,7 +7128,12 @@ folder:"full02",
 title:"Night View of Yokohama Cosmoworld Ferris Wheel Framed Through Steel Bridge Structure",
 tags:["ferris-wheel","cosmo-clock-21","yokohama-cosmoworld","amusement-park","bridge","steel-bridge","truss-bridge","iron-structure","frame","framing","night-view","nightscape","cityscape","urban","city-life","yokohama","kanagawa","japan","minatomirai","illumination","green-light","bright","glow","lights","building","street","road","architecture","scenic","night","outdoors"]
 },
-
+{
+id:"26K052565",
+folder:"full02",
+title:"Night View of Yokohama Minato Mirai Skyline with Landmark Tower and Ferris Wheel",
+tags:["night-view","nightscape","cityscape","urban","city-life","skyline","yokohama-landmark-tower","ferris-wheel","cosmo-clock-21","minatomirai","yokohama","kanagawa","japan","street","road","asphalt","traffic","car","driving","street-light","lamp-post","road-sign","traffic-sign","building","skyscraper","architecture","modern","illumination","bright","glow","lights","scenic","night","outdoors"]
+},
 
 
 {
