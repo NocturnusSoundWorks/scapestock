@@ -7122,5 +7122,10 @@ folder:"full02",
 title:"Night View of Yokohama Red Brick Warehouse with Marine Tower and Illuminated Streets",
 tags:["yokohama-red-brick-warehouse","yokohama-marine-tower","historic-building","brick-building","warehouse","architecture","landmark","yokohama","kanagawa","japan","night-view","nightscape","cityscape","urban","city-life","street","road","asphalt","traffic","car","taxi","lawn","grass","greenery","street-light","lamp-post","illumination","bright","glow","lights","tourist-attraction","scenic","night","outdoors"]
 },
-
+{
+id:"26K052564",
+folder:"full02",
+title:"Night View of Yokohama Cosmoworld Ferris Wheel Framed Through Steel Bridge Structure",
+tags:["ferris-wheel","cosmo-clock-21","yokohama-cosmoworld","amusement-park","bridge","steel-bridge","truss-bridge","iron-structure","frame","framing","night-view","nightscape","cityscape","urban","city-life","yokohama","kanagawa","japan","minatomirai","illumination","green-light","bright","glow","lights","building","street","road","architecture","scenic","night","outdoors"]
+},
 ];
