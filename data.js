@@ -7116,6 +7116,11 @@ folder:"full02",
 title:"Overcast Daytime View of Yokohama Port with Boat and Buildings Background",
 tags:["yokohama","kanagawa","japan","port","harbor","bay","sea","ocean","water","wave","boat","ship","cruising","coastline","breakwater","building","cityscape","urban","yamashita-park","cloudy-sky","overcast","daytime","scenic","outdoors"]
 },
-
+{
+id:"26K052563",
+folder:"full02",
+title:"Night View of Yokohama Red Brick Warehouse with Marine Tower and Illuminated Streets",
+tags:["yokohama-red-brick-warehouse","yokohama-marine-tower","historic-building","brick-building","warehouse","architecture","landmark","yokohama","kanagawa","japan","night-view","nightscape","cityscape","urban","city-life","street","road","asphalt","traffic","car","taxi","lawn","grass","greenery","street-light","lamp-post","illumination","bright","glow","lights","tourist-attraction","scenic","night","outdoors"]
+},
 
 ];
