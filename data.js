@@ -7092,5 +7092,10 @@ folder:"full02",
 title:"Bright Sunlight Shining Through White Clouds in Deep Blue Sky Background",
 tags:["sky","cloud","sun","sunlight","sunshine","sun-ray","bright","light","blue-sky","white-cloud","cloudy-sky","iridescent-clouds","nature","weather","meteorology","daytime","sunny","scenic","atmosphere","background","copy-space","wallpaper","outdoors","no-people"]
 },
-
+{
+id:"26K052559",
+folder:"full02",
+title:"Close-up View of Edo Momiji Dori Japanese Street Signboard on Metal Post",
+tags:["road-sign","street-sign","signboard","edo-momiji-dori","street-name","direction-sign","bronze-sign","metal-sign","pole","post","japanese-characters","kanji","tokyo","japan","nihonbashi","street","outdoor","daytime","close-up","no-smoking-sign","green-leaves","maple-tree","wall","background"]
+},
 ];
