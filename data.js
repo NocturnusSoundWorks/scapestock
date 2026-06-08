@@ -7148,5 +7148,12 @@ folder:"full02",
 title:"Pale Sun Shining Through Thick Overcast Cloudy Sky Background",
 tags:["sky","cloud","sun","sunlight","bright","light","cloudy-sky","overcast","gray-sky","haze","misty","weather","meteorology","daytime","nature","atmosphere","scenic","simple","minimal","background","copy-space","wallpaper","outdoors","no-people"]
 },
+{
+id:"26K052568",
+folder:"full02",
+title:"Bright Blue Sky with White Clouds Above City Street and Traditional Style Clock Tower",
+tags:["sky","cloud","blue-sky","white-cloud","cumulus","sunny","bright","daytime","weather","meteorology","nature","landscape","cityscape","urban","street","clock-tower","tower","architecture","traditional-building","lamp-post","pole","utility-pole","building","scenic","outdoors","narita
+","chiba","japan"]
+},
 
 ];
