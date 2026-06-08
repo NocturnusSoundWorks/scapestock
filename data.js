@@ -7161,4 +7161,12 @@ folder:"full02",
 title:"Daytime View of Tokyo Tram Station and Track Along the City Street",
 tags:["tram","streetcar","tramway","station","platform","track","railway","rail","street","road","asphalt","pavement","cityscape","urban","city-life","building","apartment","condominium","tree","greenery","traffic-sign","road-sign","sky","cloud","sunny","daytime","tokyo","japan","outdoors"]
 },
+{
+id:"26K052570",
+folder:"full02",
+title:"Scenic View of a Garden Pond Surrounded by Green Trees and Bamboo Fence",
+tags:["pond","lake","water","reflection","garden","japanese-garden","park","public-park","tree","maple-tree","green-leaves","fresh-green","nature","landscape","bamboo-fence","fence","grass","plant","botanical","scenic","daytime","sunny","sky","cloud","outdoors","no-people"]
+},
+
+
 ];
