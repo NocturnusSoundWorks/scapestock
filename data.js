@@ -7155,5 +7155,10 @@ title:"Bright Blue Sky with White Clouds Above City Street and Traditional Style
 tags:["sky","cloud","blue-sky","white-cloud","cumulus","sunny","bright","daytime","weather","meteorology","nature","landscape","cityscape","urban","street","clock-tower","tower","architecture","traditional-building","lamp-post","pole","utility-pole","building","scenic","outdoors","narita
 ","chiba","japan"]
 },
-
+{
+id:"26K052569",
+folder:"full02",
+title:"Daytime View of Tokyo Tram Station and Track Along the City Street",
+tags:["tram","streetcar","tramway","station","platform","track","railway","rail","street","road","asphalt","pavement","cityscape","urban","city-life","building","apartment","condominium","tree","greenery","traffic-sign","road-sign","sky","cloud","sunny","daytime","tokyo","japan","outdoors"]
+},
 ];
