@@ -7191,4 +7191,14 @@ folder:"full02",
 title:"Gray Wood Grain Wall Tiles Texture Background",
 tags:["tile","wall-tile","ceramic-tile","wood-grain","wood-pattern","plank","texture","surface","pattern","material","background","wallpaper","gray","grey","light-gray","natural","weathered","aged","interior","exterior","architecture","abstract","copy-space","no-people"]
 },
+{
+id:"26K052575",
+folder:"full02",
+title:"Rainy Day View of Narrow City Alley with Wet Asphalt Road Background",
+tags:["alley","back-alley","street","road","asphalt","pavement","wet-road","rain","rainy-day","puddle","reflection","building","architecture","residential-area","utility-pole","power-line","wire","motorcycle","scooter","cone","overcast","daytime","cityscape","urban","tokyo","japan","outdoors"]
+},
+
+
+
+
 ];
