@@ -7204,6 +7204,16 @@ folder:"full02",
 title:"Rainy Day View of Wet City Sidewalk Beside Buildings and Street Background",
 tags:["sidewalk","pavement","wet-road","rain","rainy-day","puddle","reflection","street","road","building","architecture","shop-front","restaurant","signboard","road-sign","street-sign","pedestrian-sign","blue-sign","tree","greenery","plant","overcast","daytime","cityscape","urban","city-life","tokyo","japan","outdoors"]
 },
-
-
+{
+id:"26K052577",
+folder:"full02",
+title:"Rainy Day View of Wet Brick Sidewalk and Street with Traffic Cones",
+tags:["sidewalk","pavement","brick-pavement","wet-road","rain","rainy-day","puddle","reflection","traffic-cone","cone","green-fence","guardrail","tree","greenery","street","road","asphalt","building","architecture","pole","road-sign","traffic-sign","speed-limit-sign","pedestrian","umbrella","overcast","daytime","cityscape","urban","tokyo","japan","outdoors"]
+},
+{
+id:"26K052578",
+folder:"full02",
+title:"Cloudy Day View of Tsukiji City Street Intersection with Traditional Wooden Building",
+tags:["street","road","asphalt","intersection","crosswalk","zebra-crossing","traffic-light","traffic-signal","traditional-building","wooden-architecture","building","apartment","condominium","road-sign","traffic-sign","utility-pole","power-line","wire","cloudy-sky","overcast","daytime","cityscape","urban","city-life","tsukiji","chuo-ku","tokyo","japan","outdoors"]
+},
 ];
