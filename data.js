@@ -7198,7 +7198,12 @@ title:"Rainy Day View of Narrow City Alley with Wet Asphalt Road Background",
 tags:["alley","back-alley","street","road","asphalt","pavement","wet-road","rain","rainy-day","puddle","reflection","building","architecture","residential-area","utility-pole","power-line","wire","motorcycle","scooter","cone","overcast","daytime","cityscape","urban","tokyo","japan","outdoors"]
 },
 
-
+{
+id:"26K052576",
+folder:"full02",
+title:"Rainy Day View of Wet City Sidewalk Beside Buildings and Street Background",
+tags:["sidewalk","pavement","wet-road","rain","rainy-day","puddle","reflection","street","road","building","architecture","shop-front","restaurant","signboard","road-sign","street-sign","pedestrian-sign","blue-sign","tree","greenery","plant","overcast","daytime","cityscape","urban","city-life","tokyo","japan","outdoors"]
+},
 
 
 ];
