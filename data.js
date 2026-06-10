@@ -7166,6 +7166,24 @@ folder:"full02",
 title:"Scenic View of a Garden Pond Surrounded by Green Trees and Bamboo Fence",
 tags:["pond","lake","water","reflection","garden","japanese-garden","park","public-park","tree","maple-tree","green-leaves","fresh-green","nature","landscape","bamboo-fence","fence","grass","plant","botanical","scenic","daytime","sunny","sky","cloud","outdoors","no-people"]
 },
+{
+id:"26K052571",
+folder:"full02",
+title:"Entrance Gate of Shuto Expressway with ETC Only Signs under Blue Sky",
+tags:["expressway","highway","toll-gate","entrance","shuto-expressway","shutoko","etc-only","road-sign","traffic-sign","gantry","road","asphalt","pavement","building","skyscraper","cityscape","urban","tree","greenery","sky","cloud","blue-sky","sunny","daytime","tokyo","japan","outdoors"]
+},
+{
+id:"26K052572",
+folder:"full02",
+title:"Night View of Traditional Wooden Buildings in Tsukiji with Skyscrapers Background",
+tags:["night-view","nightscape","cityscape","urban","city-life","tsukiji","chuo-ku","tokyo","japan","traditional-building","wooden-architecture","shop-front","lantern","banner","street-light","lamp-post","illumination","bright","glow","lights","skyscraper","apartment","condominium","architecture","modern-and-traditional","night","outdoors"]
+},
 
+{
+id:"26K052573",
+folder:"full02",
+title:"Rainy Day View of City Intersection Asphalt Road with Blue Arrow Markings",
+tags:["street","road","asphalt","intersection","crosswalk","zebra-crossing","arrow-marking","traffic-signal","traffic-light","building","architecture","rain","rainy-day","wet-road","puddle","reflection","overcast","cloudy-sky","daytime","cityscape","urban","city-life","tsukiji","tokyo","japan","outdoors"]
+},
 
 ];
