@@ -7216,4 +7216,30 @@ folder:"full02",
 title:"Cloudy Day View of Tsukiji City Street Intersection with Traditional Wooden Building",
 tags:["street","road","asphalt","intersection","crosswalk","zebra-crossing","traffic-light","traffic-signal","traditional-building","wooden-architecture","building","apartment","condominium","road-sign","traffic-sign","utility-pole","power-line","wire","cloudy-sky","overcast","daytime","cityscape","urban","city-life","tsukiji","chuo-ku","tokyo","japan","outdoors"]
 },
+{
+id:"26K052579",
+folder:"full02",
+title:"Cloudy Day View of Tsukiji Street with Sidewalk Pavement and Buildings Background",
+tags:["street","road","asphalt","sidewalk","pavement","brick-pavement","green-fence","guardrail","building","architecture","utility-pole","power-line","wire","traffic-light","traffic-signal","road-sign","traffic-sign","cloudy-sky","overcast","daytime","cityscape","urban","city-life","tsukiji","chuo-ku","tokyo","japan","outdoors"]
+},
+{
+id:"26K052580",
+folder:"full02",
+title:"Close-up View of Rusty White Corrugated Metal Sheet Texture Background",
+tags:["metal","sheet-metal","corrugated-iron","galvanized-iron","zinc-wall","rust","rusty","decay","weathered","aged","stain","texture","surface","pattern","material","industrial","vintage","retro","abstract","background","wallpaper","copy-space","no-people"]
+},
+{
+id:"26K052581",
+folder:"full02",
+title:"Brown Wood Grain Siding Wall Texture Background",
+tags:["wood","timber","plank","siding","grain","wood-grain","texture","surface","pattern","material","background","wallpaper","brown","reddish-brown","vertical-lines","panel","wall","architecture","exterior","interior","abstract","copy-space","no-people"]
+},
+
+{
+id:"26K052582",
+folder:"full02",
+title:"Scenic View of Sea Waves Rushing to Sandy Beach Background",
+tags:["sea","ocean","wave","water","foam","sandy-beach","beach","sand","coast","shoreline","horizon","seascape","nature","landscape","sunny","daytime","bright","shining","scenic","background","copy-space","wallpaper","outdoors","no-people"]
+},
+
 ];
