@@ -7258,5 +7258,22 @@ folder:"full02",
 title:"Close-up View of Yellow Snapdragon Flower Blossom Background",
 tags:["snapdragon","kingyo-so","flower","yellow-flower","yellow","blossom","bloom","petal","bud","botanical","plant","nature","fresh","bright","spring","early-summer","seasonal","garden","flowerbed","field","outdoors","background","copy-space","wallpaper"]
 },
-
+{
+id:"26K052586",
+folder:"full02",
+title:"Close-up View of Teppouzu Dori Street Sign with Road and Crosswalk Background",
+tags:["street-sign","road-sign","signboard","teppouzu-dori","signpost","traffic-sign","no-parking-sign","crosswalk","zebra-crossing","street","road","asphalt","pavement","building","apartment","condominium","tree","greenery","sky","cloud","sunny","daytime","cityscape","urban","chuo-ku","tokyo","japan","outdoors"]
+},
+{
+id:"26K052587",
+folder:"full02",
+title:"Low Angle View of Modern Skyscrapers under Blue Sky Background",
+tags:["skyscraper","building","high-rise","architecture","modern-building","office-building","glass-facade","window","tower","tree","green-leaves","fresh-green","sky","blue-sky","cloud","sunny","bright","daytime","low-angle","worm-eye-view","cityscape","urban","tokyo","japan","outdoors","scenic","background","wallpaper"]
+},
+{
+id:"26K052588",
+folder:"full02",
+title:"Close-up View of Street Light and Road Sign with Trees and Buildings Background",
+tags:["street-light","lamp","road-sign","traffic-sign","no-entry-sign","signboard","tree","greenery","green-leaves","building","architecture","skyscraper","high-rise","office-building","sky","blue-sky","sunny","bright","daytime","cityscape","urban","nihonbashi","chuo-ku","tokyo","japan","outdoors","scenic","background","wallpaper"]
+},
 ];
