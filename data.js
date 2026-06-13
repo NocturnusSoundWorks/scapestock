@@ -7282,4 +7282,13 @@ folder:"full02",
 title:"Bright Sun Shining in Deep Blue Sky with Wispy White Clouds Background",
 tags:["sky","blue-sky","sun","sunlight","sunshine","ray","bright","light","shining","cloud","white-cloud","wispy-cloud","cirrus","nature","summer","daytime","sunny","clear-sky","scenic","background","copy-space","wallpaper","outdoors","no-people"]
 },
+{
+id:"26K052590",
+folder:"full02",
+title:"Urban River Flowing under Elevated Highway Overpass with Bridge Pier Reflection",
+tags:["highway","overpass","elevated-road","bridge","pier","pillar","river","canal","water","reflection","water-reflection","infrastructure","structure","architecture","building","cloudy-sky","overcast","daytime","cityscape","urban","tokyo","japan","outdoors","scenic"]
+},
+
+
+
 ];
