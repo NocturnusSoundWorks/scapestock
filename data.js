@@ -7330,7 +7330,24 @@ folder:"full02",
 title:"Traffic Signs on Pole with Torii Gate of Japanese Shinto Shrine Background",
 tags:["traffic-sign","road-sign","stop-sign","no-parking-sign","pedestrian-crossing-sign","pole","torii","torii-gate","shrine","shinto-shrine","shinto","tradition","culture","tree","greenery","building","residential-area","street","road","daytime","cloudy-sky","overcast","tokyo","japan","outdoors","scenic"]
 },
-
+{
+id:"26K052598",
+folder:"full02",
+title:"Abstract Architecture Background of Grey Concrete Wall and Black Metal Panel",
+tags:["abstract","architecture","background","concrete","concrete-wall","cement","grey","gray","black","metal","panel","siding","texture","surface","material","pattern","minimalism","geometric","line","vertical","no-people","copy-space","wallpaper"]
+},
+{
+id:"26K052599",
+folder:"full02",
+title:"Kagurazaka Street Lamp with Maroon Banner and Torii Illustration Background",
+tags:["street-lamp","lantern","banner","flag","kagurazaka","tokyo","japan","torii","illustration","kanji","traditional","culture","tree","greenery","building","cloudy-sky","overcast","daytime","urban","cityscape","outdoors","scenic"]
+},
+{
+id:"26K060101",
+folder:"full02",
+title:"Night View of Elevated Shuto Expressway Overpass with Tokyo Skytree Background",
+tags:["night-view","night","nightscape","cityscape","urban","tokyo","japan","skytree","tokyo-skytree","landmark","illuminated","highway","overpass","elevated-road","bridge","pier","pillar","river","sumida-river","water","reflection","water-reflection","light","street-light","dark","outdoors","scenic"]
+},
 
 
 ];
