@@ -7360,6 +7360,12 @@ folder:"full02",
 title:"Night View of Sumida River with Large Highway Overpass Concrete Pillars Background",
 tags:["night-view","night","nightscape","cityscape","urban","sumida-river","river","water","water-reflection","highway","overpass","elevated-road","bridge","pier","concrete-pillar","structure","architecture","light","street-light","boat","tokyo","japan","outdoors","scenic"]
 },
+{
+id:"26K060104",
+folder:"full02",
+title:"Water Fountain Spouting in Public Park with Green Trees Background",
+tags:["fountain","water-fountain","water","splash","park","public-park","lawn","grass","greenery","tree","nature","landscape","pavement","brick","stone-path","daytime","cloudy-sky","overcast","outdoors","scenic","refreshing","recreation","funashi","chiba","Japan","no-people"]
+},
 
 
 ];
