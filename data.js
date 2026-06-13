@@ -7288,7 +7288,35 @@ folder:"full02",
 title:"Urban River Flowing under Elevated Highway Overpass with Bridge Pier Reflection",
 tags:["highway","overpass","elevated-road","bridge","pier","pillar","river","canal","water","reflection","water-reflection","infrastructure","structure","architecture","building","cloudy-sky","overcast","daytime","cityscape","urban","tokyo","japan","outdoors","scenic"]
 },
-
-
+{
+id:"26K052591",
+folder:"full02",
+title:"Night View of Illuminated Skyscrapers and Office Buildings in Tokyo",
+tags:["night-view","night","nightscape","cityscape","urban","tokyo","japan","skyscraper","building","office-building","high-rise","architecture","window-light","light","illuminated","street-light","lens-flare","highway","overpass","traffic-light","tree","greenery","cloudy-sky","overcast","dark","outdoors","scenic","background","wallpaper"]
+},
+{
+id:"26K052592",
+folder:"full02",
+title:"Night View of Illuminated Modern Skyscrapers with Elevated Highway Overpass",
+tags:["night-view","night","nightscape","cityscape","urban","tokyo","japan","skyscraper","building","office-building","high-rise","architecture","window-light","light","illuminated","highway","overpass","elevated-road","etc-lane","etc-sign","street-light","cloudy-sky","overcast","dark","outdoors","scenic"]
+},
+{
+id:"26K052593",
+folder:"full02",
+title:"Night View of Elevated Highway Overpass with ETC Signboard and Truck at Intersection",
+tags:["night-view","night","nightscape","cityscape","urban","tokyo","japan","highway","overpass","elevated-road","bridge","etc-sign","signboard","electronic-sign","traffic-sign","truck","intersection","crosswalk","zebra-crossing","street","road","asphalt","building","skyscraper","high-rise","architecture","street-light","light","dark","outdoors","scenic"]
+},
+{
+id:"26K052594",
+folder:"full02",
+title:"Urban River Flowing under Elevated Highway Overpass with Bridge Pier Reflection",
+tags:["highway","overpass","elevated-road","bridge","pier","pillar","river","canal","water","reflection","water-reflection","infrastructure","structure","architecture","building","cloudy-sky","overcast","daytime","cityscape","urban","tokyo","japan","outdoors","scenic"]
+},
+{
+id:"26K052595",
+folder:"full02",
+title:"Night View of Elevated Highway Overpass with ETC Electronic Signboard and Truck at Intersection",
+tags:["night-view","night","nightscape","cityscape","urban","tokyo","japan","kandabashi","highway","overpass","elevated-road","bridge","etc-sign","electronic-signboard","traffic-sign","truck","intersection","crosswalk","zebra-crossing","street","road","asphalt","building","architecture","street-light","light","dark","outdoors","scenic"]
+},
 
 ];
