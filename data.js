@@ -7324,7 +7324,12 @@ folder:"full02",
 title:"Entrance of Kandabashi Toll Gate on Shuto Expressway with Traffic Signboard and Crosswalk",
 tags:["highway","overpass","elevated-road","toll-gate","entrance","kandabashi","shutoko","shuto-expressway","traffic-sign","signboard","green-sign","crosswalk","zebra-crossing","intersection","street","road","asphalt","bridge","pillar","infrastructure","architecture","cloudy-sky","overcast","daytime","urban","cityscape","tokyo","japan","outdoors"]
 },
-
+{
+id:"26K052597",
+folder:"full02",
+title:"Traffic Signs on Pole with Torii Gate of Japanese Shinto Shrine Background",
+tags:["traffic-sign","road-sign","stop-sign","no-parking-sign","pedestrian-crossing-sign","pole","torii","torii-gate","shrine","shinto-shrine","shinto","tradition","culture","tree","greenery","building","residential-area","street","road","daytime","cloudy-sky","overcast","tokyo","japan","outdoors","scenic"]
+},
 
 
 
