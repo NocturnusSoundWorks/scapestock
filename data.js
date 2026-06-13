@@ -7276,4 +7276,10 @@ folder:"full02",
 title:"Close-up View of Street Light and Road Sign with Trees and Buildings Background",
 tags:["street-light","lamp","road-sign","traffic-sign","no-entry-sign","signboard","tree","greenery","green-leaves","building","architecture","skyscraper","high-rise","office-building","sky","blue-sky","sunny","bright","daytime","cityscape","urban","nihonbashi","chuo-ku","tokyo","japan","outdoors","scenic","background","wallpaper"]
 },
+{
+id:"26K052589",
+folder:"full02",
+title:"Bright Sun Shining in Deep Blue Sky with Wispy White Clouds Background",
+tags:["sky","blue-sky","sun","sunlight","sunshine","ray","bright","light","shining","cloud","white-cloud","wispy-cloud","cirrus","nature","summer","daytime","sunny","clear-sky","scenic","background","copy-space","wallpaper","outdoors","no-people"]
+},
 ];
