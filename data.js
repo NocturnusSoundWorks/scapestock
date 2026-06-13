@@ -7348,6 +7348,12 @@ folder:"full02",
 title:"Night View of Elevated Shuto Expressway Overpass with Tokyo Skytree Background",
 tags:["night-view","night","nightscape","cityscape","urban","tokyo","japan","skytree","tokyo-skytree","landmark","illuminated","highway","overpass","elevated-road","bridge","pier","pillar","river","sumida-river","water","reflection","water-reflection","light","street-light","dark","outdoors","scenic"]
 },
+{
+id:"26K060102",
+folder:"full02",
+title:"Night View of Tokyo Skytree with Elevated Highway Overpass and Apartment Building",
+tags:["night-view","night","nightscape","cityscape","urban","tokyo","japan","skytree","tokyo-skytree","landmark","illuminated","highway","overpass","elevated-road","bridge","street-light","light","apartment","building","architecture","residential-building","sumida-river","water","dark","outdoors","scenic"]
+},
 
 
 ];
