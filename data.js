@@ -7354,6 +7354,12 @@ folder:"full02",
 title:"Night View of Tokyo Skytree with Elevated Highway Overpass and Apartment Building",
 tags:["night-view","night","nightscape","cityscape","urban","tokyo","japan","skytree","tokyo-skytree","landmark","illuminated","highway","overpass","elevated-road","bridge","street-light","light","apartment","building","architecture","residential-building","sumida-river","water","dark","outdoors","scenic"]
 },
+{
+id:"26K060103",
+folder:"full02",
+title:"Night View of Sumida River with Large Highway Overpass Concrete Pillars Background",
+tags:["night-view","night","nightscape","cityscape","urban","sumida-river","river","water","water-reflection","highway","overpass","elevated-road","bridge","pier","concrete-pillar","structure","architecture","light","street-light","boat","tokyo","japan","outdoors","scenic"]
+},
 
 
 ];
