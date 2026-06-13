@@ -7318,5 +7318,14 @@ folder:"full02",
 title:"Night View of Elevated Highway Overpass with ETC Electronic Signboard and Truck at Intersection",
 tags:["night-view","night","nightscape","cityscape","urban","tokyo","japan","kandabashi","highway","overpass","elevated-road","bridge","etc-sign","electronic-signboard","traffic-sign","truck","intersection","crosswalk","zebra-crossing","street","road","asphalt","building","architecture","street-light","light","dark","outdoors","scenic"]
 },
+{
+id:"26K052596",
+folder:"full02",
+title:"Entrance of Kandabashi Toll Gate on Shuto Expressway with Traffic Signboard and Crosswalk",
+tags:["highway","overpass","elevated-road","toll-gate","entrance","kandabashi","shutoko","shuto-expressway","traffic-sign","signboard","green-sign","crosswalk","zebra-crossing","intersection","street","road","asphalt","bridge","pillar","infrastructure","architecture","cloudy-sky","overcast","daytime","urban","cityscape","tokyo","japan","outdoors"]
+},
+
+
+
 
 ];
