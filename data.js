@@ -7390,5 +7390,11 @@ folder:"full02",
 title:"Rusty Iron Metal Railroad Fasteners and Screws in Wire Basket Background",
 tags:["metal","iron","steel","rust","rusty","fastener","railroad-tie","clip","screw","bolt","hardware","scrap-metal","industrial","texture","pattern","pile","basket","wire-mesh","industrial-waste","material","brown","corrosion","background","wallpaper","no-people"]
 },
+{
+id:"26K060109",
+folder:"full02",
+title:"Utility Pole with Power Lines and Transformer Against Cloudy Sky Background",
+tags:["utility-pole","telephone-pole","power-line","electric-wire","cable","transformer","electricity","power-supply","infrastructure","street-light","sky","cloud","cloudy-sky","overcast","daytime","low-angle-shot","silhouette","urban","suburban","industrial","abstract","background","wallpaper","no-people"]
+},
 
 ];
