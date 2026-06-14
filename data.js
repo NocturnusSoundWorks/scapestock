@@ -7396,5 +7396,17 @@ folder:"full02",
 title:"Utility Pole with Power Lines and Transformer Against Cloudy Sky Background",
 tags:["utility-pole","telephone-pole","power-line","electric-wire","cable","transformer","electricity","power-supply","infrastructure","street-light","sky","cloud","cloudy-sky","overcast","daytime","low-angle-shot","silhouette","urban","suburban","industrial","abstract","background","wallpaper","no-people"]
 },
+{
+id:"26K060110",
+folder:"full02",
+title:"Night View of a Public Park Square Illuminated by Street Lights with Trees Background",
+tags:["park","public-park","square","plaza","pavement","stone-path","brick","pattern","night","night-view","nightscape","illuminated","light","street-light","lamp","tree","greenery","foliage","nature","building","apartment","urban","cityscape","ningyocho","tokyo","japan","outdoors","quiet","no-people"]
+},
+{
+id:"26K060111",
+folder:"full02",
+title:"Ginkgo Trees Illuminated by Street Lamp at Night with Dark Sky Background",
+tags:["ginkgo","icho","tree","leaf","greenery","foliage","nature","plant","botanical","street-light","lamp","light","illuminated","night","night-view","nightscape","dark-sky","urban","park","building","outdoors","scenic","wallpaper","background"]
+},
 
 ];
