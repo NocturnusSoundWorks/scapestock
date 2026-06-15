@@ -7498,6 +7498,11 @@ folder:"full02",
 title:"Wide Architectural Outdoor Stone Staircase with Large Green Tree under Overcast Sky",
 tags:["staircase","stairs","steps","stone-steps","architecture","outdoor-stairs","plaza","pavement","tree","greenery","building","modern-architecture","cloudy-sky","overcast","gray-sky","daytime","city","urban","landscape","scenic","tokyo","japan","outdoors","no-people"]
 },
-
+{
+id:"26K060127",
+folder:"full02",
+title:"Tokyo Station Historic Red Brick Building with Modern Skyscrapers under Blue Sky and Clouds",
+tags:["tokyo-station","station","marunouchi","red-brick","historic-building","landmark","architecture","facade","cityscape","urban","skyscraper","high-rise","office-building","glass-facade","reflection","sky","blue-sky","cloud","sunny","daytime","summer","tokyo","japan","scenic","outdoors","no-people"]
+},
 
 ];
