@@ -7492,8 +7492,12 @@ folder:"full02",
 title:"Scenic View of Tokyo Imperial Palace Moat with High Rise Corporate Buildings and Stone Wall Background",
 tags:["moat","water","stone-wall","castle-wall","ishigaki","imperial-palace","edo-castle","tokyo-imperial-palace","tree","greenery","foliage","nature","blue-sky","sky","cloud","sunny","daytime","summer","cityscape","building","skyscraper","urban","hibiya","tokyo","japan","historical-site","scenic","landscape","outdoors","no-people"]
 },
-
-
+{
+id:"26K060126",
+folder:"full02",
+title:"Wide Architectural Outdoor Stone Staircase with Large Green Tree under Overcast Sky",
+tags:["staircase","stairs","steps","stone-steps","architecture","outdoor-stairs","plaza","pavement","tree","greenery","building","modern-architecture","cloudy-sky","overcast","gray-sky","daytime","city","urban","landscape","scenic","tokyo","japan","outdoors","no-people"]
+},
 
 
 ];
