@@ -7432,6 +7432,18 @@ folder:"full02",
 title:"Night View of Tokyo Skytree and City Buildings with Sumida River Background",
 tags:["river","sumida-river","water","water-reflection","night","night-view","nightscape","cityscape","urban","tokyo-skytree","skytree","tower","illuminated","light","street-light","building","apartment","condominium","window-light","sky","tokyo","japan","outdoors","scenic","background","wallpaper"]
 },
+{
+id:"26K060116",
+folder:"full02",
+title:"Night View of Elevated Expressway and City Buildings Along Sumida River with Tokyo Skytree Background",
+tags:["river","sumida-river","water","water-reflection","night","night-view","nightscape","cityscape","urban","expressway","highway","overpass","elevated-road","bridge","structure","architecture","building","apartment","tokyo-skytree","skytree","tower","illuminated","light","street-light","tokyo","japan","outdoors","scenic","background","wallpaper"]
+},
+{
+id:"26K060117",
+folder:"full02",
+title:"Scenic View of Imperial Palace Moat and Stone Wall with Green Trees Under Clear Blue Sky",
+tags:["moat","water","stone-wall","castle-wall","ishigaki","imperial-palace","edo-castle","tokyo-imperial-palace","tree","greenery","foliage","nature","reflection","water-reflection","blue-sky","sky","sunny","daytime","summer","Hibiya","tokyo","japan","historical-site","scenic","landscape","outdoors","no-people"]
+},
 
 
 ];
