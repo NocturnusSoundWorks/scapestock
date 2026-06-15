@@ -7408,5 +7408,25 @@ folder:"full02",
 title:"Ginkgo Trees Illuminated by Street Lamp at Night with Dark Sky Background",
 tags:["ginkgo","icho","tree","leaf","greenery","foliage","nature","plant","botanical","street-light","lamp","light","illuminated","night","night-view","nightscape","dark-sky","urban","park","building","outdoors","scenic","wallpaper","background"]
 },
+{
+id:"26K060112",
+folder:"full02",
+title:"Night View of Sumida River with Yakatabune Cruise Boat and Illuminated Shuto Expressway Overpass",
+tags:["river","sumida-river","yakatabune","boat","cruise","ship","night-view","night","nightscape","cityscape","urban","expressway","highway","overpass","elevated-road","concrete-pillar","structure","architecture","building","light","street-light","water-reflection","tokyo","japan","outdoors","scenic"]
+},
+{
+id:"26K060113",
+folder:"full02",
+title:"Night View of City Buildings and Yakatabune Cruise Boat Along Sumida River Background",
+tags:["river","sumida-river","water","water-reflection","night","night-view","nightscape","cityscape","urban","building","apartment","condominium","yakatabune","boat","cruise","light","illuminated","window-light","sky","tokyo","japan","outdoors","scenic","background","wallpaper"]
+},
+{
+id:"26K060114",
+folder:"full02",
+title:"Panoramic Night View of Sumida River with Bridges and Elevated Expressway Overpass in Tokyo",
+tags:["river","sumida-river","water","water-reflection","night","night-view","nightscape","cityscape","urban","bridge","expressway","highway","overpass","elevated-road","structure","architecture","building","tokyo-skytree","skytree","illuminated","light","street-light","tokyo","japan","outdoors","scenic","panoramic","background","wallpaper"]
+},
+
+
 
 ];
