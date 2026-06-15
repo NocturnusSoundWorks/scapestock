@@ -7480,5 +7480,20 @@ folder:"full02",
 title:"Scenic View of Tokyo Imperial Palace Moat with Green Trees and Reflections Under Blue Sky",
 tags:["moat","water","stone-wall","castle-wall","ishigaki","imperial-palace","edo-castle","tokyo-imperial-palace","tree","greenery","willow","foliage","nature","reflection","water-reflection","blue-sky","sky","sunny","daytime","summer","hibiya","tokyo","japan","historical-site","scenic","landscape","outdoors","no-people"]
 },
+{
+id:"26K060124",
+folder:"full02",
+title:"Scenic View of Tokyo Imperial Palace Moat and Ancient Stone Wall under Clear Blue Sky",
+tags:["moat","water","stone-wall","castle-wall","ishigaki","imperial-palace","edo-castle","tokyo-imperial-palace","tree","greenery","foliage","nature","reflection","water-reflection","blue-sky","sky","sunny","daytime","summer","hibiya","tokyo","japan","historical-site","scenic","landscape","outdoors","background","wallpaper","no-people"]
+},
+{
+id:"26K060125",
+folder:"full02",
+title:"Scenic View of Tokyo Imperial Palace Moat with High Rise Corporate Buildings and Stone Wall Background",
+tags:["moat","water","stone-wall","castle-wall","ishigaki","imperial-palace","edo-castle","tokyo-imperial-palace","tree","greenery","foliage","nature","blue-sky","sky","cloud","sunny","daytime","summer","cityscape","building","skyscraper","urban","hibiya","tokyo","japan","historical-site","scenic","landscape","outdoors","no-people"]
+},
+
+
+
 
 ];
