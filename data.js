@@ -7426,7 +7426,12 @@ folder:"full02",
 title:"Panoramic Night View of Sumida River with Bridges and Elevated Expressway Overpass in Tokyo",
 tags:["river","sumida-river","water","water-reflection","night","night-view","nightscape","cityscape","urban","bridge","expressway","highway","overpass","elevated-road","structure","architecture","building","tokyo-skytree","skytree","illuminated","light","street-light","tokyo","japan","outdoors","scenic","panoramic","background","wallpaper"]
 },
-
+{
+id:"26K060115",
+folder:"full02",
+title:"Night View of Tokyo Skytree and City Buildings with Sumida River Background",
+tags:["river","sumida-river","water","water-reflection","night","night-view","nightscape","cityscape","urban","tokyo-skytree","skytree","tower","illuminated","light","street-light","building","apartment","condominium","window-light","sky","tokyo","japan","outdoors","scenic","background","wallpaper"]
+},
 
 
 ];
