@@ -7534,5 +7534,14 @@ folder:"full02",
 title:"Perspective View of Empty Multi Lane Asphalt Road with White Arrow Marking and Lush Green Trees under Blue Sky",
 tags:["road","asphalt","street","empty-road","lane","traffic-lane","arrow","marking","white-line","highway","uchibori-dori","ginkgo-tree","tree","greenery","foliage","nature","cityscape","urban","hibiya","tokyo","japan","sky","blue-sky","cloud","sunny","daytime","summer","perspective","scenic","landscape","outdoors","no-people"]
 },
+{
+id:"26K060133",
+folder:"full02",
+title:"Wide Stone Paved Pedestrian Walkway and Gyoko Dori Avenue under Clear Blue Sky Background",
+tags:["walkway","pavement","stone-paved","plaza","square","gyoko-dori","marunouchi","tree","ginkgo-tree","greenery","foliage","nature","street-light","lamp-post","bench","perspective","vanishing-point","cityscape","urban","hibiya","tokyo","japan","sky","blue-sky","cloud","sunny","daytime","summer","scenic","landscape","outdoors","no-people"]
+},
+
+
+
 
 ];
