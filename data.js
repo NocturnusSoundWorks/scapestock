@@ -7504,5 +7504,20 @@ folder:"full02",
 title:"Tokyo Station Historic Red Brick Building with Modern Skyscrapers under Blue Sky and Clouds",
 tags:["tokyo-station","station","marunouchi","red-brick","historic-building","landmark","architecture","facade","cityscape","urban","skyscraper","high-rise","office-building","glass-facade","reflection","sky","blue-sky","cloud","sunny","daytime","summer","tokyo","japan","scenic","outdoors","no-people"]
 },
+{
+id:"26K060128",
+folder:"full02",
+title:"Tokyo Station Marunouchi Building Facade and Square under Sunny Sky Background",
+tags:["tokyo-station","station","marunouchi","red-brick","historic-building","landmark","architecture","facade","plaza","square","pavement","cityscape","urban","skyscraper","office-building","sky","blue-sky","cloud","sunny","daytime","summer","tokyo","japan","scenic","outdoors","no-people"]
+},
+{
+id:"26K060129",
+folder:"full02",
+title:"Wide Empty Asphalt Road in Front of Uchibori Dori with Green Trees under Blue Sky and Clouds",
+tags:["road","asphalt","street","empty-road","lane","traffic-lane","highway","uchibori-dori","marunouchi","tree","greenery","foliage","nature","cityscape","urban","tokyo","japan","sky","blue-sky","cloud","sunny","daytime","summer","scenic","landscape","outdoors","no-people"]
+},
+
+
+
 
 ];
