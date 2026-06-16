@@ -7521,8 +7521,18 @@ id:"26K060130",
 folder:"full02",
 title:"Scenic View of Tokyo Imperial Palace Moat and Stone Bridge with Modern Luxury Hotel and Buildings Reflection",
 tags:["moat","water","bridge","stone-bridge","stone-wall","castle-wall","ishigaki","imperial-palace","edo-castle","tokyo-imperial-palace","wadakura-moat","reflection","building-reflection","hotel","luxury-hotel","palace-hotel","cityscape","urban","skyscraper","building","architecture","modern-architecture","blue-sky","sky","sunny","daytime","summer","hibiya","tokyo","japan","historical-site","scenic","landscape","outdoors","no-people"]
-}
-
-
+},
+{
+id:"26K060131",
+folder:"full02",
+title:"Empty Multi Lane Asphalt Road with White Arrow Markings and Green Trees under Blue Sky",
+tags:["road","asphalt","street","empty-road","lane","traffic-lane","arrow","marking","white-line","highway","uchibori-dori","ginkgo-tree","tree","greenery","foliage","nature","cityscape","urban","hibiya","tokyo","japan","sky","blue-sky","cloud","sunny","daytime","summer","scenic","landscape","outdoors","no-people"]
+},
+{
+id:"26K060132",
+folder:"full02",
+title:"Perspective View of Empty Multi Lane Asphalt Road with White Arrow Marking and Lush Green Trees under Blue Sky",
+tags:["road","asphalt","street","empty-road","lane","traffic-lane","arrow","marking","white-line","highway","uchibori-dori","ginkgo-tree","tree","greenery","foliage","nature","cityscape","urban","hibiya","tokyo","japan","sky","blue-sky","cloud","sunny","daytime","summer","perspective","scenic","landscape","outdoors","no-people"]
+},
 
 ];
