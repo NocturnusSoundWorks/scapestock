@@ -7590,7 +7590,12 @@ title:"Scenic View of Historic Tokyo Station Marunouchi Red Brick Building and M
 tags:["tokyo-station","station-building","historic-building","red-brick","facade","architecture","marunouchi","japanese-flag","flag","skyscraper","high-rise","office-building","building","cityscape","urban","marunouchi","tokyo","japan","sky","blue-sky","cloud","sunny","daytime","summer","perspective","outdoors","no-people"]
 },
 
-
+{
+id:"26K060142",
+folder:"full02",
+title:"Modern Office Skyscrapers and Buildings behind Green Trees under Blue Sky in Tokyo",
+tags:["skyscraper","high-rise","office-building","building","architecture","modern-architecture","glass-facade","cityscape","urban","marunouchi","tokyo","japan","tree","greenery","foliage","nature","sky","blue-sky","clear-sky","sunny","daytime","summer","perspective","outdoors","no-people"]
+},
 
 
 ];
