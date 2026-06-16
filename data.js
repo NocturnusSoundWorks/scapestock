@@ -7516,7 +7516,12 @@ folder:"full02",
 title:"Wide Empty Asphalt Road in Front of Uchibori Dori with Green Trees under Blue Sky and Clouds",
 tags:["road","asphalt","street","empty-road","lane","traffic-lane","highway","uchibori-dori","marunouchi","tree","greenery","foliage","nature","cityscape","urban","tokyo","japan","sky","blue-sky","cloud","sunny","daytime","summer","scenic","landscape","outdoors","no-people"]
 },
-
+{
+id:"26K060130",
+folder:"full02",
+title:"Scenic View of Tokyo Imperial Palace Moat and Stone Bridge with Modern Luxury Hotel and Buildings Reflection",
+tags:["moat","water","bridge","stone-bridge","stone-wall","castle-wall","ishigaki","imperial-palace","edo-castle","tokyo-imperial-palace","wadakura-moat","reflection","building-reflection","hotel","luxury-hotel","palace-hotel","cityscape","urban","skyscraper","building","architecture","modern-architecture","blue-sky","sky","sunny","daytime","summer","hibiya","tokyo","japan","historical-site","scenic","landscape","outdoors","no-people"]
+}
 
 
 
