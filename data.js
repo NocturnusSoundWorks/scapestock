@@ -7602,6 +7602,17 @@ folder:"full02",
 title:"Wide View of Open Square near Kokyo Gaien National Garden with Crosswalk and Bus Stop",
 tags:["square","plaza","open-space","crosswalk","pedestrian-crossing","zebra-crossing","sidewalk","pavement","bus-stop","shelter","canopy","gyoko-dori","kokyo-gaien","marunouchi","tokyo","japan","tree","greenery","foliage","nature","sky","blue-sky","cloud","sunny","daytime","summer","cityscape","urban","perspective","outdoors","no-people"]
 },
-
+{
+id:"26K060144",
+folder:"full02",
+title:"Modern Skyscrapers and Hotel Tokyo Reflected on Imperial Palace Moat Water Surface",
+tags:["skyscraper","high-rise","hotel","building","architecture","modern-architecture","glass-facade","palace-hotel","moat","water","reflection","water-reflection","stone-wall","bridge","wadakura-mon","kokyo","imperial-palace","marunouchi","tokyo","japan","tree","greenery","nature","sky","blue-sky","clear-sky","sunny","daytime","summer","cityscape","urban","scenic","landscape","outdoors","no-people"]
+},
+{
+id:"26K060145",
+folder:"full02",
+title:"Close Up of Imperial Palace Moat Stone Wall with Green Trees and Modern Building Reflection",
+tags:["stone-wall","moat","water","reflection","water-reflection","kokyo","imperial-palace","wadakura-mon","marunouchi","tokyo","japan","tree","greenery","foliage","pine-tree","nature","plant","moss","weed","skyscraper","building","office-building","architecture","modern-architecture","cityscape","urban","sunny","daytime","summer","perspective","outdoors","no-people"]
+},
 
 ];
