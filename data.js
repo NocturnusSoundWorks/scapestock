@@ -7620,5 +7620,12 @@ folder:"full02",
 title:"Historic Stone Wall of Wadakura Gate at Imperial Palace with Stone Bench and Green Trees",
 tags:["stone-wall","historic-site","ruins","fortress","castle-wall","wadakura-mon","gate","kokyo","imperial-palace","marunouchi","tokyo","japan","bench","stone-bench","walkway","pavement","signboard","pine-tree","tree","greenery","nature","sky","blue-sky","sunny","daytime","summer","perspective","structure","outdoors","no-people"]
 },
+{
+id:"26K060147",
+folder:"full02",
+title:"Perspective View of Wide Stone Paved Promenade with Green Trees and Street Lamps under Blue Sky",
+tags:["promenade","walkway","pathway","pavement","stone-paver","gyoko-dori","marunouchi","tokyo","japan","street-lamp","lamp-post","tree","row-of-trees","greenery","foliage","nature","sky","blue-sky","clear-sky","sunny","daytime","summer","perspective","vanishing-point","cityscape","urban","outdoors","no-people"]
+},
+
 
 ];
