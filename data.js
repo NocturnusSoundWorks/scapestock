@@ -7596,6 +7596,12 @@ folder:"full02",
 title:"Modern Office Skyscrapers and Buildings behind Green Trees under Blue Sky in Tokyo",
 tags:["skyscraper","high-rise","office-building","building","architecture","modern-architecture","glass-facade","cityscape","urban","marunouchi","tokyo","japan","tree","greenery","foliage","nature","sky","blue-sky","clear-sky","sunny","daytime","summer","perspective","outdoors","no-people"]
 },
+{
+id:"26K060143",
+folder:"full02",
+title:"Wide View of Open Square near Kokyo Gaien National Garden with Crosswalk and Bus Stop",
+tags:["square","plaza","open-space","crosswalk","pedestrian-crossing","zebra-crossing","sidewalk","pavement","bus-stop","shelter","canopy","gyoko-dori","kokyo-gaien","marunouchi","tokyo","japan","tree","greenery","foliage","nature","sky","blue-sky","cloud","sunny","daytime","summer","cityscape","urban","perspective","outdoors","no-people"]
+},
 
 
 ];
