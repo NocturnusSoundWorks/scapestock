@@ -7614,5 +7614,11 @@ folder:"full02",
 title:"Close Up of Imperial Palace Moat Stone Wall with Green Trees and Modern Building Reflection",
 tags:["stone-wall","moat","water","reflection","water-reflection","kokyo","imperial-palace","wadakura-mon","marunouchi","tokyo","japan","tree","greenery","foliage","pine-tree","nature","plant","moss","weed","skyscraper","building","office-building","architecture","modern-architecture","cityscape","urban","sunny","daytime","summer","perspective","outdoors","no-people"]
 },
+{
+id:"26K060146",
+folder:"full02",
+title:"Historic Stone Wall of Wadakura Gate at Imperial Palace with Stone Bench and Green Trees",
+tags:["stone-wall","historic-site","ruins","fortress","castle-wall","wadakura-mon","gate","kokyo","imperial-palace","marunouchi","tokyo","japan","bench","stone-bench","walkway","pavement","signboard","pine-tree","tree","greenery","nature","sky","blue-sky","sunny","daytime","summer","perspective","structure","outdoors","no-people"]
+},
 
 ];
