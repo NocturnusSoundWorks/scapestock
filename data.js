@@ -7674,6 +7674,13 @@ folder:"full02",
 title:"Dense Cluster of Tiny White Laceflower Blossoms with Green Foliage",
 tags:["laceflower","orlaya","white-flower","flower","blossom","petal","umbel","cluster","dense","wildflower","herbal","nature","plant","botanical","flora","green-leaf","foliage","greenery","garden","field","meadow","fresh","bright","blooming","summer","spring","seasonal","close-up","background","no-people"]
 },
+{
+id:"26K060156",
+folder:"full02",
+title:"Close Up of Vibrant Pink Laceflower Umbel Cluster with Green Foliage Background",
+tags:["laceflower","orlaya","pink-flower","flower","blossom","petal","umbel","cluster","dense","wildflower","herbal","nature","plant","botanical","flora","green-leaf","foliage","greenery","garden","field","meadow","fresh","bright","blooming","summer","spring","seasonal","close-up","background","no-people"]
+},
+
 
 
 ];
