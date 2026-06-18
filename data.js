@@ -7662,5 +7662,11 @@ folder:"full02",
 title:"Dense Bush of Vibrant Red and Magenta Shrub Roses with Green Leaves",
 tags:["rose","flower","red-rose","magenta","blossom","petal","flower-cluster","dense","bush","shrub-rose","climbing-rose","nature","plant","botanical","green-leaf","foliage","greenery","garden","rose-garden","spring","summer","blooming","fresh","vibrant","background","wallpaper","no-people"]
 },
+{
+id:"26K060154",
+folder:"full02",
+title:"Close Up of Delicate White Rose Cluster blooming in the Garden",
+tags:["rose","white-rose","flower","blossom","petal","bud","cluster","flower-cluster","blooming","nature","plant","botanical","green-leaf","foliage","greenery","garden","rose-garden","spring","summer","seasonal","fresh","elegant","bright","close-up","outdoors","no-people"]
+},
 
 ];
