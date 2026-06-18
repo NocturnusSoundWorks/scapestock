@@ -7677,8 +7677,14 @@ tags:["laceflower","orlaya","white-flower","flower","blossom","petal","umbel","c
 {
 id:"26K060156",
 folder:"full02",
-title:"Close Up of Vibrant Pink Laceflower Umbel Cluster with Green Foliage Background",
-tags:["laceflower","orlaya","pink-flower","flower","blossom","petal","umbel","cluster","dense","wildflower","herbal","nature","plant","botanical","flora","green-leaf","foliage","greenery","garden","field","meadow","fresh","bright","blooming","summer","spring","seasonal","close-up","background","no-people"]
+title:"Close Up of Orange Leonotis Leonurus Lion's Ear Flowers with Green Foliage Background",
+tags:["lions-ear","wild-dagga","leonotis-leonurus","orange-flower","flower","blossom","petal","tubular-flower","whorl","cluster","exotic","nature","plant","botanical","flora","mint-family","green-leaf","foliage","greenery","garden","shrub","fresh","vibrant","bright","blooming","summer","seasonal","close-up","vertical","no-people"]
+},
+{
+id:"26K060157",
+folder:"full02",
+title:"Abundant Cluster of Small Pink and White Shrub Roses Blooming in a Garden",
+tags:["rose","flower","pink-rose","white-rose","blossom","petal","flower-cluster","dense","bush","shrub-rose","nature","plant","botanical","green-leaf","foliage","greenery","garden","rose-garden","spring","summer","blooming","fresh","vibrant","background","wallpaper","no-people"]
 },
 
 
