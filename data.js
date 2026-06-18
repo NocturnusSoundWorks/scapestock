@@ -7638,5 +7638,11 @@ folder:"full02",
 title:"Close Up of Vibrant Red-Crimson Rose Cluster in a Garden",
 tags:["rose","flower","red-rose","crimson","vibrant-red","blossom","petal","stamen","cluster","floribunda","modern-shrub-rose","nature","plant","botanical","green-leaf","foliage","garden","rose-garden","spring","spring-blossom","sunny","daytime","bright","close-up","bokeh-background","copy-space","no-people"]
 },
+{
+id:"26K060150",
+folder:"full02",
+title:"Close Up of Purple Clematis Flowers on a Trellis with Green Leaves",
+tags:["clematis","flower","purple","light-purple","lavender","blossom","petal","stamen","climber","vine","trellis","garden","rose-garden","nature","plant","botanical","leaf","greenery","foliage","fresh","bright","spring","seasonal","outdoors","copy-space","no-people"]
+},
 
 ];
