@@ -7686,7 +7686,12 @@ folder:"full02",
 title:"Abundant Cluster of Small Pink and White Shrub Roses Blooming in a Garden",
 tags:["rose","flower","pink-rose","white-rose","blossom","petal","flower-cluster","dense","bush","shrub-rose","nature","plant","botanical","green-leaf","foliage","greenery","garden","rose-garden","spring","summer","blooming","fresh","vibrant","background","wallpaper","no-people"]
 },
-
+{
+id:"26K060158",
+folder:"full02",
+title:"Close Up View of Pink and White Shrub Roses Blooming with Soft Purple Flowers in a Garden",
+tags:["rose","flower","pink-rose","white-rose","blossom","petal","flower-cluster","bush","shrub-rose","nature","plant","botanical","green-leaf","foliage","greenery","garden","rose-garden","purple-flower","spring","summer","blooming","fresh","close-up","background","wallpaper","no-people"]
+},
 
 
 ];
