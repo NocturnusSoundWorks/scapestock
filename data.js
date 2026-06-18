@@ -7626,6 +7626,17 @@ folder:"full02",
 title:"Perspective View of Wide Stone Paved Promenade with Green Trees and Street Lamps under Blue Sky",
 tags:["promenade","walkway","pathway","pavement","stone-paver","gyoko-dori","marunouchi","tokyo","japan","street-lamp","lamp-post","tree","row-of-trees","greenery","foliage","nature","sky","blue-sky","clear-sky","sunny","daytime","summer","perspective","vanishing-point","cityscape","urban","outdoors","no-people"]
 },
-
+{
+id:"26K060148",
+folder:"full02",
+title:"Panoramic View of Minato Mirai Skyline and Yokohama Landmark Tower from the Sea under Overcast Sky",
+tags:["minato-mirai","yokohama-landmark-tower","landmark-tower","intercontinental-hotel","cosmo-clock-21","ferris-wheel","yokohama-customs","queen-tower","skyscraper","high-rise","building","architecture","skyline","cityscape","urban","waterfront","port-of-yokohama","yokohama","kanagawa","japan","sea","ocean","water","wave","sky","overcast","cloudy","daytime","panoramic","outdoors","no-people"]
+},
+{
+id:"26K060149",
+folder:"full02",
+title:"Close Up of Vibrant Red-Crimson Rose Cluster in a Garden",
+tags:["rose","flower","red-rose","crimson","vibrant-red","blossom","petal","stamen","cluster","floribunda","modern-shrub-rose","nature","plant","botanical","green-leaf","foliage","garden","rose-garden","spring","spring-blossom","sunny","daytime","bright","close-up","bokeh-background","copy-space","no-people"]
+},
 
 ];
