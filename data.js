@@ -7656,5 +7656,11 @@ folder:"full02",
 title:"Dense Cluster of Small Pink and Magenta Roses with White Centers and Green Leaves",
 tags:["rose","flower","pink-rose","magenta","blossom","petal","flower-cluster","dense","bush","shrub-rose","climbing-rose","nature","plant","botanical","green-leaf","foliage","greenery","garden","rose-garden","spring","summer","blooming","fresh","vibrant","background","wallpaper","no-people"]
 },
+{
+id:"26K060153",
+folder:"full02",
+title:"Dense Bush of Vibrant Red and Magenta Shrub Roses with Green Leaves",
+tags:["rose","flower","red-rose","magenta","blossom","petal","flower-cluster","dense","bush","shrub-rose","climbing-rose","nature","plant","botanical","green-leaf","foliage","greenery","garden","rose-garden","spring","summer","blooming","fresh","vibrant","background","wallpaper","no-people"]
+},
 
 ];
