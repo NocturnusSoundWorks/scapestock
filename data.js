@@ -7644,5 +7644,17 @@ folder:"full02",
 title:"Close Up of Purple Clematis Flowers on a Trellis with Green Leaves",
 tags:["clematis","flower","purple","light-purple","lavender","blossom","petal","stamen","climber","vine","trellis","garden","rose-garden","nature","plant","botanical","leaf","greenery","foliage","fresh","bright","spring","seasonal","outdoors","copy-space","no-people"]
 },
+{
+id:"26K060151",
+folder:"full02",
+title:"Top Down View of Dense Cluster of White Daisy Flowers with Yellow Centers",
+tags:["daisy","oxeye-daisy","marguerite","flower","white-flower","blossom","petal","yellow-center","pollen","dense","cluster","nature","plant","botanical","flora","oxeye","chamomile","chrysanthemum","garden","field","fresh","bright","blooming","summer","seasonal","top-down","close-up","background","no-people"]
+},
+{
+id:"26K060152",
+folder:"full02",
+title:"Dense Cluster of Small Pink and Magenta Roses with White Centers and Green Leaves",
+tags:["rose","flower","pink-rose","magenta","blossom","petal","flower-cluster","dense","bush","shrub-rose","climbing-rose","nature","plant","botanical","green-leaf","foliage","greenery","garden","rose-garden","spring","summer","blooming","fresh","vibrant","background","wallpaper","no-people"]
+},
 
 ];
