@@ -7668,5 +7668,12 @@ folder:"full02",
 title:"Close Up of Delicate White Rose Cluster blooming in the Garden",
 tags:["rose","white-rose","flower","blossom","petal","bud","cluster","flower-cluster","blooming","nature","plant","botanical","green-leaf","foliage","greenery","garden","rose-garden","spring","summer","seasonal","fresh","elegant","bright","close-up","outdoors","no-people"]
 },
+{
+id:"26K060155",
+folder:"full02",
+title:"Dense Cluster of Tiny White Laceflower Blossoms with Green Foliage",
+tags:["laceflower","orlaya","white-flower","flower","blossom","petal","umbel","cluster","dense","wildflower","herbal","nature","plant","botanical","flora","green-leaf","foliage","greenery","garden","field","meadow","fresh","bright","blooming","summer","spring","seasonal","close-up","background","no-people"]
+},
+
 
 ];
