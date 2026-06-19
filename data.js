@@ -7740,6 +7740,11 @@ folder:"full02",
 title:"Urban Street View with Railway Overpass and Modern Glass Architecture Building under Cloudy Sky",
 tags:["tokyo","japan","street","road","asphalt","pavement","crosswalk","railway-bridge","overpass","underpass","steel-beam","traffic-cone","chevron-markings","glass-building","modern-architecture","facade","cityscape","urban","cloudy-sky","overcast","tree","greenery","vertical","outdoors"]
 },
-
+{
+id:"26K060167",
+folder:"full02",
+title:"Symmetrical Low Angle View of the Red Brick Facade of Tokyo Station Marunouchi Building with Japanese Flags",
+tags:["tokyo-station","marunouchi","tokyo","japan","architecture","historic-building","landmark","red-brick","facade","symmetrical","low-angle","entrance","stone-steps","pavement","japanese-flag","national-flag","pine-tree","bonsai-style","manicured-bush","cloudy-sky","overcast","heritage","station-building","travel","tourism","cityscape","vertical","outdoors","no-people"]
+},
 
 ];
