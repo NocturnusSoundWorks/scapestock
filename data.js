@@ -7734,7 +7734,12 @@ folder:"full02",
 title:"Urban Intersection View under Heavy Rain with Shin-Ohashi-dori Ave Street Sign in Tokyo",
 tags:["tokyo","japan","street","intersection","road","crosswalk","pavement","asphalt","wet-road","arrow-markings","traffic-sign","street-sign","shin-ohashi-dori","building","apartment","skyscraper","cityscape","urban","rain","heavy-rain","rainy-day","downpour","weather","overcast","cloudy-sky","misty","shinjuku","vertical","outdoors"]
 },
-
+{
+id:"26K060166",
+folder:"full02",
+title:"Urban Street View with Railway Overpass and Modern Glass Architecture Building under Cloudy Sky",
+tags:["tokyo","japan","street","road","asphalt","pavement","crosswalk","railway-bridge","overpass","underpass","steel-beam","traffic-cone","chevron-markings","glass-building","modern-architecture","facade","cityscape","urban","cloudy-sky","overcast","tree","greenery","vertical","outdoors"]
+},
 
 
 ];
