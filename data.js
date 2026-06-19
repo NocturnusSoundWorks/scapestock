@@ -7716,5 +7716,19 @@ folder:"full02",
 title:"Close Up View of Foamy Ocean Waves Crashing on Sandy Beach Shoreline under Sunlight",
 tags:["sea","ocean","wave","foam","bubble","water","surf","tide","shore","shoreline","beach","sand","sandy-beach","coast","coastline","seafront","waterfront","sunlight","reflection","glistening","nature","scenery","vertical","outdoors","no-people"]
 },
+{
+id:"26K060163",
+folder:"full02",
+title:"Close Up View of Street Sign Column with Japanese Text Miyuki Dori in Ginza Tokyo",
+tags:["miyuki-dori","street-sign","signpost","sign","column","pillar","japanese-characters","hiragana","kanji","text","lettering","gold-letters","ginza","tokyo","japan","street","sidewalk","pavement","brick-walkway","urban","city-view","scenery","close-up","vertical","outdoors"]
+},
+{
+id:"26K060164",
+folder:"full02",
+title:"Purple and Pink Hydrangea Flowers Blooming Along the Street with Bamboo Fence in Ginza Tokyo",
+tags:["hydrangea","ajisai","flower","purple","pink","violet","blossom","petal","flower-cluster","bush","nature","plant","botanical","green-leaf","foliage","greenery","bamboo-fence","fence","street","roadside","ginza","tokyo","japan","rainy-season","june","seasonal","fresh","vibrant","scenery","vertical","outdoors","no-people"]
+},
+
+
 
 ];
