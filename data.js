@@ -7728,6 +7728,12 @@ folder:"full02",
 title:"Purple and Pink Hydrangea Flowers Blooming Along the Street with Bamboo Fence in Ginza Tokyo",
 tags:["hydrangea","ajisai","flower","purple","pink","violet","blossom","petal","flower-cluster","bush","nature","plant","botanical","green-leaf","foliage","greenery","bamboo-fence","fence","street","roadside","ginza","tokyo","japan","rainy-season","june","seasonal","fresh","vibrant","scenery","vertical","outdoors","no-people"]
 },
+{
+id:"26K060165",
+folder:"full02",
+title:"Urban Intersection View under Heavy Rain with Shin-Ohashi-dori Ave Street Sign in Tokyo",
+tags:["tokyo","japan","street","intersection","road","crosswalk","pavement","asphalt","wet-road","arrow-markings","traffic-sign","street-sign","shin-ohashi-dori","building","apartment","skyscraper","cityscape","urban","rain","heavy-rain","rainy-day","downpour","weather","overcast","cloudy-sky","misty","shinjuku","vertical","outdoors"]
+},
 
 
 
