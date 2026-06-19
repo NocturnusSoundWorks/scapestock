@@ -7698,5 +7698,13 @@ folder:"full02",
 title:"Close Up View of Soft Pink and Peach Shrub Roses with Green Leaves Background",
 tags:["rose","flower","pink-rose","peach-rose","blossom","petal","flower-cluster","bush","shrub-rose","nature","plant","botanical","green-leaf","foliage","greenery","garden","rose-garden","spring","summer","blooming","fresh","soft-color","close-up","background","wallpaper","no-people"]
 },
+{
+id:"26K060160",
+folder:"full02",
+title:"Close Up View of Vibrant Crimson Red Shrub Roses blooming in the Garden",
+tags:["rose","flower","red-rose","crimson","magenta","blossom","petal","flower-cluster","dense","bush","shrub-rose","nature","plant","botanical","green-leaf","foliage","greenery","garden","rose-garden","spring","summer","blooming","fresh","vibrant","close-up","vertical","no-people"]
+},
+
+
 
 ];
