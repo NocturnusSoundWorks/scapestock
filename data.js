@@ -7704,7 +7704,17 @@ folder:"full02",
 title:"Close Up View of Vibrant Crimson Red Shrub Roses blooming in the Garden",
 tags:["rose","flower","red-rose","crimson","magenta","blossom","petal","flower-cluster","dense","bush","shrub-rose","nature","plant","botanical","green-leaf","foliage","greenery","garden","rose-garden","spring","summer","blooming","fresh","vibrant","close-up","vertical","no-people"]
 },
-
-
+{
+id:"26K060161",
+folder:"full02",
+title:"High Angle View of Sotobori Moat and Canal with Tokyo Cityscape and Train Infrastructure under Overcast Sky",
+tags:["iidabashi","tokyo","japan","sotobori","moat","canal","river","water","waterfront","iidabashi","ichigaya","cityscape","urban","building","architecture","railway","train-track","infrastructure","greenery","tree","foliage","overcast","cloudy-sky","reflection","scenery","outdoors","no-people"]
+},
+{
+id:"26K060162",
+folder:"full02",
+title:"Close Up View of Foamy Ocean Waves Crashing on Sandy Beach Shoreline under Sunlight",
+tags:["sea","ocean","wave","foam","bubble","water","surf","tide","shore","shoreline","beach","sand","sandy-beach","coast","coastline","seafront","waterfront","sunlight","reflection","glistening","nature","scenery","vertical","outdoors","no-people"]
+},
 
 ];
