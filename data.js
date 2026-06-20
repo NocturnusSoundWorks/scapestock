@@ -7764,6 +7764,20 @@ folder:"full02",
 title:"Low Angle Shot of Japanese Utility Pole with Messy Power Lines and Transformer under Overcast Sky",
 tags:["utility-pole", "telephone-pole", "power-lines", "overhead-power-lines", "electricity", "transformer", "cables", "wires", "tangled-wires", "messy-wires", "power-grid", "infrastructure", "street-infrastructure", "utility", "japan", "japanese-street", "urban", "suburban", "cityscape", "low-angle", "looking-up", "overcast", "cloudy-sky", "gloomy", "grey-sky", "silhouette", "industrial", "vertical", "outdoors", "no-people"]
 },
+{
+id:"26K060171",
+folder:"full02",
+title:"Close Up View of Weathered and Peeled Black Paint on Wooden Board with Screws",
+tags:["wood","wooden-board","plank","texture","background","pattern","surface","weathered","aged","peeled-paint","chipped-paint","black-paint","wood-grain","knot","screw","hardware","rust","rustic","vintage","distressed","abstract","macro","detail","vertical","no-people"]
+},
+{
+id:"26K060172",
+folder:"full02",
+title:"Close Up View of Weathered Wooden Barrel with Rusted Metal Hoops",
+tags:["wood", "wooden-barrel", "barrel", "hoop", "metal-band", "iron-hoop", "rust", "rusted-metal", "weathered", "aged", "distressed", "wood-grain", "texture", "surface", "pattern", "background", "wallpaper", "rustic", "vintage", "antique", "detail", "close-up", "vertical", "no-people"]
+},
+
+
 
 
 ];
