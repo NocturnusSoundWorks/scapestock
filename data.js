@@ -7794,6 +7794,18 @@ folder:"full02",
 title:"Eye Level View of a Narrow Japanese Alleyway Asphalt Road with Tomare Stop Marking after Rain",
 tags:["alleyway", "narrow-street", "back-street", "road", "asphalt", "pavement", "wet-road", "after-rain", "tomare", "stop-marking", "road-marking", "manhole-cover", "no-smoking-sign", "building", "concrete-wall", "utility-pole", "urban", "cityscape", "japan", "japanese-street", "perspective", "vertical", "outdoors", "no-people"]
 },
+{
+id:"26K060176",
+folder:"full02",
+title:"Full Frame View of Dark Ominous Storm Clouds Filling the Sky Background",
+tags:["sky","cloud","storm-clouds","dark-clouds","rain-cloud","overcast","gloomy","grey-sky","bad-weather","meteorology","nature","atmosphere","monochrome-look","cumulus","nimbus","heavy-sky","background","texture","abstract","full-frame","vertical","outdoors","no-people"]
+},
+{
+id:"26K060177",
+folder:"full02",
+title:"High Angle View of Wet Asphalt Road Surface with Tomare Stop Text after Rain",
+tags:["road","street","asphalt","pavement","wet-road","after-rain","tomare","stop-marking","road-marking","japanese-characters","white-line","crosswalk","pedestrian-crossing","urban","perspective","high-angle","texture","surface","japan","japanese-street","vertical","outdoors","no-people"]
+},
 
 
 ];
