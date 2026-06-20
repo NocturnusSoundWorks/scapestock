@@ -7758,7 +7758,12 @@ folder:"full02",
 title:"Low Angle View of Tokyo Station Marunouchi Building Red Brick Facade and Tiled Plaza",
 tags:["tokyo-station","marunouchi","tokyo","japan","architecture","historic-building","landmark","red-brick","facade","low-angle","station-building","plaza","pavement","tiled-floor","stone-walkway","archway","window","lawn","greenery","overcast","cloudy-sky","heritage","travel","tourism","cityscape","vertical","outdoors","no-people"]
 },
-
+{
+id:"26K060170",
+folder:"full02",
+title:"Low Angle Shot of Japanese Utility Pole with Messy Power Lines and Transformer under Overcast Sky",
+tags:["utility-pole", "telephone-pole", "power-lines", "overhead-power-lines", "electricity", "transformer", "cables", "wires", "tangled-wires", "messy-wires", "power-grid", "infrastructure", "street-infrastructure", "utility", "japan", "japanese-street", "urban", "suburban", "cityscape", "low-angle", "looking-up", "overcast", "cloudy-sky", "gloomy", "grey-sky", "silhouette", "industrial", "vertical", "outdoors", "no-people"]
+},
 
 
 ];
