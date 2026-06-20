@@ -7746,5 +7746,19 @@ folder:"full02",
 title:"Symmetrical Low Angle View of the Red Brick Facade of Tokyo Station Marunouchi Building with Japanese Flags",
 tags:["tokyo-station","marunouchi","tokyo","japan","architecture","historic-building","landmark","red-brick","facade","symmetrical","low-angle","entrance","stone-steps","pavement","japanese-flag","national-flag","pine-tree","bonsai-style","manicured-bush","cloudy-sky","overcast","heritage","station-building","travel","tourism","cityscape","vertical","outdoors","no-people"]
 },
+{
+id:"26K060168",
+folder:"full02",
+title:"Symmetrical Eye Level View of the Red Brick Facade of Tokyo Station Marunouchi Building under Cloudy Sky",
+tags:["tokyo-station","marunouchi","tokyo","japan","architecture","historic-building","landmark","red-brick","facade","symmetrical","front-view","entrance","plaza","pavement","stone-steps","pine-tree","manicured-bush","cloudy-sky","overcast","heritage","station-building","travel","tourism","cityscape","vertical","outdoors","no-people"]
+},
+{
+id:"26K060169",
+folder:"full02",
+title:"Low Angle View of Tokyo Station Marunouchi Building Red Brick Facade and Tiled Plaza",
+tags:["tokyo-station","marunouchi","tokyo","japan","architecture","historic-building","landmark","red-brick","facade","low-angle","station-building","plaza","pavement","tiled-floor","stone-walkway","archway","window","lawn","greenery","overcast","cloudy-sky","heritage","travel","tourism","cityscape","vertical","outdoors","no-people"]
+},
+
+
 
 ];
