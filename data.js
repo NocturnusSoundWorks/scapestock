@@ -7776,8 +7776,24 @@ folder:"full02",
 title:"Close Up View of Weathered Wooden Barrel with Rusted Metal Hoops",
 tags:["wood", "wooden-barrel", "barrel", "hoop", "metal-band", "iron-hoop", "rust", "rusted-metal", "weathered", "aged", "distressed", "wood-grain", "texture", "surface", "pattern", "background", "wallpaper", "rustic", "vintage", "antique", "detail", "close-up", "vertical", "no-people"]
 },
-
-
+{
+id:"26K060173",
+folder:"full02",
+title:"Full Frame View of Dark Stormy and Gloomy Clouds Covering the Sky",
+tags:["sky","cloud","storm-clouds","dark-clouds","rain-cloud","overcast","gloomy","grey-sky","weather","meteorology","nature","atmosphere","monochrome-look","cumulus","nimbus","heavy-sky","background","texture","abstract","full-frame","vertical","outdoors","no-people"]
+},
+{
+id:"26K060174",
+folder:"full02",
+title:"Low Angle View of Concrete Utility Pole with Street Light under Blue Sky with Cirrus Clouds",
+tags:["utility-pole","street-light","lamp-post","concrete-pole","power-lines","wires","overhead-cables","railway-infrastructure","security-camera","cctv","blue-sky","cirrus-clouds","thin-clouds","sunny-day","daytime","bright","low-angle","looking-up","urban","suburban","japan","infrastructure","street-infrastructure","industrial","vertical","outdoors","no-people"]
+},
+{
+id:"26K060175",
+folder:"full02",
+title:"Eye Level View of a Narrow Japanese Alleyway Asphalt Road with Tomare Stop Marking after Rain",
+tags:["alleyway", "narrow-street", "back-street", "road", "asphalt", "pavement", "wet-road", "after-rain", "tomare", "stop-marking", "road-marking", "manhole-cover", "no-smoking-sign", "building", "concrete-wall", "utility-pole", "urban", "cityscape", "japan", "japanese-street", "perspective", "vertical", "outdoors", "no-people"]
+},
 
 
 ];
