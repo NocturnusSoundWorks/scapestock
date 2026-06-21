@@ -7878,4 +7878,13 @@ folder:"full02",
 title:"Full Frame View of Dense Yellow and Orange Bidens Flowers Background",
 tags:["flower","bidens","beggarticks","yellow-flower","orange-flower","blossom","petal","floral","nature","plant","botanical","fresh","vibrant","colorful","full-frame","background","wallpaper","pattern","texture","dense","vertical","outdoors","no-people"]
 },
+{
+id:"26K060190",
+folder:"full02",
+title:"Full Frame View of Dense Yellow and Orange Bidens Flowers Background",
+tags:["flower","bidens","beggarticks","yellow-flower","orange-flower","blossom","petal","floral","nature","plant","botanical","fresh","vibrant","colorful","full-frame","background","wallpaper","pattern","texture","dense","vertical","outdoors","no-people"]
+},
+
+
+
 ];
