@@ -7884,6 +7884,30 @@ folder:"full02",
 title:"Full Frame View of Dense Yellow and Orange Bidens Flowers Background",
 tags:["flower","bidens","beggarticks","yellow-flower","orange-flower","blossom","petal","floral","nature","plant","botanical","fresh","vibrant","colorful","full-frame","background","wallpaper","pattern","texture","dense","vertical","outdoors","no-people"]
 },
+{
+id:"26K060191",
+folder:"full02",
+title:"Full Frame View of Dense White Zinnia Flowers with Orange Centers Background",
+tags:["flower","zinnia","white-flower","orange-center","blossom","petal","floral","dense","field","garden","green-leaves","soil","nature","plant","botanical","fresh","vibrant","beautiful","full-frame","background","wallpaper","pattern","texture","vertical","outdoors","no-people"]
+},
+{
+id:"26K060192",
+folder:"full02",
+title:"Field of Vibrant Orange and Yellow Marigold Flowers Background",
+tags:["flower","marigold","tagetes","orange-flower","yellow-flower","blossom","petal","floral","buds","green-leaves","field","garden","nature","plant","botanical","fresh","vibrant","colorful","beautiful","background","wallpaper","dense","vertical","outdoors","no-people"]
+},
+{
+id:"26K060193",
+folder:"full02",
+title:"Full Frame View of Brown Stained Vertical Wooden Planks Texture Background",
+tags:["wood","plank","board","paneling","wooden-wall","siding","timber","wood-texture","grain","surface","pattern","groove","vertical-lines","rustic","natural-material","brown-tone","full-frame","background","wallpaper","vertical","outdoors","no-people"]
+},
+{
+id:"26K060194",
+folder:"full02",
+title:"Urban Canal Flowing Through Residential Buildings and Green Trees Background",
+tags:["canal","river","waterway","urban-river","concrete-wall","moss","green-trees","foliage","building","apartment","condominium","residential-area","cityscape","urban","perspective","overcast","cloudy-day","scenery","ebisu","tokyo","japan","landscape","background","wallpaper","vertical","outdoors","no-people"]
+},
 
 
 
