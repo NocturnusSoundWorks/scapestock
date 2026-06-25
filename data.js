@@ -7914,6 +7914,11 @@ folder:"full02",
 title:"Ebisu Ginza Street Entrance Arch with Colorful Sphere Ornaments and Traffic Signs Background",
 tags:["arch","gate","signboard","ebisu-ginza","japanese-text","kanji","street-entrance","shopping-district","ornament","colorful-spheres","traffic-sign","speed-limit","pedestrian-zone","utility-pole","building","architecture","cityscape","urban","ebisu","tokyo","japan","overcast","cloudy-day","perspective","low-angle-view","outdoors","no-people"]
 },
-
+{
+id:"26K060196",
+folder:"full02",
+title:"Full Frame View of Traditional Japanese Reed Screen Sudare Texture Background",
+tags:["sudare","reed-screen","bamboo-blind","traditional","japanese-style","texture","pattern","full-frame","background","wallpaper","straw","reed","bamboo","blind","shade","summer","natural-material","vertical-lines","craftsmanship","neutral-tone","outdoors","no-people"]
+},
 
 ];
