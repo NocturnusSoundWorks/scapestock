@@ -7920,5 +7920,31 @@ folder:"full02",
 title:"Full Frame View of Traditional Japanese Reed Screen Sudare Texture Background",
 tags:["sudare","reed-screen","bamboo-blind","traditional","japanese-style","texture","pattern","full-frame","background","wallpaper","straw","reed","bamboo","blind","shade","summer","natural-material","vertical-lines","craftsmanship","neutral-tone","outdoors","no-people"]
 },
+{
+id:"26K060197",
+folder:"full02",
+title:"Close Up View of Wet Red and Green Photinia Leaves with Water Drops Background",
+tags:["leaf","leaves","photinia","red-leaf","green-leaf","water-drops","raindrops","wet-leaves","after-rain","rainy-day","nature","plant","botanical","shrub","hedge","fresh","vibrant","seasonal","close-up","texture","surface","background","wallpaper","vertical","outdoors","no-people"]
+},
+{
+id:"26K060198",
+folder:"full02",
+title:"Panoramic View of Rainbow Bridge and Tokyo Bay from Odaiba Background",
+tags:["rainbow-bridge","tokyo-bay","odaiba","bridge","sea","ocean","waterfront","coastline","beach","rocks","sky","cloud","cityscape","skyline","skyscraper","urban","landmark","scenery","landscape","odaiba","tokyo","japan","asia","background","wallpaper","vertical","outdoors","no-people"]
+},
+{
+id:"26K060199",
+folder:"full02",
+title:"Field of Vibrant Yellow and Orange Strawflowers Background",
+tags:["flower","strawflower","golden-everlasting","helichrysum","yellow-flower","orange-flower","blossom","petal","floral","buds","green-leaves","field","garden","nature","plant","botanical","fresh","vibrant","colorful","beautiful","background","wallpaper","vertical","outdoors","no-people"]
+},
+{
+id:"26K061201",
+folder:"full02",
+title:"Close Up View of White Annabelle Hydrangea Flowers Background",
+tags:["hydrangea","ajisai","annabelle","white-flower","blossom","petal","flower-head","cluster","dense","green-leaves","nature","plant","botanical","fresh","beautiful","seasonal","june","summer","close-up","background","wallpaper","vertical","outdoors","no-people"]
+},
+
+
 
 ];
