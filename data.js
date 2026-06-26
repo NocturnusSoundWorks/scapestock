@@ -7968,6 +7968,31 @@ folder:"full02",
 title:"Urban Sidewalk on a Bridge with Stone Pavement and Green Metal Fence Background",
 tags:["sidewalk","bridge","pavement","stone-path","fence","metal-fence","railing","street-lamp","ivy","creeper","building","architecture","cityscape","urban","perspective","scenery","landscape","sky","clouds","overcast","tokyo","japan","background","wallpaper","vertical","outdoors","no-people"]
 },
+{
+id:"26K061206",
+folder:"full02",
+title:"Urban Street Scene with Chuo City Office Building and Metal Guardrails Background",
+tags:["street","road","asphalt","bridge","guardrail","metal-fence","street-lamp","chuo-city-office","government-building","architecture","cityscape","urban","perspective","shrub","greenery","traffic-sign","sky","clouds","overcast","tokyo","japan","scenery","landscape","background","wallpaper","vertical","outdoors","no-people"]
+},
+{
+id:"26K061207",
+folder:"full02",
+title:"Urban Cityscape View from a Overpass with Street Lamps and Metal Railings Background",
+tags:["overpass","bridge","railing","fence","metal-fence","street-lamp","utility-pole","power-lines","building","office-building","skyscraper","architecture","cityscape","urban","tokyo","japan","sky","clouds","overcast","yellow-sign","japanese-text","perspective","scenery","landscape","background","wallpaper","vertical","outdoors","no-people"]
+},
+
+{
+id:"26K061208",
+folder:"full02",
+title:"Urban Sidewalk of Shintomi Bridge with Brick Pavement and Ivy Covered Fence Background",
+tags:["bridge","shintomi-bridge","sidewalk","pavement","brick-path","signboard","japanese-text","kanji","fence","railing","ivy","creeper","greenery","foliage","road","street","building","cityscape","urban","tokyo","japan","perspective","scenery","landscape","background","wallpaper","vertical","outdoors","no-people"]
+},
+{
+id:"26K061209",
+folder:"full02",
+title:"Traffic Regulation Sign Prohibiting Large Trucks Mounted on Utility Pole Background",
+tags:["road-sign","traffic-sign","regulation-sign","prohibition-sign","no-trucks","japanese-sign","auxiliary-sign","kanji","utility-pole","concrete-pole","building","office-building","tiled-wall","window","architecture","cityscape","urban","perspective","low-angle-view","overcast","cloudy-day","tokyo","japan","background","wallpaper","vertical","outdoors","no-people"]
+},
 
 
 ];
