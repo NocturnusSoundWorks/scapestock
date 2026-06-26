@@ -7993,6 +7993,13 @@ folder:"full02",
 title:"Traffic Regulation Sign Prohibiting Large Trucks Mounted on Utility Pole Background",
 tags:["road-sign","traffic-sign","regulation-sign","prohibition-sign","no-trucks","japanese-sign","auxiliary-sign","kanji","utility-pole","concrete-pole","building","office-building","tiled-wall","window","architecture","cityscape","urban","perspective","low-angle-view","overcast","cloudy-day","tokyo","japan","background","wallpaper","vertical","outdoors","no-people"]
 },
+{
+id:"26K061210",
+folder:"full02",
+title:"Full Frame View of Weathered Concrete Wall with Horizontal Grooves Texture Background",
+tags:["concrete","cement","wall","concrete-wall","weathered","aged","stained","dirty","grungy","rough","texture","surface","pattern","groove","horizontal-lines","grey","material","full-frame","background","wallpaper","vertical","outdoors","no-people"]
+},
+
 
 
 ];
