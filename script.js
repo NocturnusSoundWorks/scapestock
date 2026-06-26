@@ -326,6 +326,29 @@ photoContainer.appendChild(img)
 photoContainer.appendChild(licenseLabel) // ←追加
 photoContainer.appendChild(download)
 
+// タグ表示
+const tagContainer = document.getElementById("photo-tags")
+
+if(tagContainer){
+
+  const tags = photo.tags.slice(0,8)
+
+  tags.forEach(tag=>{
+
+    const tagBtn = document.createElement("a")
+
+    tagBtn.href = "index.html?tag=" + tag
+
+    tagBtn.className = "tag-button"
+
+    tagBtn.textContent = tag.replace(/-/g," ")
+
+    tagContainer.appendChild(tagBtn)
+
+  })
+
+}
+
 /* メッセージ追加 */
 const supportText = document.createElement("p")
 supportText.className = "support-text"
