@@ -8000,6 +8000,11 @@ title:"Full Frame View of Weathered Concrete Wall with Horizontal Grooves Textur
 tags:["concrete","cement","wall","concrete-wall","weathered","aged","stained","dirty","grungy","rough","texture","surface","pattern","groove","horizontal-lines","grey","material","full-frame","background","wallpaper","vertical","outdoors","no-people"]
 },
 
-
+{
+id:"26K061211",
+folder:"full02",
+title:"Full Frame View of White Painted Brick Wall Texture Background",
+tags:["brick","wall","brick-wall","white-brick","painted-brick","painted-wall","texture","surface","pattern","rough","uneven","stone","masonry","brickwork","architecture","building","material","grey","white","full-frame","background","wallpaper","vertical","outdoors","no-people"]
+},
 
 ];
