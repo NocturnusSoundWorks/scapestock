@@ -7956,6 +7956,18 @@ folder:"full02",
 title:"Field of Vibrant Red Impatiens Flowers Background",
 tags:["flower","impatiens","busy-lizzie","red-flower","blossom","petal","floral","green-leaves","field","garden","nature","plant","botanical","fresh","vibrant","colorful","beautiful","dense","full-frame","background","wallpaper","vertical","outdoors","no-people"]
 },
+{
+id:"26K061204",
+folder:"full02",
+title:"Close Up View of Vibrant Red Impatiens Flowers Background",
+tags:["flower","impatiens","busy-lizzie","red-flower","blossom","petal","floral","buds","green-leaves","field","garden","nature","plant","botanical","fresh","vibrant","colorful","beautiful","dense","close-up","background","wallpaper","vertical","outdoors","no-people"]
+},
+{
+id:"26K061205",
+folder:"full02",
+title:"Urban Sidewalk on a Bridge with Stone Pavement and Green Metal Fence Background",
+tags:["sidewalk","bridge","pavement","stone-path","fence","metal-fence","railing","street-lamp","ivy","creeper","building","architecture","cityscape","urban","perspective","scenery","landscape","sky","clouds","overcast","tokyo","japan","background","wallpaper","vertical","outdoors","no-people"]
+},
 
 
 ];
