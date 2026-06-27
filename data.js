@@ -8018,6 +8018,11 @@ folder:"full02",
 title:"Asphalt Pathway in a Lush Green Park with Trees and Benches Background",
 tags:["pathway","path","walkway","trail","asphalt","park","garden","green-trees","foliage","shrub","bush","bench","nature","scenery","landscape","perspective","vertical","outdoors","chiba","no-people","background","wallpaper"]
 },
-
+{
+id:"26K061214",
+folder:"full02",
+title:"Open Grass Field in a Park with Large Green Trees and Apartment Buildings Background",
+tags:["park","field","grass","lawn","clover","green-trees","foliage","building","apartment","condominium","residential-area","cityscape","urban","scenery","landscape","sky","clouds","overcast","cloudy-day","nature","horizontal","outdoors","no-people","background","wallpaper"]
+},
 
 ];
