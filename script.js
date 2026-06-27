@@ -331,7 +331,9 @@ const tagContainer = document.getElementById("photo-tags")
 
 if(tagContainer){
 
-  const tags = photo.tags.slice(0,8)
+  const tags = (photo.tags || []).slice(0,8)
+
+  tagContainer.innerHTML = "";
 
   tags.forEach(tag=>{
 
