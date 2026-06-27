@@ -8042,6 +8042,12 @@ folder:"full02",
 title:"Scenic Park Landscape with Stone Path and Large Green Trees Background",
 tags:["park","lawn","grass","field","stone-path","stepping-stones","pathway","green-trees","foliage","shrub","hedge","hill","nature","scenery","landscape","sky","clouds","overcast","cloudy-day","perspective","vertical","outdoors","no-people","background","wallpaper"]
 },
+{
+id:"26K061218",
+folder:"full02",
+title:"Modern High Rise Apartment Buildings Under Overcast Sky Background",
+tags:["building","skyscraper","apartment","condominium","tower","high-rise","architecture","cityscape","urban","residential-area","green-trees","foliage","sky","clouds","overcast","cloudy-day","scenery","landscape","horizontal","Makuhari","chiba","outdoors","no-people","background","wallpaper"]
+}
 
 
 
