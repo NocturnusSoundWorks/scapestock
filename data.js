@@ -8006,5 +8006,18 @@ folder:"full02",
 title:"Full Frame View of White Painted Brick Wall Texture Background",
 tags:["brick","wall","brick-wall","white-brick","painted-brick","painted-wall","texture","surface","pattern","rough","uneven","stone","masonry","brickwork","architecture","building","material","grey","white","full-frame","background","wallpaper","vertical","outdoors","no-people"]
 },
+{
+id:"26K061212",
+folder:"full02",
+title:"Close Up View of Wet Green Boxwood Leaves with Water Drops Background",
+tags:["leaf","leaves","boxwood","buxus","green-leaf","water-drops","raindrops","wet-leaves","after-rain","rainy-day","nature","plant","botanical","shrub","bush","hedge","fresh","vibrant","close-up","texture","surface","background","wallpaper","vertical","outdoors","no-people"]
+},
+{
+id:"26K061213",
+folder:"full02",
+title:"Asphalt Pathway in a Lush Green Park with Trees and Benches Background",
+tags:["pathway","path","walkway","trail","asphalt","park","garden","green-trees","foliage","shrub","bush","bench","nature","scenery","landscape","perspective","vertical","outdoors","chiba","no-people","background","wallpaper"]
+},
+
 
 ];
