@@ -8030,5 +8030,14 @@ folder:"full02",
 title:"Full Frame View of Field Filled with White Clover Flowers Background",
 tags:["field","meadow","grass","lawn","clover","white-clover","flower","blossom","petal","floral","green-leaves","foliage","nature","plant","botanical","fresh","vibrant","dense","full-frame","background","wallpaper","vertical","outdoors","no-people"]
 },
+{
+id:"26K061216",
+folder:"full02",
+title:"Scenic Park Landscape with Stone Path and Large Green Trees Background",
+tags:["park","lawn","grass","field","stone-path","stepping-stones","pathway","green-trees","foliage","shrub","hedge","hill","nature","scenery","landscape","sky","clouds","overcast","cloudy-day","perspective","horizontal","outdoors","no-people","background","wallpaper"]
+},
+
+
+
 
 ];
