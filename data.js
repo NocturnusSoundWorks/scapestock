@@ -8048,7 +8048,12 @@ folder:"full02",
 title:"Modern High Rise Apartment Buildings Under Overcast Sky Background",
 tags:["building","skyscraper","apartment","condominium","tower","high-rise","architecture","cityscape","urban","residential-area","green-trees","foliage","sky","clouds","overcast","cloudy-day","scenery","landscape","horizontal","Makuhari","chiba","outdoors","no-people","background","wallpaper"]
 }
-
+{
+id:"26K061219",
+folder:"full02",
+title:"Full Frame View of Rough Textured Grey Painted Wall Background",
+tags:["wall","painted-wall","texture","surface","pattern","rough","bumpy","uneven","stucco","plaster","cement","concrete","grey","gray","material","solid-color","abstract","full-frame","background","wallpaper","vertical","outdoors","no-people"]
+},
 
 
 ];
