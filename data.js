@@ -8054,6 +8054,11 @@ folder:"full02",
 title:"Full Frame View of Rough Textured Grey Painted Wall Background",
 tags:["wall","painted-wall","texture","surface","pattern","rough","bumpy","uneven","stucco","plaster","cement","concrete","grey","gray","material","solid-color","abstract","full-frame","background","wallpaper","vertical","outdoors","no-people"]
 },
-
+{
+id:"26K061220",
+folder:"full02",
+title:"Modern High Rise Office Buildings in Makuhari New City with Green Trees Background",
+tags:["building","office-building","skyscraper","tower","high-rise","architecture","modern-architecture","makuhari","chiba","japan","cityscape","urban","commercial-district","green-trees","foliage","plaza","sky","clouds","overcast","cloudy-day","scenery","landscape","perspective","horizontal","outdoors","no-people","background","wallpaper"]
+},
 
 ];
