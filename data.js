@@ -8060,5 +8060,18 @@ folder:"full02",
 title:"Modern High Rise Office Buildings in Makuhari New City with Green Trees Background",
 tags:["building","office-building","skyscraper","tower","high-rise","architecture","modern-architecture","makuhari","chiba","japan","cityscape","urban","commercial-district","green-trees","foliage","plaza","sky","clouds","overcast","cloudy-day","scenery","landscape","perspective","horizontal","outdoors","no-people","background","wallpaper"]
 },
+{
+id:"26K061221",
+folder:"full02",
+title:"Full Frame View of Plain Textured Beige Plaster Wall Background",
+tags:["wall","plaster-wall","cement","concrete","texture","surface","pattern","fine-texture","smooth","flat","plain","solid-color","beige","tan","light-brown","material","interior","exterior","abstract","full-frame","background","wallpaper","vertical","no-people"]
+},
+{
+id:"26K061222",
+folder:"full02",
+title:"Pedestrian Push Button for Visually Impaired Mounted on Utility Pole Background",
+tags:["pedestrian-button","push-button","traffic-signal-button","accessible","visually-impaired","japanese-text","kanji","utility-pole","concrete-pole","qr-code","asphalt","road","street","cityscape","urban","close-up","perspective","japan","background","wallpaper","vertical","outdoors","no-people"]
+},
+
 
 ];
