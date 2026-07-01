@@ -8073,5 +8073,25 @@ title:"Pedestrian Push Button for Visually Impaired Mounted on Utility Pole Back
 tags:["pedestrian-button","push-button","traffic-signal-button","accessible","visually-impaired","japanese-text","kanji","utility-pole","concrete-pole","qr-code","asphalt","road","street","cityscape","urban","close-up","perspective","japan","background","wallpaper","vertical","outdoors","no-people"]
 },
 
+{
+id:"26K061223",
+folder:"full02",
+title:"Scenic View of Ocean Waves Crashing on Sandy Beach Under Blue Sky Background",
+tags:["ocean","sea","wave","surf","foam","beach","sand","shoreline","coast","water","sparkle","sunlight","glare","sky","blue-sky","horizon","scenery","landscape","nature","vertical","outdoors","no-people","background","wallpaper"]
+},
+{
+id:"26K061224",
+folder:"full02",
+title:"Full Frame View of Vertical Brown Wood Planks Background",
+tags:["wood","plank","board","panel","wooden-wall","fence","siding","texture","surface","pattern","grain","wood-grain","natural-material","brown","reddish-brown","solid-color","abstract","full-frame","background","wallpaper","horizontal","no-people"]
+},
+{
+id:"26K061225",
+folder:"full02",
+title:"Bright Yellow Strawflowers Blooming in the Garden Background",
+tags:["strawflower","golden-everlasting","flower","blossom","petal","floral","yellow-flower","orange-center","green-leaves","foliage","plant","botanical","nature","garden","flowerbed","fresh","vibrant","colorful","blooming","summer","seasonal","vertical","outdoors","no-people","background","wallpaper"]
+},
+
+
 
 ];
