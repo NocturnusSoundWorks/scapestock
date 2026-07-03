@@ -42,7 +42,7 @@ function generateTitle(photo){
 
   // 手入力titleを最優先
   if(photo.title){
-    return `${photo.title} | ${photo.id} | Free Stock Photo`;
+    return `${photo.title} | Free Japan Stock Photo | ScapeStock`;
   }
 
   const tags = photo.tags || [];
@@ -287,7 +287,7 @@ document.title = title;
 // h1も変更（今は固定なので重要）
 const h1 = document.getElementById("page-title");
 if(h1){
-  h1.textContent = title;
+  h1.textContent = photo.title || "Photo";
 }
 
 // description表示
