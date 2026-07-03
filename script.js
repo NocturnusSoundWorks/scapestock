@@ -301,6 +301,13 @@ const meta = document.querySelector('meta[name="description"]');
 if(meta){
   meta.setAttribute("content", desc);
 }
+// canonical
+const canonical = document.getElementById("canonical");
+
+if(canonical){
+  canonical.href =
+    "https://www.scapestock.com/photo.html?id=" + photo.id;
+}
 
 // alt（SEO重要）
 img.alt = title;
