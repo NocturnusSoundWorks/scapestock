@@ -411,9 +411,15 @@ window.location.href="index.html?search="+word
 
 document.addEventListener("DOMContentLoaded",()=>{
 
-initGallery()
-loadPhotoPage()
-setupSearch()
+  if(document.getElementById("gallery")){
+    initGallery()
+  }
+
+  if(document.getElementById("photo-page")){
+    loadPhotoPage()
+  }
+
+  setupSearch()
 
 })
 
