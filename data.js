@@ -8097,6 +8097,13 @@ folder:"full02",
 title:"Field of Bright Yellow Strawflowers Blooming in the Garden Background",
 tags:["strawflower","golden-everlasting","flower","blossom","petal","floral","yellow-flower","orange-center","green-leaves","foliage","plant","botanical","nature","garden","flowerbed","field","abundance","dense","fresh","vibrant","colorful","blooming","summer","seasonal","vertical","outdoors","no-people","background","wallpaper"]
 },
+{
+id:"26K061227",
+folder:"full02",
+title:"Close Up View of Bright Yellow Strawflower Blooming with Green Buds Background",
+tags:["strawflower","golden-everlasting","flower","blossom","petal","floral","bud","yellow-flower","orange-center","green-leaves","foliage","plant","botanical","nature","garden","flowerbed","fresh","vibrant","colorful","blooming","close-up","summer","seasonal","vertical","outdoors","no-people","background","wallpaper"]
+},
+
 
 
 ];
