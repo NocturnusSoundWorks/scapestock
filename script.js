@@ -4,11 +4,10 @@
 function getLicense(photo) {
   if (photo.license) return photo.license;
 
+  const editorialTags = ["shrine", "temple"];
   const tags = photo.tags || [];
-  const editorial = ["shrine", "temple"];
 
-  if (tags.some(t => editorial.includes(t))) return "editorial";
-
+  if (tags.some(t => editorialTags.includes(t))) return "editorial";
   return "commercial";
 }
 
@@ -19,15 +18,12 @@ function generateDescription(photo) {
   if (photo.title) {
     return `${photo.title}. Free high-resolution stock photo from ScapeStock.`;
   }
-
-  const tags = (photo.tags || []).slice(0, 6).join(", ");
-  return `${tags}. Free high-resolution stock photo from ScapeStock.`;
+  return (photo.tags || []).slice(0, 6).join(", ") +
+    ". Free high-resolution stock photo from ScapeStock.";
 }
 
 function generateTitle(photo) {
-  if (photo.title) {
-    return `${photo.title} | ScapeStock`;
-  }
+  if (photo.title) return `${photo.title} | ScapeStock`;
   return `Photo ${photo.id} | ScapeStock`;
 }
 
@@ -51,6 +47,8 @@ function shuffle(arr) {
 // GLOBAL
 // ==========================
 const PER_PAGE = 40;
+const MAX_LOAD = 200;
+
 let page = 1;
 let list = [];
 let loading = false;
@@ -62,11 +60,30 @@ function initGallery() {
   const el = document.getElementById("gallery");
   if (!el) return;
 
+  const params = new URLSearchParams(location.search);
+  const tag = params.get("tag");
+  const search = params.get("search");
+
   list = shuffle(PHOTOS);
+
+  if (tag) list = list.filter(p => (p.tags || []).includes(tag));
+
+  if (search) {
+    const words = search.toLowerCase().split(" ").filter(Boolean);
+    list = list.filter(p =>
+      words.every(w =>
+        (p.tags || []).map(t => t.toLowerCase()).includes(w)
+      )
+    );
+  }
+
   loadMore();
-  createBtn();
+  createLoadMoreButton();
 }
 
+// ==========================
+// LOAD MORE
+// ==========================
 function loadMore() {
   const el = document.getElementById("gallery");
   if (!el) return;
@@ -76,6 +93,7 @@ function loadMore() {
   slice.forEach(p => {
     const a = document.createElement("a");
     a.href = `photo.html?id=${p.id}`;
+    a.className = "photo-card";
 
     const img = document.createElement("img");
     const folder = p.folder ? p.folder.replace("full", "thu") : "thu01";
@@ -84,8 +102,8 @@ function loadMore() {
     img.loading = "lazy";
 
     const lic = document.createElement("p");
-    lic.textContent = getLicense(p);
     lic.className = "license";
+    lic.textContent = getLicense(p);
 
     a.appendChild(img);
     a.appendChild(lic);
@@ -96,13 +114,14 @@ function loadMore() {
 }
 
 // ==========================
-// BUTTON
+// LOAD MORE BUTTON
 // ==========================
-function createBtn() {
+function createLoadMoreButton() {
   const btn = document.createElement("div");
   btn.textContent = "Load More";
   btn.style.textAlign = "center";
   btn.style.cursor = "pointer";
+  btn.style.margin = "40px 0";
 
   btn.onclick = () => {
     if (loading) return;
@@ -130,19 +149,20 @@ function loadPhotoPage() {
   img.alt = generateTitle(photo);
 
   const lic = document.createElement("p");
-  lic.textContent = getLicense(photo);
   lic.className = "license";
+  lic.textContent = getLicense(photo);
 
   const dl = document.createElement("a");
   dl.href = img.src;
   dl.download = photo.id;
   dl.textContent = "Download";
+  dl.className = "download-btn";
 
   box.appendChild(img);
   box.appendChild(lic);
   box.appendChild(dl);
 
-  // TAGS（確実に最後に実行）
+  // TAGS
   const tagBox = document.getElementById("photo-tags");
   if (tagBox) {
     tagBox.innerHTML = "";
@@ -150,11 +170,21 @@ function loadPhotoPage() {
       const a = document.createElement("a");
       a.href = `index.html?tag=${t}`;
       a.textContent = t.replace(/-/g, " ");
+      a.className = "tag-button";
       tagBox.appendChild(a);
     });
   }
 
+  // SEO
   document.title = generateTitle(photo);
+
+  const meta = document.querySelector('meta[name="description"]');
+  if (meta) meta.setAttribute("content", generateDescription(photo));
+
+  const canonical = document.getElementById("canonical");
+  if (canonical) {
+    canonical.href = `https://www.scapestock.net/photo.html?id=${photo.id}`;
+  }
 }
 
 // ==========================
@@ -172,6 +202,26 @@ function setupSearch() {
 }
 
 // ==========================
+// GRID
+// ==========================
+function resizeGrid() {
+  const grid = document.querySelector(".gallery");
+  if (!grid) return;
+
+  const row = parseInt(getComputedStyle(grid).gridAutoRows);
+  const gap = parseInt(getComputedStyle(grid).gap);
+
+  grid.querySelectorAll("a").forEach(a => {
+    const img = a.querySelector("img");
+    if (!img) return;
+
+    const h = img.getBoundingClientRect().height;
+    const span = Math.ceil((h + gap) / (row + gap));
+    a.style.gridRowEnd = `span ${span}`;
+  });
+}
+
+// ==========================
 // START
 // ==========================
 document.addEventListener("DOMContentLoaded", () => {
@@ -179,3 +229,6 @@ document.addEventListener("DOMContentLoaded", () => {
   if (document.getElementById("photo-page")) loadPhotoPage();
   setupSearch();
 });
+
+window.addEventListener("load", resizeGrid);
+window.addEventListener("resize", resizeGrid);
