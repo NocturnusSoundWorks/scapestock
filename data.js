@@ -8109,6 +8109,18 @@ folder:"full02",
 title:"Close Up View of Pink Strawflower Bud Ready to Bloom Background",
 tags:["strawflower","golden-everlasting","flower","blossom","petal","floral","bud","pink-flower","pointed-petals","green-leaves","foliage","plant","botanical","nature","garden","flowerbed","fresh","vibrant","colorful","blooming","close-up","texture","detail","summer","seasonal","vertical","outdoors","no-people","background","wallpaper"]
 },
+{
+id:"26K061229",
+folder:"full02",
+title:"Top Down View of Yellow Strawflowers Blooming in the Garden Background",
+tags:["strawflower","golden-everlasting","flower","blossom","petal","floral","yellow-flower","orange-center","green-leaves","foliage","plant","botanical","nature","garden","flowerbed","top-down-view","overhead","high-angle-shot","fresh","vibrant","colorful","blooming","summer","seasonal","vertical","outdoors","no-people","background","wallpaper"]
+},
+{
+id:"26K061230",
+folder:"full02",
+title:"Full Frame View of Fresh Green Conifer Leaves with Water Drops Background",
+tags:["leaf","needle-leaves","conifer","juniper","pine","evergreen","plant","botanical","green","light-green","nature","fresh","dew","water-drops","raindrops","wet","rainy-season","texture","pattern","full-frame","dense","outdoors","no-people","background","wallpaper","vertical"]
+},
 
 
 
