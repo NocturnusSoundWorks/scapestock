@@ -8151,6 +8151,12 @@ folder:"full02",
 title:"Full Frame View of Brown Brick Wall with White Grout Background",
 tags:["brick","brick-wall","grout","mortar","stone","masonry","construction","architecture","building-material","pattern","texture","surface","block","row","horizontal-lines","brown","dark-brown","earthy-tones","full-frame","vintage","rustic","solid","background","wallpaper","no-people"]
 },
+{
+id:"26K061237",
+folder:"full02",
+title:"Urban Cityscape with Tall Office Buildings and Street Lamp Background",
+tags:["building","skyscraper","architecture","office-building","apartment","condominium","urban","city","cityscape","tokyo","japan","street-lamp","overpass","bridge","fence","handrail","railway","wire","power-lines","sky","cloudy-sky","daytime","scenery","landscape","outdoors","background","wallpaper","vertical"]
+},
 
 
 
