@@ -8133,6 +8133,24 @@ folder:"full02",
 title:"Full Frame View of Colorful Broken Ceramic Tile Mosaic Wall Background",
 tags:["mosaic","tile","ceramic","ceramic-tile","broken-tiles","shards","tesserae","pattern","texture","surface","abstract","full-frame","beige","white","yellow","blue","pink","pastel-colors","stone","craft","art","vintage","retro","design","background","wallpaper","vertical","no-people"]
 },
+{
+id:"26K061233",
+folder:"full02",
+title:"Modern Office Buildings and Green Trees in the City Background",
+tags:["building","skyscraper","architecture","office-building","window","glass","facade","urban","city","cityscape","street","park","tree","green-trees","lush","foliage","scenery","landscape","daytime","cloudy-sky","horizontal","makuhari","chiba","Japan","outdoors","no-people","background","wallpaper"]
+},
+{
+id:"26K061234",
+folder:"full02",
+title:"Modern Twin Office Buildings Viewed from Pedestrian Overpass Stairs Background",
+tags:["building","skyscraper","twin-towers","architecture","office-building","window","glass","facade","urban","city","cityscape","stairs","staircase","handrail","overpass","pedestrian-bridge","tree","green-trees","cloudy-sky","scenery","landscape","daytime","outdoors","makuhari","chiba","Japan","no-people","background","wallpaper","horizontal"]
+},
+{
+id:"26K061235",
+folder:"full02",
+title:"Full Frame View of Brown Brick Wall with White Grout Background",
+tags:["brick","brick-wall","grout","mortar","stone","masonry","construction","architecture","building-material","pattern","texture","surface","block","row","horizontal-lines","brown","dark-brown","earthy-tones","full-frame","vintage","rustic","solid","background","wallpaper","no-people"]
+},
 
 
 
