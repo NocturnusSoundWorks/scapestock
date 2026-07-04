@@ -8127,6 +8127,12 @@ folder:"full02",
 title:"Full Frame View of Vibrant Red Impatiens Flowers with Green Leaves Background",
 tags:["impatiens","flower","blossom","petal","floral","red-flower","orange-red","green-leaves","foliage","plant","botanical","nature","garden","flowerbed","fresh","vibrant","colorful","blooming","dense","full-frame","summer","seasonal","vertical","outdoors","no-people","background","wallpaper"]
 },
+{
+id:"26K061232",
+folder:"full02",
+title:"Full Frame View of Colorful Broken Ceramic Tile Mosaic Wall Background",
+tags:["mosaic","tile","ceramic","ceramic-tile","broken-tiles","shards","tesserae","pattern","texture","surface","abstract","full-frame","beige","white","yellow","blue","pink","pastel-colors","stone","craft","art","vintage","retro","design","background","wallpaper","vertical","no-people"]
+},
 
 
 
