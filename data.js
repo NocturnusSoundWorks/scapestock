@@ -8121,6 +8121,12 @@ folder:"full02",
 title:"Full Frame View of Fresh Green Conifer Leaves with Water Drops Background",
 tags:["leaf","needle-leaves","conifer","juniper","pine","evergreen","plant","botanical","green","light-green","nature","fresh","dew","water-drops","raindrops","wet","rainy-season","texture","pattern","full-frame","dense","outdoors","no-people","background","wallpaper","vertical"]
 },
+{
+id:"26K061231",
+folder:"full02",
+title:"Full Frame View of Vibrant Red Impatiens Flowers with Green Leaves Background",
+tags:["impatiens","flower","blossom","petal","floral","red-flower","orange-red","green-leaves","foliage","plant","botanical","nature","garden","flowerbed","fresh","vibrant","colorful","blooming","dense","full-frame","summer","seasonal","vertical","outdoors","no-people","background","wallpaper"]
+},
 
 
 
