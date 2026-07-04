@@ -8157,7 +8157,12 @@ folder:"full02",
 title:"Urban Cityscape with Tall Office Buildings and Street Lamp Background",
 tags:["building","skyscraper","architecture","office-building","apartment","condominium","urban","city","cityscape","tokyo","japan","street-lamp","overpass","bridge","fence","handrail","railway","wire","power-lines","sky","cloudy-sky","daytime","scenery","landscape","outdoors","background","wallpaper","vertical"]
 },
-
+{
+id:"26K061238",
+folder:"full02",
+title:"Narrow Back Alley Street Surrounded by Buildings in Tokyo Background",
+tags:["alley","back-alley","street","road","asphalt","lane","narrow-street","urban","city","cityscape","tokyo","japan","building","architecture","facade","wall","perspective","dim","quiet","gloomy","daytime","outdoors","no-people","background","wallpaper","vertical"]
+},
 
 
 ];
